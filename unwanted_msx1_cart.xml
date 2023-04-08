@@ -5,7 +5,7 @@ license:CC0-1.0
 -->
 <softwarelist name="unwanted_msx1_cart" description="MSX1 cartridges - hacks, cracks, conversions, etc">
 
-<!-- These should be moved to the main software list eventually but they are currently too new. -->
+	<!-- These should be moved to the main software list eventually but they are currently too new. -->
 
 	<software name="zorrico">
  		<description>ZorricoEX (English)</description>
@@ -42,6 +42,127 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<!-- To investigate / sort -->
+
+	<!-- Does not work, keeps rebooting -->
+	<software name="washman" supported="no">
+		<description>WashMan (v2.8)</description>
+		<year>2022</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="GAMECAST Entertainment"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="konami_scc" />
+			<dataarea name="rom" size="0x10000">
+				<rom name="washman v2.8 - gamecast entertainment (2022).rom" size="0x10000" crc="5c57f2bc" sha1="259807d6f616e3927c219724575022de760f5206"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="washman15" cloneof="washman" supported="no">
+		<description>WashMan (v1.5)</description>
+		<year>2022</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="GAMECAST Entertainment"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="konami_scc" />
+			<dataarea name="rom" size="0x10000">
+				<rom name="washman v1.5 - gamecast entertainment (2022).rom" size="0x10000" crc="3ba49b63" sha1="c363d1f966ea205e7a6deb4e114d05f99f49a143"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="washman13" cloneof="washman" supported="no">
+		<description>WashMan (v1.3)</description>
+		<year>2022</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="GAMECAST Entertainment"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="konami_scc" />
+			<dataarea name="rom" size="0x10000">
+				<rom name="washman v1.3 - gamecast entertainment (2022).rom" size="0x10000" crc="8b60ee9c" sha1="7be5d8f73919f6b32a42a0c96f00769cbd4930d6"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="washman12" cloneof="washman" supported="no">
+		<description>WashMan (v1.2)</description>
+		<year>2022</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="GAMECAST Entertainment"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="konami_scc" />
+			<dataarea name="rom" size="0x10000">
+				<rom name="washman v1.2 - gamecast entertainment (2022).rom" size="0x10000" crc="5dde45ea" sha1="64ad47bb3350b8d690eef53413000e19d1094f95"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="washman11" cloneof="washman" supported="no">
+		<description>WashMan (v1.1)</description>
+		<year>2022</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="GAMECAST Entertainment"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="konami_scc" />
+			<dataarea name="rom" size="0x10000">
+				<rom name="washman v1.1 - gamecast entertainment (2022).rom" size="0x10000" crc="34959c25" sha1="e930f78b6026267f436f56e453bd2a4e156224e9"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="washman10" cloneof="washman" supported="no">
+		<description>WashMan (v1.0)</description>
+		<year>2022</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="GAMECAST Entertainment"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="konami_scc" />
+			<dataarea name="rom" size="0x10000">
+				<rom name="washman v1.0 - gamecast entertainment (2022).rom" size="0x10000" crc="017211fb" sha1="4b48e529e0432978f7ff24d768b77d87ef691938"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="waves12d">
+ 		<description>Waves (v1.2 demo)</description>
+ 		<year>2006</year>
+ 		<publisher>Dvik</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<feature name="start_page" value="0"/>
+ 			<dataarea name="rom" size="0x80000">
+ 				<rom name="Waves - DVIK &amp; Joyrex productions (2005) [Version 1.2 Demo] [original] [2466].rom" size="0x80000" crc="647d55a9" sha1="badcb43e490e3713bf291e83cff204e1c57ecdfe" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="waves13d">
+ 		<description>Waves (v1.3 demo)</description>
+ 		<year>2006</year>
+ 		<publisher>Dvik</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<feature name="start_page" value="0"/>
+ 			<dataarea name="rom" size="0x80000">
+ 				<rom name="Waves - DVIK &amp; Joyrex productions (2005) [Version 1.3 Demo] [original] [2463].rom" size="0x80000" crc="f8cb390b" sha1="f50d0c66b08c47b59925952276243e2008668185" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<!-- The rest of the list -->
+	<!-- This does nothing besides displaying an opening screen. -->
+	<software name="xphere">
+		<description>Xphere (unfinished)</description>
+		<year>2007</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Karoshi Corporation"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="1"/>
+			<dataarea name="rom" size="0x8000">
+				<rom name="xphere - karoshi corporation (2007) [unfinished game].rom" size="0x8000" crc="4801be33" sha1="810ea313fffaefacde167c0c75e82494245d29dc" />
+			</dataarea>
+		</part>
+	</software>
+
 
 <!-- The rest of the list -->
 
@@ -889,6 +1010,52 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<!-- Extracted from Clube MSX - Gold Disk #3 -->
+	<software name="1b9b2571">
+		<description>War from Beyond (flop2cart conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="War From Beyond - Clube MSX (2020).ROM" size="0x4000" crc="1b9b2571" sha1="a9f28c7052657ef2c254536edcdaa6c489118b86" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Never released as cartridge, demo game for Pattern Editor 'Robin' -->
+	<software name="f1dd0c1c">
+		<description>War Head (flop2cart conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="War Head - Pony Canyon (1985).rom" size="0x4000" crc="f1dd0c1c" sha1="e834040310ce3fe6cfa9c7347f9c3672939cfe1a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="785fc789">
+		<description>Warp &amp; Warp (SCC hack)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Warp &amp; Warp - NAMCO (1984) [GDX SCC Version] [3267].rom" size="0x4000" crc="785fc789" sha1="c338405946f83c15307b888046c88651bc56005a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5e169d35">
+		<description>Warp &amp; Warp (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Warp &amp; Warp - NAMCO (1984) [o] [2456].rom" size="0x4000" crc="5e169d35" sha1="b9d2e0b6bb7f2b027c9beb0c762d127efcfff127" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- Has leftover code at offset 7fe0 to start the software from a cartridge to file conversion -->
 	<software name="e621ebc9">
  		<description>Warroid (Japan, hacked cart2file2cart)</description>
@@ -905,6 +1072,306 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="ab825e69">
+		<description>Water Driver (cas2cart conversion?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Warroid - Yellow Horn (1985) [3006].rom" size="0x4000" crc="ab825e69" sha1="c6ca552ebadbbfd76ef6b2990bf3365b4c18cc82" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21169cb3">
+		<description>WEC Le Mans (cas2cart conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="WEC Le Mans - Konami (1988) [4293].rom" size="0x10000" crc="21169cb3" sha1="e1660872b0113e4bea2ff3f6e9258c4222867afa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="27d89396">
+		<description>Wells &amp; Fargo (cas2cart conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Wells Fargo - Topo Soft (1988) [5293].rom" size="0x10000" crc="27d89396" sha1="0403d9e3ba6c23bedc6f3e602502ec68343c691d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9f067afe">
+		<description>Wells &amp; Fargo (cas2cart conversion, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Wells Fargo - Topo Soft (1988) [4955].rom" size="0x10000" crc="9f067afe" sha1="60e71632591f1dc349e59c2679484384a4bacf69" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fb3ff6ed">
+		<description>West Bank (cart conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="West Bank - Dinamic (1989) [5422].rom" size="0x20000" crc="fb3ff6ed" sha1="84476a552406a2960b77fa13d12f97fd65dcc6f4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9345e05e">
+		<description>West Bank (cart conversion, translated)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="West Bank - Dinamic (1989) [English Translation by BiFi and Vampier] [Translated] [5428].rom" size="0x20000" crc="9345e05e" sha1="48ac9a1f0c4e45f637b0e3874c500501ced2dbaf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b1658418">
+		<description>Who Dares Wins 2 (cas2cart conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Who Dares Wins 2 - Alligata (1986) [2469].rom" size="0x8000" crc="b1658418" sha1="25a51cd9367c4614291013b8a816fa5e8a2a564c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="571638db">
+		<description>Who Dares Wins 2 (cas2cart conversion, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Who Dares Wins 2 - Alligata (1986) [a2] [5555].rom" size="0x4000" crc="571638db" sha1="88be357bc9d39024dfae20a11a9bbc4b9a6941da" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6250b6cb">
+		<description>Who Dares Wins 2 (cas2cart conversion, hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Who Dares Wins 2 - Alligata (1986) [a] [5554].rom" size="0x4000" crc="6250b6cb" sha1="009ad00a92d679166ae4ab72c757a0ee005070ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="79a882e5">
+		<description>Whopper Chase (cas2cart conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Whopper Chase - Erbe Software (1987) [4924].rom" size="0x8000" crc="79a882e5" sha1="38ee8385d7d3570f0a4b149a84f863b218b47d26" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="529ae4b0">
+		<description>Wild Cat (cas2cart conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Wild Cat - Colpax (1984)[Converted from Tape - Lars18th].rom" size="0x4000" crc="529ae4b0" sha1="5a86d5466838cc33cef90503ddb8b57afc277834" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="258609d4">
+		<description>Wing Warriors (2020, SCC, not working?)</description>
+		<year>2020</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Kitmaker"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="konami_scc" />
+			<dataarea name="rom" size="0x20000">
+				<rom name="wing warriors - kitmaker entertainment inc (2020).rom" size="0x20000" crc="258609d4" sha1="0fcbfed932e02277932f03610784151d93b13777"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b7345c07">
+		<description>Winterhawk (cart conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Winterhawk - Eurosoft (1988) [4973].rom" size="0x10000" crc="b7345c07" sha1="67865a6f3a52b57f4cceb7d3ce6f07a1a09f86c5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="50415429">
+		<description>Wired Shooting (fixed, original does not work on MSX1)</description>
+ 		<year>2016</year>
+ 		<publisher>Cobinee</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Wired Shooting - Cobinee (2016)[Fixed].rom" size="0x8000" crc="50415429" sha1="b718dc158b347b586cd72071942cd19ea363dde1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- one FF byte changed to 80 -->
+	<software name="f3e3262f">
+		<description>Senjou no Ookami (bad/damaged dump?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Wolf of the Battlefield - Commando - Capcom (1985) [3432].rom" size="0x20000" crc="f3e3262f" sha1="ffeda3b3cd9ff1ebbfb28a7d02373e4af6468793" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8707990e">
+		<description>Woody Poco (msx2, hacked protection?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Won-Si-In - Zemina (1991) [3189].rom" size="0x20000" crc="8707990e" sha1="c7035f1e915d29eb6e3e44456570911881430d89" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="160703d9">
+		<description>World Cup Italia '90 (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="World Cup Italia '90 - Mastertronic (1989) [Slotman Hack] [4372].rom" size="0x10000" crc="160703d9" sha1="6bedcf099652742a459438a6d267d465f1c1367c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5e839ae0">
+		<description>Xenon (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Xenon - Melbourne House (1988) [Conversion Animagic] [original] [3440].rom" size="0x80000" crc="5e839ae0" sha1="710b6b047b640993d0241ece73b27dd07344ba2d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cf37c2a4">
+		<description>Yab-Yum (Intro hack)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Yab-Yum - Tom Gerritsen (1985) [Into Hack] [4034].rom" size="0x8000" crc="cf37c2a4" sha1="beb4d8ed31b2e827a08a168249e19a2fed3382c1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="56e8971e">
+		<description>Yie Ar Kung-Fu (Japan, hacked 2 player opcode 2005)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Yie Ar Kung-Fu - Konami (1985) [RC-725] [2508].rom" size="0x8000" crc="56e8971e" sha1="a68733d22706aa04d261147d67f2a0a9c17c386f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fa0161f5">
+		<description>Yie Ar Kung-Fu (Japan, hacked copyright removed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Yie Ar Kung-Fu - Konami (1985) [RC-725] [6416].rom" size="0x8000" crc="fa0161f5" sha1="478c14d3e84a85af14306debc76c31c3a5f51421" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9d52f630">
+		<description>Yie Ar Kung-Fu (Japan, hacked megarom/ram)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Yie Ar Kung-Fu - Konami (1985) [RC-725] [2509].rom" size="0x20000" crc="9d52f630" sha1="d0018f192ca6a1b78fed9acef58db389848add3e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="859b76ef">
+		<description>Yie Ar Kung-Fu (Japan, hacked megarom/ram, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Yie Ar Kung-Fu - Konami (1985) [RC-725] [2510].rom" size="0x20000" crc="859b76ef" sha1="65e427d3282fb47192e4a0f4a09245cfe1b00834" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eaa60a76">
+		<description>Yie Ar Kung-Fu (Japan, hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="40960">
+				<rom name="Yie Ar Kung-Fu - Konami (1985) [SCC Enhanced] [RC-725] [5148].rom" size="40960" crc="eaa60a76" sha1="8c192c1e2298bc76405c2c7f7dfa1422cf0c0c36" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3d72729b">
+		<description>Yie Ar Kung-Fu (Japan, hacked SCC, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Yie Ar Kung-Fu - Konami (1985) [SCC Enhanced] [RC-725] [5509].rom" size="0x10000" crc="3d72729b" sha1="7b67efeddd7e091b201afbff9f9601e326e5c81d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e36710ce">
+		<description>Yie Ar Kung-Fu (Japan, hacked SCC, alt 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="40960">
+				<rom name="Yie Ar Kung-Fu - Konami (1985) [SCC] [RC-725] [2504].rom" size="40960" crc="e36710ce" sha1="003d58988d120823c84f6617326f5df83c7e5131" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e7912e40">
+		<description>Yie Ar Kung-Fu (Japan, cracked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Yie Ar Kung-Fu - Konami (1985) [Ulver crack] [RC-725] [2503].rom" size="0x4000" crc="e7912e40" sha1="4ac9fc27a4a7b87e2c2347f5a420a6e846555263" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="70e679c3">
  		<description>Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan, hacked protection)</description>
  		<year>1985</year>
@@ -918,6 +1385,116 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="ee91253b">
+		<description>Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan, hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Yie Ar Kung-Fu II - The Emperor Yie-Gah - Konami (1985) [SCC Enhanced] [RC-737] [2521].rom" size="0x8000" crc="ee91253b" sha1="b0e20c6e5eb91aeaa7fc354eb0a054f480e5197e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4bcc7496">
+		<description>Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan, hacked SCC, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Yie Ar Kung-Fu II - The Emperor Yie-Gah - Konami (1985) [SCC Game Collection] [RC-737] [3411].rom" size="0x8000" crc="4bcc7496" sha1="634e12492e083edc378f5857fd25ef921ada26d1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4cf4d4cf">
+		<description>Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan, hacked SCC, alt 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Yie Ar Kung-Fu II - The Emperor Yie-Gah - Konami (1985) [SCC] [RC-737] [2516].rom" size="0x8000" crc="4cf4d4cf" sha1="181c62bf30a66ca3c74b4165c230fb44674bdb5d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8a6d8561">
+		<description>Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan, hacked SCC, alt 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Yie Ar Kung-Fu II - The Emperor Yie-Gah - Konami (1985) [SCC] [RC-737] [5465].rom" size="0x8000" crc="8a6d8561" sha1="c7aafb669982c72ae2a6b44547cb61a637e30127" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b388e63a">
+		<description>Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan, trained)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Yie Ar Kung-Fu II - The Emperor Yie-Gah - Konami (1985) [t] [RC-737] [2514].rom" size="0x8000" crc="b388e63a" sha1="78d3dc3e48724c1f570d1ee1671100cdd539ad2b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8f1fdfbb">
+		<description>Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan, cracked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Yie Ar Kung-Fu II - The Emperor Yie-Gah - Konami (1985) [Ulver crack] [RC-737] [2515].rom" size="0x8000" crc="8f1fdfbb" sha1="d65f0010dacbd2528eaa25467ef007a87f17ae7a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2239eaf2">
+		<description>Youkai Yashiki (gfx patch, english)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Youkai Yashiki - Ghost House - Casio (1986) (Graphics patch (Yazioh &amp; Nestruo, 2021-07-08)[en].rom" size="0x8000" crc="2239eaf2" sha1="5082c27b9c1a378c40a304468a1bb16c858169b2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1f1e5b01">
+		<description>Youkai Yashiki (gfx patch, japanese)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Youkai Yashiki - Ghost House - Casio (1986) (Graphics patch (Yazioh &amp; Nestruo, 2021-07-08))[ja].rom" size="0x8000" crc="1f1e5b01" sha1="c637da3c02d92a0f748ac27405382236bff709cc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6e4ca2db">
+		<description>Youkai Yashiki (hacked?, several gfx issues)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Youkai Yashiki - Ghost House - Casio (1986) [4169].rom" size="0x8000" crc="6e4ca2db" sha1="7e5206879cfcd7e714861cd06c22e7f1daf69a70" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bdd5b2df">
+		<description>Young Sherlock - The Legacy Of Doyle (mapper hack)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Young Sherlock - The Legacy Of Doyle - Pack-In-Video (1985) [2531].rom" size="0x20000" crc="bdd5b2df" sha1="b6a5552effcee708b665fa74e5ce7b0fa2541c03" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="75611f6c">
 		<description>Zakil Wood (cas2crt conversion)</description>
