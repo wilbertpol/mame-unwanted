@@ -7,6 +7,47 @@ license:CC0-1.0
 
 	<!-- These should be moved to the main software list eventually but they are currently too new. -->
 
+	<!-- Unsure if it is still being actively sold, these is no website. -->
+	<software name="venganza">
+ 		<description>Venganza - La Sierva de la Muerte</description>
+ 		<year>2019</year>
+ 		<publisher>Physical Dreams</publisher>
+ 		<part name="cart" interface="msx_cart">
+			<!-- Mapper? -->
+ 			<dataarea name="rom" size="0x200000">
+ 				<rom name="venganza - la sierva de la muerte - physical dreams (2019).rom" size="0x200000" crc="bea65bd5" sha1="9318a6883da38992ceff739450569f347ecdf13e" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<!-- Unknown where this comes from. Is it homebrew? Is it (still) being sold? -->
+	<software name="verbix">
+		<description>Verbix</description>
+		<year>2022</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Fabrizio Caruso"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="1"/>
+			<dataarea name="rom" size="0x4000">
+				<rom name="verbix - fabrizio caruso (2022).rom" size="0x4000" crc="707b5065" sha1="9b5f1555d62eceabb9387fb82fa72d5efc4e7477"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Still being sold at under4mhz.com -->
+	<software name="vexed">
+		<description>Vexed</description>
+		<year>2020</year>
+		<publisher>Under4Mhz</publisher>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="1"/>
+			<dataarea name="rom" size="0x8000">
+				<rom name="vexed - under4Mhz (2020).rom" size="0x8000" crc="1ae7d805" sha1="0b3cd906ff0cffd1d3edb6997abcb72bb305fcfa"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Too new at the moment. Unsure if it is still being actively sold, these is no website. -->
 	<software name="zorrico">
  		<description>ZorricoEX (English)</description>
  		<year>2020</year>
@@ -19,6 +60,7 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<!-- Too new at the moment. Unsure if it is still being actively sold, these is no website. -->
 	<software name="zorricos" cloneof="zorrico">
  		<description>ZorricoEX (Spanish)</description>
  		<year>2020</year>
@@ -31,6 +73,7 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<!-- Too new at the moment. Unsure if it is still being actively sold, these is no website. -->
 	<software name="zorricoi" cloneof="zorrico">
  		<description>ZorricoEX (Italian)</description>
  		<year>2020</year>
@@ -965,6 +1008,237 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="34a8b8d3">
+		<description>Time Trax (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Time Trax - Bug-Byte Software (1986) [4434].rom" size="0x10000" crc="34a8b8d3" sha1="46badbb409ebc9eced6ec5018f183efb5aa3cf2b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9cae2045">
+		<description>Time Trax (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Time Trax - Bug-Byte Software (1986) [5594].rom" size="0x10000" crc="9cae2045" sha1="87e2028c87e620c3d25d5d6edcaebd93491238cb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d5351eee">
+		<description>Tom &amp; Jerry (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Tom &amp; Jerry - Magic Bytes (1989) [4862].rom" size="0x10000" crc="d5351eee" sha1="b97180a4b6ebf2637c1675360ff06ee7f4a1eec8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="704ec575">
+		<description>Toobin (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Toobin - Domark (1989) [No Turbo-R] [2362].rom" size="0x10000" crc="704ec575" sha1="d147f2cac0600527ce49bfffc865c54eb783e5e5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="13d0b97c">
+		<description>Tournament Snooker (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tournament Snooker - HARD Software (1985) [4926].rom" size="0x8000" crc="13d0b97c" sha1="385b73af521eb50f7ac9ddae18f0cd2bf24d3a40" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1db3270b">
+		<description>Tower of Druaga (hacked Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tower of Druaga - NAMCO (1986) [ProSoft Hack] [4166].rom" size="0x8000" crc="1db3270b" sha1="a0a6850382075eb7e4cc667972e056f890df5a7e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9360ed7a">
+		<description>Tower of Druaga (hacked Prosoft 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tower of Druaga - NAMCO (1986) [ProSoft Hack] [4167].rom" size="0x8000" crc="9360ed7a" sha1="f12be8f8bc24dffd60f77d77dde85f5cc0efa7ae" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0ef0d4c3">
+		<description>Trantor - The Last Stormtrooper (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Trantor - The last Stormtrooper - Probe Software (1987) [Try another MSX model if graphics are corrupt] [2963].rom" size="0x10000" crc="0ef0d4c3" sha1="1073939d174719edbe8a25b8908c8bf394f35cab" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7b90566d">
+		<description>Trick Boy Pinball (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Trick Boy Pinball - T&amp;ESOFT (1984) [a] [5580].rom" size="0x4000" crc="7b90566d" sha1="32eb2372c21c6a60627bc1e01fbb58bbe5da72ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3590845b">
+		<description>Triple Comando (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Triple Comando - Xortrapa Soft (1988) [6087].rom" size="0x20000" crc="3590845b" sha1="6b62d102243e5768454538e115c01912744e4ba0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0c6a40d4">
+		<description>TT Racer (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="TT Racer - Methodic Solutions (1987) [Cas to ROM Conversion] [4241].rom" size="0x10000" crc="0c6a40d4" sha1="1b1158b72c4e3a233f8a07bba705f60cbb0ad9d4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="64153f46">
+		<description>Tuareg (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Tuareg - Topo Soft (1988) [6094].rom" size="0x10000" crc="64153f46" sha1="e3cbbdd0b872ee1c14f44c646d72f07d59654783" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7747cf99">
+		<description>Turbo Girl (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Turbo Girl - Dinamic (1988) [Cas to ROM Conversion] [4240].rom" size="0x10000" crc="7747cf99" sha1="0b5f1d8ec7b33285b0267b336482d66278fca2e2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c4f2f6be">
+		<description>Turbo Girl (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Turbo Girl - Dinamic (1988) [ROM version by Kabish] [4281].rom" size="0x20000" crc="c4f2f6be" sha1="e1f011c397ee422bc9b0e4cf57a96fc6d816ca9d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a24872a1">
+		<description>Turmoil (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Turmoil - Bug-Byte Software (1985) [4382].rom" size="0x10000" crc="a24872a1" sha1="a466c682f26907e906a5f72d013ceba0c3fb0f55" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a100d8ff">
+		<description>Turmoil (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Turmoil - Bug-Byte Software (1985) [5575].rom" size="0x10000" crc="a100d8ff" sha1="fd9ddffc426a3a2a3e3f0a0ec5ecca59fe92203e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0ba11721">
+		<description>Turmoil (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Turmoil - Bug-Byte Software (1985) [6404].rom" size="0x4000" crc="0ba11721" sha1="6e0226e3a5aced55e7aa18b0454b4a282ac4a92d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="db7faf1f">
+		<description>Turmoil (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Turmoil - Bug-Byte Software (1985) [a] [5574].rom" size="0x10000" crc="db7faf1f" sha1="0600b54a50f44ac1aea85c4fca3c980a8acdfe11" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9362bab7">
+		<description>Tutankham (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tutankham - Konami (2008) [original] [2396].rom" size="0x8000" crc="9362bab7" sha1="d77a0208790f9563985d236d79a80d737b47f070" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4df00e7c">
+		<description>Tutankham (coleco conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tutankham - Konami (2008) [original] [2397].rom" size="0x8000" crc="4df00e7c" sha1="ca52d26e847b23c7caeb7d516b5fca5cbd686ef3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="69bc53dd">
+		<description>Tutankham (coleco conversion, bad)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tutankham - Konami (2008) [b1] [original] [2398].rom" size="0x8000" crc="69bc53dd" sha1="d59ad9f16932cc3dadb22c25e64c10a73a055056" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="71309c8f">
  		<description>Twin Bee (Japan, hacked protection)</description>
  		<year>1986</year>
@@ -1009,6 +1283,295 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="1482682c">
+		<description>Twinbee (hacked protection 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Twinbee - Konami (1986) [RC-740] [6703].rom" size="0x8000" crc="1482682c" sha1="9a9069e4df3fbf9854c5ccddcc5eb1664091dbe3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c659aa6c">
+		<description>Twinbee (SCC enhanced)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Twinbee - Konami (1986) [SCC Enhanced] [RC-740] [5505].rom" size="0x20000" crc="c659aa6c" sha1="d6c2fb595fed9964d96eb7b355776ecf37a762af" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="081adcc1">
+		<description>Twinbee (SCC game collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="73728">
+				<rom name="Twinbee - Konami (1986) [SCC Game Collection] [RC-740] [3375].rom" size="73728" crc="081adcc1" sha1="4b72efc4e87073f5f11df9cbe5bbaa8136818bc2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5b4a450b">
+		<description>Twinbee (cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Twinbee - Konami (1986) [Ulver crack] [RC-740] [2406].rom" size="0x8000" crc="5b4a450b" sha1="d71b0de8ae4e1d57ace2d1f66cac1c1965102019" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="de777e7e">
+		<description>Ulises (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Ulises - Opera Soft (1989) [No Turbo-R] [ROM version by Kabish] [4282].rom" size="0x20000" crc="de777e7e" sha1="8fc56c4203ecc700128e22b26d70190d32d55b4a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c8109bf4">
+		<description>Ultra Chess (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Ultra Chess - Aackosoft (1985) [4303].rom" size="0x8000" crc="c8109bf4" sha1="ee1272309819a95d308e09638e4b166354b0d54c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2580df58">
+		<description>Valkyr (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Valkyr - Gremlin Graphics (1985) [Cas to ROM Conversion] [4244].rom" size="0x10000" crc="2580df58" sha1="2ad37038f37903a4773355d665aab4e1535250b9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="33b7ddc8">
+		<description>Vampire (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Vampire - Coleco (1982) [GDX Conversion] [3219].rom" size="0x10000" crc="33b7ddc8" sha1="cd3d237f8c6430e6912baaa17c099397431d9f49" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="16c7a804">
+		<description>Venom Strikes Back (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Venom Strikes Back - Gremlin Graphics (1988) [5348].rom" size="0x10000" crc="16c7a804" sha1="b0dd6aa9b83839e11bfce5109b93d418f6b7f0f1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="35899655">
+		<description>Venom Strikes Back (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Venom Strikes Back - Gremlin Graphics (1988) [5349].rom" size="0x10000" crc="35899655" sha1="5e4b00ad69123bf81fa794546d127a2ccbb4c5a3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0cc46c23">
+		<description>Venom Strikes Back (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Venom Strikes Back - Gremlin Graphics (1988) [Cassette to ROM conversion] [4035].rom" size="0x10000" crc="0cc46c23" sha1="f4b0e84d11e094e8342ea84927483b518c6884d9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c5017c49">
+		<description>Venture (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Venture - Coleco (1982) [GDX Conversion] [3220].rom" size="0x10000" crc="c5017c49" sha1="546440fb2a8a5b7d14b5749dd918dbd59cb1d16f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b57e355d">
+		<description>Vestron (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Vestron - Players (1986) [4907].rom" size="0x8000" crc="b57e355d" sha1="487bd176a7adc0a063843204f62f719a30668a55" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="caa2b753">
+		<description>Vestron (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Vestron - Players (1986) [5593].rom" size="0x8000" crc="caa2b753" sha1="35dadc0e27156f61df90bb87b722de0fd7c9e4f1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="52926141">
+		<description>Vicious Viper (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<!-- This is not a cartridge but a floppy? The original was on cassette, so either way a conversion. -->
+			<dataarea name="rom" size="737280">
+				<rom name="Vicious Viper - Sanyo (1985) [5263].rom" size="737280" crc="52926141" sha1="220bd5640bf589b7727b60bcb7c36b57a2393143" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!--- among others 1988 copyright -->
+	<software name="6ca9d075">
+		<description>Video Hustler - Konami Billiards (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Video Hustler - Konami Billiards - Konami (1984) [3003].rom" size="0x2000" crc="6ca9d075" sha1="40cf1b29de91d25530d67b6d889ba271c0474e9c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0cabc52b">
+		<description>Video Hustler - Konami Billiards (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Video Hustler - Konami Billiards - Konami (1984) [o] [RC-706] [2437].rom" size="0x4000" crc="0cabc52b" sha1="3b6fd6a78807e700a38f9ecb145ab2847c862f52" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6aed9a36">
+		<description>Video Hustler - Konami Billiards (overdump 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Video Hustler - Konami Billiards - Konami (1984) [o2] [RC-706] [2438].rom" size="0x4000" crc="6aed9a36" sha1="a2a9d0303cb0b36a73d58e42b7c2c976c540597f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="351b32ae">
+		<description>Video Hustler - Konami Billiards (overdump 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Video Hustler - Konami Billiards - Konami (1984) [o3] [RC-706] [2439].rom" size="0x4000" crc="351b32ae" sha1="01788f6238dc934fbc843aab85fdc0581ed96989" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- at 3ff0 leftover cart2cass conversion code. -->
+	<software name="f563d026">
+		<description>Video Hustler - Konami Billiards (overdump 4, hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Video Hustler - Konami Billiards - Konami (1984) [3002].rom" size="0x4000" crc="f563d026" sha1="fa422a101808a2010f4da6bb1dac64baa217451c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="37be9655">
+		<description>Video Hustler - Konami Billiards (SCC enhanced)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="40960">
+				<rom name="Video Hustler - Konami Billiards - Konami (1984) [SCC Enhanced] [RC-706] [5484].rom" size="40960" crc="37be9655" sha1="25662236c5b136a358a021e2c9e1f769d75815e7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b29f137c">
+		<description>Video Hustler - Konami Billiards (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="40960">
+				<rom name="Video Hustler - Konami Billiards - Konami (1984) [SCC Version] [RC-706] [2441].rom" size="40960" crc="b29f137c" sha1="d131d718f57aef3a5469c6785e342a63128bf6d1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6b3074cc">
+		<description>Vilzam - Cosmic Struggle (listing2cart, english)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Vilzam - Cosmic Struggle (1985) (Yuichi Toyama)(en).rom" size="0x8000" crc="6b3074cc" sha1="d34959132366afbae80fdf415324593d1241adb3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5eee1e9b">
+		<description>Vilzam - Cosmic Struggle (listing2cart)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Vilzam - Cosmic Struggle (1985) (Yuichi Toyama).ROM" size="0x8000" crc="5eee1e9b" sha1="26ccbb6478f0b6c98536ba7432a391a3a023e74d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0f04ef11">
+		<description>Void Runner (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Void Runner - Mastertronic (1987) [4345].rom" size="0x8000" crc="0f04ef11" sha1="b98d18aaa3a01ee83c74c588a2e7d0358cf1aa50" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4f1d784b">
+		<description>Vortex Raider (cart conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Vortex Raider - Eurosoft (1988) [4191].rom" size="0x10000" crc="4f1d784b" sha1="d93900f165970b0cafb72bd1dbb8b2067101232b" />
+			</dataarea>
+		</part>
+	</software>
 
 	<!-- Extracted from Clube MSX - Gold Disk #3 -->
 	<software name="1b9b2571">
