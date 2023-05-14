@@ -5,7 +5,114 @@ license:CC0-1.0
 -->
 <softwarelist name="unwanted_msx1_cart" description="MSX1 cartridges - hacks, cracks, conversions, etc">
 
+
+	<!-- Demos or other not/hardly working entries. -->
+
+	<!-- Stops after first screen -->
+	<software name="truesurv" supported="no">
+		<description>True Survivor</description>
+		<year>2019</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="WYZ"/>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="true survivor (2019)(wyz).rom" size="0x10000" crc="1bc3396b" sha1="84a0ff0fdbe336cf0a4a89ecdd4b33965eb4b8c9"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="tragapera">
+		<description>Tragaperras (Spanish, alt 1)</description>
+		<year>2005</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="MSxNAKE"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="2"/>
+			<dataarea name="rom" size="0x20000">
+				<rom name="tragaperras - msxnake (2005) (alt 1).rom" size="0x20000" crc="1b8ac632" sha1="6e79675d20dba15755107c5760b7b4d3dedd6612" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="tragaperb">
+		<description>Tragaperras (Spanish, alt 2)</description>
+		<year>2005</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="MSxNAKE"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="2"/>
+			<dataarea name="rom" size="0x20000">
+				<rom name="tragaperras - msxnake (2005) (alt 2).rom" size="0x20000" crc="351061b6" sha1="8bef0cb43dc3c1bb1bf2c4027fe38a67fb715d71" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="tragaperc">
+		<description>Tragaperras (Spanish, alt 3)</description>
+		<year>2005</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="MSxNAKE"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="2"/>
+			<dataarea name="rom" size="0x20000">
+				<rom name="tragaperras - msxnake (2005) (alt 3).rom" size="0x20000" crc="7b05cf66" sha1="0ae3f889318aba6e33bf925ce734ad04970ccc4d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="tragaperd">
+		<description>Tragaperras (Spanish, alt 4)</description>
+		<year>2005</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="MSxNAKE"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="2"/>
+			<dataarea name="rom" size="0x20000">
+				<rom name="tragaperras - msxnake (2005) (alt 4).rom" size="0x20000" crc="97640807" sha1="4d985a970fe70c79d4ff885caec17355cf3e7b6a" />
+			</dataarea>
+		</part>
+	</software>
+
+
 	<!-- These should be moved to the main software list eventually but they are currently too new. -->
+
+	<!-- It is a download with optional payment -->
+	<software name="tcq">
+		<description>T.C.Q</description>
+		<year>2022</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Amaweks"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="0"/>
+			<dataarea name="rom" size="0xc000">
+				<rom name="t.c.q. - amaweks (2022).rom" size="0xc000" crc="beb5b313" sha1="2bb56ae62d1b2e84bf6f5c9e407185ef3f5e6402" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- It is a download with optional payment -->
+	<software name="relic">
+ 		<description>The Relic</description>
+ 		<year>2020</year>
+ 		<publisher>Roolandoo</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="the relic msx.rom" size="0x8000" crc="4ff53c97" sha1="630ad0f21b083f893ae63af52ecdd86ddf8c0c6e" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<!-- It is a download with optional payment -->
+	<software name="reliquia" cloneof="relic">
+ 		<description>La Reliquia (Spanish)</description>
+ 		<year>2020</year>
+ 		<publisher>Roolandoo</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="la reliquia msx.rom" size="0x8000" crc="8a251dba" sha1="7266000fc4d0906a1f30c63a8b0e8aad7483cb08" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
 
 	<!-- Unsure if it is still being actively sold, these is no website. -->
 	<software name="venganza">
@@ -13,7 +120,7 @@ license:CC0-1.0
  		<year>2019</year>
  		<publisher>Physical Dreams</publisher>
  		<part name="cart" interface="msx_cart">
-			<!-- Mapper? -->
+			<feature name="start_page" value="1"/>
  			<dataarea name="rom" size="0x200000">
  				<rom name="venganza - la sierva de la muerte - physical dreams (2019).rom" size="0x200000" crc="bea65bd5" sha1="9318a6883da38992ceff739450569f347ecdf13e" />
  			</dataarea>
@@ -87,6 +194,29 @@ license:CC0-1.0
  	</software>
 
 	<!-- To investigate / sort -->
+
+	<!-- Demo of unfinished spectrum conversion -->
+	<software name="3607b08f">
+ 		<description>Time Out - Demo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x4000">
+ 				<rom name="Time Out - Demo - Pepe Vila (2010) [Demo] [original] [2354].rom" size="0x4000" crc="3607b08f" sha1="71fd800ffbf05191a92ec72525628edbebb0fb08" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="338ba93a">
+ 		<description>Time Out - Demo (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x4000">
+ 				<rom name="Time Out - Demo - Pepe Vila (2010) [Demo] [original] [2355].rom" size="0x4000" crc="338ba93a" sha1="7a8167ef162873b2481d888655411e371f98887e" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
 
 	<!-- Does not work, keeps rebooting -->
 	<software name="washman" supported="no">
@@ -392,6 +522,39 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="07bcce4e">
+		<description>The Goonies (hacked protection 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Goonies - Konami (1986) [RC-734] [863].rom" size="0x8000" crc="07bcce4e" sha1="e0fd133eb7f645238b3ec546624c2d12b8a913f9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="55d47291">
+		<description>The Goonies (hacked protection 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Goonies - Konami (1986) [RC-734] [866].rom" size="0x8000" crc="55d47291" sha1="4624af3dea3996f70d860dfdbd1a8844b8cf43ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0c82b088">
+		<description>The Goonies (hacked, Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Goonies - Konami (1986) [Ulver crack] [RC-734] [867].rom" size="0x8000" crc="0c82b088" sha1="3ceb18ccdd8153aa260f287f5de4460601040ab6" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="106230b8">
  		<description>Guardic (Japan, hacked protection)</description>
@@ -969,6 +1132,259 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="2ccdd28e">
+		<description>Takahasi Meijin no Boukenjima (hacked Aproman)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Takahasi Meijin no Boukenjima - Wonder Boy - Hudson Soft (1986) [2272].rom" size="0x8000" crc="2ccdd28e" sha1="2c86e339bb486a84baffee81e9eac06244363779" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9de7ee12">
+		<description>Takahasi Meijin no Boukenjima (hacked Magosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Takahasi Meijin no Boukenjima - Wonder Boy - Hudson Soft (1986) [h Magosoft] [2274].rom" size="0x8000" crc="9de7ee12" sha1="2d1983a385b4c09d317b72cdc96659262882a412" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="35146a8c">
+		<description>Takeru Densutsu (hacked Sammy)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Takeru Densetsu - Fuun Takeshijyou - Brother Industries (1987) [h Sammy] [2277].rom" size="0x8000" crc="35146a8c" sha1="278e4d5702b2b3198d4ac1d41fb39463f5843a3b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e5909444">
+		<description>Tank Batallion (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Tank Battalion - NAMCO (1984) [GDX SCC Version] [3265].rom" size="0x4000" crc="e5909444" sha1="48ebe2e2436a0bd484500a226adabd6a326538ad" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="76f67623">
+		<description>Tank Batallion (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Tank Battalion - NAMCO (1984) [o] [2278].rom" size="0x4000" crc="76f67623" sha1="117d3b783da9c693e3fcb71fd113f7d90895c8d6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5fb77a61">
+		<description>Tank Batallion (overdump 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Tank Battalion - NAMCO (1984) [o2] [2279].rom" size="0x4000" crc="5fb77a61" sha1="e679da4af05aa32843d2f4518b9ceb0df63df990" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="638bf104">
+		<description>Tank Batallion (overdump 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Tank Battalion - NAMCO (1984) [2281].rom" size="0x4000" crc="638bf104" sha1="72ddee4416abba094c0c6ff109248feecf648946" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9d11667a">
+		<description>Tank Wars (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Tank Wars - Bit Corp (1983) [Taylor Conversion] [6742].rom" size="0x10000" crc="9d11667a" sha1="485111aed28f71d67e07fbd184384cf29a543f20" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="71253c75">
+		<description>Tape Gamecase (homebrew multigame pirate)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Tape Gamecase - JAM (2002) [2282].rom" size="0x10000" crc="71253c75" sha1="a8ac24a702d2c850c7a15b5196893817b0c93123" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="370c711e">
+		<description>Tape Gamecase (homebrew multigame pirate 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Tape Gamecase - JAM (2002) [6409].rom" size="0x10000" crc="370c711e" sha1="6ad15c64eed81fceca9a8f3d882cb536e1d0d17b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eaf4b49e">
+		<description>Tapper (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Tapper - Bally Midway (1984) [GDX conversion] [2685].rom" size="0x10000" crc="eaf4b49e" sha1="9bae0bd973bf8be95dcd6b037b85989be0901f6f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8baa77f1">
+		<description>Tapper (coleco conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Tapper - Bally Midway (1984) [GDX conversion - release 2] [4279].rom" size="0x10000" crc="8baa77f1" sha1="ebf54da255c2d27f6dae6f123a68a3a8cd6a18ac" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e50bc383">
+		<description>Teenage Mutant Hero Turtles (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Teenage Mutant Hero Turtles - Image Works (1990) [a] [5286].rom" size="0x20000" crc="e50bc383" sha1="ce402c0f47c7799e2ae0bea0dcc3ae2485c2d710" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="82e01d3f">
+		<description>Teenage Mutant Hero Turtles (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Teenage Mutant Hero Turtles - Image Works (1990) [h JAM] [2289].rom" size="0x10000" crc="82e01d3f" sha1="ebceb3de22e4c0444a969d83ee487f8ee34204e4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fccfb207">
+		<description>Temptations (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Temptations - Erbe Software (1988) [5287].rom" size="0x20000" crc="fccfb207" sha1="31b399e2180db22b8c1b099254aa75114652acb4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3d8a3ee9">
+		<description>Temptations (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Temptations - Erbe Software (1988) [Cas to ROM Conversion] [4245].rom" size="0x10000" crc="3d8a3ee9" sha1="dee2ee3ca51e11719fe44cfb29a04dbb20aef890" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b70d2b43">
+		<description>Tensai Rabbian Daifunsen (cracked Crack fm)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tensai Rabbian Daifunsen - Soft Pro (1986) [cr Crack Fm] [2309].rom" size="0x8000" crc="b70d2b43" sha1="45bd813039977750c9a347952d2e527a4e1674c5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5eda74fd">
+		<description>Tensai Rabbian Daifunsen (cracked Engesoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tensai Rabbian Daifunsen - Soft Pro (1986) [cr Engesoft] [5985].rom" size="0x8000" crc="5eda74fd" sha1="0acba72bed4b12ba1cd455dfe7676a6607a691eb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3d78462c">
+		<description>Tensión (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tension - System 4 (1988) [2311].rom" size="0x8000" crc="3d78462c" sha1="a0d85c5fc74547f46025369da687569fb5aa3991" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0acbb59a">
+		<description>Tensión (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tension - System 4 (1988) [a] [6000].rom" size="0x8000" crc="0acbb59a" sha1="1f6707549e5d9c1b7dcd413086e6a79df190bbec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="54a2ce36">
+		<description>Terminus - The Prison Planet (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Terminus - The Prison Planet - Mastertronic (1987) [5999].rom" size="0x20000" crc="54a2ce36" sha1="6cde17f9805aac9d5c9f9cb5bb15da656895bbbc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="788849cc">
+		<description>Terrahawk (rom conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Terrahawk - anemotionalfish (2020) [ROM Conversion by GDX] [6672].rom" size="0x4000" crc="788849cc" sha1="1906301d80d5a7e31e226b69a59f7a830e3331cd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b88a5069">
+		<description>Terrorpods (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Terrorpods - Melbourne House (1989) [4359].rom" size="0x10000" crc="b88a5069" sha1="4eb45ed3f0d50e87100236a027699aa6b40648b3" />
+			</dataarea>
+		</part>
+	</software>
+
  	<software name="adcb026d">
  		<description>Tetris (Korea, hacked protection)</description>
 		<year>19??</year>
@@ -981,6 +1397,635 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="68ab4b0f">
+		<description>Tetris (basic challenge)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tetris - MSXosaure (2010) [MSX Basic Challenge 2010] [original] [2708].rom" size="0x8000" crc="68ab4b0f" sha1="3d809fe411d44920af15d41edad7dd60e80e65e2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="548e20eb">
+		<description>Tetris (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tetris - Mirrorsoft (1987) [5288].rom" size="0x8000" crc="548e20eb" sha1="61411b093a068bcef2fdf3f78a3ecea939eb346b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5815dd31">
+		<description>Tetris (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tetris - Mirrorsoft (1987) [6410].rom" size="0x8000" crc="5815dd31" sha1="d73ebc1502737ff950d63e93763c8715b369e200" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="af71feda">
+		<description>Tetsuoman (PSG fixed?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Tetsuman - HAL Laboratory (1985) [a] [5998].rom" size="0x4000" crc="af71feda" sha1="2aa9253b61d22ec198d5a3750d675f6b3a9e4573" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9c75d166">
+		<description>The Apeman Strikes Again (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="The Apeman Strikes Again - The Bytebusters (1985) [a2] [5427].rom" size="0x10000" crc="9c75d166" sha1="dc4545030bd1b4c74687f2f61448aaafdf9c3f6b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9abd72cb">
+		<description>The Apeman Strikes Again (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="The Apeman Strikes Again - The Bytebusters (1985) [a] [5426].rom" size="0x10000" crc="9abd72cb" sha1="ace911ff51c28b5d3c36a25dea9d5242577351da" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e5b36770">
+		<description>The Apeman Strikes Again (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="The Apeman Strikes Again - The Bytebusters (1985) [Non JP machines only] [4928].rom" size="0x10000" crc="e5b36770" sha1="c6291162fe11c3829151ea65668ac9e3d0ec1239" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="829c3d87">
+		<description>The Black Onyx (translated)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Black Onyx 1 - BPS (1985) [2746].rom" size="0x8000" crc="829c3d87" sha1="42975e598eeafcb02bac82e6976d3cb2647e4a8e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b5e45ce6">
+		<description>The Black Onyx (hacked Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Black Onyx 1 - BPS (1985) [h Prosoft] [233].rom" size="0x8000" crc="b5e45ce6" sha1="008e9b1447b7f321aa1f1b4ddf8e0ac0fd62c771" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c4d87867">
+		<description>The Black Onyx (hacked Yagshi)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Black Onyx 1 - BPS (1985) [h Yagshi] [232].rom" size="0x8000" crc="c4d87867" sha1="49f0e168020fddd254843c95b5e6bcf65bdc84ac" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b97baccc">
+		<description>The Black Onyx (translated)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Black Onyx 1 - BPS (1985) [Polaris v1.2] [Translated] [5608].rom" size="0x8000" crc="b97baccc" sha1="562948a535acf4b3bbf2e75eea587c0fd9e6d387" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5afd6a70">
+		<description>The Brain (hacked GDX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="The Brain - ASCII (1983) [a] [5607].rom" size="0x4000" crc="5afd6a70" sha1="ffbf5b7180f3d014476c0c312752883c552878f7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d0870e49">
+		<description>The Castle (cheat)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Castle - ASCII (1986) [cheat version] [357].rom" size="0x8000" crc="d0870e49" sha1="b5b24db1a01ba6778b6768df15efb097fad5856f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7f4d2fbe">
+		<description>The Castle (hacked Ramones)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="40960">
+				<rom name="The Castle - ASCII (1986) [Special version by Ramones 2015] [6707].rom" size="40960" crc="7f4d2fbe" sha1="8d106196843d946e02c964a52c68570b0efd5977" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="28277362">
+		<description>The Chess Game (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="The Chess Game - The Bytebusters (1985) [2325].rom" size="0x10000" crc="28277362" sha1="20aeb411ab5adb9bd3db412a7837e496969f8ce3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f650e5c9">
+		<description>The Chessmaster 2000 (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="The Chessmaster 2000 - Dro Soft (1990) [5606].rom" size="0x10000" crc="f650e5c9" sha1="4d8e95cee1c9aa1d62482c26856d469d0957334c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ed74f436">
+		<description>The Fairy Land Story (hacked to konami mapper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Fairy Land Story - GA-Yume - HOT-B (1987) [681].rom" size="0x20000" crc="ed74f436" sha1="84566b5f37ab4f04a2e5b950c5beecbd27b88ea0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0ba58c58">
+		<description>The Fairy Land Story (hacked to konami mapper 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Fairy Land Story - GA-Yume - HOT-B (1987) [5290].rom" size="0x20000" crc="0ba58c58" sha1="d5282755c7787dc0eef9b18f5368a046d8dc5081" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="045c231a">
+		<description>The Godzilla VS 3 Major Monsters (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="The Godzilla VS 3 Major Monsters - BANDAI (1984) [a] [5974].rom" size="0x4000" crc="045c231a" sha1="f3409dadbcd5a423c535e675a0b2ff6000140552" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8a6381ed">
+		<description>The Godzilla VS 3 Major Monsters (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="The Godzilla VS 3 Major Monsters - BANDAI (1984) [4230].rom" size="0x4000" crc="8a6381ed" sha1="6133f4c3c83fa2a00d23336231c3f5b370a8dc80" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4a2f5e8b">
+		<description>The Heist (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Heist - Livesay Computer Games (1985) [2834].rom" size="0x8000" crc="4a2f5e8b" sha1="14fa455b51b848bcc15f104eb5fe290f458e409f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a6170ed7">
+		<description>The Heist (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Heist - Livesay Computer Games (1985) [6465].rom" size="0x8000" crc="a6170ed7" sha1="15a5c2b2f97ca668708468f9e8f5e1b696e3bf79" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6ab9e162">
+		<description>The Heist (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Heist - Livesay Computer Games (1985) [a] [5605].rom" size="0x8000" crc="6ab9e162" sha1="2666f9f128bf25babc7d5141cdd69715c555c5d4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c5c14bbd">
+		<description>The Hobbit (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="The Hobbit - Melbourne House (1985) [5604].rom" size="0x10000" crc="c5c14bbd" sha1="4febd6671aaa7dcccdc84113da0906a4c844cf27" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4bdfd209">
+		<description>The Last Mission (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Last Mission - Opera Soft (1987) [ROM version by Kabish] [4280].rom" size="0x20000" crc="4bdfd209" sha1="1e80a227480fd2b8b620ba9a4b4ed5e06fda1051" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d61bd906">
+		<description>The Last Mission (cas2crt conversion, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="The Last Mission - Opera Soft (1987) [Cas to ROM Conversion] [4246].rom" size="0x10000" crc="d61bd906" sha1="ee6985940487ed3d570c33a42a57596ac54eb429" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8cc6e703">
+		<description>The Light Corridor (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Light Corridor - New Frontier (1990) [5350].rom" size="0x20000" crc="8cc6e703" sha1="959a41a7d791acb09e254d61511a6d28ee0f2e6c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="23c79529">
+		<description>The Living Daylights (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="The Living Daylights - Walking Circles Software (1987) [4929].rom" size="0x10000" crc="23c79529" sha1="811684c202f7f882ee63e370ab4a1656696ec1b8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e2a3380e">
+		<description>The Maze of Galious (cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Maze of Galious - Knightmare II - Konami (1987) [RC-749] [1234].rom" size="0x20000" crc="e2a3380e" sha1="0c425d8fc1ad36c9b8e248e477b1796cd62d9bed" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- 1 bit difference at offset 1998c -->
+	<software name="abe908b4">
+		<description>The Maze of Galious (bad dump?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Maze of Galious - Knightmare II - Konami (1987) [RC-749] [1229].rom" size="0x20000" crc="abe908b4" sha1="d94327745bbb865a394e31e150a6c77263ee95da" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="816e10d1">
+		<description>The Maze of Galious (hacked to ascii16 banking)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Maze of Galious - Knightmare II - Konami (1987) [RC-749] [1227].rom" size="0x20000" crc="816e10d1" sha1="ee60e88ae409ddd93d4259b79586dacb2e5ee372" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1430ebf2">
+		<description>The Maze of Galious (hacked FRS)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Maze of Galious - Knightmare II - Konami (1987) [FRS patch] [RC-749] [2640].rom" size="0x20000" crc="1430ebf2" sha1="e87e5431ea2ba6cd367ad8bfaa859dae5b297ad4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c07efefa">
+		<description>The Maze of Galious (hacked JoySNES)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Maze of Galious - Knightmare II - Konami (1987) [JoySNES] [RC-749] [5396].rom" size="0x20000" crc="c07efefa" sha1="e6c0acd64f9e02658e88e42fdb26f9bc17c139ab" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b6f81902">
+		<description>The Maze of Galious (translated, Portuguese, hacked JoySNES)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Maze of Galious - Knightmare II - Konami (1987) [Portuguese - JoySNES] [RC-749] [Translated] [5397].rom" size="0x20000" crc="b6f81902" sha1="8834fc0e8e7077591d55f26e02606cd7d026d52d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="df92755a">
+		<description>The Maze of Galious (translated, Portuguese)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Maze of Galious - Knightmare II - Konami (1987) [Portuguese] [RC-749] [Translated] [5398].rom" size="0x20000" crc="df92755a" sha1="2e70a7584ccad504f79b535af8eff95d6c458675" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7d61e1f5">
+		<description>The Maze of Galious (SCC, Spanish)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Maze of Galious - Knightmare II - Konami (1987) [Spanish SCC Version] [RC-749] [Translated] [6513].rom" size="0x20000" crc="7d61e1f5" sha1="703b34e171e98bff559c305aaefb21bd062340f7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="78e008fd">
+		<description>The Maze of Galious (translated, Spanish)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Maze of Galious - Knightmare II - Konami (1987) [Spanish] [RC-749] [Translated] [6512].rom" size="0x20000" crc="78e008fd" sha1="7222508a1cf3bbaf780b17c9ea754f1dfed2a1f8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f75bd937">
+		<description>The Maze of Galious (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Maze of Galious - Knightmare II - Konami (1987) [TFH SCC version] [RC-749] [3644].rom" size="0x20000" crc="f75bd937" sha1="0027cd087f77e7d4b9b1821d6de9e32678b8820c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="19f8a285">
+		<description>The Maze of Galious (cracked Ulver, full)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="The Maze of Galious - Knightmare II - Konami (1987) [Ulver full crack] [RC-749] [1231].rom" size="0x20000" crc="19f8a285" sha1="fb053becf87f12e196e00b3e153ec8029ebf1ff8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e98cd5a4">
+		<description>The Munters (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="The Munsters - Alternative Software (1988) [5603].rom" size="0x10000" crc="e98cd5a4" sha1="212f06009d0fd0778c801b35d2ee0b7d0978baa7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e6c2a9c4">
+		<description>The Munters (cas2crt conversion, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="The Munsters - Alternative Software (1988) [4966].rom" size="0x10000" crc="e6c2a9c4" sha1="21d9d985c0e52a0fdb2916b2141c0fb6f1a9a651" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- 1 bit difference -->
+	<software name="65cd2ffd">
+		<description>The Ninjas manuscripts Of Iga - The Battle Of Full Moon (bad dump?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Ninjas manuscripts Of Iga - The Battle Of Full Moon - Casio (1986) [3205].rom" size="0x8000" crc="65cd2ffd" sha1="3b24504189722babdcef68b82a5ff6bb7d3ec608" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a620ab3c">
+		<description>The Ninjas manuscripts Of Iga - The Battle Of Full Moon (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Ninjas manuscripts Of Iga - The Battle Of Full Moon - Casio (1986) [6047].rom" size="0x8000" crc="a620ab3c" sha1="93750ba3ce68b5700084184dff1e901a93e002e5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="25884f59">
+		<description>The Ninjas manuscripts Of Iga - The Battle Of Full Moon (cracked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Ninjas manuscripts Of Iga - The Battle Of Full Moon - Casio (1986) [Ulver crack] [1085].rom" size="0x8000" crc="25884f59" sha1="3bb48bedf53a781f0470e0bb5ad2e7bba785310e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="233c3089">
+		<description>The Protector (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="The Protector - Pony Canyon (1985) [6399].rom" size="0x4000" crc="233c3089" sha1="bb445f8533ecb5d3d2d2bfe57577b32dbc568e8b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="457498fe">
+		<description>The Protector (trained)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="The Protector - Pony Canyon (1985) [t] [1854].rom" size="0x4000" crc="457498fe" sha1="5795c5f9bc8af39ea5b947bf25bda0192dcca89d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cc1b3dae">
+		<description>The Secret Diary of Adrian Mole Aged 13¾ (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="The Secret Diary of Adrian Mole - Level 9 Computing (1985) [4943].rom" size="0x10000" crc="cc1b3dae" sha1="6902125895e89cb54996c5f9fa90224f9d110b37" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d021f368">
+		<description>The Secret Diary of Adrian Mole Aged 13¾ (cas2crt conversion, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="The Secret Diary of Adrian Mole - Level 9 Computing (1985) [a] [5602].rom" size="0x10000" crc="d021f368" sha1="21dd5568f4a0a7e1b6a99d9c2199fcbfe247e0a9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ac88d3a4">
+		<description>The Snowman (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Snowman - Quicksilva (1984) [4908].rom" size="0x8000" crc="ac88d3a4" sha1="326ee5df82e9391f4edd692c44e23e8a3b33bb29" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fb0050d2">
+		<description>The Snowman (cas2crt conversion, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Snowman - Quicksilva (1984) [5601].rom" size="0x8000" crc="fb0050d2" sha1="27ca64d55479532f311dfdecb57f5e5f6e7b9831" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="728f91b1">
+		<description>The Stone of Wisdom (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Stone of Wisdom - Casio (1986) [5931].rom" size="0x8000" crc="728f91b1" sha1="a2cddeca64e7d23a9f6a1a47f8ca09d18f094304" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f728c9de">
+		<description>The Stone of Wisdom (translated english)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Stone of Wisdom - Casio (1986) [en by GDX].rom" size="0x8000" crc="f728c9de" sha1="762751f816ada1cef6e9ab539ffffd37ab498b1f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="64f1ac03">
+		<description>The Three Dragon Story (MSX2 palette fix)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Three Dragon Story - Zemina (1989) [MSX2 Palette fix] [2340].rom" size="0x8000" crc="64f1ac03" sha1="972ccf1b2672f4f6fbb015c288056c3997fa62df" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0ff952ad">
+		<description>The Three Dragon Story (hacked Muffie)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Three Dragon Story - Zemina (1989) [Muffie Version] [2336].rom" size="0x8000" crc="0ff952ad" sha1="5ea3d992db53de3a198531736d8926de8401b8c8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a990fef6">
+		<description>The Wall (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Wall - Erbe Software (1986) [5600].rom" size="0x8000" crc="a990fef6" sha1="67dbce8aeb2db7ab55d548fa959c82793ddd1a03" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3a3b61ab">
+		<description>The Wall (cas2crt conversion, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="The Wall - Erbe Software (1986) [4336].rom" size="0x8000" crc="3a3b61ab" sha1="0adb051d356f07eafbb2a4e998b90a7128c5458c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d52bb339">
+		<description>The Yolks on You (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="The Yolks On You - 20th Century Fox (1983) [Taylor Conversion] [6752].rom" size="0x10000" crc="d52bb339" sha1="6b67b3e44e76d80780f5b418f564acb452b7e455" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="da428d4b">
  		<description>Thexder (Japan, hacked protection)</description>
@@ -1007,6 +2052,199 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+ 	<software name="dfeb379b">
+ 		<description>Thexder (Japan, hacked protection 3)</description>
+ 		<year>1986</year>
+ 		<publisher>Game Arts</publisher>
+ 		<info name="alt_title" value="テクザー" />
+ 		<part name="cart" interface="msx_cart">
+ 			<feature name="start_page" value="1"/>
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Thexder - Game Arts (1986) [a] [5402].rom" size="0x8000" crc="dfeb379b" sha1="46e20aa2910cc934cf8e7921cf866d881335831b" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="40d3126d">
+ 		<description>Thexder (Japan, italian hack)</description>
+ 		<year>1986</year>
+ 		<publisher>Game Arts</publisher>
+ 		<info name="alt_title" value="テクザー" />
+ 		<part name="cart" interface="msx_cart">
+ 			<feature name="start_page" value="1"/>
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Thexder - Game Arts (1986) [Italian hack - Derex] [5403].rom" size="0x8000" crc="40d3126d" sha1="cc182696200b7004c646624d3532488f75b0c9be" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="c55e68d9">
+ 		<description>Thexder (Japan, cracked)</description>
+ 		<year>1986</year>
+ 		<publisher>Game Arts</publisher>
+ 		<info name="alt_title" value="テクザー" />
+ 		<part name="cart" interface="msx_cart">
+ 			<feature name="start_page" value="1"/>
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Thexder - Game Arts (1986) [cr Magicrack] [2343].rom" size="0x8000" crc="c55e68d9" sha1="3888c923f82314489405c38bd6110ab2fdbc1a61" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="802402db">
+		<description>'Thing' Bounces Back (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Thing Bounces Back - Gremlin Graphics (1987) [5599].rom" size="0x10000" crc="802402db" sha1="242591b84de48a79619c9eee83c8ac829ae6651f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="33221ad9">
+		<description>Time Bandits (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Time Bandits - PSS (1984) [5598].rom" size="0x4000" crc="33221ad9" sha1="2757f0bb412e832aef50eca6adaeca4a74dde973" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="01eb6b56">
+		<description>Time Bomb (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Time Bomb (1987)(Methodic Solutions)(NL)-FX5.rom" size="0x4000" crc="01eb6b56" sha1="c88629f1ab4fd84abea81587310a1504ce65eac7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21bf8a23">
+		<description>Time Pilot (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Time Pilot - Konami (1983) [a3] [RC-703] [5368].rom" size="0x4000" crc="21bf8a23" sha1="58d52357b9ebf819073b587e29a0c3cb9896bb56" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="85dbc74b">
+		<description>Time Pilot (ripped from game collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Time Pilot - Konami (1983) [Game Collection] [RC-703] [4201].rom" size="0x4000" crc="85dbc74b" sha1="ce45e159d52fd4dee7f508be9d08a7c719ff9839" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fe45d8d3">
+		<description>Time Pilot (GDX SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Time Pilot - Konami (1983) [GDX SCC Version] [RC-703] [3266].rom" size="0x4000" crc="fe45d8d3" sha1="b87a0363687d2c3563520d24fbcd148b309a10c9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eaa5addb">
+		<description>Time Pilot (Coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Time Pilot - Konami (1983) [Muffie Conversion from ColecoVision] [6863].rom" size="0x8000" crc="eaa5addb" sha1="8b1b2e206e0d5a160dd9468c53ca4fcebb307b4c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3c4bf540">
+		<description>Time Pilot (Coleco conversion, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Time Pilot - Konami (1983) [Muffie Conversion from ColecoVision] [6859].rom" size="0x8000" crc="3c4bf540" sha1="0e83a3bc7bf4219a57b0d9b0ef3ac744e5035080" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b0ea2ec4">
+		<description>Time Pilot (Coleco conversion, alt 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Time Pilot (Coleco Version) - Konami (1983) [Muffie v2] [6870].rom" size="0x8000" crc="b0ea2ec4" sha1="5e1e9000e8eef9dee2e7f769fb64673dfb9c813e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bef5e239">
+		<description>Time Pilot (Coleco conversion, alt 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Time Pilot (Coleco Version) - Konami (1983) [Taylor Conversion] [6737].rom" size="0x10000" crc="bef5e239" sha1="0cdfb455e71dbb62f4d041fcc41244f6db440d6e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="324f3394">
+		<description>Time Rider (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Time Rider - Time Curb - Eurosoft (1988) [a] [5596].rom" size="0x8000" crc="324f3394" sha1="e7582cdfd2255676a4c3b8c0320d37fc9c393290" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="996e0114">
+		<description>Time Rider (cas2crt conversion, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Time Rider - Time Curb - Eurosoft (1988) [5597].rom" size="0x8000" crc="996e0114" sha1="10ee65f7288b2adde539eaa872122a1d15e2599a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="88028c26">
+		<description>Time Rider (cas2crt conversion, alt 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Time Rider - Time Curb - Eurosoft (1988) [5595].rom" size="0x8000" crc="88028c26" sha1="69c253d089a528685e0eb96b4f5a1fee0149b23c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4c0f4059">
+		<description>Time Rider (cas2crt conversion, alt 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Time Rider - Time Curb - Eurosoft (1988) [4878].rom" size="0x8000" crc="4c0f4059" sha1="a7287c4119629c3cfd9e1e9613d742c0856efbde" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="34a8b8d3">
 		<description>Time Trax (cas2crt conversion)</description>
@@ -1052,6 +2290,17 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="ca28cbb2">
+		<description>Top Roller (patched to run on any MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Top Roller - Jaleco (1984) [GoodMSX] [2363].rom" size="0x4000" crc="ca28cbb2" sha1="174437bfb20e2895f0f552602da823ca17b2fe93" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="13d0b97c">
 		<description>Tournament Snooker (cas2crt conversion)</description>
  		<year>19??</year>
@@ -1059,6 +2308,28 @@ license:CC0-1.0
 		<part name="cart" interface="msx_cart">
 			<dataarea name="rom" size="0x8000">
 				<rom name="Tournament Snooker - HARD Software (1985) [4926].rom" size="0x8000" crc="13d0b97c" sha1="385b73af521eb50f7ac9ddae18f0cd2bf24d3a40" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c96d3978">
+		<description>Tower of Druaga (hacked stack pointer)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tower of Druaga - NAMCO (1986) [5521].rom" size="0x8000" crc="c96d3978" sha1="f90ab19f3908160a633e9c8570186c67964a2630" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cea99fac">
+		<description>Tower of Druaga (hacked stack pointer and graphics)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tower of Druaga - NAMCO (1986) [a2] [5520].rom" size="0x8000" crc="cea99fac" sha1="388cedd9f211ac416163d3cf01ace168afc1c2ed" />
 			</dataarea>
 		</part>
 	</software>
@@ -1081,6 +2352,17 @@ license:CC0-1.0
 		<part name="cart" interface="msx_cart">
 			<dataarea name="rom" size="0x8000">
 				<rom name="Tower of Druaga - NAMCO (1986) [ProSoft Hack] [4167].rom" size="0x8000" crc="9360ed7a" sha1="f12be8f8bc24dffd60f77d77dde85f5cc0efa7ae" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c2956b9b">
+		<description>Traffic - Sony (bad dump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Traffic - Sony (1985) [6389].rom" size="0x8000" crc="c2956b9b" sha1="c007d2e21f61ee10aa81ebd94267c02f27ac2961" />
 			</dataarea>
 		</part>
 	</software>
@@ -1114,6 +2396,39 @@ license:CC0-1.0
 		<part name="cart" interface="msx_cart">
 			<dataarea name="rom" size="0x20000">
 				<rom name="Triple Comando - Xortrapa Soft (1988) [6087].rom" size="0x20000" crc="3590845b" sha1="6b62d102243e5768454538e115c01912744e4ba0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="30ed4ccf">
+		<description>Tritorn - XAIN (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Tritorn - XAIN - Sein (1986) [a] [5314].rom" size="0x8000" crc="30ed4ccf" sha1="9ab44d5024827a98b6b7069c742fb0307d0f09c1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="22cf0fbc">
+		<description>Tritorn - XAIN (not even a real dump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Tritorn - XAIN - Sein (1986) [ROM Fix add on] [5313].rom" size="0x2000" crc="22cf0fbc" sha1="a7ca32c788529dfb216aea4a0f7a3cf7572441de" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="756e58af">
+		<description>TT Racer (Alalamiah, hacked for turbo-r)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="TT Racer - Methodic Solutions (1987) [Alalamiah release] [5577].rom" size="0x8000" crc="756e58af" sha1="fa9f2f11529d8d846d1388fa69d18f373ec11180" />
 			</dataarea>
 		</part>
 	</software>
