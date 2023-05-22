@@ -8,6 +8,19 @@ license:CC0-1.0
 
 	<!-- Demos or other not/hardly working entries. -->
 
+	<software name="unkhudson">
+		<description>Unknown Hudsonsoft Title (Japan)</description>
+		<year>1983</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="1"/>
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sphere Redux - Impulse9 (2007) [2983].rom" size="0x4000" crc="2c4dc2e4" sha1="f998ac478c3cc0be4e8b375541c2376e804a021f" />
+			</dataarea>
+		</part>
+	</software>
+
+
 	<!-- Stops after first screen -->
 	<software name="truesurv" supported="no">
 		<description>True Survivor</description>
@@ -75,6 +88,34 @@ license:CC0-1.0
 
 
 	<!-- These should be moved to the main software list eventually but they are currently too new. -->
+
+	<!-- Is still being sold. -->
+	<software name="stevedor">
+		<description>Stevedore</description>
+		<year>2020</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="theNestruo &amp; wonder"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="1"/>
+			<dataarea name="rom" size="0x8000">
+				<rom name="stevedore (2020) (thenestruo &amp; wonder) [v1.2].rom" size="0x8000" crc="859c04ad" sha1="ec17403587abf2e0bd88f77d62864f52e3087136" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- It is a download with optional payment -->
+	<software name="skull">
+		<description>Skull</description>
+		<year>2021</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Oniric Factor"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="1"/>
+			<dataarea name="rom" size="0x4000">
+				<rom name="skull - oniric factor (2021).rom" size="0x4000" crc="f1e25930" sha1="4cd3c470bcb691930ba81929c0d05d4702a4b87e" />
+			</dataarea>
+		</part>
+	</software>
 
 	<!-- It is a download with optional payment -->
 	<software name="tcq">
@@ -195,6 +236,98 @@ license:CC0-1.0
 
 	<!-- To investigate / sort -->
 
+	<software name="c342167c">
+		<description>Samurai Showdown Demo (V9990)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="278528">
+				<rom name="Samurai Showdown Unplayable Demo v.0.15.2 - albs_br (2022)[V9990].rom" size="278528" crc="c342167c" sha1="d919fc2eca8c0d2eadb9dfb105e39d28450efc07" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f719f5ac">
+		<description>Sandgame 1</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sandgame 1 - Joris and Maarten (1989) [4084].rom" size="0x4000" crc="f719f5ac" sha1="1de291da3f7a934d6c951fa2ceba985d9734a1c5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eaeaca34">
+		<description>Sandgame 1 (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sandgame 1 - Joris and Maarten (1989) [5622].rom" size="0x4000" crc="eaeaca34" sha1="cbc9ed9b7ed34cc7bc4ac25342b636d604a3d047" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ed11d608">
+		<description>Sandgame 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sandgame 2 - Joris and Maarten (1989) [4083].rom" size="0x4000" crc="ed11d608" sha1="72b90bda4ad401636f31e2609effe533ab8ab889" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ae4292e1">
+		<description>Sandgame 2 (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sandgame 2 - Joris and Maarten (1989) [5623].rom" size="0x4000" crc="ae4292e1" sha1="2da5d80e31f58c8041007421f7c8e1398ed37fdd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- 2 in 1 release; other title unknown, no photographic evidence of cartridge -->
+	<software name="b4cfcd7f">
+ 		<description>Scramble Eggs + ? (Korea)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Scramble Eggs - Ample Software (1983) [Korean Dump] [2029].rom" size="0x8000" crc="b4cfcd7f" sha1="5baac8cd6d119ef5dc7ddacddc3103a4eda2943b" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+
+	<!-- Demo-like version of unfinished game -->	
+	<software name="051df491">
+ 		<description>Space Kuruma</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x4000">
+ 				<rom name="Space Kuruma - Ochixn (-) [6492].rom" size="0x4000" crc="051df491" sha1="5f74561adff5bd8435c05f629453a1442211cdb2" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<!-- Demo-like version of unfinished game -->	
+	<software name="174d1bdb">
+ 		<description>Space Kuruma (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x4000">
+ 				<rom name="Space Kuruma (Space Car) - Ochixn (2018).ROM" size="0x4000" crc="174d1bdb" sha1="d185b37294b227429d0b32cb44c40da2a9ed96e5" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
 	<!-- Demo of unfinished spectrum conversion -->
 	<software name="3607b08f">
  		<description>Time Out - Demo</description>
@@ -203,6 +336,204 @@ license:CC0-1.0
  		<part name="cart" interface="msx_cart">
  			<dataarea name="rom" size="0x4000">
  				<rom name="Time Out - Demo - Pepe Vila (2010) [Demo] [original] [2354].rom" size="0x4000" crc="3607b08f" sha1="71fd800ffbf05191a92ec72525628edbebb0fb08" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="f27318c2">
+ 		<description>Shmup Demos 01</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01] [original] [5115].rom" size="0x8000" crc="f27318c2" sha1="9fa82d0006da57cfa3fd3ab4c11d8c462cf6720d" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="7b8b132f">
+ 		<description>Shmup Demos 01_03</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_03] [original] [5116].rom" size="0x8000" crc="7b8b132f" sha1="6578b9b39f00597475e7a16880b565eece2c3e44" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="3426a4f6">
+ 		<description>Shmup Demos 01_03 (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_03] [a] [original] [5125].rom" size="0x8000" crc="3426a4f6" sha1="335d3be12c04b425a83082c7dbedb4323b8d01c2" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="9bd8a441">
+ 		<description>Shmup Demos 01_04</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_04] [original] [5117].rom" size="0x8000" crc="9bd8a441" sha1="6e8d9c1039ff023f3da5ae6f13240bcffbd460ad" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="6c9b0193">
+ 		<description>Shmup Demos 01_04 (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_04] [a] [original] [5126].rom" size="0x8000" crc="6c9b0193" sha1="bb6d3dff17d8716bd338352fd1e1e98098df9daf" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="6a64edfb">
+ 		<description>Shmup Demos 01_05</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_05] [original] [5118].rom" size="0x8000" crc="6a64edfb" sha1="1c01ad684ca684faebaf552a88028df4fe761406" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="b7a24c98">
+ 		<description>Shmup Demos 01_05 (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_05] [a] [original] [5127].rom" size="0x8000" crc="b7a24c98" sha1="062681bcb68aba714a3562693808e86b2d323edc" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="0f31f6e1">
+ 		<description>Shmup Demos 01_05 (alt 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_05_v2] [6162].rom" size="0x8000" crc="0f31f6e1" sha1="5909eb781ee9fcde8e97e328792a055fb62dceee" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="0d810837">
+ 		<description>Shmup Demos 01_06</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_06] [original] [5119].rom" size="0x8000" crc="0d810837" sha1="21b36f9c9b967c67f2439d343e4c6516dcaaef16" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="731b90e6">
+ 		<description>Shmup Demos 01_06 (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_06] [a] [original] [5128].rom" size="0x8000" crc="731b90e6" sha1="6601ed8a278fd6acbbd6b47f4841f8159db72f00" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="60004f39">
+ 		<description>Shmup Demos 01_07</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_07] [a] [original] [5129].rom" size="0x8000" crc="60004f39" sha1="83ddff89d30d7b1aec292375130a46986f3d9b4e" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="c86055ea">
+ 		<description>Shmup Demos 01_07 (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_07_v1] [original] [5120].rom" size="0x8000" crc="c86055ea" sha1="310b5b5e4a5302664c1e8b552c953ed73ec2fd6d" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="f6843bea">
+ 		<description>Shmup Demos 01_07 (alt 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_07_v2] [original] [5121].rom" size="0x8000" crc="f6843bea" sha1="a9d548b4256f0835da179ff2b874b297011d002b" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="1f94401d">
+ 		<description>Shmup Demos 01_07 (alt 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_07_v3] [original] [5122].rom" size="0x8000" crc="1f94401d" sha1="88b1484103e83d0aaa45ab899eda326155257bcb" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="b622fe68">
+ 		<description>Shmup Demos 01_08</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_08] [original] [5123].rom" size="0x8000" crc="b622fe68" sha1="2d809b1f8b431ce6ca1f3c684709292128a25416" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="c51e9c05">
+ 		<description>Shmup Demos 01_08 (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_08] [a] [original] [5130].rom" size="0x8000" crc="c51e9c05" sha1="2305c94dc16e50f930ab53fe380c22ace5348819" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="0e49b17e">
+ 		<description>Shmup Demos 01_09</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_09] [original] [5124].rom" size="0x8000" crc="0e49b17e" sha1="b517e26e2421a977066166c43de981011259d47c" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="d262fe5f">
+ 		<description>Shmup Demos 01_09 (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Shmup Demos - Darius Strauss Geist (2019) [01_09] [a] [original] [5131].rom" size="0x8000" crc="d262fe5f" sha1="83d96306919892c612160179b729b6e57b8e35f1" />
  			</dataarea>
  		</part>
  	</software>
@@ -1075,6 +1406,583 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="f5f0f597">
+		<description>Safari X (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Safari-X - Policy (1985) [4143].rom" size="0x4000" crc="f5f0f597" sha1="6ada3d6b90bc91fc1ab4597b3f0c8b0611b7c9b4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5ee57c20">
+		<description>Safari X (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Safari-X - Policy (1985) [4144].rom" size="0x4000" crc="5ee57c20" sha1="641f927944db14848bc1a35f1e45928c43c1ab5c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0d940900">
+		<description>Safari X (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Safari-X - Policy (1985) [5266].rom" size="0x4000" crc="0d940900" sha1="68b5fdca0ba6a80c0a1beb091c6689e29ce8a5c0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="635424f5">
+		<description>Safari X (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Safari-X - Policy (1985) [a] [5265].rom" size="0x4000" crc="635424f5" sha1="d4564247fda5e34190182a23b0a616db3a5e3bd1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cd646cbe">
+		<description>Salamander (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Salamander - Konami (1987) [RC-758] [1998].rom" size="0x40000" crc="cd646cbe" sha1="a676173780dc3ef4523ff3123fdf179279d22932" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a1bdd2f7">
+		<description>Salamander (cheat)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Salamander - Konami (1987) [cheat version] [RC-758] [1987].rom" size="0x20000" crc="a1bdd2f7" sha1="655b15e8fd81866492bcf2b1d6609211b30efce1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5901318a">
+		<description>Salamander (hacked enhanced)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Salamander - Konami (1987) [Enhanced version] [RC-758] [5408].rom" size="0x20000" crc="5901318a" sha1="96816eda9d8b1bb0383ba4a6a669a1d33dbc027a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21fcdc35">
+		<description>Salamander (hacked extra weapons)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Salamander - Konami (1987) [Extra Weapons Patch].rom" size="0x20000" crc="21fcdc35" sha1="97456be96344b07bcd9fc206f6e1a0bd281cc270" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="01809bd8">
+		<description>Salamander (hacked FRS dynamic vsync+ripple fix+trainer)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Salamander - Konami (1987) [FRS dynamic Vsync+Ripple Fix+Trainer] [RC-758] [1994].rom" size="0x20000" crc="01809bd8" sha1="96509c8824cbf95843418f3b55f4abf8125e7e57" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f00687d9">
+		<description>Salamander (hacked FRS dynamic vsync+ripple fix)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Salamander - Konami (1987) [FRS dynamic Vsync+Ripple Fix] [RC-758] [1995].rom" size="0x20000" crc="f00687d9" sha1="41e456910399d4c31894b533c0b2c6ebeac3a47e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7b5eb328">
+		<description>Salamander (hacked FRS dynamic vsync+trainer)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Salamander - Konami (1987) [FRS dynamic Vsync+trainer] [RC-758] [1993].rom" size="0x20000" crc="7b5eb328" sha1="7ca40f36821dbc99ca326fbfda200a1d42dabce6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8ad8af29">
+		<description>Salamander (hacked FRS dynamic vsync)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Salamander - Konami (1987) [FRS dynamic Vsync] [RC-758] [1996].rom" size="0x20000" crc="8ad8af29" sha1="24f88556ec603e258e6047dd166d9350f53608b2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e0d5fcac">
+		<description>Salamander (hacked FRS enhanced)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Salamander - Konami (1987) [FRS Enhanced version] [RC-758] [6700].rom" size="0x40000" crc="e0d5fcac" sha1="1ad922704a645b517e550dfc22bf570af62f3266" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="66abbe60">
+		<description>Salamander (hacked FRS enhanced 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Salamander - Konami (1987) [FRS Enhanced version] [RC-758] [6701].rom" size="0x40000" crc="66abbe60" sha1="7151a794acf887874d2414cf50aa5fdbe0fcaf47" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bb49b398">
+		<description>Salamander (hacked JoySNES+nemesis2+voice)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="278528">
+				<rom name="Salamander - Konami (1987) [JoySNES Nemesis2-VoicePack Patch] [RC-758] [5416].rom" size="278528" crc="bb49b398" sha1="3d7e893fd363b552cfeff944927a988b4fdb6a19" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="20901b45">
+		<description>Salamander (hacked JoySNES+nemesis2+voice+frs)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="278528">
+				<rom name="Salamander - Konami (1987) [JoySNES Nemesis2-VoicePack-FRS Patches] [RC-758] [5417].rom" size="278528" crc="20901b45" sha1="cd9ebe421d88a2eef733bb2bdce74890bf528ad9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="75b65eb5">
+		<description>Salamander (hacked JoySNES)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Salamander - Konami (1987) [JoySNES] [RC-758] [5410].rom" size="0x20000" crc="75b65eb5" sha1="569b67f3fd191a02921e54c5f09db8ad0279389c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="787a4408">
+		<description>Salamander (hacked nemesis2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="278528">
+				<rom name="Salamander - Konami (1987) [Nemesis2 in slot 2 partch] [RC-758] [5412].rom" size="278528" crc="787a4408" sha1="6cc679b6fd2f091e05b1f23d72baf0ad2a9155c8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e3a3ecd5">
+		<description>Salamander (hacked nemesis2+voice+frs)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="278528">
+				<rom name="Salamander - Konami (1987) [Nemesis2-VoicePack-FRS Patches] [RC-758] [5411].rom" size="278528" crc="e3a3ecd5" sha1="874a87cacfc3eb45ac8dc213fb43d11fd396915c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4392d6e3">
+		<description>Salamander (hacked Korean)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Salamander - Konami (1987) [Painkilla Title (Korean)] [RC-758] [6812].rom" size="0x20000" crc="4392d6e3" sha1="bde04b2d2494584939f27602064c189873f18fd6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4837616c">
+		<description>Salamander (ripple fix + trained)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Salamander - Konami (1987) [Ripple Fix+Trainer] [RC-758] [1990].rom" size="0x20000" crc="4837616c" sha1="0b2538fa04604b0f55b49207ab41e29413830403" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b9b17d6d">
+		<description>Salamander (ripple fix)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Salamander - Konami (1987) [Ripple Fix] [RC-758] [1991].rom" size="0x20000" crc="b9b17d6d" sha1="2530570394b17c895f1860c3a87a6cf1c6e93a72" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="43f6813a">
+		<description>Salamander (smooth scroll)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Salamander - Konami (1987) [Smooth Scroll - JoySNES] [RC-758] [5409].rom" size="0x40000" crc="43f6813a" sha1="1a454c44e69c44998a31cc63fc57c08647682195" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5e444435">
+		<description>Salamander (smooth scroll 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Salamander - Konami (1987) [Smooth Scroll V1.0] [RC-758] [3992].rom" size="0x40000" crc="5e444435" sha1="c1a41b603da044ab34f85dc77e86c9c2f2d86222" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ec328f43">
+		<description>Salamander (trained-invincible)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Salamander - Konami (1987) [Trained - Invincibility] [RC-758] [6699].rom" size="0x40000" crc="ec328f43" sha1="42b4f3e27f7d1fead267f2e31899d2d0c16c76da" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="32e9499c">
+		<description>Salamander (trained)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Salamander - Konami (1987) [Trainer] [RC-758] [1992].rom" size="0x20000" crc="32e9499c" sha1="764e74c1cc48cc96f00c501994b8e881370fdb59" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b974582b">
+		<description>Salamander (trained 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Salamander - Konami (1987) [Trainer] [RC-758] [3993].rom" size="0x40000" crc="b974582b" sha1="1ecc78df5cf86154dd1c61ab4cf54bbf175f5ba9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="efd83aa2">
+		<description>Salamander (hacked turbo)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Salamander - Konami (1987) [Turbo] [RC-758] [3991].rom" size="0x20000" crc="efd83aa2" sha1="700ddd976240239d1f36a4f59c19d09ab59ce4a5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9d628bdf">
+		<description>Salamander (hacked voice+frs)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="147456">
+				<rom name="Salamander - Konami (1987) [Voice and FRS Patch] [RC-758] [5414].rom" size="147456" crc="9d628bdf" sha1="ad9baa5e86b69ef5d6e218657a2a74594c1b1675" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d0395e74">
+		<description>Salamander (hacked voice)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="147456">
+				<rom name="Salamander - Konami (1987) [Voice Patch] [RC-758] [5413].rom" size="147456" crc="d0395e74" sha1="b8aa8c3c0da50d9a10a17bdc33769b450a30ac07" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a46559cf">
+		<description>Samsung SPC-800 Demonstration (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Samsung - SPC-800 Demo - Unknown (-) [6023].rom" size="0x4000" crc="a46559cf" sha1="4de269c487b7eeb0da8e39635bb6afca1cca7e7e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="da7e2927">
+		<description>Sangokushi (hacked? Kanji)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Sangokushi 1 - Romance Of Three Kingdoms - MSX1 Version - KOEI (1986) [Kanji] [2004].rom" size="0x20000" crc="da7e2927" sha1="96e2a7163c755fbea77abfd9d09a798687a5a993" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c3178609">
+		<description>Sangokushi (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Sangokushi 1 - Romance Of Three Kingdoms - MSX1 Version - KOEI (1986) [tr En] [Translated] [2005].rom" size="0x20000" crc="c3178609" sha1="7ad40ae512bbf4ba688467ba23e16354b8421d0a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aad104d3">
+		<description>Sangokushi (Zemina fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Sangokushi 1 - Romance Of Three Kingdoms - MSX1 Version - KOEI (1986) [Zemina Fixed] [5965].rom" size="0x20000" crc="aad104d3" sha1="32ede086e6da0ca9859ea2db326bb325900ca17f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e07bcb45">
+		<description>SAR (flp2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="SAR - Eurosoft (1988) [4444].rom" size="0x10000" crc="e07bcb45" sha1="01032e7b77d12d3d177c13e231cf09f791354e3d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="930a8c1b">
+		<description>Satan (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart1" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Satan - Dinamic (1989) [Part 1] [6021].rom" size="0x20000" crc="930a8c1b" sha1="97db7fcbcfc0cb780382ce13bf40364c015393a7" />
+			</dataarea>
+		</part>
+		<part name="cart2" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Satan - Dinamic (1989) [Part 2] [6022].rom" size="0x20000" crc="0a1f118d" sha1="ef995a83780cceabd2b68a2a8a366ebbcc36b33b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a7abae46">
+		<description>Saurusland (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Saurus Land - Colpax (1982) [2962].rom" size="0x8000" crc="a7abae46" sha1="7335e5defd4d4f149f648bc13012109937fba21c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="59b03034">
+		<description>Saurusland (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Saurus Land - Colpax (1982) [5822].rom" size="0x8000" crc="59b03034" sha1="8bf79bcc577ed0cf2f2d125d72718471f5fcae71" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cecda5b5">
+		<description>Scarlet 7 (hacked Crack FM)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Scarlet 7 - Soft Pro (1986) [Crack FM] [2015].rom" size="0x8000" crc="cecda5b5" sha1="817bebb1be373e9c1bae4850a2bc1daec5586a91" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="01403624">
+		<description>SCC fake cartridge</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="SCC fake cartridge - Konami (2003) [not a game or program - this is a dummy SCC cart for use in slot 2] [6108].rom" size="0x20000" crc="01403624" sha1="fd0e46e4aef2d9713d20b51d2ba57d55bde7dcee" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="44fddba6">
+		<description>Scentipede (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Scentipe - Aackosoft (1986) [4291].rom" size="0x4000" crc="44fddba6" sha1="dabf3cb3b376bcf44091fd4b8fea544f9ed6ff23" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ed441282">
+		<description>Schach für MSX-Computer (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Schach fuer MSX-Computer - Gerhard Wolf (1985) [4890].rom" size="0x4000" crc="ed441282" sha1="6613eff1b383f62a6d50f8b3537b9e868aa40462" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ba702644">
+		<description>Schach für MSX-Computer (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Schach fuer MSX-Computer - Gerhard Wolf (1985) [5823].rom" size="0x4000" crc="ba702644" sha1="dd16b36aecdeb1ebcf2c53f2ed7776b5251ff30a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="98d3f9c7">
+		<description>Scion (baddump?, 1 bit difference at 1122)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Scion - Seibu Denshi (1985) [5481].rom" size="0x4000" crc="98d3f9c7" sha1="33dd59c9bbd2aa19affdab3bc2dd1ff662cbc8b0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="484e06c1">
+		<description>Score 3020 (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Score 3020 - Topo Soft (1989) [6020].rom" size="0x20000" crc="484e06c1" sha1="3526cb1f84acba91ea0c6f4d40b8cff00fdcc995" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="67bd2458">
+		<description>Scramble Eggs (patched?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Scramble Eggs - Ample Software (1983) [a] [5824].rom" size="0x2000" crc="67bd2458" sha1="b39e6e9accf447694e66036aaba042cb8f4c1031" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b1989398">
+		<description>Scramble Eggs (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Scramble Eggs - Ample Software (1983) [o] [2028].rom" size="0x4000" crc="b1989398" sha1="aa9f3ffcc977fbcc04a0326d5a7371d372d099f5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b66d32b1">
+		<description>Sea King (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Sea King - Players (1986) [a] [6018].rom" size="0x8000" crc="b66d32b1" sha1="e900163b92f60509b3bccb9258deb60e8e9d47ed" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ccdeabd8">
+		<description>Sea King (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Sea King - Players (1986) [Cas to ROM Conversion] [4253].rom" size="0x8000" crc="ccdeabd8" sha1="2f1c53f0b5c03bc6f5e92509ff4848001363b782" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d38cd07e">
+		<description>Secret Treasure of Moai (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Secret Treasure of Moai - Casio (1986) [a2] [6115].rom" size="0x8000" crc="d38cd07e" sha1="1b029b6d60fcabca94aaa403ee120fb02a67ffb9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fa858cae">
+		<description>Secret Treasure of Moai (hacked Static Soft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Secret Treasure of Moai - Casio (1986) [h Static Soft] [1530].rom" size="0x8000" crc="fa858cae" sha1="de05494fae17c0a8c411cf0f782f00aa9209c34e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="09ae2c4c">
+		<description>Sega Game Case (hacked together pirate)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Sega Game Case - JAM (2002) [5232].rom" size="0x80000" crc="09ae2c4c" sha1="5648d2b6b41243e7e210e8c302c9e9fe31f150bc" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="0da11df8">
  		<description>Seiken Achou (Japan, bad dump)</description>
  		<year>1985</year>
@@ -1089,6 +1997,1057 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="cf8b76bb">
+		<description>Seiken Achou (translated Spanish)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Seiken Acho - Kung-Fu Master Taekwondo - IREM - ASCII (1985) [tr Sp EngeSoft] [Translated] [2044].rom" size="0x8000" crc="cf8b76bb" sha1="d927dce3ca188da733889e4141aa526b9a10e635" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="146058be">
+		<description>Sewer Sam (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Sets - Al Alamiah (1985) [2966].rom" size="0x8000" crc="146058be" sha1="899af4c7958de89f2e542e2e459475e69db57054" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bd46a3b2">
+		<description>Sewer Sam (hacked, numeric keypad input)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Sewer Sam - Interphase (1984) [Numeric keypad version] [4893].rom" size="0x8000" crc="bd46a3b2" sha1="28d11dcfcb04fb77b4f26cea3e1d9aa91cd42abe" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cf75630b">
+		<description>SHM (extracted from Disk NG 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="SHM - NAMCO (1989) [2622].rom" size="0x10000" crc="cf75630b" sha1="cadb57400c45135f15b2709ddcc897aedfb7aec3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d507172d">
+		<description>SHM (extracted from Disk NG 2, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="SHM - NAMCO (1989) [2623].rom" size="0x10000" crc="d507172d" sha1="c74325fbeaa7293b46766c99a2dd8bd57db3a7e9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d36b5913">
+		<description>Shogi (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Shogi - System Soft (1985) [5966].rom" size="0x4000" crc="d36b5913" sha1="72165925096d8e3b551f1e60890a87c644f11df1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="614f4716">
+		<description>Shooting Collection (flp2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Shooting Collection - ASCII (1992) [FRS Optimized] [4385].rom" size="0x8000" crc="614f4716" sha1="a591c4f95ea6245126443c3c5aebf5d8437fac38" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3a66bca4">
+		<description>Silfi (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Silfi - Genesis Soft (1988) [4334].rom" size="0x10000" crc="3a66bca4" sha1="a148333b52b4e1e18c8519f02209b8ef6862d055" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8222e5bc">
+		<description>Sinbad (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sinbad - Casio (1986) [4147].rom" size="0x4000" crc="8222e5bc" sha1="f40e43e321c9c0f6c17835c587c62981efbe0392" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="178df2d9">
+		<description>Sir Fred (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Sir Fred - Made in Spain (1986) [Cas to ROM Conversion] [4247].rom" size="0x10000" crc="178df2d9" sha1="e8295a0a3d6a3c24fb06f2e2e86a6800977d77bf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="605d2a36">
+		<description>Sirwood (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Sirwood - Opera Soft (1990) [6016].rom" size="0x40000" crc="605d2a36" sha1="1b52bf9c57bc3ce38885239d8169397d98e0730e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="69c9dbd3">
+		<description>Skate Air (English, fixed GDX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Skate Air - Yermani Soft (2006)(en) [GDX Fixed].rom" size="0x20000" crc="69c9dbd3" sha1="58580e23ff482172f6c5e3f3a0b9cae51515a82f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ea6a7a3f">
+		<description>Skate Air (Spanish, fixed GDX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Skate Air - Yermani Soft (2006)(es) [GDX Fixed].rom" size="0x20000" crc="ea6a7a3f" sha1="0187b014b16f352258fd03e93c15b5b988a84853" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5b107864">
+		<description>Skate Dragon (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Skate Dragon - Idea Logic (1986) [4301].rom" size="0x8000" crc="5b107864" sha1="f6155e74a36d7cadd1eb68353d5c2a642849a976" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="506cd3dd">
+		<description>Skate Dragon (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Skate Dragon - Idea Logic (1986) [6015].rom" size="0x8000" crc="506cd3dd" sha1="43a002fc31cd55ec86bb3a6e063f96277cc70d22" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="03ea94f9">
+		<!-- 1 byte different at 195c -->
+		<description>Ski Command (baddump?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Ski Command - Casio (1984) [a2] [5825].rom" size="0x4000" crc="03ea94f9" sha1="37c0f801ff82979fc34fca6f1c39a0af2b9a6d65" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2338c1f9">
+		<description>Ski Command (hacked prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Skate Air - Yermani Soft (2006) [2972].rom" size="0x4000" crc="2338c1f9" sha1="bc1cc3c8f8acf845099b6f6f02c0f6f2d9174b00" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9c702550">
+		<description>Ski Command (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="16421">
+				<rom name="Ski Command - Casio (1984) [2090].rom" size="16421" crc="9c702550" sha1="3828bf9e72aeaf78ff0281a6b1f7fa440a370cdd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="51d63677">
+		<description>Ski Command (pirated AproMan)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Ski Command - Casio (1984) [Pirated by AproMan] [4148].rom" size="0x4000" crc="51d63677" sha1="e2e3b2db2b454af18520b0429bd7f5f47cb78aa1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="efd954f7">
+		<description>Ski Command (trained)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Ski Command - Casio (1984) [t] [2088].rom" size="0x4000" crc="efd954f7" sha1="616c3b9a0c185c1aa683afa53989f0bb39cd768c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="60428344">
+		<description>Skooter (patched for any machine)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Skooter - The Bytebusters (1987) [Alalamiah release-a] [5624].rom" size="0x8000" crc="60428344" sha1="cf7cb4650823fba6a4e91e4722b8305916ca9ea8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5a67d705">
+		<description>Skooter (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Skooter - The Bytebusters (1987) [6401].rom" size="0x8000" crc="5a67d705" sha1="d11c9887399055b1b189b4cd00e8141ee0307335" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ac0b697a">
+		<description>Skull Exilon (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Skull Exilon - Genesis Soft (1988) [4309].rom" size="0x8000" crc="ac0b697a" sha1="ee133d7d49357293e66a9f598ae1db7cb925bfd3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5f625882">
+		<description>Skull Exilon (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Skull Exilon - Genesis Soft (1988) [a2] [5629].rom" size="0x8000" crc="5f625882" sha1="4d444e86256a0b8214e2621dad9a57cb336f1133" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9c503aeb">
+		<description>Skull Exilon (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Skull Exilon - Genesis Soft (1988) [a] [5628].rom" size="0x10000" crc="9c503aeb" sha1="1814adb119185ef3f6697f36e9065db3ea152fed" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="968fa85a">
+		<description>SKW-01 (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="SKW-01 Japanese Word Processor - Yamaha (1984)(jp).ROM" size="0x10000" crc="968fa85a" sha1="f4f8479076d4d45b6b33e6d2946a33da9605910a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5c2de3fd">
+		<description>Sky Galdo (baddump?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Sky Galdo - MagicalZoo (1986) [2097].rom" size="0x8000" crc="5c2de3fd" sha1="72845ccc50f714562ddb87f978c99b4076aa120a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d614d769">
+		<description>Sky Galdo (hacked Sammy)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Sky Galdo - MagicalZoo (1986) [h Sammy] [2098].rom" size="0x8000" crc="d614d769" sha1="12f7eafa2e41135173dafed907c8643cf5298d31" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f440f04d">
+		<description>Sky Jaguar (patched?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sky Jaguar - Konami (1984) [RC-721] [2101].rom" size="0x4000" crc="f440f04d" sha1="5398bfcc6bf60d393755a0edc15f3b9c14180b47" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="722b8555">
+		<description>Sky Jaguar (overdump?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Sky Jaguar - Konami (1984) [RC-721] [4236].rom" size="0x8000" crc="722b8555" sha1="fe33737c305b71d14f701edffeab9ab1d08f9a43" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="859ed578">
+		<description>Sky Jaguar (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sky Jaguar - Konami (1984) [RC-721] [6402].rom" size="0x4000" crc="859ed578" sha1="b737fa701906119eb61a567c54dd87af09e8b34c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="af0747c2">
+		<description>Sky Jaguar (SCC Enhanced)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Sky Jaguar - Konami (1984) [SCC Enhanced] [RC-721] [5494].rom" size="0x10000" crc="af0747c2" sha1="688efb1042d8435f02bb27bc5e218aab46cc4d93" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a77f9254">
+		<description>Sky Jaguar (extracted from SCC Game Collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="57344">
+				<rom name="Sky Jaguar - Konami (1984) [SCC Game Collection] [RC-721] [3416].rom" size="57344" crc="a77f9254" sha1="b2268ac565d86ec0059b0f642115bfee8e36409c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4abf45ec">
+		<description>Sky Jaguar (cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sky Jaguar - Konami (1984) [Ulver crack] [RC-721] [2102].rom" size="0x4000" crc="4abf45ec" sha1="0d53c456603a56b39392b203ad75323357895381" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7385d488">
+		<description>Sky Vision (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Sky Vision - The Bytebusters (1987) [4951].rom" size="0x8000" crc="7385d488" sha1="2f8865a1d37eadd6a8c153e250caf9bcbe3ea271" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b778f39a">
+		<description>Sky Vision (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Sky Vision - The Bytebusters (1987) [a] [5646].rom" size="0x8000" crc="b778f39a" sha1="01a7207dfc1df7b5ad2c24ab36af1ee3eb8b6865" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="efb971a4">
+		<description>Skyfox (listing from MikroBitto 1989 #3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="SkyFox - Paina (-) [4185].rom" size="0x2000" crc="efb971a4" sha1="e8df1bb8df6e9e0df47aa654a7f28ab324cd48e1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bc63b4e2">
+		<description>Skyfox (listing from MikroBitto 1989 #3, alt 1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="SkyFox - Paina (-) [a2] [5627].rom" size="0x2000" crc="bc63b4e2" sha1="012d71dcbceb7c9f21d15231fdca0bcca560274c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="44e7a8f8">
+		<description>Skyfox (listing from MikroBitto 1989 #3, alt 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="SkyFox - Paina (-) [a] [5626].rom" size="0x2000" crc="44e7a8f8" sha1="41660ec750facc9c99252c481e664ee522bc60cd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="038b66ec">
+		<description>Slapshot (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Slapshot - Indescomp (1985) [6125].rom" size="0x4000" crc="038b66ec" sha1="267cf960ff29fc700094eebf2728bbe0c0383fe5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bd5fa2a2">
+		<description>Slapshot (hacked Piratage)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Slapshot - Indescomp (1985) [h Piratage] [2107].rom" size="0x4000" crc="bd5fa2a2" sha1="e8dd2edf5b0db48eee729988731d11b167fe1dd3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e0a12d28">
+		<description>Slither (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Slither - Coleco (1983) [Taylor Conversion] [No Rollball Available] [6754].rom" size="0x10000" crc="e0a12d28" sha1="d511e91248db8d8521ba5f9d4d4a1eef5110126f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="732dfe22">
+		<description>Slurpy (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Slurpy - Xonox (1984) [Taylor Conversion] [6747].rom" size="0x10000" crc="732dfe22" sha1="97b97b860d694ca759bf18ba9752b79cc26b3b68" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="763a70a5">
+		<description>Smurf Rescue in Gargamel's Castle (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Smurf Rescue In Gargamel’s Castle - Coleco (1982) [GDX Conversion [r2] [5882].rom" size="0x10000" crc="763a70a5" sha1="3dd59901a71a2fca85273c58cddd5e550b597e2d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a7d8f212">
+		<description>Smurf Rescue in Gargamel's Castle (coleco conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Smurf Rescue In Gargamel’s Castle - Coleco (1982) [GDX Conversion] [3214].rom" size="0x10000" crc="a7d8f212" sha1="2b6a97ff2d0c177093a90ac93d794b671dfaecb8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f0bc10ab">
+		<description>Smurf Rescue in Gargamel's Castle (coleco conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Smurf Rescue In Gargamel’s Castle - Coleco (1982) [GDX Conversion] [3215].rom" size="0x10000" crc="f0bc10ab" sha1="cef24c1999a66608c44f3f647e57bad8dcfed6c2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fa043064">
+		<description>Smurf Rescue in Gargamel's Castle (coleco conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Smurf Rescue In Gargamel’s Castle - Coleco (1982) [GDX Conversion] [3216].rom" size="0x10000" crc="fa043064" sha1="0dcf1d0c41da3a85d2053825139546697aaf6d80" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="096ba181">
+		<description>Smurf Rescue in Gargamel's Castle (coleco conversion 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Smurf Rescue In Gargamel’s Castle - Coleco (1982) [Taylor Conversion] [6740].rom" size="0x10000" crc="096ba181" sha1="abb666a052889b45dd61d2cc65cfef0bebb38bca" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="91eda031">
+		<description>Sofia (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Sofia - Radio Wave Newspaper Publisher Company (1987) [o] [2117].rom" size="0x20000" crc="91eda031" sha1="3caeec19423a960d98e4719b301a3d276339e5ae" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b940d7b7">
+		<description>Sokoban (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sokoban - ASCII (1988) [4193].rom" size="0x4000" crc="b940d7b7" sha1="79b6f5c1e483de6b827794a0597346f9b5c01418" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cab9cea9">
+		<description>Soldier of Light (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Soldier of Light - Animagic (1989) [5968].rom" size="0x20000" crc="cab9cea9" sha1="05fa0248d2e61c2e08813595375e0c81b99d852c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7454ad5b">
+		<description>Sorcery (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Sorcery - Virgin Games (1985) [5969].rom" size="0x20000" crc="7454ad5b" sha1="79b57003096d012372944f42d2729c17056f7b80" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="804d8873">
+		<description>Soul of a Robot (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Soul of a Robot - Mastertronic (1987) [a] [5826].rom" size="0x8000" crc="804d8873" sha1="2841f7e11a06acb805128e812a1ef6f28974b850" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="90530889">
+		<description>Soul of a Robot (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Soul of a Robot - Mastertronic (1987) [4899].rom" size="0x8000" crc="90530889" sha1="89df0cdbb0a1c9f7adef7d2ab4e720d7cfceb190" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c7af1b34">
+		<description>Space Busters (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Space Busters - Aackosoft (1985) [4873].rom" size="0x8000" crc="c7af1b34" sha1="9b4e7b2ad8185093cc683881a089369b7fec180b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7236ab8e">
+		<description>Space Busters (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Space Buster - Aackosoft (1985) [2979].rom" size="0x8000" crc="7236ab8e" sha1="c3629b8c32e661e21abeee19825e65ee4da1eb01" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="38a39673">
+		<description>Space Fury (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Space Fury - Coleco (1983) [Muffie Conversion] [original] [6864].rom" size="0x8000" crc="38a39673" sha1="16fb0a025338e47054a1daff57d5ad79ecff9369" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- "optimized": call + ret combinations replaced with jp -->
+	<software name="5e91739d">
+		<description>Space Invader (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Space Invader - TAITO (1985) [a] [5827].rom" size="0x4000" crc="5e91739d" sha1="5d9fd426b02d36163453eefc8f52086324e70121" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e86593a4">
+		<description>Space Invasion (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Space Invasion (CV2MSX) (gdx-Taylor) [ASCII16] [a1].rom" size="0x10000" crc="e86593a4" sha1="83d3aff043f209c4cff0008a90172f0e9a727be9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d8776861">
+		<description>Space Maze Attack (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Space Maze Attack - HAL Laboratory (1983) [o] [2144].rom" size="0x4000" crc="d8776861" sha1="6580f0c72bac8d2e2ca14b9676452184bddd952e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="94ac322a">
+		<description>Space Maze Attack (SP patched)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Space Maze Attack - HAL Laboratory (1983) [a2] [5828].rom" size="0x2000" crc="94ac322a" sha1="9a05c13dd33e14ca67bb44c37e73acf03db57e24" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b59e0e66">
+		<description>Space Panic (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Space Panic - Universal (1980) [Muffie Conversion] [6862].rom" size="0x8000" crc="b59e0e66" sha1="6699d7af86dfc2c93a6ee5eb8c96f80cb8cd3a40" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5576c558">
+		<description>Space Rescue (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Space Rescue - The Bytebusters (1986) [4324].rom" size="0x8000" crc="5576c558" sha1="b194fd6b8a408818ad43755ef52beaa69577f59d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fdd958a4">
+		<description>Space Shuttle (hacked/cracked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Space Shuttle - A Journey into Space - Activision - Pony Canyon (1986) [4292].rom" size="0x10000" crc="fdd958a4" sha1="d02fb8f47c0adcccb12bd0c6fe0fd2a41c548e85" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0072d5e4">
+		<description>Space Trouble (hacked, Clover)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Space Trouble - HAL Laboratory (1984) [6756].rom" size="0x2000" crc="0072d5e4" sha1="71b90922b6a7e8d1f01ad883de9eb9d1db9630d2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2f791048">
+		<description>Space Trouble (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Space Trouble - HAL Laboratory (1984) [o] [2147].rom" size="0x4000" crc="2f791048" sha1="fb837d3aa087a75c7064c0808adf98329387cbc6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="404a023c">
+		<description>Space Walk (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Space Walk - Mastertronic (1987) [2149].rom" size="0x4000" crc="404a023c" sha1="fff31b8c7549493d8ec220f85e3e8536f150d82a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="705de88e">
+		<description>Space Walk (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Space Walk - Mastertronic (1987) [4445].rom" size="0x2000" crc="705de88e" sha1="849fb5e18bf38f58379535d018fdf63cb7ce058f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a1b8d6a0">
+		<description>Space Walk (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Space Walk - Mastertronic (1987) [6469].rom" size="0x2000" crc="a1b8d6a0" sha1="cb0e284db89d9bdf509a8e41fa7a262112303e15" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="25c3308b">
+		<description>Space Walk (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Space Walk - Mastertronic (1987) [a2] [5618].rom" size="0x4000" crc="25c3308b" sha1="b6440e1ce190b3dae83aa9c9738e78117bcb4a8a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="72348648">
+		<description>Space Walk (cas2crt conversion 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Space Walk - Mastertronic (1987) [a3] [5619].rom" size="0x2000" crc="72348648" sha1="14e966fdb0758f32fcbd8d2a2fee7e34b636ef50" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a4fc79c5">
+		<description>Space Walk (cas2crt conversion 6)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Space Walk - Mastertronic (1987) [a4] [5620].rom" size="0x4000" crc="a4fc79c5" sha1="5c820002f36d681a559a6fb0a202ab9e0af85782" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0bc8ddf2">
+		<description>Space Walk (cas2crt conversion 7)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Space Walk - Mastertronic (1987) [a5] [6468].rom" size="0x2000" crc="0bc8ddf2" sha1="3f679a39b79007ae7fcd70b4a51d0881c0484abd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dfe949c5">
+		<description>Space Walk (cas2crt conversion 8)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Space Walk - Mastertronic (1987) [a] [5617].rom" size="0x2000" crc="dfe949c5" sha1="dfdf3b8dd533841369198dec8c296312654bbffb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f9317540">
+		<description>Space Walk (MCCM, listing / cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Space Walk - MSX Computer &amp; Club Magazine (1986) [S.V.I Software] [5621].rom" size="0x4000" crc="f9317540" sha1="d35924d0e91ead43728958f4b916eb2d009ee15f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d62dd37d">
+		<description>Sparkie (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sparkie - Konami (1983) [a] [5330].rom" size="0x4000" crc="d62dd37d" sha1="3f5b181e11af8425a40cccf9d61bdf09ac8860be" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2fae3e76">
+		<description>Sparkie (hacked 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sparkie - Konami (1983) [6366].rom" size="0x4000" crc="2fae3e76" sha1="1107e11d7a5a2795927e30f78a056c13c871aba0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a966a05e">
+		<description>Sparkie (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sparkie - Konami (1983) [o2] [2153].rom" size="0x4000" crc="a966a05e" sha1="e0e8ed637f5d220f881cc9b52bc52e9dd3373489" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0a65fb79">
+		<description>Sparkie (overdump 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Sparkie - Konami (1983) [o] [2152].rom" size="0x8000" crc="0a65fb79" sha1="e5480a5a41ce4b8b0706632ea92d29018416dd73" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- This one is 4x the normal dump; overdump 2 is 2x the normal dump; overdump is normal dump, FFs, normal. FFs
+	If the real dump is truly 4x the normal dump then the overdump would not have the areas of FFs.
+	Also using a 32KB ROM chip for releasing a 8KB game in 1983 feels a bit unlikely.
+	-->
+	<software name="3e14b585">
+		<description>Sparkie (overdump 3, GoodMSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Sparkie - Konami (1983) [GoodMSX] [2154].rom" size="0x8000" crc="3e14b585" sha1="b9c98b80216983f97e28293b576ca9be3602c1a1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="864cb9f2">
+		<description>Speed King (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Speed King - Mastertronic (1986) [Cas to ROM Conversion] [4252].rom" size="0x8000" crc="864cb9f2" sha1="a1e95f3e8e0298297543237a8b83cfe6a2209d6a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="663a8dda">
+		<description>Speed King (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Speed King - Mastertronic (1986) [a] [5971].rom" size="0x8000" crc="663a8dda" sha1="aa710be447e7c82b68f5d69661f153d10e36d4fb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2731ffac">
+		<description>Spelunker (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Spelunker - IREM (1986) [6403].rom" size="0x8000" crc="2731ffac" sha1="17c5feed40350527ad5d80b4c8683dd75a514f05" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9a018e6b">
+		<description>Spirit Power (from listing)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Spirit Power (Makottoto).rom" size="0x4000" crc="9a018e6b" sha1="eac922da1de363f6e73e26037ed7ca2053d2c204" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5a4427c1">
+		<description>Spirits (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Spirits - Topo Soft (1987) [4397].rom" size="0x10000" crc="5a4427c1" sha1="8afd7312b10626fb7e1c1692b2c46d29b2ec06a6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d313e152">
+		<description>Spirits (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Spirits - Topo Soft (1987) [6014].rom" size="0x8000" crc="d313e152" sha1="740ae76eb0c4d8bf604287e901a7b9885ba1eace" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="69106bfd">
+		<description>Splash (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Splash - Artificial Intelligence Products (1986) [4406].rom" size="0x8000" crc="69106bfd" sha1="9afd7caf5aecd861ca5c00f402637df36fa53d2d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="22c4b739">
+		<description>Splash (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Splash - Artificial Intelligence Products (1986) [6013].rom" size="0x8000" crc="22c4b739" sha1="c596ec0b3cf1c868f559f18b5dae94c0bc75298e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="be930862">
+		<description>Spooks &amp; Ladders (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Spooks and Ladders - Kuma Computers (1985) [6012].rom" size="0x8000" crc="be930862" sha1="907123e4e6c7b5232ee6e95e57ea77ac4db3afd3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6a8cc393">
+		<description>Sprites Man (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sprites Man - Sprites (1984) [4329].rom" size="0x4000" crc="6a8cc393" sha1="af65eb49ef2d808dbae44ca341d3182be42bb836" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f0ae70d5">
+		<description>Sprites Man (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sprites Man - Sprites (1984) [5645].rom" size="0x4000" crc="f0ae70d5" sha1="8b3af7d96a3761d0db1f7901dbe062efc02271a6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="96a921b4">
+		<description>Sprites Man (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Sprites Man - Sprites (1984) [a] [5644].rom" size="0x4000" crc="96a921b4" sha1="e531340aaeec1d6c8a6c6bd65ab20c578e7f21c4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8f65c0f9">
+		<description>Spy vs Spy II (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="Spy Vs Spy II - First Star Software (1986) [2163].rom" size="0xc000" crc="8f65c0f9" sha1="1d129bde09c9db2433b334d36762704de94983ba" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="faeb30de">
+		<description>Spy vs Spy II (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Spy Vs Spy II - First Star Software (1986) [6011].rom" size="0x20000" crc="faeb30de" sha1="aede971ee8f711c276205106064e0dd9d1252f39" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6ca205d1">
+		<description>Squash (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Squash - Robtek Software (1986).rom" size="0x8000" crc="6ca205d1" sha1="812f6dbdb7e0e04ba5e162e7dc02ef30f1df53ee" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="da50254f">
  		<description>Squish'em (Japan, hacked name during gameplay)</description>
@@ -1105,6 +3064,28 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="26309fd8">
+		<description>Squish'Em (translated Portuguese)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Squish'em - Sirius - ASCII (1983) [PT] [6037].rom" size="0x8000" crc="26309fd8" sha1="f4ab25bf6d050e429bfe1f7553137d76555c9c05" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e4a9e551">
+		<description>Star Avenger (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Star Avenger - Kuma Computers (1984) [6009].rom" size="0x8000" crc="e4a9e551" sha1="9e65c395db4ca34fd9b24536f151fc089ecef836" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="a242fe0d">
  		<description>Star Blazer (Japan, bad dump)</description>
  		<year>1985</year>
@@ -1115,6 +3096,173 @@ license:CC0-1.0
  			<feature name="start_page" value="1"/>
  			<dataarea name="rom" size="0x4000">
  				<rom name="star blazer (japan) (alt 2).rom" size="0x4000" crc="a242fe0d" sha1="a1e1bffe4b4ea6d67c973fa483c4d6273f68de3c" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="47eaa61c">
+		<description>Star Force (hacked Korean?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Star Command - ASCII (1983) [2984].rom" size="0x8000" crc="47eaa61c" sha1="c0b9231c883d91feb6a76171a6faab26176080ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f727969c">
+		<description>Star Force (enhanced &amp; colors)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="73728">
+				<rom name="Star Force (1985)(Hudson Soft)(JP)[Enhanced &amp; Colors].rom" size="73728" crc="f727969c" sha1="5883ec02bdabd5cc998f7626ef0186ebe6480b12" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ef5d4582">
+		<description>Star Quake (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Star Quake - Bubble Bus (1985) [Cas to ROM Conversion] [4254].rom" size="0x10000" crc="ef5d4582" sha1="9b6af42dc9201ae3125cf07661b52b954c1455ca" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c6250410">
+		<description>Star Soldier (cracked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Star Soldier - Hudson Soft (1986) [cr Turbo Soft] [2176].rom" size="0x8000" crc="c6250410" sha1="7ae260d769a1e12b8f7af09a17876027a423e926" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="22ed6ad1">
+		<description>Star Wars (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Star Wars - Bytebusters (1986) [Does not work on Japanese models] [4915].rom" size="0x10000" crc="22ed6ad1" sha1="91f4fc810e9ed7fba26b7cbe875f06b93daf0c26" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0f1c577d">
+		<description>Star Wars (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Star Wars - Parker Brothers (1984) [Taylor Conversion] [6738].rom" size="0x10000" crc="0f1c577d" sha1="a0d3eb17e6eddae65185e70b7aaab9a854d93df1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cb0d0303">
+		<description>Starbuggy (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Star Buggy - Eurosoft (1988) [Non JP models only] [4927].rom" size="0x10000" crc="cb0d0303" sha1="70685e13295835477bd305d7d81569db99359d0c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f539149d">
+		<description>Starbyte (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Starbyte - Mister Chip (-) [6008].rom" size="0x20000" crc="f539149d" sha1="657a4880da2d0df283475d8cbac3dddc2d95879a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dd862024">
+		<description>Step Up (overdump/hack)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Step Up - Marvel Soft-Takara (1983) [2985].rom" size="0x4000" crc="dd862024" sha1="601da2148d3422da717cc385659fa0a5ab075618" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="51bc53ad">
+		<description>Step Up (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Step Up - Marvel Soft-Takara (1983) [o] [2185].rom" size="0x4000" crc="51bc53ad" sha1="2ebd7b784094097d9f0fbebe4e69be8ba9a08a5c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- 1 bit differences at 06f0, 1149, and 6e63 -->
+	<software name="596478af">
+		<description>Strange Loop (bad dump?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Strange Loop - Nippon Dexter (1987) [3173].rom" size="0x8000" crc="596478af" sha1="d56a4752e3e1b2f05dbe982632cecd15a6f8a8f8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="33ed676d">
+		<description>Strike It! (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Strike It! - Telegames (1986) [Taylor Conversion] [6745].rom" size="0x4000" crc="33ed676d" sha1="8937ae9ebb88dab050aed15275d4d6d9f3e5b2a4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="07f221e8">
+		<description>Submarine Shooter (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Submarine Shooter - Hudson Soft (1983) [4321].rom" size="0x4000" crc="07f221e8" sha1="ba3620220a4f124a6bab11342a04fd219cf077c5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a82d11c7">
+ 		<description>Super Billiards (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x4000">
+ 				<rom name="Super Billiards - HAL Laboratory (1984) [2206].rom" size="0x4000" crc="a82d11c7" sha1="75794b50c0ea8ca33d6ffa8ec3b68eb21c35d0d2" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="825dcfe6">
+ 		<description>Super Boy I (Korea, hacked protection)</description>
+ 		<year>1989</year>
+ 		<publisher>Zemina</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<feature name="start_page" value="1"/>
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Super Boy I - Zemina (1989) [2209].rom" size="0x8000" crc="825dcfe6" sha1="d86b5f30154b472d6f61a3784303d5ac328f4435" />
  			</dataarea>
  		</part>
  	</software>
@@ -1131,6 +3279,330 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="1acebb82">
+ 		<description>Super Boy III (cracked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x20000">
+ 				<rom name="Super Boy III - Zemina (1991) [Ulver crack] [2214].rom" size="0x20000" crc="1acebb82" sha1="14faf5da6ab76de0b62f1ede91e27d46b9db77a2" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="e6f001b5">
+		<description>Super Bros. World 1 (mapper hack ascii16)</description>
+		<year>19??</year>
+		<publisher>Clover</publisher>
+		<info name="alt_title" value="슈퍼 브로스 월드 1" />
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="ascii16" />
+			<dataarea name="rom" size="0x10000">
+				<rom name="sbrosw_n.rom" size="0x10000" crc="e6f001b5" sha1="c6c623055bc68474949708c7fe3767afd2fd9d33" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="648f38c0">
+		<description>Super Bros. World 1 (mapper hack konami_scc)</description>
+		<year>19??</year>
+		<publisher>Clover</publisher>
+		<info name="alt_title" value="슈퍼 브로스 월드 1" />
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="konami_scc" />
+			<dataarea name="rom" size="0x10000">
+				<rom name="sbrosw_n.rom" size="0x10000" crc="648f38c0" sha1="7fb1bec4e3914994dc9becd67e4a21f752e99812" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="582ce3c7">
+		<description>Super Chess (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Super Chess - Kuma Computers (1984) [4883].rom" size="0x8000" crc="582ce3c7" sha1="be2777c1bdd2c327042ecb5de7c85ed99ce208c8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="556eccee">
+		<description>Super Chess (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Super Chess - Kuma Computers (1984) [5737].rom" size="0x8000" crc="556eccee" sha1="8dd03ada401f236fffe4063465da03965d1575b9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f9b79fb3">
+		<description>Super Cobra (hacked screen)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Super Cobra - Konami (1983) [h screen] [RC-705] [6406].rom" size="0x2000" crc="f9b79fb3" sha1="e4a0bf7e002026f2aff0936cbfb13e14fcfdbbb9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6c601fa5">
+		<description>Super Cobra (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Super Cobra - Konami (1983) [o] [RC-705] [2221].rom" size="0x4000" crc="6c601fa5" sha1="31472edf134c8ba532e6a1eded0dcc1aa088e8ba" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c233555d">
+		<description>Super Cobra (overdump 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Super Cobra - Konami (1983) [o2] [RC-705] [2222].rom" size="0x4000" crc="c233555d" sha1="87a9f78c0bba4e38d98890e34033a7b14f75f5e2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c9d67975">
+		<description>Super Cobra (overdump 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Super Cobra - Konami (1983) [o3] [RC-705] [2223].rom" size="0x4000" crc="c9d67975" sha1="de2dd71730922168428dbc11a82fe91b84c23192" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3cddc43a">
+		<description>Super Cobra (overdump 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Super Cobra - Konami (1983) [RC-705] [5257].rom" size="0x10000" crc="3cddc43a" sha1="df6b7bacbf96d789c647597189da80acc5a967da" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e1ce86f1">
+		<description>Super Cobra (overdump/hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Super Cobra - Konami (1983) [RC-705] [5260].rom" size="0x4000" crc="e1ce86f1" sha1="1bd9a3749120c6e2b0a88b71c730c194a4282c14" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="26316516">
+		<description>Super Cobra (GDX SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Super Cobra - Konami (1983) [GDX SCC Version] [RC-705] [3264].rom" size="0x4000" crc="26316516" sha1="9539999ed728aa6dbe4bef8b4be9876c7d1392c7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="164bf57b">
+		<description>Super Cobra (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="40960">
+				<rom name="Super Cobra - Konami (1983) [SCC Version] [RC-705] [5162].rom" size="40960" crc="164bf57b" sha1="ab7e66a44e333380fe4090dfab99b6e8349e618f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1fa291eb">
+		<description>Super Doors (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Super Doors - Hudson Soft (1983) [4323].rom" size="0x4000" crc="1fa291eb" sha1="b692e7f96a121abffb40889b2a60cde3bc8f71c2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="37a37248">
+		<description>Super Drinker (hacked? some vram writes patched out)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Super Drinker - Ample Software (1983) [2231].rom" size="0x4000" crc="37a37248" sha1="056801516eb672b4e06de5ece88121734bdd4385" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f059dd33">
+		<description>Super Game World 126 (hacked/different banking?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="2097152">
+				<rom name="Super Game World - 126 Games - Zemina (-) [4133].rom" size="2097152" crc="f059dd33" sha1="c559ed31cedf4b1097ed7b7c0f976411322d2e46" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- 1 bit different a 0x18274 -->
+	<software name="f80c9e69">
+		<description>Super Laydock - Mission Striker (bad dump?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Super Laydock - Mission Striker - T&amp;ESOFT (1987) [3428].rom" size="0x40000" crc="f80c9e69" sha1="83d7dfc1693e73d2a6ef597a67e091071c479298" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4727a797">
+		<description>Super Laydock - Mission Striker (banking hack to konami_scc)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Super Laydock - Mission Striker - T&amp;ESOFT (1987) [a] [5261].rom" size="0x40000" crc="4727a797" sha1="d4ed4f21a55da81b6cd974c421f4e8f262af07ef" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e276ad68">
+		<description>Super Laydock - Mission Striker (banking hack to konami_scc 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Super Laydock - Mission Striker - T&amp;ESOFT (1987) [a2] [5262].rom" size="0x40000" crc="e276ad68" sha1="cf00fbe6c959ae4cf43558a023c7cb7789570f12" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f308a538">
+		<description>Super Laydock - Mission Striker (Zemina, banking hack to konami_scc)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Super Laydock - Mission Striker - T&amp;ESOFT (1987) [Zemina hack] [4126].rom" size="0x40000" crc="f308a538" sha1="1dd8d63b78ac7235484dfbd37d8cd5b8b93dd2fd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="351ca384">
+		<description>Super Laydock - Mission Striker (Zemina, cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Super Laydock - Mission Striker - T&amp;ESOFT (1987) [Zemina version [Ulver crack] [2236].rom" size="0x40000" crc="351ca384" sha1="81b85b1152a59bb10d0e0118f80f0a4ed363c785" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="73efe840">
+		<description>Super Pierrot (fixed banking for emulator?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Super Pierrot - Nippon Columbia - Colpax - Universal (1987) [4982].rom" size="0x20000" crc="73efe840" sha1="feaa75bbe0b9906c981ad6b9aba3823856033477" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="165a027c">
+		<description>Super Swangi (fixed emulator)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Super Swangi - Super Altered Beast - Clover (1990) [GDX Conversion to work on any emulator] [3223].rom" size="0x10000" crc="165a027c" sha1="022d6cb56de5d48b22d0216a4da6345c7d2a9b64" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e953f2ab">
+		<description>Super Swangi (fixed emulator 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Super Swangi - Super Altered Beast - Clover (1990) [GDX Conversion to work on any emulator] [3224].rom" size="0x10000" crc="e953f2ab" sha1="c6ec8bb9fe1aa2d25028b268b537c323263668f5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="84fbe0ed">
+		<description>Super Swangi (fixed PSG)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Super Swangi - Super Altered Beast - Clover (1990) [GDX PSG fix] [3225].rom" size="0x10000" crc="84fbe0ed" sha1="8a2858dc9da3b1d192d9d594328295afe5c597b1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="74424a79">
+		<description>Suru'ba (translated Portuguese)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Suru'ba - Thinking Rabbit (1983) [tr Pt] [Translated] [2261].rom" size="0x4000" crc="74424a79" sha1="1449f9b1f889137831089ddc73e04b8c6b5a56ee" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ee79435e">
+		<description>Survivors (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Survivors - Atlantis (1986) [4330].rom" size="0x4000" crc="ee79435e" sha1="b3018835b9772301852f8ac844b2567dfd02d8a1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="793fab6d">
+		<description>Survivors (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Survivors - Atlantis (1986) [a] [6002].rom" size="0x4000" crc="793fab6d" sha1="72311b33ab4928815e735438f4f8534406fd5cc9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3c692ca1">
+		<description>Swing (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Swing - Compile (1985) [6001].rom" size="0x8000" crc="3c692ca1" sha1="7d7d38c3574ea1aef53ef5b5eb2fbfe1f1f6eb53" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="2ccdd28e">
 		<description>Takahasi Meijin no Boukenjima (hacked Aproman)</description>
