@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
+<!--
+license:CC0-1.0
+-->
+<softwarelist name="unwanted_msx2_cart" description="MSX2 cartridges - hacks, cracks, conversions, etc">
+
+	<software name="a39c79be">
+		<description>Seikima 2 (hacked/translated?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Seiken Acho - Kung-Fu Master Taekwondo - IREM - ASCII (1985) [3171].rom" size="0x20000" crc="a39c79be" sha1="bfbd5cddc38b5f65543f41562a6be749beae9516" />
+			</dataarea>
+		</part>
+	</software>
+
+</softwarelist>
