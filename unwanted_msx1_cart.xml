@@ -103,6 +103,19 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="quartet">
+		<description>Quartet (v1.3)</description>
+		<year>2019</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Ilkke and bitsofbas"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="0"/>
+			<dataarea name="rom" size="0xc000">
+				<rom name="quartet - ilkke and bitsofbas (2019) [msxdev2018] [v1.3].rom" size="0xc000" crc="266b023d" sha1="8477a3c3547944e1c86a8ec1d67b7cb83c92acd5" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- It is a download with optional payment -->
 	<software name="skull">
 		<description>Skull</description>
@@ -235,6 +248,61 @@ license:CC0-1.0
  	</software>
 
 	<!-- To investigate / sort -->
+
+	<!-- Unfinished -->
+	<software name="0a016d5f">
+		<description>Rapid Burst (PSG)</description>
+		<year>2004</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="KaroshiCorporation"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="1"/>
+			<dataarea name="rom" size="0x2000">
+				<rom name="Rapid Burst - Karoshi Corporation (2004) [unfinished game (PSG Music)] [original] [2631].rom" size="0x2000" crc="0a016d5f" sha1="2bea430e0a74ea88c7d49fe1dd1fc5a8bb0dc7b0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Unfinished -->
+	<software name="0070756d">
+		<description>Rapid Burst (SCC)</description>
+		<year>2004</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="KaroshiCorporation"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="1"/>
+			<dataarea name="rom" size="0x2000">
+				<rom name="Rapid Burst - Karoshi Corporation (2004) [unfinished game (SCC Music)] [original] [2632].rom" size="0x2000" crc="0070756d" sha1="2e4c9e5a8fbdc747122ff2991a557042fc5d2ad8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Unfinished -->
+	<software name="c0e3be80">
+		<description>Rapid Burst</description>
+		<year>2004</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="KaroshiCorporation"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="1"/>
+			<dataarea name="rom" size="0x4000">
+				<rom name="Rapid Burst - Karoshi Corporation (2004) [unfinished game] [original] [2630].rom" size="0x4000" crc="c0e3be80" sha1="57cdb8c1a9ba733cf62dbe00333aa0343297c76f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a832db16">
+		<description>Real Tennis from Sabo?</description>
+		<year>2021</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="AG Software"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="1"/>
+			<dataarea name="rom" size="0x4000">
+				<rom name="ratbox - ag software (2010) (alt).rom" size="0x4000" crc="a832db16" sha1="c08d49f2b30dd035ae8cc2a93c03fc3d2e953809" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="c342167c">
 		<description>Samurai Showdown Demo (V9990)</description>
@@ -1352,6 +1420,226 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="ecee9170">
+		<description>Q-Bert (hacked protection 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Q-Bert - Konami (1986) [a2] [RC-746] [5871].rom" size="0x8000" crc="ecee9170" sha1="bf7f19be5a82c48c65126f9ca8ff6df4e2324d4a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="29efb3db">
+		<description>Q-Bert's Qubes (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Q-Bert's Qubes - Parker Brothers (1984) [Taylor Conversion] [6734].rom" size="0x10000" crc="29efb3db" sha1="4ef7b1f043ac5378a93385ff6c23627da460cecd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3a03a32d">
+		<description>Quartet (extracted from futuredisk)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Quartet - Ilkke and bitsofbas (2019) [MSXDev2018] [v1.3] [FutureDisk Version].ROM" size="0x8000" crc="3a03a32d" sha1="72c70ec08879d4f96e5a20a2dc1ee4f73587f9c9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9b8765bc">
+		<description>Quasar (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Quasar - Tynesoft (1986) [6036].rom" size="0x20000" crc="9b8765bc" sha1="9b76352d2ef21ff3193416ac87fdc9555e378c0f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d1517e41">
+		<description>Quebert (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Quebert - Eurosoft (1988) [4916].rom" size="0x10000" crc="d1517e41" sha1="72afb25e3f2acde3264816610a49fe3db15cc703" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3a37271e">
+		<description>Queen's Golf (hacked, A&amp;L)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Queen's Golf - ASCII (1984) [1889].rom" size="0x4000" crc="3a37271e" sha1="d1150f7f446e9c7e0fcd834593c291cfa60193cf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d9e93e94">
+		<description>Queen's Golf Training Center (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Queen's Golf - ASCII (1984) [5962].rom" size="0x4000" crc="d9e93e94" sha1="8623bf13cd8de6ce7b537e99818da201b9893f50" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="71e94fce">
+		<description>R-Type (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="R-Type - IREM (1988) [Version 2] [1894].rom" size="0x80000" crc="71e94fce" sha1="0b379610cb7085005a56b24a0890b79dd5a7e817" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="952bfaa4">
+		<description>R-Type (overdump 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="R-Type - IREM (1988) [6369].rom" size="0x80000" crc="952bfaa4" sha1="b64267985c0f51f4153e16aafeb5d6704195a78a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a3a51fbb">
+		<description>R-Type (overdump 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="R-Type - IREM (1988) [6368].rom" size="0x80000" crc="a3a51fbb" sha1="3776f140273802860c3ce437187f15987f7b7c68" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2a019191">
+		<description>R-Type (overdump 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="R-Type - IREM (1988) [5228].rom" size="0x80000" crc="2a019191" sha1="e796d475b24fdf704acab8b9a5526f86324f85d8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2daf3080">
+		<description>R-Type (hacked, fm-pac fix)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="393216">
+				<rom name="R-Type - IREM (1988) [Version 2] [1894].rom" size="393216" crc="2daf3080" sha1="96c84bfc2756313a6a2e1d09319f4aa85e815127" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a884911c">
+		<description>R-Type (stripped down to 384KB)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="393216">
+				<rom name="R-Type - IREM (1988) [MSX1 Mode] [GoodMSX] [1891].rom" size="393216" crc="a884911c" sha1="37bd4680a36c3a1a078e2bc47b631d858d9296b8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5b14c736">
+		<description>R-Type (stripped down to 384KB 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="393216">
+				<rom name="R-Type - IREM (1988) [1892].rom" size="393216" crc="5b14c736" sha1="9b6cb224f2a7a4af69221f1280d3344a5c88450e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="24c74920">
+		<description>Rabbian (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Rabbian (Soft Pro).rom" size="0x4000" crc="24c74920" sha1="66e2e46f74e21f8936de48d9f35298c875d871c1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="850d7fb2">
+		<description>Raid on Bungeling Bay (hacked?, 2 bytes different)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Raid On Bungeling Bay - Broderbund Software (1984) [a] [5631].rom" size="0x8000" crc="850d7fb2" sha1="f20ff463bad03145fefd0133c669ef7d6f06dffd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dd9ba5be">
+		<description>Rally-X (hacked, Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Rally-X - NAMCO (1984) [1903].rom" size="0x8000" crc="dd9ba5be" sha1="9e06939700ebfebc28d5fb8837a84da5c89fcf2a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="45c9acfd">
+		<description>Rally-X (hacked, Screen)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Rainbow Stories - Al Alamiah (1986) [2948].rom" size="0x8000" crc="45c9acfd" sha1="8f3ec8301e9d21a937cc4f3cbc15b07ce5491d2f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="86d63ce0">
+		<description>Rally-X (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Rally-X - NAMCO (1984) [GDX SCC Version] [3263].rom" size="0x4000" crc="86d63ce0" sha1="5ad581075397ea7de010b1cd8475d45fd7738195" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="912109c9">
+		<description>RAM (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="RAM - Topo Soft (1990) [6034].rom" size="0x20000" crc="912109c9" sha1="e75fd2a8f89fd65b26b4125ca76cc3bb908c7e01" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="0859f662">
  		<description>Rambo (Japan, hacked protection)</description>
  		<year>1985</year>
@@ -1380,6 +1668,28 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="a8b1ab2b">
+		<description>Rambo (hacked, alternative intro)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Rambo - Pack-In-Video (1985) [Alternative Intro] [1910].rom" size="0x8000" crc="a8b1ab2b" sha1="441dacb74a47ca4b7d1ce47300d182bc7424ffac" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c12772de">
+		<description>Rambo (hacked, Gabo)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Rambo - Pack-In-Video (1985) [6400].rom" size="0x8000" crc="c12772de" sha1="c0a20a9484d0758eb93c31f570f1f83b3bb3b792" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="0c2da50f">
  		<description>Red Zone (Japan, hacked)</description>
  		<year>1985</year>
@@ -1393,6 +1703,215 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="b0fbbd72">
+		<description>Red Dawn (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Red Dawn - Eurosoft (1988) [4392].rom" size="0x10000" crc="b0fbbd72" sha1="8ba29bbac253625ccd0fb9ae985364011557711e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3bd6d9e4">
+		<description>Relevo's_Snowboarding_Jukebox (not a rom)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="SNOWBOARDING_JKBX.rom" size="0x2000" crc="3bd6d9e4" sha1="6f8c996e7d5f9d06d3305eaca73ef5c79b22b15c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="11cb5eda">
+		<description>Rescate Atlantida (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Rescate Atlantida - Dinamic (1989) [6033].rom" size="0x20000" crc="11cb5eda" sha1="ce88c82e75bffb455702905f242ea5b1e5d73960" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fc48aa0b">
+		<description>Rex Hard (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Rex Hard - Mister Chip (1987) [6032].rom" size="0x20000" crc="fc48aa0b" sha1="204fe4d613904f24375f65db144e5d29650231b3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1cb8f6b3">
+		<description>River Chase (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="River Chase (Soft Pro International) [v0.8.5b fixed].rom" size="0x8000" crc="1cb8f6b3" sha1="d3b8605ae7258b24b9a7e2869981246e744614c0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="158b1836">
+		<description>River Raid (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="River Raid - Activision (1984) [6132].rom" size="0x4000" crc="158b1836" sha1="9c371ad2c7b13f20e41d555914982aef660f75e9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="42de3ed0">
+		<description>Road Fighter (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Road Fighter - Konami (1985) [a2] [RC-730] [5457].rom" size="0x4000" crc="42de3ed0" sha1="8cac50ecd064cdb12e34c985aec53a2462a365dc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="acef0086">
+		<description>Road Fighter (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Road Fighter - Konami (1985) [SCC] [RC-730] [5460].rom" size="0x10000" crc="acef0086" sha1="191129f2b82660e17cd4f03f9fad80e603fbef7e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="909c8be5">
+		<description>Road Fighter (cracked, Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Road Fighter - Konami (1985) [Ulver crack] [RC-730] [1954].rom" size="0x4000" crc="909c8be5" sha1="bd865b52e80ae713f34e1d2137553011d0983e36" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="183f1a78">
+		<description>Robocop (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Robocop - Ocean (1988) [Hold CTRL while booting] [6035].rom" size="0x20000" crc="183f1a78" sha1="04f283c8d068d3c2a4ce59578bc351adf18d90b1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d58b6537">
+		<description>Robowres 2001 (hacked differtent banking)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Robowres 2001 - Micronet (1987) [4229].rom" size="0x20000" crc="d58b6537" sha1="3bc699c0b789939140f6cc35f2732080f80feaa3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21c22abf">
+		<description>Roc'n Rope (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Roc'N Rope - Coleco (1984) [6026].rom" size="0x10000" crc="21c22abf" sha1="0cd5fadacf555c193b9153b9ee6d54ec356045bb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d8a52866">
+		<description>Rock'n Roller (From listing in Popcom 1988-12)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Rock'n Roller - Kaeru Soft (1988) [original] [2699].rom" size="0x4000" crc="d8a52866" sha1="25cc9638db16587a182534122d1c6b98ac321e2b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d1419ebd">
+		<description>Rock'n Roller (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Rock'n Roller - Topo Soft (1988) [4446].rom" size="0x10000" crc="d1419ebd" sha1="9d272ff5dbb0ef0c7f55a480a2096f74f8e47ed9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c30b3076">
+		<description>Rock'n Roller (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Rock'n Roller - Topo Soft (1988) [ROM version by Kabish] [4278].rom" size="0x20000" crc="c30b3076" sha1="f8d7070aa08fca8f026f864d4a888553bd84cd1f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9ade7d5d">
+		<description>Rocket Roger (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Rocket Roger - Alligata (1986) [6029].rom" size="0x8000" crc="9ade7d5d" sha1="8cc548078bbe32659eb7106af4855a5b87c4ff61" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0099f80a">
+		<description>Rocket Roger (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Rocket Roger - Alligata (1986) [azety] [6030].rom" size="0x8000" crc="0099f80a" sha1="61c1ae30407da58a4385e86be4f35167989a345c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2ce739ea">
+		<description>Rocket Roger (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Rocket Roger - Alligata (1986) [JoyStick] [6031].rom" size="0x8000" crc="2ce739ea" sha1="6471119fefc11806384efe5af3aa0c97c3ed8b53" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6bc782af">
+		<description>Rocky (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Rocky - Dinamic (1987) [6028].rom" size="0x20000" crc="6bc782af" sha1="f4188b66d3cbaacb01891dc6e22656790f9495aa" />
+			</dataarea>
+		</part>
+	</software>
+
  	<software name="452556ce">
  		<description>Roger Rubbish (Europe, manually recreated)</description>
  		<year>1985</year>
@@ -1405,6 +1924,72 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="a8690b32">
+		<description>Roller Ball (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Roller Ball - HAL Laboratory (1984) [a2] [5583].rom" size="0x4000" crc="a8690b32" sha1="50e1830bf2591da8fd940517ac6de4b054ec459f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f2137fa1">
+		<description>Roller Ball (hacked 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Roller Ball - HAL Laboratory (1984) [a3] [5584].rom" size="0x4000" crc="f2137fa1" sha1="fb605d8c3c04ee1e215b89cb68bcc25c879cd225" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="534e3978">
+		<description>Roller Ball (manually created rom)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="40960">
+				<rom name="Roller Ball - HAL Laboratory (1984) [a] [1969].rom" size="40960" crc="534e3978" sha1="f6e0dff9f8674383a866902fddb72a280d331d9d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9d31f68f">
+		<description>Roller Ball (extracted from Hal Game Collection vol 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Roller Ball - HAL Laboratory (1984) [from Hal Game Collection vol 2] [5585].rom" size="0x4000" crc="9d31f68f" sha1="6118f88cfbb96b3f2e176e14b4321aae6c4d36d5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c444de44">
+		<description>Runner (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Runner - Loriciels (1986) [6024].rom" size="0x10000" crc="c444de44" sha1="3d8ef5aa6a427b2bccc28134fbc247cf404a4564" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3a2289c5">
+		<description>Runner (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Runner - Loriciels (1986) [a] [6025].rom" size="0x8000" crc="3a2289c5" sha1="0d7bc6104b8c55fd538cb11ec1f2257c09e64035" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="f5f0f597">
 		<description>Safari X (cas2crt conversion)</description>
