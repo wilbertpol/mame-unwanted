@@ -5,6 +5,21 @@ license:CC0-1.0
 -->
 <softwarelist name="unwanted_msx2_cart" description="MSX2 cartridges - hacks, cracks, conversions, etc">
 
+	<!-- To Sort -->
+
+	<software name="dfcd22f2">
+		<description>Unknown Zemina (Korea)</description>
+ 		<year>1988</year>
+ 		<publisher>Zemina</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Ninja Kun - Microcabin (1983) [3168].rom" size="0x20000" crc="dfcd22f2" sha1="4d904fb50b82c9ead8432e14ae1cdd23a0e2fbfe" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Hacks, Cracks, Translations, etc -->
+
 	<software name="a39c79be">
 		<description>Seikima 2 (hacked/translated?)</description>
  		<year>19??</year>

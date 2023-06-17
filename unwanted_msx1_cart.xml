@@ -20,6 +20,58 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<!-- Not working -->
+	<software name="860f12db">
+		<description>Night City (English)</description>
+		<year>2005</year>
+		<publisher>&lt;doujin&gt;</publisher>
+		<info name="developer" value="Kotai"/>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Night City - Yermani Soft (2005) [MSX-DEV06] [English Version] [original] [1657].rom" size="0x10000" crc="860f12db" sha1="22f9b0238ff48840fb7d45ac93a7f15495393920" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Not working -->
+	<software name="41c89bf7">
+		<description>Night City (Spanish)</description>
+		<year>2005</year>
+		<publisher>&lt;doujin&gt;</publisher>
+		<info name="developer" value="Kotai"/>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Night City - Yermani Soft (2005) [MSX-DEV06] [Spanish Version] [original] [1656].rom" size="0x10000" crc="41c89bf7" sha1="4b138e041947990309c228890914689908d46685" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- basic to cartridge conversion -->
+	<software name="ee7fce37">
+		<description>Ninfas 2</description>
+		<year>2011</year>
+		<publisher>&lt;doujin&gt;</publisher>
+		<info name="developer" value="Kotai"/>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Ninfas 2 - Kotai (2011) [6507].rom" size="0x20000" crc="ee7fce37" sha1="06b9194446af72a7e56d9061de69309df9dc64db" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Still being sold -->
+	<software name="nogaliou">
+		<description>Nogalious</description>
+		<year>2019</year>
+		<publisher>&lt;doujin&gt;</publisher>
+		<info name="developer" value="LUEGOLU3GO Studio"/>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Nogalious - LUEGOLU3GO Studio (2019).rom" size="0x80000" crc="7321d4f4" sha1="6096d5a8c269c8db39820a54868cdd2c993ff94c" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- supposedly ported to MSX by jitursan in 2020? -->
 	<software name="oceano">
 		<description>Oceano</description>
@@ -1385,6 +1437,303 @@ license:CC0-1.0
  			<feature name="start_page" value="1"/>
  			<dataarea name="rom" size="0x4000">
  				<rom name="mr. do's wildride (1985)(nippon columbia - colpax - universal)[cr angel].rom" size="0x4000" crc="01ea3a27" sha1="4b168d751cedf73f09ad6b7a7e4ce809880b10dd" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="5a95fe13">
+ 		<description>Nenokatas (dsk2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Nenokatas - Baa (2015) [6106].rom" size="0x8000" crc="5a95fe13" sha1="1ec75464f9fe766a247f1937e8bddd47db58f65b" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="55fbd319">
+ 		<description>Nenokatas (dsk2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Nenokatas - Baa (2015) [a] [6107].rom" size="0x8000" crc="55fbd319" sha1="8ec06d44ab9529ac35853e26a904a08098a7ebe8" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="f76788f5">
+ 		<description>Navy Moves (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x20000">
+ 				<rom name="Navy Moves - Dinamic (1988) [Part 1 and 2] [6110].rom" size="0x20000" crc="f76788f5" sha1="a7d54b5e90530e8eb3efe03ae989bf8f4f3f737f" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="57f8271e">
+ 		<description>Navy Moves (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x20000">
+ 				<rom name="Navy Moves - Dinamic (1988) [Part 1] [6069].rom" size="0x20000" crc="57f8271e" sha1="fe6dc9c792a9b0c687a319c71dae264dc921b3bd" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="06a0a567">
+ 		<description>Navy Moves (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x20000">
+ 				<rom name="Navy Moves - Dinamic (1988) [Part 2] [6070].rom" size="0x20000" crc="06a0a567" sha1="58bd4f42ca5e75803bc71482636531da40bddac5" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="0af15924">
+ 		<description>Nessen Koushiyen - Casio Baseball (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x4000">
+ 				<rom name="Nessen Koushiyen - Casio Baseball - Casio (1984) [a] [6046].rom" size="0x4000" crc="0af15924" sha1="47bb836bf0ab8fa36068871862c64d3b6f07d1b3" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="5e1a1b91">
+ 		<description>Nausicaä (hacked? cannot extract)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x4000">
+ 				<rom name="Never Forget To Nausicaa Game Forever - Technopolis Soft (1984) [4978].rom" size="0x4000" crc="5e1a1b91" sha1="2f7bc72c7a3f34438a2ac37626c50773a1a7705d" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="6012fde7">
+ 		<description>NGA II (hardware registers in last 0x200 bytes?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x4000">
+ 				<rom name="NGA II - The Links (1985) [Kanji] [1655].rom" size="0x4000" crc="6012fde7" sha1="5b20c3e0b9f1f29149039d5246be881a6b0dfdb1" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="4ffe916f">
+ 		<description>Nights Flight (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x4000">
+ 				<rom name="Night Flight - Colpax (1983) [4880].rom" size="0x4000" crc="4ffe916f" sha1="42bce021d6e0cedc908c3b4dd140577fc5fd5530" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="36eb57e5">
+ 		<description>Nights Flight (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x4000">
+ 				<rom name="Night Flight - Colpax (1983) [a] [6053].rom" size="0x4000" crc="36eb57e5" sha1="e8f08c6c95f84f70e20698a9c20d70fb2c679743" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="be8ba2d0">
+ 		<description>Nightshade (hacked, Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Night Pursuit - German Gomez Herrera (2008) [2920].rom" size="0x8000" crc="be8ba2d0" sha1="6aa2758d972b0ba06e58769a4f96d5e94a3efd51" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="d1bc3688">
+ 		<description>Nightshade (hacked stack pointer)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Night Pursuit - German Gomez Herrera (2008) [2919].rom" size="0x8000" crc="d1bc3688" sha1="a49a7ce290d83aa80a4e2664cf776193aecb6380" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="63e9fb70">
+ 		<description>Nightshade (patched/baddump? 3 bytes zeroed at 4000)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Night Shade - Ultimate Play The Game (1985) [a] [6056].rom" size="0x8000" crc="63e9fb70" sha1="14ddc7a00a2fc85e19bcff8d55dac5c06e32da95" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="762ca51c">
+ 		<description>Nightshade (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Night Shade - Ultimate Play The Game (1985) [1664].rom" size="0x8000" crc="762ca51c" sha1="c3f849c342839fef2ef718b5115a90a31e7db1f6" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="b0a221ca">
+ 		<description>Nightshade (hacked, Boram)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Night Shade - Ultimate Play The Game (1985) [1666].rom" size="0x8000" crc="b0a221ca" sha1="83fa6a7847faf14b6ebfae4637ac8868c869c7f5" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="34a61461">
+ 		<description>Ningyo Densetsu (hacked, Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Ningyo Densetsu - Fathom - Imagic (1985) [h Prosoft] [1668].rom" size="0x8000" crc="34a61461" sha1="b7e279cd68faa5aee4434480feebdf189fb54e73" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="01257f16">
+ 		<description>Ninja Kun (translated, Brazil)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Ninja Kun - Majyo no Bouken - Nippon Dexter - JALECO (1984) [tr Br Pauli Soft] [Translated] [1675].rom" size="0x8000" crc="01257f16" sha1="7d566809ea870ab681680ba3daa8946cfcb060e5" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="88c5805d">
+ 		<description>Ninja Princess (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Ninja Kun - Majyo no Bouken - Nippon Dexter - JALECO (1984) [2921].rom" size="0x8000" crc="88c5805d" sha1="c84507bc4f5ea132197f3ede885a67327fe1b68d" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="41bff8b9">
+ 		<description>Ninja Princess (cracked, Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Ninja Princess - Pony Canyon (1986) [Ulver crack] [1678].rom" size="0x8000" crc="41bff8b9" sha1="152e4edc0cadeab783f4724c6539875d9c6ca018" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="2e7147a5">
+ 		<description>Ninjya Kage (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x4000">
+ 				<rom name="Ninjya Kage - Hudson Soft - ASCII (1984) [a2] [6045].rom" size="0x4000" crc="2e7147a5" sha1="cff92b5e7d7317d75822def3d5e7ea910502a1ae" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="f633730a">
+ 		<description>Nonamed (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x10000">
+ 				<rom name="Nonamed - Dinamic (1987) [original] [4335].rom" size="0x10000" crc="f633730a" sha1="c546a5d4aaa9a068f7e8cf79ca73e8295b1b9f96" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="29d1f0ad">
+ 		<description>Nonamed (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x20000">
+ 				<rom name="Nonamed - Dinamic (1987) [a] [5951].rom" size="0x20000" crc="29d1f0ad" sha1="5ca739c3860c28dd876f7fdd397cbdba1e085f54" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="a24441b8">
+ 		<description>Norseman (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Norseman - Electric Software (1984) [a2] [5952].rom" size="0x8000" crc="a24441b8" sha1="adfe956da638a01bdac606180aabab596c99860b" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="590f4bf8">
+ 		<description>Nuclear Bowls (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x20000">
+ 				<rom name="Nuclear Bowls - Diabolic (1986) [6093].rom" size="0x20000" crc="590f4bf8" sha1="406ecb0fa6dff3ed86c4641c56a099c2e673ddf1" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="b2d20505">
+ 		<description>Nuts and Milk (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x4000">
+ 				<rom name="Nuts And Milk - Hudson Soft - Japanese Softbank (1983) [5953].rom" size="0x4000" crc="b2d20505" sha1="bbb7297755ab26672325a9d0a7297a263374e8d0" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="6545b0cb">
+ 		<description>Nuts and Milk (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x8000">
+ 				<rom name="Number and Target - Al Alamiah (1986) [2923].rom" size="0x8000" crc="6545b0cb" sha1="99e56e458a41784fb33909d02945d7a619096369" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="2996c0ca">
+ 		<description>Nuts and Milk (cas2crt conversion, translated, Spanish)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x4000">
+ 				<rom name="Nuts And Milk - Hudson Soft - Japanese Softbank (1983) [Spanish] [Translated] [5954].rom" size="0x4000" crc="2996c0ca" sha1="b1b8cf1ca89f26c9125bc1d4add364d2711786fa" />
  			</dataarea>
  		</part>
  	</software>
