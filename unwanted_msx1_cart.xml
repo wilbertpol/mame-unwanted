@@ -20,6 +20,44 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<!-- Unknown what dump it or where it comes from, it contains z80 code but it's not an MSX cart(?). -->
+	<software name="5f43a451">
+		<description>COMtech_VT52_CPM_1987.rom - Program emulacji terminala VT 52?</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x800">
+				<rom name="COMtech_VT52_CPM_1987.rom" size="0x800" crc="5f43a451" sha1="e67ea3ec461fa0e733409bc63809570752353098" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Unknown if still being sold -->
+	<software name="f311f791">
+		<description>La Leyenda De Standaard</description>
+		<year>19??</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Physical Dreams"/>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="2031616">
+				<rom name="La Leyenda De Standard - Physical Dreams (2019)(es).rom" size="2031616" crc="f311f791" sha1="a03494b58e1d26c39dec979e76ff1ff32e8f216e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Unfinished game -->
+	<software name="4612e147">
+		<description>La Mulana</description>
+		<year>19??</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Pepe Vila"/>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="La-Mulana (Pepe Vila, Unreleased) [alpha version].rom" size="0x4000" crc="4612e147" sha1="91132256d8964caa6a2d8c13a2322aa3dd99c927" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- Unfinished game -->
 	<software name="0a634a03">
 		<description>Mega Twince</description>
@@ -1503,6 +1541,558 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="6630c8c5">
+		<description>La Abadía del Crimen (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="La Abadía del Crimen - Opera Soft (1988) [5657].rom" size="0x20000" crc="6630c8c5" sha1="dbda836e1a1b2b1cd021fa3e3aae571e8a90a3ba" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="567ea04d">
+		<description>La Abadía del Crimen (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="La Abadía del Crimen - Opera Soft (1988) [a] [5659].rom" size="0x20000" crc="567ea04d" sha1="fb73fa40820376580e9558e613058ec9c3804e08" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="48b377d0">
+		<description>La Aventura Especial (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="La Aventura Espacial - Aventuras AD (1990) [Part 1] [6082].rom" size="0x20000" crc="48b377d0" sha1="fd2d111b31ab92a8ee3e78e45cc1fab3d3f47cf7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="862828b4">
+		<description>La Aventura Especial (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="La Aventura Espacial - Aventuras AD (1990) [Part 2] [6083].rom" size="0x20000" crc="862828b4" sha1="378c966185c7daf8cc6574fc24695ac576da1ee8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9f632294">
+		<description>La Aventura Original (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="La Aventura Original - Aventuras AD (1989) [4960].rom" size="0x20000" crc="9f632294" sha1="2353aaa579a317a5da0caf260aaf9261b263370c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c7ad777f">
+		<description>La Espada Sagrada (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="La Espada Sagrada - Topo Soft (1990) [Part 1 and 2] [6080].rom" size="0x20000" crc="c7ad777f" sha1="dc263712ea4057bdfe9cd6f8165ae8a0fe0a608c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="15ba9f3c">
+		<description>La Espada Sagrada (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="La Espada Sagrada - Topo Soft (1990) [Part 3] [6081].rom" size="0x20000" crc="15ba9f3c" sha1="ac2fd1840bcfd7298a5f4712c8f1a395c0074c2f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3f6b2c53">
+		<description>Lady Bug (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Lady Bug - Coleco (1982) [GDX Conversion] [3217].rom" size="0x10000" crc="3f6b2c53" sha1="4e218a6f2aca60d82a22f0a81e81f1619c16c91b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a7eff5cb">
+		<description>Lady Bug (coleco conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Lady Bug - Coleco (1982) [Muffie Loader] [6860].rom" size="0x8000" crc="a7eff5cb" sha1="8215a637c3e3a5cd61e898e80d09ee4db8565b51" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d0e81b62">
+		<description>Lady Safari (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Lady Safari - OMK Software (1988) [6163].rom" size="0x20000" crc="d0e81b62" sha1="7750eb5654f81a714d6399ca10786698e4e0ba5a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="88806dcd">
+		<description>Landing (crashes on start)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Landing - Z80 Epoch (2020) [MSXDev2020] [might not work] [original] [6849].rom" size="0x4000" crc="88806dcd" sha1="9fe8404e15a7b5a14ad338f06c32aee7775609f9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6f9e994a">
+		<description>Laptick'2 (fixed, lower SP)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Laptick 2 - dB-SOFT (1986) [a] [5849].rom" size="0x8000" crc="6f9e994a" sha1="be52f1f90b6d5b4e29a6d95a6a7542818aee8a3c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7981ea06">
+		<description>Laptick'2 (hacked, Boram)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Laptick 2 - dB-SOFT (1986) [1346].rom" size="0x8000" crc="7981ea06" sha1="6584c84307e5dbb7366068283c3c332aaf52b7a4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6c034f66">
+		<description>Laptick'2 (cracked, Flash)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Laptick 2 - dB-SOFT (1986) [cr Flash] [1345].rom" size="0x8000" crc="6c034f66" sha1="25db27ebb67eec8fe15e3e51947c840d23944533" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="49d80f21">
+		<description>Las Aventuras de Rudolphine Rur (crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x100000">
+				<rom name="Las Aventuras de Rudolphine Rur (2020).ROM" size="0x100000" crc="49d80f21" sha1="134217f95c7707c4311bd549d843136075a7c0ca" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2d4c511e">
+		<description>Las Tres Luces de Glaurung (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Las Tres Luces de Glaurung - Erbe Software (1986) [4985].rom" size="0x10000" crc="2d4c511e" sha1="92b5b2f1064e1fd13daf192741738acc20131257" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2620f613">
+		<description>Las Tres Luces de Glaurung (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Las Tres Luces de Glaurung - Erbe Software (1986) [6104].rom" size="0x10000" crc="2620f613" sha1="31855e8bba1d85ddc0fd055faf43ef13b2fc5ed2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f5eb7cca">
+		<description>Lazy Jones (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Lazy Jones - Terminal Software (1985) [6871].rom" size="0x10000" crc="f5eb7cca" sha1="1a459f682068adf5639f4d1eb759e2ec45dee1d5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0ee20ba1">
+		<description>Le Mans (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Le Mans - Electric Software (1985) [part 1] [5367].rom" size="0x8000" crc="0ee20ba1" sha1="0d97085c79152b87422502379c6e23267daee3e7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b3476931">
+		<description>Legendly Knight (mapped hack)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Legendly Knight - Topia (1988) [4987].rom" size="0x20000" crc="b3476931" sha1="f839a58acdedf238c02354e74570a08b48984fd3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="17042a51">
+		<description>Legendly Knight (cracked, Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Legendly Knight - Topia (1988) [Ulver crack] [1351].rom" size="0x20000" crc="17042a51" sha1="598eb258cbe532e98b4a3c8d87ecd9536d09ce56" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="308ec972">
+		<description>Legion (2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Legion - MSX Magazine (1988) [4322].rom" size="0x8000" crc="308ec972" sha1="b14284c21ba7a34ddf6f84dffe41f0fb12341a10" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dda3c142">
+		<description>Leonard (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Leonard - Mind Games Espa'a (1986) [Mindgames Espana S.A.] [1353].rom" size="0x8000" crc="dda3c142" sha1="3103f0170bae627bdeb77108e0e782284e4581c9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b067fd79">
+		<description>Les Flics (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Les Flics - PSS (1985) [6684].rom" size="0x4000" crc="b067fd79" sha1="2d5d93cd94e223ba620b43bb468b2e7708a16f8c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8649d54b">
+		<description>Les Flics (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Les Flics - PSS (1985) [English] [Translated] [3034].rom" size="0x10000" crc="8649d54b" sha1="1565529fed9c59a3c24b2bee153ea679ff1e1027" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cb9eebfb">
+		<description>Les Flics (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Les Flics - PSS (1985) [English] [Translated] [3035].rom" size="0x10000" crc="cb9eebfb" sha1="d745bc68f6f28abedbaea99d8819952731a8d9b0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="86fc0fc8">
+		<description>Les Flics (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Les Flics - PSS (1985) [French] [Translated] [3038].rom" size="0x10000" crc="86fc0fc8" sha1="3d549ac05347997c2e2db9c8dbf264103de4c6f4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a232cdba">
+		<description>Les Flics (cas2crt conversion 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Les Flics - PSS (1985) [French] [Translated] [3039].rom" size="0x10000" crc="a232cdba" sha1="f6f0c4f3d847a9cd4a92b29f095a3cf33854164d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cce37fc5">
+		<description>Les Flics (cas2crt conversion 6)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Les Flics - PSS (1985) [French] [Translated] [6685].rom" size="0x4000" crc="cce37fc5" sha1="473df67e57972a543c8e507b74ce2701adc65e06" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="798e2a1e">
+		<description>Les Flics (cas2crt conversion 7)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Les Flics - PSS (1985) [Spanish (Menus only)] [Translated] [3042].rom" size="0x10000" crc="798e2a1e" sha1="37b08a5f01e70cd27ee502850adfe7bbb172b4ab" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="08172efb">
+		<description>Les Flics (cas2crt conversion 8)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Les Flics - PSS (1985) [Spanish (Menus only)] [Translated] [3043].rom" size="0x10000" crc="08172efb" sha1="df60f831c6b56ed38d9697ed4d993a82a8523f48" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="92885342">
+		<description>Liberator (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Liberator - PJ Soft (1989) [4371].rom" size="0x10000" crc="92885342" sha1="bd6b86fa27cd5a0408a9105cb0344cfdfee47309" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="librewaya">
+		<description>Libreway (alt, does not display properly)</description>
+		<year>2014</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="mitrofurano"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="1"/>
+			<dataarea name="rom" size="0x2000">
+				<rom name="libreway - nitrofurano (2014) (alt).rom" size="0x2000" crc="881de322" sha1="be95c417ac1500e6127c57d0adedce6a99117b0e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cc5b83f7">
+		<description>Licence to Kill (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="License to Kill - Domark (1989) [4391].rom" size="0x10000" crc="cc5b83f7" sha1="3e0b439abd8a3364213f2f49e363e49b36b5747c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3c1ade86">
+		<description>Licence to Kill (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="License to Kill - Domark (1989) [a] [5848].rom" size="0x10000" crc="3c1ade86" sha1="4bb2531d054a5432bde0211acff74d50f0bc8b9b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ab4733f3">
+		<description>Life in the Fast Lane (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Life in the fast lane - Bytebusters (1987) [4181].rom" size="0x10000" crc="ab4733f3" sha1="6f15201359b39b9af38b76d56f2ba37dafbb540d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6dfb93e4">
+		<description>Limaribu (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8001">
+				<rom name="Limaribu - Arnold Metselaar (2009) [original] [1357].rom" size="0x8001" crc="6dfb93e4" sha1="2b9ab44526a19706de76ff374459cccae3e65c84" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2d146545">
+		<description>Little Samurai - Issunhoushi No Donnamondai (fixed/hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Little Samurai - Issunhoushi No Donnamondai - Casio (1987) [a2] [6061].rom" size="0x8000" crc="2d146545" sha1="5767d9b0792223181ffb44a174a58c2f7cad9b35" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b40d6681">
+		<description>Little Samurai - Issunhoushi No Donnamondai (hacked Sammi)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Little Samurai - Issunhoushi No Donnamondai - Casio (1987) [h Sammi] [1113].rom" size="0x8000" crc="b40d6681" sha1="617933101a195d1f52aba6444930cfe453e6e50a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ab43fa78">
+		<description>Livingstone Supongo (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Livingstone Supongo - Opera Soft (1986) [4364].rom" size="0x10000" crc="ab43fa78" sha1="a8f59a75b101e071feeef29f585dc33cb918ae2a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="67c634ca">
+		<description>Livingstone Supongo 2 (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="385024">
+				<rom name="Livingstone Supongo 2 - Opera Soft (1989) [No Turbo-R] [5388].rom" size="385024" crc="67c634ca" sha1="8a3059bf17f141a66077d19b1eef10ed048acc82" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6e27b337">
+		<description>Lode Runner (baddump? 1 bit different at 7986)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Lode Runner - Doug Smith (1983) [1362].rom" size="0x8000" crc="6e27b337" sha1="a7c36fe19bb4559e8cc38ca1fae1625ee14b5625" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c667d20a">
+		<description>Lode Runner (buttons reversed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Lode Runner - Doug Smith (1983) [reversed buttons] [5845].rom" size="0x8000" crc="c667d20a" sha1="594feabb4b686a5bb0ffbdbd2bf9b7767b3c8234" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cc5caba8">
+		<description>Lode Runner 2 (baddump?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Lode Runner 2 - Doug Smith (1984) [2881].rom" size="0x8000" crc="cc5caba8" sha1="d92c07dd1fa817cf07a36bccd03b3bce5affd325" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0202429c">
+		<description>Lode Runner 2 (buttons reversed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Lode Runner 2 - Doug Smith (1984) [5846].rom" size="0x8000" crc="0202429c" sha1="54eb55002230e855728951de4c1082c07db8e78a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7c139f79">
+		<description>Lonesome Tank (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Lonesome Tank - Micro Art (1984) [5942].rom" size="0x8000" crc="7c139f79" sha1="32071bb3f5dae7d774e9f11ccf527299adbc94fe" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3bd82b9c">
+		<description>Looping (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Looping - Coleco (1982) [GDX Conversion] [3218].rom" size="0x10000" crc="3bd82b9c" sha1="1bfdc271b5fd267c1b7c4af623bbc16990689700" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="689da3b8">
+		<description>Lords of Time (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Lords of Time - Level 9 Computing (1983) [4437].rom" size="0x8000" crc="689da3b8" sha1="547805eb3b807cd4a289f01d7a76be62feaa7dff" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="877baaf5">
+		<description>Lords of Time (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Lords of Time - Level 9 Computing (1983) [a] [5844].rom" size="0x8000" crc="877baaf5" sha1="2627631e735d56e6792e77075b2ad33fa4b538a5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="59527c64">
+		<description>Lot Lot (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Lot Lot - Technopolis Soft (1986) [Does not work on all MSX models] [4988].rom" size="0x8000" crc="59527c64" sha1="ca8753b2260214a13890023ee1bb293c585ca6d3" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="1e218cab">
 		<description>M.A.S.H. (coleco conversion)</description>
