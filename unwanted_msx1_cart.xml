@@ -20,6 +20,18 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<!-- Only display a logo and an image -->
+	<software name="a997f80f">
+		<description>Karoshi Demo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Karoshi Demo - Karoshi Corporation (2002) [1169].rom" size="0x2000" crc="a997f80f" sha1="2d3e86ab553c3ac7c97b8f210207f2c8578656b5" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- Unknown what dump it or where it comes from, it contains z80 code but it's not an MSX cart(?). -->
 	<software name="5f43a451">
 		<description>COMtech_VT52_CPM_1987.rom - Program emulacji terminala VT 52?</description>
@@ -1332,6 +1344,281 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="f84e5ff6">
+		<description>Jungle Warrior (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Jungle Warrior - Zigurat (1990) [4944].rom" size="0x10000" crc="f84e5ff6" sha1="754a1eeb2f3c7c509573a3f978406dce3cd5a5d1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="185c0f04">
+		<description>Jungle Warrior (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Jungle Warrior - Zigurat (1990) [a] [5930].rom" size="0x20000" crc="185c0f04" sha1="b649c9006beefec7cdd12f5dd9d898418f85e1b4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fd39d097">
+		<description>Juno First (underdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Juno First - Konami (1983) [1158].rom" size="0x4000" crc="fd39d097" sha1="4a92ec1be15c45ee98c08ac96191a369d562181b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="486a9850">
+		<description>Juno First (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Juno First - Konami (1983) [6365].rom" size="0x4000" crc="486a9850" sha1="02b4bf5302f60a3c79e6c2e97957b7eb62626f3e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="951f0e59">
+		<description>Juno First (hacked 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Juno First - Konami (1983) [a] [5541].rom" size="0x4000" crc="951f0e59" sha1="e2b471f86968802b3c31cd16428ff237ef21d6f7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f27c9494">
+		<description>Juno First (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Juno First - Konami (1983) [o] [1153].rom" size="0x8000" crc="f27c9494" sha1="14de1be5de19a27919d80cdad2ceb0554a48ff02" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="53e7b874">
+		<description>Juno First (baddump 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Juno First - Konami (1983) [o2] [1154].rom" size="0x8000" crc="53e7b874" sha1="c5b4fdca8887a8aba203b311c5519f8e4863d910" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="875b2f69">
+		<description>Juno First (baddump 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Juno First - Konami (1983) [o3] [1155].rom" size="0x8000" crc="875b2f69" sha1="4ad170c5dfadc6a811cd5b8dc4c99be656ceff56" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="253192ff">
+		<description>Kaeru Shooter (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Kaeru Shooter - Hudson Soft (1984) [4319].rom" size="0x4000" crc="253192ff" sha1="7312622728779fd2de7238b058a34bd73e02406f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b581f746">
+		<description>Kageno Densetsu (baddump?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Kageno Densetsu - The Legend Of Kage - TAITO (1986) [a] [1163].rom" size="0x8000" crc="b581f746" sha1="666e82d8a8e5d2672a9b7159adcdc861a31c8fa1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21151be0">
+		<description>Kageno Densetsu (enhanced)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Kageno Densetsu - The Legend Of Kage - TAITO (1986) [Arcade Enhanced].rom" size="0x8000" crc="21151be0" sha1="b44881df09aa27668cc2ab45313943f7ac5cf0a2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a11c6655">
+		<description>Kageno Densetsu (hacked Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Kageno Densetsu - The Legend Of Kage - TAITO (1986) [h Prosoft] [1166].rom" size="0x8000" crc="a11c6655" sha1="76a67138d445557e0c079424acdff3c60423d8ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="53358963">
+		<description>Katori Senso (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Katori Sensō (Mosquito Wars) - UCHUDO (1984).rom" size="0x4000" crc="53358963" sha1="e621bdcd8131ebc189e23ad44a840b263e5d18e0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6fbf7baa">
+		<description>Keystone Kapers (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Keystone Kapers - Activision (1984) [2861].rom" size="0x4000" crc="6fbf7baa" sha1="05f0880c34b505d095142423d59ef1ffdac35b5e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c93d2ffd">
+		<description>Keystone Kapers (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Keystone Kapers - Activision (1984) [5932].rom" size="0x4000" crc="c93d2ffd" sha1="75896b1937294c5ec597c9b3cfdf133db7fa2692" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5b976715">
+		<description>Kick It (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Kick It - Aackosoft (1986) [2862].rom" size="0x8000" crc="5b976715" sha1="6a16b2f4efd5ccc4479ba20d9480edbbe64fc741" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="73f37230">
+		<description>Killer Station (extracted from compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Killer Station - Hudson Soft (1983) [4316].rom" size="0x4000" crc="73f37230" sha1="de5efca98a8e1b3485f52de4b089daf842b21bd1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ea7a3d09">
+		<description>Killer Station (extracted from compilation 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Killer Station - Hudson Soft (1983) [a] [6059].rom" size="0x2000" crc="ea7a3d09" sha1="a11cb44740efa835718195fbe011a1f4c2cf35b2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dee2866c">
+		<description>Kinasai (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Kinasai - Hudson Soft (1983) [English] [Translated] [5934].rom" size="0x4000" crc="dee2866c" sha1="236f0deb089c878d2de7f6d2ee107388a0426d45" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="00f77b1e">
+		<description>King &amp; Balloon (hacked Fukashi)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="King &amp; Balloon - NAMCO (1984) [2864].rom" size="0x4000" crc="00f77b1e" sha1="15c82849dfc691a9cc39f874ab48243523ea6b9c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c5ff90ea">
+		<description>King &amp; Balloon (hacked Fukashi 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="King &amp; Balloon - NAMCO (1984) [2865].rom" size="0x4000" crc="c5ff90ea" sha1="c1cd04c3ff667d12764fff9e150b863e94b9bb20" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="01a7e1f7">
+		<description>King &amp; Balloon (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="King &amp; Balloon - NAMCO (1984) [GDX SCC Version] [3257].rom" size="0x4000" crc="01a7e1f7" sha1="3aaa762a16a942bc45e884a428123eecd1fa6a85" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="43685e4a">
+		<description>King &amp; Balloon (hacked Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="King &amp; Balloon - NAMCO (1984) [ProSoft Hack] [4172].rom" size="0x4000" crc="43685e4a" sha1="fe9b6952e7377e7e52c64830bc1dd8509db5c0e9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="92ed23a9">
+		<description>King's Knight (hacked mapper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="King's Knight - Square (1986) [3099].rom" size="0x20000" crc="92ed23a9" sha1="3af846020be32c20d705c4fbfb6f51d24a094be3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1956d687">
+		<description>King's Knight (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="King's Knight - Square (1986) [a] [1203].rom" size="0x20000" crc="1956d687" sha1="438bbb3367db4938b3d90fa9d2cfb1f08c072bb7" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="e7c3e1b7">
  		<description>King's Valley (Europe, Japan, hacked protection)</description>
  		<year>1985</year>
@@ -1374,6 +1661,149 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="121f089c">
+		<description>King's Valley (hacked protection 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="King's Valley 1 - Konami (1985) [a4] [RC-727] [5376].rom" size="0x4000" crc="121f089c" sha1="4607f812ef55f67bfd11db3d20eb38877edc768a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5907ad3e">
+		<description>King's Valley (hacked Clover)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="King's Valley 1 - Konami (1985) [RC-727] [3199].rom" size="0x4000" crc="5907ad3e" sha1="3c27d2873203c6b634543737c1b5f27d0e0334a1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c705dff5">
+		<description>King's Valley (cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="King's Valley 1 - Konami (1985) [Ulver crack] [RC-727] [1210].rom" size="0x4000" crc="c705dff5" sha1="0f74234adda250d72d4147872cb421a3b6f26efa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6a53581a">
+		<description>King's Valley (cracked Ulver 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="King's Valley 1 - Konami (1985) [RC-727] [1209].rom" size="0x4000" crc="6a53581a" sha1="de4e210e6f757efc45e66be66b14cd6ec21b2ba7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="438f9077">
+		<description>King's Valley II (hacked FRS)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="King's Valley 2 - The Seal Of El Giza - MSX1 Version - Konami (1988) [FRS patch] [RC-760] [2641].rom" size="0x20000" crc="438f9077" sha1="cb612cbfdf79dabe55164b386ca956a3e187bef7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="241d5000">
+		<description>King's Valley II (hacked JoySNES)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="King's Valley 2 - The Seal Of El Giza - MSX1 Version - Konami (1988) [JoySNES] [RC-760] [5374].rom" size="0x20000" crc="241d5000" sha1="7f6c5ec94d35981547a277c308ea9c2d2ab92e0f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2055aba4">
+		<description>Kinnikuman (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Kinnikuman - Colosseum Deathmatch - BANDAI (1985) [a] [1220].rom" size="0x8000" crc="2055aba4" sha1="7f16f43b2197f9bcc65c564c1485034797abacb6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1c6e3908">
+		<description>Kinnikuman (hacked 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Kinnikuman - Colosseum Deathmatch - BANDAI (1985) [a2] [5935].rom" size="0x8000" crc="1c6e3908" sha1="0e1096937203778d5ddfc1269e224e8b8f4eca18" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1ed66216">
+		<description>Kinnikuman (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Kinnikuman - Colosseum Deathmatch - BANDAI (1985) [English by GDX] [Translated] [5936].rom" size="0x8000" crc="1ed66216" sha1="3a9e28fff0d7a40307bc8738cd759b1f9196063d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="377f5d3b">
+		<description>Klax (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Klax - Domark (1990) [5937].rom" size="0x20000" crc="377f5d3b" sha1="be43910ad763c265bbd363784d1864ed7f0e7c63" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="de94e009">
+		<description>Knight Lore (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Knight Lore - Ultimate Play The Game (1986) [2866].rom" size="0x8000" crc="de94e009" sha1="314dfcde3708984a4bcbee21c8f767952bcfda80" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7fbb496d">
+		<description>Knight Lore (baddump, 1 bit different)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Knight Lore - Ultimate Play The Game (1986) [a] [6057].rom" size="0x8000" crc="7fbb496d" sha1="671c7ba1325ac123a8b93cc37ea34e0675585465" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21bcd3a5">
+		<description>Knight Tyme (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Knight Tyme - Mastertronic (1986) [1224].rom" size="0x10000" crc="21bcd3a5" sha1="64321138e03337d0e6178ac30bb98e6623c640ba" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="ca9f791b">
  		<description>Knightmare - Majou Densetsu (Japan, hacked protection)</description>
  		<year>1986</year>
@@ -1404,6 +1834,380 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="bb63f91a">
+		<description>Knightmare (hacked protection 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Knightmare - Majyo Densetsu - Konami (1986) [RC-739] [1409].rom" size="0x8000" crc="bb63f91a" sha1="c484f44af0ab1bcaf46ae5f14a3b38a53ee77f31" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="780e52cf">
+		<description>Knightmare (hacked protection 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Knightmare - Majyo Densetsu - Konami (1986) [a] [RC-739] [5393].rom" size="0x8000" crc="780e52cf" sha1="2bb8ea877d13617dbf3b6a43e8cf1c631d584f15" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8f97661e">
+		<description>Knightmare (hacked protection 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Knightmare - Majyo Densetsu - Konami (1986) [a] Bootleg - Pesadelo] [RC-739] [5390].rom" size="0x8000" crc="8f97661e" sha1="3f4fcaa20684e96921ccb196ee0e5549a5c386f2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="12468f82">
+		<description>Knightmare (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Knightmare - Majyo Densetsu - Konami (1986) [SCC] [RC-739] [1412].rom" size="0x20000" crc="12468f82" sha1="19a95d8e0fd5cb61ed02e0641ed15454f0b9de42" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1e108b95">
+		<description>Knightmare (SCC 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Knightmare - Majyo Densetsu - Konami (1986) [SCC Enhanced] [RC-739] [5394].rom" size="0x10000" crc="1e108b95" sha1="e251adcf2354ac496761b564fb1fc5e9521002ae" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9ab41ff5">
+		<description>Knightmare (SCC 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="57344">
+				<rom name="Knightmare - Majyo Densetsu - Konami (1986) [SCC enhanced version] [RC-739] [1411].rom" size="57344" crc="9ab41ff5" sha1="de7b6525f9aafe8ef77d25a799f0f8290bbc8f2e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="965f3cc1">
+		<description>Knightmare (extracted from game collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="57344">
+				<rom name="Knightmare - Majyo Densetsu - Konami (1986) [SCC Game Collection] [RC-739] [3400].rom" size="57344" crc="965f3cc1" sha1="2b36169693227eb2b53e1961191991453f9f27f1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1e6e1ad5">
+		<description>Knightmare (cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Knightmare - Majyo Densetsu - Konami (1986) [Ulver crack] [RC-739] [1410].rom" size="0x8000" crc="1e6e1ad5" sha1="8a6e0f932ce12318a1c5b8dbbfe44b213acb03ae" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ec600d94">
+		<description>Knightmare III (mapper hack)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Knightmare III - Shalom - Konami (1987) [RC-754] [1235].rom" size="0x40000" crc="ec600d94" sha1="240e15fb5d918aa821f226002772dc800d9f20a4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ca4ea90b">
+		<description>Knightmare III (mapper hack 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Knightmare III - Shalom - Konami (1987) [RC-754] [1241].rom" size="0x80000" crc="ca4ea90b" sha1="f999e0187023413d839a67337d0595e150b2398f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c008d2e0">
+		<description>Knightmare III (translated Portuguese)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Knightmare III - Shalom - Konami (1987) [RC-754] [1242].rom" size="0x80000" crc="c008d2e0" sha1="8c609b8bee4245a1bb81e37d888ac5efb66533cf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="22898d3b">
+		<description>Knightmare III (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Knightmare III - Shalom - Konami (1987) [English Translation [B4] [RC-754] [Translated] [1236].rom" size="0x80000" crc="22898d3b" sha1="1ff0afe393f89b6517025dc39a282c11c7da87ca" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f3478f7b">
+		<description>Knightmare III (translated English 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Knightmare III - Shalom - Konami (1987) [English translation [B4] [RC-754] [Translated] [1239].rom" size="0x80000" crc="f3478f7b" sha1="d0dfc1927461d9473d0ed471375dcedddba42279" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a00f616d">
+		<description>Knightmare III (translated English 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Knightmare III - Shalom - Konami (1987) [English Translation [B4] [RC-754] [Translated] [1244].rom" size="0x80000" crc="a00f616d" sha1="828a38535cb6246469a65f429834db8ab469d914" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="efb3e9f5">
+		<description>Knightmare III (translated English 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Knightmare III - Shalom - Konami (1987) [English Translation [B4][disk fix] [RC-754] [Translated] [1245].rom" size="0x80000" crc="efb3e9f5" sha1="87a6681c98a933d54d043bf603ba137f866696a8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="816d3ce0">
+		<description>Knightmare III (translated English 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Knightmare III - Shalom - Konami (1987) [English Translation] [RC-754] [Translated] [1238].rom" size="0x80000" crc="816d3ce0" sha1="3b6f140c99cba5bfa510200df49d1e573d687e4d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="09cdfe8e">
+		<description>Knightmare III (translated English 6)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Knightmare III - Shalom - Konami (1987) [English Translation] [RC-754] [Translated] [1240].rom" size="0x80000" crc="09cdfe8e" sha1="4323eb37b9a795be32a2b64824fc4acd7afe4e9d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6111e883">
+		<description>Knightmare III (translated Korean)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Knightmare III - Shalom - Konami (1987) [Korean Translation] [RC-754] [Translated] [6816].rom" size="0x80000" crc="6111e883" sha1="6158e5eae94d033ba71010a11932f1015443f441" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f5e5ca07">
+		<description>Knightmare III (translated Spanish)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Knightmare III - Shalom - Konami (1987) [Spanish Translation] [RC-754] [Translated] [5399].rom" size="0x80000" crc="f5e5ca07" sha1="e0d204c507220263cb90e6bf8471bf0d123c06a3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a9f72c17">
+		<description>Knightmare III (translated Spanish 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Knightmare III - Shalom - Konami (1987) [Spanish Translation] [RC-754] [Translated] [6508].rom" size="0x80000" crc="a9f72c17" sha1="64e0fa264b92c18c6f6d5eaee53066a78b5ad20d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ea95572b">
+		<description>Konami 8k and 16k ROMS (pirate)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Konami 8k and 16K ROMs - Unknown (2020) [Game Collection] [6437].rom" size="0x80000" crc="ea95572b" sha1="d994f1db3fe6feb3fac60ea0fec250c95598eaff" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="48086e4f">
+		<description>Konami Compilation Volume 1 (pirate)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Konami Compilation Volume 1 - Matra (2010) [unlicensed compilation - GDX Conversion] [5497].rom" size="0x80000" crc="48086e4f" sha1="ce7773ab10eabacb1e04941776d43781d17824f7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="84b4ac80">
+		<description>Konami Compilation Volume 1 (pirate 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Konami Compilation Volume 1 - Matra (2010) [Unlicensed Compilation] [4122].rom" size="0x80000" crc="84b4ac80" sha1="7ca8f0ca8901773fd69bc08eea8a27ac37d6cb3e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aa6f3f7c">
+		<description>Konami Compilation Volume 1 (pirate 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Konami Compilation Volume 1 - Matra (2010) [Unlicensed Compilation] [4132].rom" size="0x80000" crc="aa6f3f7c" sha1="115970209d5b89bdfece9cd941c93feb8faf6b12" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b33eba41">
+		<description>Konami Compilation Volume 2 (pirate)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Konami Compilation Volume 2 - Matra (2010) [Unlicensed Compilation - GDX Conversion] [5498].rom" size="0x80000" crc="b33eba41" sha1="aabecccc5112e247ad8b1f5464faf0927e81fd9d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21f97de6">
+		<description>Konami Compilation Volume 2 (pirate 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Konami Compilation Volume 2 - Matra (2010) [Unlicensed Compilation] [4121].rom" size="0x80000" crc="21f97de6" sha1="61a67b5684b60f11faf92eec9fe392401616a64b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4e1dd121">
+		<description>Konami Game Collection #1 (dsk2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Konami Game Collection - Volume #1 - Konami (1988) [3420].rom" size="0x80000" crc="4e1dd121" sha1="0fc4ea16ae7259d561eb936d6a14e997b7f8cfc1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c5414a3b">
+		<description>Konami Game Collection #1 (dsk2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="172032">
+				<rom name="Konami Game Collection - Volume #1 - Konami (1988) [3986].rom" size="172032" crc="c5414a3b" sha1="621b8b173e079fad8da4391caa95e680e46d1f10" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="48e81415">
+		<description>Konami Game Collection #2 (dsk2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Konami Game Collection - Volume #2 - Konami (1988) [3421].rom" size="0x80000" crc="48e81415" sha1="695866bc9ba0f6ef3b6ee3c75eee70ea3e80d045" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fe9a9ec3">
+		<description>Konami Game Collection #2 (dsk2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="147456">
+				<rom name="Konami Game Collection - Volume #2 - Konami (1988) [3987].rom" size="147456" crc="fe9a9ec3" sha1="9ccfdda9beb5a44843cb2adbb7cd82f19a923488" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="12eacc7e">
+		<description>Konami Game Collection #3 (dsk2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Konami Game Collection - Volume #3 - Konami (1988) [3422].rom" size="0x80000" crc="12eacc7e" sha1="54e6e3475bf89fa09a392d59d6dcf8cf24b55f9d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c8f66b35">
+		<description>Konami Game Collection #3 (dsk2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="253952">
+				<rom name="Konami Game Collection - Volume #3 - Konami (1988) [3988].rom" size="253952" crc="c8f66b35" sha1="5504c61cb89e50c65a156a7b82625349fd7f32d7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cf087eaa">
+		<description>Konami Game Collection #4 (dsk2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Konami Game Collection - Volume #4 - Konami (1988) [3423].rom" size="0x80000" crc="cf087eaa" sha1="ce227d7932847b7f0db39ca85ea3fa0e3c22a692" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="802d7d8d">
+		<description>Konami Game Collection #4 (dsk2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="172032">
+				<rom name="Konami Game Collection - Volume #4 - Konami (1988) [3989].rom" size="172032" crc="802d7d8d" sha1="3dd7d3e6f266eb64fa70fc5f47e69dfe9e834fb7" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="6a8e56e1">
  		<description>Konami's Baseball (Japan, hacked protection)</description>
  		<year>1985</year>
@@ -1417,6 +2221,28 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="3bc58f25">
+		<description>Konami's Baseball (hacked protection 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Konami's Baseball - Konami (1984) [RC-724] [2867].rom" size="0x4000" crc="3bc58f25" sha1="ddfac0f89d4e0337f4c47d680422aaca458d6a45" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="93e0a2f5">
+		<description>Konami's Baseball (hacked protection 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Konami's Baseball - Konami (1984) [a2] [RC-724] [5540].rom" size="0x4000" crc="93e0a2f5" sha1="d5079f10f49ea62870e624b9f30bd9a4a48e7357" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="19ccbce1">
  		<description>Konami's Boxing (Japan, hacked protection)</description>
@@ -1446,6 +2272,105 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="520b5912">
+		<description>Konami's Boxing (hacked protection 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Konami's Boxing - Konami (1985) [a] [RC-736] [5535].rom" size="0x8000" crc="520b5912" sha1="9c39e790f43af81a99ddcab9a747af13960189ab" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e2b47395">
+		<description>Konami's Boxing (hacked protection 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Konami's Boxing - Konami (1985) [a3] [RC-736] [5536].rom" size="0x8000" crc="e2b47395" sha1="a97f6143f4e5f1b4a882dbb216cb1e0776808c95" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="95850a6c">
+		<description>Konami's Boxing (hacked protection 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Konami's Boxing - Konami (1985) [RC-736] [1262].rom" size="0x8000" crc="95850a6c" sha1="e3ac6a3ab223f5440bca5ea696e99669dd1f626d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="48379de9">
+		<description>Konami's Boxing (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Konami's Boxing - Konami (1985) [SCC Enhanced] [RC-736] [5502].rom" size="0x10000" crc="48379de9" sha1="d0fda32dd2b0bba1847da52097f69c084e395db4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4e4bbd05">
+		<description>Konami's Boxing (SCC 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Konami's Boxing - Konami (1985) [SCC Enhanced] [RC-736] [5503].rom" size="0x10000" crc="4e4bbd05" sha1="158f1feacd0d6a59cd132d9c5865e0941b72f20e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d82eee4e">
+		<description>Konami's Boxing (SCC 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Konami's Boxing - Konami (1985) [SCC Enhanced] [RC-736] [5504].rom" size="0x10000" crc="d82eee4e" sha1="b1179dd8201eac3a03d6109b6d8a5192cdf77258" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e4a8ee40">
+		<description>Konami's Boxing (SCC 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="57344">
+				<rom name="Konami's Boxing - Konami (1985) [SCC] [RC-736] [1267].rom" size="57344" crc="e4a8ee40" sha1="4e3a48a1acddff212807f80a676910851e4aca02" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="14ac98db">
+		<description>Konami's Boxing (extracted from game collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="57344">
+				<rom name="Konami's Boxing - Konami (1985) [Game Collection - SCC] [RC-736] [3401].rom" size="57344" crc="14ac98db" sha1="4eb8014e54d20f4b337a39b960813009b41dd82a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d49ce2e8">
+		<description>Konami's Boxing (cracked, Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Konami's Boxing - Konami (1985) [Ulver crack] [RC-736] [1266].rom" size="0x8000" crc="d49ce2e8" sha1="aa95e2c196a59b67bede35366275a48557b1ae06" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="93604c07">
  		<description>Konami's Football (Europe, hacked protection)</description>
  		<year>1985</year>
@@ -1472,6 +2397,28 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="733d186a">
+		<description>Konami's Game Master 2 (hacked banking)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Konami's Game Master 2 - Konami (1987) [RC-755] [1278].rom" size="0x20000" crc="733d186a" sha1="0099492bd11dfa3ddf87af3aeb4c92b29f78bd82" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="04627b55">
+		<description>Konami's Golf (extracted from game collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Konami's Golf - Konami (1985) [Game Collection] [2870].rom" size="0x4000" crc="04627b55" sha1="612dc0c710ff07586237ebc4d9244f785f32677b" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="f06befd3">
  		<description>Konami's Golf (Japan, hacked protection)</description>
  		<year>1985</year>
@@ -1485,6 +2432,17 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="4ce098ad">
+		<description>Konami's Golf (hacked protection 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Konami's Golf - Konami (1985) [RC-723] [1280].rom" size="0x4000" crc="4ce098ad" sha1="ebf474cf35a56e03771d0b17548b59feb2df0656" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="a4d465a4">
  		<description>Konami's Ping-Pong (Japan, hacked protection)</description>
@@ -1514,6 +2472,50 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="a25c59c2">
+		<description>Konami's Ping-Pong (hacked protection 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Konami's Ping-Pong - Konami (1985) [a2] [RC-731] [5488].rom" size="0x4000" crc="a25c59c2" sha1="46adcfc1677817db5448f5c127f8f42165b9365a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fd0185ab">
+		<description>Konami's Ping-Pong (hacked protection 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Konami's Ping-Pong - Konami (1985) [RC-731] [1288].rom" size="0x4000" crc="fd0185ab" sha1="3cce9cdf016792e531017b873e13eeb1e7c85013" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3758f9eb">
+		<description>Konami's Ping-Pong (hacked protection 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Konami's Ping-Pong - Konami (1985) [RC-731] [3358].rom" size="0x4000" crc="3758f9eb" sha1="d6bbd3649efb18d16d6e1d21d07e91698be6c9e4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1cf0b4b7">
+		<description>Konami's Ping-Pong (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="40960">
+				<rom name="Konami's Ping-Pong - Konami (1985) [SCC Enhanced] [RC-731] [5487].rom" size="40960" crc="1cf0b4b7" sha1="b29c6906106b5f93d22abff13b44616cb99a592d" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="e861d2bd">
  		<description>Konami's Soccer (Japan, hacked protection)</description>
  		<year>1985</year>
@@ -1541,6 +2543,292 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="9b487667">
+		<description>Konami's Soccer (extracted from game collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="57344">
+				<rom name="Konami's Soccer - Konami (1985) [Game Collection - SCC] [RC-732] [3404].rom" size="57344" crc="9b487667" sha1="10c31f1327d047a08a99f6bcad5f7c4910385012" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e85584fe">
+		<description>Konami's Soccer (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Konami's Soccer - Konami (1985) [SCC Enhanced] [RC-732] [5501].rom" size="0x10000" crc="e85584fe" sha1="2b63010b48ae646ea3cadc536e5bc9f21e745279" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6ae7ca07">
+		<description>Konami's Soccer (fixed, FRS)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Konami's Soccer - Konami (1985) [TurboFix version by FRS] [RC-732] [2607].rom" size="0x8000" crc="6ae7ca07" sha1="5bef9572d71848966222819c3a1dd954994a4028" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8c2a49b2">
+		<description>Konami's Synthesizer (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Konami's Synthesizer - Konami (1986) [RC-741] [1305].rom" size="0x8000" crc="8c2a49b2" sha1="73a40e7d6da2bc8489297fd57b7b93b2aa5a6440" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="42aec5d0">
+		<description>Konami's Synthesizer (hacked, Covox)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Konami's Synthesizer - Konami (1986) [Covox] [RC-741] [5542].rom" size="0x8000" crc="42aec5d0" sha1="d14eb792c0db2dee15826846568655630541bd6c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="773415f8">
+		<description>Konami's Synthesizer (hacked, Covox, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Konami's Synthesizer - Konami (1986) [Covox-a] [RC-741] [5543].rom" size="0x8000" crc="773415f8" sha1="eb0f764466f4670f54f146594e6d8e12f99c6c49" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cd646bb7">
+		<description>Konami's Synthesizer (hacked, MSX-Audio)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Konami's Synthesizer - Konami (1986) [MSX-Audio] [RC-741] [5544].rom" size="0x8000" crc="cd646bb7" sha1="d4d45a58bb31ab07595a3e06993f04382e05f532" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1689cd83">
+		<description>Konami's Synthesizer (hacked, Music Module)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Konami's Synthesizer - Konami (1986) [Music Module] [RC-741] [5546].rom" size="0x8000" crc="1689cd83" sha1="11429b42b31e014c313795fa107d156a3c840205" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="32336869">
+		<description>Konami's Synthesizer (hacked, Music Module, alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Konami's Synthesizer - Konami (1986) [Music Module-a] [RC-741] [5547].rom" size="0x8000" crc="32336869" sha1="0410da2d802c520aab9438b58b183f87888b212f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="70df7fc2">
+		<description>Konami's Synthesizer (hacked, Turbo-R PCM)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Konami's Synthesizer - Konami (1986) [Turbo R PCM] [RC-741] [5545].rom" size="0x8000" crc="70df7fc2" sha1="557fc12cf71df8e6b671b65f189041c6480627ab" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="47a1d63f">
+		<description>Konami's Tennis (hacked, Pro Soft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Konami's Tennis - Konami (1984) [RC-720] [2874].rom" size="0x4000" crc="47a1d63f" sha1="608a3000428ccfd4c53d7c71b5514de721169fa6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="540ae0cd">
+		<description>Konami's Tennis (extracted from game collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Konami's Tennis - Konami (1984) [Game Collection] [RC-720] [2875].rom" size="0x4000" crc="540ae0cd" sha1="11e69bb4bad230382688a38e76733c665019435c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8c01fc6b">
+		<description>Konami's Tennis (translated, Korean)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Konami's Tennis - Konami (1984) [Korean Version] [RC-720] [Translated] [6810].rom" size="0x4000" crc="8c01fc6b" sha1="3dea7179cbb4215b8e77a51664f79fda5e7cb541" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5ac89fe5">
+		<description>Koneko no Daibouken (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Koneko no Daibouken - Catboy - Casio (1986) [a] [5900].rom" size="0x4000" crc="5ac89fe5" sha1="6258cc6f4854c474300e1c82be2641a45733380f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ddbab92b">
+		<description>Kong's Revenge (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Kong's Revenge - Zigurat (1991) [Part 1] [5938].rom" size="0x20000" crc="ddbab92b" sha1="d17e03b9240e0271fb46c79ad74f5198dac8aff3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="62560181">
+		<description>Kong's Revenge (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Kong's Revenge - Zigurat (1991) [Part 2] [5939].rom" size="0x20000" crc="62560181" sha1="679573c0cf541a6695168756710dca72a334f190" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="39f359f5">
+		<description>Krakout (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Krakout - Gremlin Graphics (1987) [4353].rom" size="0x10000" crc="39f359f5" sha1="b2d4f4566098c15b10bb4206e218392a7d9e7596" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="13c7755b">
+		<description>Krakout (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Krakout - Gremlin Graphics (1987) [a] [6058].rom" size="0x10000" crc="13c7755b" sha1="dc62a05d27e23ea89db9e042e1d474f9e34c66ff" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b2162b07">
+		<description>Kubus (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Kubus - Simon K. Overy (1985) [4885].rom" size="0x8000" crc="b2162b07" sha1="bbc6d7a5bb6e627d0d14a55ff825e8a8da33aa56" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ac3d16c2">
+		<description>Kubus (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Kubus - Simon K. Overy (1985) [5940].rom" size="0x8000" crc="ac3d16c2" sha1="c6f8141930dfd3c204829248fa59a3dbf22239fd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b4f47ed9">
+		<description>MSX-BASIC Kun Turbo (flp2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="KUN Basic - ASCII (1986) [v2.1] [6168].rom" size="0x4000" crc="b4f47ed9" sha1="ebd1f02fa4e5f165d756ab78864f882022ede844" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="955941a1">
+		<description>Kung-Fu Master (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Kung-Fu Master - Mass Tael (1983) [a2] [5941].rom" size="0x4000" crc="955941a1" sha1="8ac084b326319bda5c1e01eda118a4e37039e44e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="588841b5">
+		<description>Kung-Fu Taikun (hacked, Boram)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Kung-Fu Taikun - Seibu Kaihatsu (1984) [2879].rom" size="0x4000" crc="588841b5" sha1="7fe4ad9bdda1575a4a56ff0a0417e5a75d8473fa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eca81746">
+		<description>Kung-Fu Taikun (baddump? last byte different)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Kung-Fu Taikun - Seibu Kaihatsu (1984) [1328].rom" size="0x4000" crc="eca81746" sha1="4ac6a17c9c17bf6e9b149b727663496bf1bf35b0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f27930c1">
+		<description>Kung-Fu Taikun (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Kung-Fu Taikun - Seibu Kaihatsu (1984) [3106].rom" size="0x8000" crc="f27930c1" sha1="f80e7585ca1e8f018cce69803f55af4da01056b7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eba0483d">
+		<description>Kung-Fu Taikun (cracked, Claus)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Kung-Fu Taikun - Seibu Kaihatsu (1984) [cr Claus] [1324].rom" size="0x4000" crc="eba0483d" sha1="538f4c8567bf5caff65dc034da6cb89f8beeab62" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="6630c8c5">
 		<description>La Abadía del Crimen (cas2crt conversion)</description>
