@@ -20,6 +20,16 @@ license:CC0-1.0
 
 	<!-- Hacks, Cracks, Translations, etc -->
 
+	<software name="9d51140f">
+		<description>Inindo - Way of the Ninja (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x100000">
+				<rom name="Inindo - Way of the Ninja - KOEI (1991) [1099].rom" size="0x100000" crc="9d51140f" sha1="97f2cc1cd4c51dc20b86cd190016b8f0c006a968" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="a39c79be">
 		<description>Seikima 2 (hacked/translated?)</description>
  		<year>19??</year>

@@ -20,6 +20,44 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<!-- Looks unfinished, no intro/title screens -->
+	<software name="isopong">
+		<description>Isometric Pong</description>
+		<year>2020</year>
+		<publisher>&lt;homebrew&gt;</publisher>
+		<info name="developer" value="Afbento"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="start_page" value="1"/>
+			<dataarea name="rom" size="0x8000">
+				<rom name="isometric pong - afbento (2020).rom" size="0x8000" crc="419eaaa0" sha1="c6c733f856491dbb4198df849ac0e2ce8a825697" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Appeared in/on clube msx (disk)? -->
+	<software name="23519759">
+		<description>Jewels</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Jewels - Mario Cavalcanti (2020).ROM" size="0x8000" crc="23519759" sha1="37fb2177d2918906a53605be66d3ccbcc16392f9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Appeared in/on clube msx (disk)? -->
+	<software name="e51a82ee">
+		<description>Joygold v1.3</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Joygold v1.3 - Mario Cavalcanti (2020).ROM" size="0x8000" crc="e51a82ee" sha1="3f5ba3629eeb8a6e32d6f135eb4da13d8360ee1c" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- Only display a logo and an image -->
 	<software name="a997f80f">
 		<description>Karoshi Demo</description>
@@ -1343,6 +1381,578 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="a6ef7be1">
+		<description>Sokouban (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="I.Q. Soukoban - ASCII (1984) [a] [5970].rom" size="0x4000" crc="a6ef7be1" sha1="553bc280f9155016954c687f9d088742a99b5f94" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="70e09a20">
+		<description>Sokouban (hacked Icon, Korea)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="I.Q. Soukoban - ASCII (1984) [2978].rom" size="0x4000" crc="70e09a20" sha1="c7e34e418b9e852019264527bb7e8de07e76a7cc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5aec4549">
+		<description>ICE (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="ICE - Bytebusters (1986) [4341].rom" size="0x10000" crc="5aec4549" sha1="8531c8aa699697bf661b0c8e71897fa65d58672c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8fe0eed2">
+		<description>ICE (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="ICE - Bytebusters (1986) [a] [5879].rom" size="0x10000" crc="8fe0eed2" sha1="dcdaebc7fff63e5eb0d963ac80f1e6a83b26c258" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="633569f9">
+		<description>ICE (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="ICE - Bytebusters (1986) [a2] [5808].rom" size="0x8000" crc="633569f9" sha1="837337f6a0a67f4ef76342899070dfe99c959903" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2b8b639d">
+		<description>ICE (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="ICE - Bytebusters (1986) [a3] [5807].rom" size="0x10000" crc="2b8b639d" sha1="9536535743d1b0a0934a2502c34e0de84fc7c30b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cdb1b3a8">
+		<description>Ice World (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Ice World - Casio (1985) [a] [5810].rom" size="0x4000" crc="cdb1b3a8" sha1="40f0ff5811ffa2baffde82a6ad691c7f437093fc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="03cbcd0e">
+		<description>Icicle Works (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Icicle Works - State Soft (1984) [Cas to ROM Conversion] [4242].rom" size="0x10000" crc="03cbcd0e" sha1="1cd32d6f5497d84cecf16118556c7773d57afd43" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f38a907f">
+		<description>Icicle Works (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Icicle Works - State Soft (1984) [a] [5811].rom" size="0x10000" crc="f38a907f" sha1="da20f442b63e5ed2402b7219d2ea21e61827d1b2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="170b37a1">
+		<description>Iga Ninpouten 1 (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Iga Ninpouten 1 - Casio (1985) [a] [6048].rom" size="0x4000" crc="170b37a1" sha1="f3e71f8da981d88fd2568ae970bfa975cbb0f389" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="51abe96e">
+		<description>Iga Ninpouten 1 (hacked Clover)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Iga Ninpouten 1 - Casio (1985) [3204].rom" size="0x4000" crc="51abe96e" sha1="9f0bba20e594b58b620eaf656daabbe2ddb365e2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4f206d83">
+		<description>Iligks (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Iligks Episode 1 - Theseus - ASCII (1984) [o] [1092].rom" size="0x8000" crc="4f206d83" sha1="7d1c7b99c73ff9d89cced66f50ee2f8c83809881" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f0e8e862">
+		<description>Illusions (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Illusions - Nice Ideas (1985) [4992].rom" size="0x8000" crc="f0e8e862" sha1="f1f9409ea78eba3690506f64c554072c4566068a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f096e60a">
+		<description>Illusions (cas2crt conversion, translated)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Illusions - Nice Ideas (1985) [GDX French] [Translated] [5812].rom" size="0x8000" crc="f096e60a" sha1="dcc79b96d8ab195fbbb0fd8bc6225cc7778f19b2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="417db7c3">
+		<description>Illusions (cas2crt conversion, translated 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Illusions - Nice Ideas (1985) [GDX French] [Translated] [5813].rom" size="0x8000" crc="417db7c3" sha1="c297a8efb89da63b60533e96c5b9c710a864aba4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6671d3a2">
+		<description>Inca I (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Inca 1 - The Bytebusters (1987) [cas2rom] [4078].rom" size="0x8000" crc="6671d3a2" sha1="7745786b4e9fa9064db562540e181359fed0c4ab" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aca9ce79">
+		<description>Indoor Race (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Indoor Race - Mind Games Espa'a (1987) [4400].rom" size="0x8000" crc="aca9ce79" sha1="8e0eb6233cfb2e83b6177f685bc7b7bb627fcd05" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bd354af1">
+		<description>Indoor Race (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Indoor Race - Mind Games Espa'a (1987) [a] [6075].rom" size="0x8000" crc="bd354af1" sha1="de8a7eb1527206a74004747012f4f92aec94c69a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ea7f5116">
+		<description>Indy 500 (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Indy 500 - Methodic Solutions (1987) [4972].rom" size="0x10000" crc="ea7f5116" sha1="306610dcd5525ad8939bb91e6c7f4db3b2c87ae1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bf70a971">
+		<description>Infernal Miner (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Infernal Miner - Loriciels (1985) [4357].rom" size="0x8000" crc="bf70a971" sha1="48148c40231a1d626424e62133ce1999178592e8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="35823fd5">
+		<description>INK - Exxon Surfing (underdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="INK - Exxon Surfing - Matra (2005) [original] [1100].rom" size="0xc000" crc="35823fd5" sha1="df505aecddb20171cafd06351e0b7d208365e708" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="efeac79c">
+		<description>International 7 Card Stud (extracted from Samantha Fox Strippoker)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="International Karate - Endurance Games (1986) [4971].rom" size="0x8000" crc="efeac79c" sha1="3b69fc8f076efe3d4358892e4151a299e1f04079" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f66656ad">
+		<description>International Karate (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="International Karate - Endurance Games (1986) [4971].rom" size="0x10000" crc="f66656ad" sha1="626313abc748f6c4c94664966281cfc2d5622f37" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fe94e766">
+		<description>Invasion (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Invasion - Mastertronic (1987) [6052].rom" size="0x10000" crc="fe94e766" sha1="a20af12f9f0abcc716a807236903ddae9c4fb4ea" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8832d6b2">
+		<description>Iligks (hacked boot)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Iriegas - Illegus - ASCII (1983) [1108].rom" size="0x8000" crc="8832d6b2" sha1="1090b058d39dfd7bd7ea1a1f6f8fe9947a54805c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1bc4132b">
+		<description>J.P. Winkle (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="J.P. Winkle - MSX Magazine (1986) [1119].rom" size="0x8000" crc="1bc4132b" sha1="4e4989c8f6336663690217f32aca22a319b90091" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ae26d9c5">
+		<description>J.P. Winkle (hacked 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="J.P. Winkle - MSX Magazine (1986) [1118].rom" size="0x8000" crc="ae26d9c5" sha1="6b9f1e8ea91731570ab7e2ca6bdb9fba7937afa5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e489dc32">
+		<description>J.P. Winkle (hacked 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="J.P. Winkle - MSX Magazine (1986) [a] [5818].rom" size="0x8000" crc="e489dc32" sha1="d355a2e15c36b8f376dacf6734835ae5f6b8030e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="18018cf2">
+		<description>J.R.R. Tolkien's War in Middle Earth (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="J.R.R. Tolkien's War in Middle Earth - Melbourne House (1989) [4447].rom" size="0x10000" crc="18018cf2" sha1="a838ca10e9fe306b5c5d14111f48a39dbebf49d3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="79784869">
+		<description>Jabato (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Jabato - Aventuras AD (1989) [4188].rom" size="0x20000" crc="79784869" sha1="c715c37bf3a33519b49d7462760d07ca46a1a9cb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9b5c89b0">
+		<description>Jackie Chan - The Police Story (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Jackie Chan - The Police Story - Pony Canyon (1985) [a] [6120].rom" size="0x8000" crc="9b5c89b0" sha1="21036cb50bf69c4a5d2379d04c6a9ee9d8c32abc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="08fb6a34">
+		<description>Jagur (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Jagur - Hudson Soft (1987) [English By Django].rom" size="0x20000" crc="08fb6a34" sha1="450d2a14c4c60ebf8d8d280340fe6ca06687d94e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d0c6e2c0">
+		<description>Jagur (mapper hack)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Jagur - Hudson Soft (1987) [Kanji] [1125].rom" size="0x20000" crc="d0c6e2c0" sha1="842009e0f7d0e977e47be7a56fe60707f477ed93" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="84e0e567">
+		<description>Jagur (mapper hack 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Jagur - Hudson Soft (1987) [a][Kanji] [1124].rom" size="0x20000" crc="84e0e567" sha1="3b6200f88561a59ae5d2b3e94515b89cdb96044b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4824c49c">
+		<description>Jagur (mapper hack 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Jagur - Hudson Soft (1987) [3098].rom" size="0x20000" crc="4824c49c" sha1="8e5b563d6cc4ad1a05f6344f1cddf1780897843c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5c43220b">
+		<description>Jagur (mapper hack 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Jagur - Hudson Soft (1987) [4136].rom" size="0x20000" crc="5c43220b" sha1="3977d40b8296e1de497621d1419d21b48741fd6c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a0c7c718">
+		<description>EC-701 (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="ec-701.rom" size="0x10000" crc="a0c7c718" sha1="e455c4999c9e2899c59887eb29e504ad73d78e18" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="00614f1f">
+		<description>Jaws (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Jaws - Intelligent Design (1989) [4352].rom" size="0x10000" crc="00614f1f" sha1="2e50baafe75cb199285aedc353f6b0f78e211ada" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="42146943">
+		<description>Je Compte! (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Je Compte! - Nice Ideas (1985) [4925].rom" size="0x10000" crc="42146943" sha1="55cb733a88a3b8e4827a093e0722158d86c699cf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eaf807b6">
+		<description>Jet Bomber (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Jet Bomber - Aackosoft (1985) [Alalamiah release [a] [5928].rom" size="0x8000" crc="eaf807b6" sha1="a4ff78c156ce1b199b010d65b5b56e61817aee43" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c2879d3e">
+		<description>Jet Fighter (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Jet Fighter - Aackosoft (1983) [Cas to ROM Conversion] [4243].rom" size="0x10000" crc="c2879d3e" sha1="4ddc3e38216acd72b8005f80f56382ebe155d9a6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a05e37cf">
+		<description>Jigsaw Set (hacked to display japanese on non-japanese systems)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Jigsaw Set - MIA (1983) [a] [6060].rom" size="0x4000" crc="a05e37cf" sha1="b47d1c1d7774cf8db73e8e73cb7d8e5d687fa72c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fec1a9b0">
+		<description>Joe Blade (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Joe Blade - Players (1989) [2858].rom" size="0x8000" crc="fec1a9b0" sha1="d0711b34b407297419572929e6a04200e690f9ba" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cb708870">
+		<description>Joe Blade (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x6000">
+				<rom name="Joe Blade - Players (1989) [a] [6119].rom" size="0x6000" crc="cb708870" sha1="1689943048864dce772a116306d441f065f6bf78" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="568f0d12">
+		<description>Judo - Uchi Mata (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Judo - Uchi Mata - Martech Games (1987) [4977].rom" size="0x10000" crc="568f0d12" sha1="24e8911555185be0ad7dbf46593b721878657ba2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="91246306">
+		<description>Jump (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Jump - Mass Tael (1985) [a] [5929].rom" size="0x4000" crc="91246306" sha1="68186b415752eed4fde1ea0fa0b9dfc1723dc743" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="443b9498">
+		<description>Jump Coaster (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Jump Coaster - Nippon Columbia - Colpax - Universal (1984) [o] [1142].rom" size="0x4000" crc="443b9498" sha1="0bc97a87b42b0e9d5855dde9b88392921a9b3277" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5db487ae">
+		<description>Jump Coaster (overdump 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Jump Coaster - Nippon Columbia - Colpax - Universal (1984) [o2] [1143].rom" size="0x4000" crc="5db487ae" sha1="ab924f3b59a5aee15be02584442a5eec8ff4e908" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0f8699ba">
+		<description>Jump Land (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Jump Land - Nippon Columbia - Colpax - Universal (1985) [1146].rom" size="0x4000" crc="0f8699ba" sha1="0b3a217d3278a43d7460136f955171c762a1f8e5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="15471ab9">
+		<description>Jumping Rabbit (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Jumping Rabbit - MIA (1984) [1147].rom" size="0x2000" crc="15471ab9" sha1="b5cdef44b22c7e234895b053e487233c117d1a4f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="131239b8">
+		<description>Jungle Hunt (Muffie conversion, beta)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Jungle Hunt - Atari - Taito (2008) [muffie conversion (beta)] [original] [1150].rom" size="0x8000" crc="131239b8" sha1="4e09d61162c3dd957d59ece0aa5d7222294b5c5a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9634dbca">
+		<description>Jungle Hunt (Muffie conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Jungle Hunt - Atari - Taito (2008) [Muffie conversion] [original] [1148].rom" size="0x8000" crc="9634dbca" sha1="cfa30c1d6741e1b56b54622bbc3d89003f739a17" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="f84e5ff6">
 		<description>Jungle Warrior (cas2crt conversion)</description>
