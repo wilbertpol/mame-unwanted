@@ -18,6 +18,18 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<!-- Unclear when who where -->
+	<software name="fa7f888a">
+		<description>GOS 0.5</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="GOS 0.5 - Aoineko (2021).rom" size="0x8000" crc="fa7f888a" sha1="1daae7c6d990a947ef781c74db919db6b2715fe6" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- Hacks, Cracks, Translations, etc -->
 
 	<software name="9d51140f">

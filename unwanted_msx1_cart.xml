@@ -20,6 +20,17 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="5678c6c2">
+		<description>Ghosts'n'Goblins Demo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Ghosts'n'Goblins Demo - Daniel Vik (2007) [826].rom" size="0x20000" crc="5678c6c2" sha1="8a25afaed4bf87468ad7a0c5cf12375554d67741" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- Too new at the moment -->
 	<software name="hansstan">
 		<description>Hans' Adventure + Stan the Dreamer</description>
@@ -1290,6 +1301,831 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="0bc96cc8">
+		<description>Galaga (cheated)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Galaga - NAMCO (1984) [a] [776].rom" size="0x4000" crc="0bc96cc8" sha1="817019ca70a0f72d294eaa87ed3cb194b99ceb58" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7bfd83df">
+		<description>Galaga (hacked paddle)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Galaga - NAMCO (1984) [MSX-Paddle version] [6466].rom" size="0x4000" crc="7bfd83df" sha1="cec497d9980b89712f2df8717b5bf344f23ddd25" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4fae0194">
+		<description>Galaga (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Galaga - NAMCO (1984) [GDX SCC Version] [3255].rom" size="0x8000" crc="4fae0194" sha1="90f3696fe96e720a9309cab8b981b6f84744b60e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="edb3cb27">
+		<description>Galaga (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Galaga - NAMCO (1984) [h] [2820].rom" size="0x8000" crc="edb3cb27" sha1="08e9bf1974ec5140a9dcd5c91d20abff49d90ae0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ad079a2c">
+		<description>Galaga (hacked Clover)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Galaga - NAMCO (1984) [Clover Hack] [4174].rom" size="0x8000" crc="ad079a2c" sha1="9d6262ecbb181f144e69c47595297dfea7d7bf76" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3c61b928">
+		<description>Galaga (hacked Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Galaga - NAMCO (1984) [ProSoft Hack] [5799].rom" size="0x8000" crc="3c61b928" sha1="0977c6966a70c898296da05d1ce6e6e1b553cbcd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2e54b79f">
+		<description>Galaxia (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Galaxia - Steven Wallis (1985) [5973].rom" size="0x8000" crc="2e54b79f" sha1="618d4ed71a53c2e7ede57efde807a4d118ebe09d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f9f4e343">
+		<description>Galaxian (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Galaxian - Atarisoft (1983) [Conversion by GDX] [2660].rom" size="0x10000" crc="f9f4e343" sha1="356c2ae4fc06a73449283146332b3a3d7f5fb2fc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a2b6edb8">
+		<description>Galaxian (coleco conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Galaxian - Atarisoft (1983) [r2] [5800].rom" size="0x10000" crc="a2b6edb8" sha1="017e82a5e7dbb7eba4cb8830ca16834f99905479" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e5d914b2">
+		<description>Galaxian (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Galaxian - NAMCO (1984) [GDX SCC Version] [3256].rom" size="0x4000" crc="e5d914b2" sha1="a2816649eac034d3b068678860ace2b94d4c1def" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b15aa545">
+		<description>Galaxian (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Galaxian - NAMCO (1984) [o] [779].rom" size="0x4000" crc="b15aa545" sha1="8f95a83328b06e359e02fc625c3d9c54a6576bcd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="062b52c1">
+		<description>Galaxian (overdump 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Galaxian - NAMCO (1984) [o2] [780].rom" size="0x4000" crc="062b52c1" sha1="15b0ac540b31d83569c275cd3970571b637cc8f2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5408ea30">
+		<description>Galaxian (hacked Hi Com)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Galaxian - NAMCO (1984) [hi com hack] [4175].rom" size="0x8000" crc="5408ea30" sha1="4d5ae087f24575ed4789957104f2807d67d0ae4b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4aa9ba57">
+		<description>Galaxian (hacked Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Galaxian - NAMCO (1984) [Prosoft Hack] [2824].rom" size="0x2000" crc="4aa9ba57" sha1="d357b635ae007609718d21f0e22ea486f4eac2bd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8848aa1a">
+		<description>Galaxians (extracted from Turbo Pack A/C)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Galaxians - Unknown (-) [4306].rom" size="0x4000" crc="8848aa1a" sha1="d51c19c144de4cfbc41229feb4fd21b3bfb80705" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b2e0a553">
+		<description>Galaxians (extracted from Turbo Pack A/C 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Galaxians - Unknown (-) [a] [5801].rom" size="0x4000" crc="b2e0a553" sha1="957b85fd9fb000527a542b3b6e1160f2dff4a7c2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="93f41545">
+		<description>Galaxy Drift Motorcycle Femme (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Galaxy Drift Motorcycle Femme - BANDAI (1984) [a2] [5840].rom" size="0x4000" crc="93f41545" sha1="cbb6330533a64be20f25dd9f0769f31f6adbef5e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4b00f6be">
+		<description>Gall Force (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gall Force - Defence Of Chaos - Sony (1986) [4936].rom" size="0x20000" crc="4b00f6be" sha1="25136d51027ee68e252e85c6475c1291365e2911" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21c3e579">
+		<description>Gall Force (hacked Jack)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gall Force - Defence Of Chaos - Sony (1986) [3046].rom" size="0x20000" crc="21c3e579" sha1="3179c5ecf2aeba38bb33fb72585d770d6cba2c02" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e1897738">
+		<description>Gall Force (cheated)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gall Force - Defence Of Chaos - Sony (1986) [cheat version] [786].rom" size="0x20000" crc="e1897738" sha1="c3c67787e2a69e2fdc739d8d1542726ec4ee7c47" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="06c5c501">
+		<description>Gall Force (cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gall Force - Defence Of Chaos - Sony (1986) [Ulver crack] [787].rom" size="0x20000" crc="06c5c501" sha1="2117a3375684fa3c5bedebced4d7c1019a1ccdca" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7575ec9a">
+		<description>Game Land (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Game Land - Casio (1984) [a] [5924].rom" size="0x8000" crc="7575ec9a" sha1="781809562fdf968bbe58cf0cbd6292cf8b90dba2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a5b0e901">
+		<description>Game Over (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Game Over - Dinamic (1988) [Part 1 and 2] [5835].rom" size="0x20000" crc="a5b0e901" sha1="9fb00fcb38567aa03e8f3d93735a210b954e192b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b241f8f5">
+		<description>Game Over (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Game Over - Dinamic (1988) [Part 1] [5833].rom" size="0x20000" crc="b241f8f5" sha1="431ea3f61f030e8d9e48df7e10487de2f41242e6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ca3693bc">
+		<description>Game Over (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Game Over - Dinamic (1988) [Part 2] [5834].rom" size="0x20000" crc="ca3693bc" sha1="4fc188cc05c181b2b162b85fe26e44b6c985dc17" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a4b34dc7">
+		<description>Game Over II (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Game Over II - Phantis - Dinamic (1987) [Part 1 [a] [6043].rom" size="0x20000" crc="a4b34dc7" sha1="7acb226568192ef2edd98de3d39b78b7b490d4be" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="744c3743">
+		<description>Game Over II (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Game Over II - Phantis - Dinamic (1987) [Part 1 and 2] [6040].rom" size="0x20000" crc="744c3743" sha1="5b3759fa4c04c50241c2f479937de306605061bd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7af4b22f">
+		<description>Game Over II (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Game Over II - Phantis - Dinamic (1987) [Part 1] [6044].rom" size="0x20000" crc="7af4b22f" sha1="75a87b64aa9553ff2cf714f0fb41ab2aacba4d67" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8496c461">
+		<description>Game Over II (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Game Over II - Phantis - Dinamic (1987) [Part 2 [a] [6041].rom" size="0x20000" crc="8496c461" sha1="68ddc01816117261f27d9cea76bc8b27f0f6bbf3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="73447ac5">
+		<description>Game Over II (cas2crt conversion 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Game Over II - Phantis - Dinamic (1987) [Part 2] [6042].rom" size="0x20000" crc="73447ac5" sha1="2bafff62404ec31294af88ea83ad5874d7c0d10d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3ed9b906">
+		<description>Game World - 30 Games (mapper hack)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Game World - 30 Games - Zemina (-) [4215].rom" size="0x80000" crc="3ed9b906" sha1="a9835ebaa9d280b8c52f374065b86eff0fb96701" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ee0fffa2">
+		<description>Game World - 80 Games (mapper hack)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Game World - 80 Games - Zemina (-) [795].rom" size="0x80000" crc="ee0fffa2" sha1="30b41d0e9b3c59e8826112c618206e12e187fb5d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9ca7ee03">
+		<description>Game World - 90 Games (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x100000">
+				<rom name="Game World - 90 Games - Zemina (-) [bug fixed] [4213].rom" size="0x100000" crc="9ca7ee03" sha1="c69cc2a48c286ea5c516f9c8a4214bab594eb523" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="08137f9b">
+		<description>Gang Man (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Gang Man - Hudson Soft (1983) [4220].rom" size="0x4000" crc="08137f9b" sha1="8fad8f6b53bd0e22296ea72fe346d61acce16b51" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2eef594a">
+		<description>Gang Man (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Gang Man - Hudson Soft (1983) [5836].rom" size="0x4000" crc="2eef594a" sha1="a1882aca5977150fc61d05488e341a387e2489fc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ee3108dc">
+		<description>Gang Man (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Gang Man - Hudson Soft (1983) [6467].rom" size="0x4000" crc="ee3108dc" sha1="7079629e0ec63709571b15e5a252c36d2157f49a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6695d05e">
+		<description>Gangjeol Robocop (mapper hack)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Gangjeol Robocop - SIECO (1988) [4157].rom" size="0x10000" crc="6695d05e" sha1="7ad8e384785ab62dee1b34af4dfcb1f6e1e8b3d1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c74301ab">
+		<description>Genghis Khan (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Genghis Khan - Positive (1991) [4307].rom" size="0x10000" crc="c74301ab" sha1="fb9ac820896f22f30766f02c85da01885145999f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="873d9cd1">
+		<description>Genghis Khan (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Genghis Khan - Positive (1991) [a] [5925].rom" size="0x20000" crc="873d9cd1" sha1="fd87bd03b7a54b866b08afa332e818b79e7a6072" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dcf6919c">
+		<description>Geometrías (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Geometrías - Mind Games España (1986) [4884].rom" size="0x4000" crc="dcf6919c" sha1="67d4c974e41fb03bae5f1eeec6225a8428116e66" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0fcf71a3">
+		<description>Geometrías (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Geometrías - Mind Games España (1986) [6103].rom" size="0x4000" crc="0fcf71a3" sha1="a92c3783f066046d2601884b3986707af80ae1ea" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d1a7e47f">
+		<description>Ghostbusters (patched SP)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Ghostbusters - Activision (1984) [a] [5802].rom" size="0x8000" crc="d1a7e47f" sha1="1b166ab8a2e6741eb664b030e1dae7b7a60e0ee6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f6769c73">
+		<description>Ghostbusters (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Ghostbusters - Activision (1984) [a2] [5803].rom" size="0x20000" crc="f6769c73" sha1="a0c498ebbc8881eaf60ccc355b7024d1e68dc84d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9814c355">
+		<description>Ghostbusters (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Ghostbusters - Activision (1984) [2826].rom" size="0x8000" crc="9814c355" sha1="7f80ce9132cd870caccdf9ebed58980818b5a036" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0ff165a6">
+		<description>Glass (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Glass - Quicksilva (1985) [6090].rom" size="0x10000" crc="0ff165a6" sha1="ee76c333ce22cb56315dc80ebe66c9792cc3ebcc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="80669339">
+		<description>Globi-Blod (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Globi-Blod (S) [Text Display fix].rom" size="0x8000" crc="80669339" sha1="817fd8951ed3ae854d5ff68cf5b49989f70bbfe1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="05b5a3ae">
+		<description>Globi-Blod (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Globi-Blod (S).rom" size="0x8000" crc="05b5a3ae" sha1="77dd110194d9a0780f32e5d7640fbe728e41617f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6248d9af">
+		<description>Globi-Blod (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Globi-Blod - Cytoplasm - Proeco (1986) [4904].rom" size="0x8000" crc="6248d9af" sha1="07269e91e7b682390e2c7c7407c6d8f6a9c37e1e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9a20f86a">
+		<description>Globi-Blod (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Globi-Blod - Cytoplasm - Proeco (1986) [a] [6156].rom" size="0x8000" crc="9a20f86a" sha1="5a2fde97179931884316e71fa12368c1887545e1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ec68e6bb">
+		<description>Globi-Blod (cas2crt conversion 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Globulo (I) [Cytoplasm hacked].rom" size="0x8000" crc="ec68e6bb" sha1="2a3a47299ae18ccf80f07664480923d736bc703b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8dfe256b">
+		<description>Gofer no Yabou Episode 2 (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [RC-764] [4930].rom" size="0x40000" crc="8dfe256b" sha1="10b7018d8045f9d3650f5e19c874f42a34885bb6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="62a24d66">
+		<description>Gofer no Yabou Episode 2 (cheated)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [Cheat version] [RC-764] [842].rom" size="0x40000" crc="62a24d66" sha1="520739caa1e0aac1b8eabc4305556aa75f3f5a3b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c130a459">
+		<description>Gofer no Yabou Episode 2 (enhanced Kittiya)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x60000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [Enhanced - Kittiya] [RC-764] [6803].rom" size="0x60000" crc="c130a459" sha1="290f367cf853e4fbc3802a25edbf1b29bb08f98d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="33de7163">
+		<description>Gofer no Yabou Episode 2 (hacked JoySNES)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [JoySNES] [RC-764] [5278].rom" size="0x40000" crc="33de7163" sha1="567bb358f35b938535cf5f887c76f3ae48a92f4d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7508ccdd">
+		<description>Gofer no Yabou Episode 2 (hacked JoySNES 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [JoySNES-a] [RC-764] [5277].rom" size="0x40000" crc="7508ccdd" sha1="3e0d0bf2c178ed102556b5d4adc43796c78b3a62" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f7cac567">
+		<description>Gofer no Yabou Episode 2 (hacked Kittiya)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [Kittiya] [RC-764] [6802].rom" size="0x40000" crc="f7cac567" sha1="90bd330a8a445e1a8d1bd9a9feb42879aefa8911" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f06353bb">
+		<description>Gofer no Yabou Episode 2 (cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [Ulver crack] [RC-764] [843].rom" size="0x40000" crc="f06353bb" sha1="c84ea9e7a02609c71ff75893cbb948fc1f1cf21c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ed28ba89">
+		<description>Gofer no Yabou Episode 2 (enhanced Victor Martinez)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x60000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [Victor Martinez Enhancement v1.00 alt] [RC-764] [4134].rom" size="0x60000" crc="ed28ba89" sha1="2c69c0bddccef70351e82dbea9777227186c435b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c12e8b37">
+		<description>Gofer no Yabou Episode 2 (enhanced Victor Martinez 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x60000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [Victor Martinez Enhancement v1.02 alt] [RC-764] [5276].rom" size="0x60000" crc="c12e8b37" sha1="d6a5c1360810d4728c456bfa286b03b6744f42e0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ad444da5">
+		<description>Gofer no Yabou Episode 2 (enhanced Victor Martinez 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x60000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [Victor Martinez Enhancement v1.02] [RC-764] [4018].rom" size="0x60000" crc="ad444da5" sha1="695ff5039da0b51b7ea5529151b1af3c6c465db3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5d02093a">
+		<description>Gofer no Yabou Episode 2 (enhanced Victor Martinez 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x60000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [Victor Martinez Enhancement v1.03 alt] [RC-764] [4046].rom" size="0x60000" crc="5d02093a" sha1="02fa314bbd82f05061b5cae1213871dbc59ea7ff" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9e005f51">
+		<description>Gofer no Yabou Episode 2 (enhanced Victor Martinez 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x60000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [Victor Martinez Enhancement v1.03] [RC-764] [4017].rom" size="0x60000" crc="9e005f51" sha1="d9dbb20259bb9b540d79958b07fb6894964aac22" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c8110b43">
+		<description>Gofer no Yabou Episode 2 (enhanced Victor Martinez 6)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x60000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [Victor Martinez Enhancement v1.04] [RC-764] [4019].rom" size="0x60000" crc="c8110b43" sha1="04eb683fc4bd80459df35bec2dbd8950f5eb6605" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5df7883b">
+		<description>Gofer no Yabou Episode 2 Voices addon (hack)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x3000">
+				<rom name="Gofer no Yabou Episode 2 - Nemesis 3 The Eve Of Destruction - Konami (1988) [Voices Add On (Slot2 only)] [RC-764] [6478].rom" size="0x3000" crc="5df7883b" sha1="2356053e5c5355e5e663fb2a4d8d18a76088f730" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="507fac0e">
+		<description>Golf GameCase (hacked compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Golf GameCase.rom" size="0x80000" crc="507fac0e" sha1="8fcf6d25935fff206083610f357e19602a7aeb0b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="afa0ff77">
+		<description>Golvellius (hacked Sergio)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Golvellius - Compile (1987) [Dump by Sergio] [852].rom" size="0x20000" crc="afa0ff77" sha1="930df58762e7b5bcf2d362462f03335bad732398" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fd9d5dbd">
+		<description>Golvellius (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Golvellius - Compile (1987) [English Translation] [Translated] [857].rom" size="0x20000" crc="fd9d5dbd" sha1="678efe599b8085bd27f9d3d42cfbbd7ca74ceb89" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3891bc0f">
+		<description>Golvellius (translated English 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Golvellius - Compile (1987) [English Translation by Woomb] [Translated] [858].rom" size="0x20000" crc="3891bc0f" sha1="05767fec34beaaee390a86be496d98d2b27de641" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="67cbd6d1">
+		<description>Golvellius (translated English 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Golvellius - Compile (1987) [English Translation by Novalia Spirit] [Translated] [856].rom" size="0x20000" crc="67cbd6d1" sha1="8b7e4bc408a8c715943bfa00069f2d517b39a748" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="95f9e3ed">
+		<description>Golvellius (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="147456">
+				<rom name="Golvellius - Compile (1987) [o] [854].rom" size="147456" crc="95f9e3ed" sha1="91505fccdcc43230550d101967010bed27f9b573" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="886830ac">
+		<description>Golvellius (translated Spanish)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Golvellius - Compile (1987) [Spanish Translation by Jose Luis Salguero] [Translated] [4198].rom" size="0x20000" crc="886830ac" sha1="d34818399bcdfecca7232d2ea11946fbe24c8920" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d785a084">
+		<description>Golvellius (translated Spanish 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Golvellius - Compile (1987) [Spanish Translation by Jose Luis Salguero - Final] [Translated] [4197].rom" size="0x20000" crc="d785a084" sha1="a47c124cf5f17a19cf3d4607f591375ad6e48733" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="45e0a8cb">
+		<description>Gomoku Narabe (Korean, hacked Comtech)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Gomoku Narabe - Toshiba-EMI (1984) [Korean Version] [Translated] [6817].rom" size="0x4000" crc="45e0a8cb" sha1="dfcc2f3443c33b59acc4e0e14aa843c9944d6b76" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="334fca38">
+		<description>Gomoku Narabe (hacked Rina Computer)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Gomoku Narabe - Toshiba-EMI (1984) [4161].rom" size="0x4000" crc="334fca38" sha1="506018564491df075511f545b2160ef417794393" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bcf35d43">
+		<description>Goody (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Goody - Opera Soft (1987) [4399].rom" size="0x10000" crc="bcf35d43" sha1="044207a4e1900bc6e68d22cd293c7b032ff4d398" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="c6445f82">
  		<description>The Goonies (Japan, hacked protection)</description>
  		<year>1986</year>
@@ -1353,6 +2189,1062 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="7353a509">
+		<description>GORF (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="GORF - Coleco (1983) [GDX Conversion] [2720].rom" size="0x10000" crc="7353a509" sha1="afb235979ed7d91596b7adddffe7c295080e4669" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="076af065">
+		<description>GORF (coleco conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="GORF - Coleco (1983) [Taylor Conversion] [6744].rom" size="0x10000" crc="076af065" sha1="0a9ab555cd6ee7080e967cc6920b33e3e7b9d592" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7820e86c">
+		<description>GP World (baddump?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="GP World - Sega (1985) [2827].rom" size="0x8000" crc="7820e86c" sha1="e25401f0423cf11e62c955b47887cc3e036f087d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7362e582">
+		<description>Gradius (hacked mapper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [RC-742] [873].rom" size="0x20000" crc="7362e582" sha1="50efb7040339632cf8bddbc1d3eaae1fb2e2188f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="42bd7751">
+		<description>Gradius (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [RC-742] [878].rom" size="0x20000" crc="42bd7751" sha1="6b42315eddefa0a33ea0c4510d6a4bc1086a5163" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9c67a1e1">
+		<description>Gradius (SCC 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [RC-742] [6354].rom" size="0x20000" crc="9c67a1e1" sha1="7d8f04b71f1f0aa89459bd210c329f63cd21d0d4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="534daab3">
+		<description>Gradius (enhanced)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [enhanced by Mikasen [JoySNES] [RC-742] [5437].rom" size="0x20000" crc="534daab3" sha1="0b3d380ae4ddf7a90dcaeeb0fb91772f0dd330a4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a7d777fb">
+		<description>Gradius (enhanced 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [enhanced by Shalom [JoySNES] [RC-742] [5438].rom" size="0x20000" crc="a7d777fb" sha1="4856c45a757c271fd317766ed7ff073e5252960a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ccc31c2b">
+		<description>Gradius (enhanced 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [enhanced by Shalom] [RC-742] [5442].rom" size="0x20000" crc="ccc31c2b" sha1="d05a44366984e5ae326ed4f9acb2fc7f5d983fc3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5bf4693b">
+		<description>Gradius (enhanced 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [enhanced by Victor [JoySNES] [RC-742] [5439].rom" size="0x20000" crc="5bf4693b" sha1="a3dc972f94ae5ed94f1b5c66d723ab46dad5dca1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a877462a">
+		<description>Gradius (patched JoySNES)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [JoySNES] [RC-742] [5441].rom" size="0x20000" crc="a877462a" sha1="429dd99c49dcecb73e190a08cd912282d0d60440" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0f46b57e">
+		<description>Gradius (patched JoySNES 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [JoySNES-a] [RC-742] [5440].rom" size="0x20000" crc="0f46b57e" sha1="921c8d5b99af7b0aea334b5aba9fdbcd327222af" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0aafa72f">
+		<description>Gradius (cheated)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [cheat version] [RC-742] [876].rom" size="0x20000" crc="0aafa72f" sha1="98748c364e7bff50cf073c1a421ebe5b5d8b7025" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="007b1c4d">
+		<description>Gradius (extracted from game collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [Game Collection - SCC] [RC-742] [3319].rom" size="0x20000" crc="007b1c4d" sha1="d035b47d4bec81975e2b0da8b60f89b1f6001096" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2d7aed82">
+		<description>Gradius (hacked MSX2, arcade graphics)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius - Nemesis - Konami (1986) [MSX2 only SCC and Smooth Scroll and Arcade Graphics] [RC-742] [4001].rom" size="0x40000" crc="2d7aed82" sha1="cb42bebed357fc949577bca39680f766533f4c65" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1fdb5b94">
+		<description>Gradius (hacked arcade graphics)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [patched by SHALOM v.1.0 [Arcade graphics style] [RC-742] [3047].rom" size="0x20000" crc="1fdb5b94" sha1="0ac97f403e89cf0a5646e1ad49ff2c19223d0a74" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3859c163">
+		<description>Gradius (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius - Nemesis - Konami (1986) [SCC 256 Kb version by Mikasen] [RC-742] [3048].rom" size="0x40000" crc="3859c163" sha1="9a6031c20b49afe6624789613eaa2c62c1bd70a8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="df3486f4">
+		<description>Gradius (SCC, trained, arcade)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius - Nemesis - Konami (1986) [SCC [Arcade style graphics] and trained] [RC-742] [6758].rom" size="0x40000" crc="df3486f4" sha1="5e563b867a5cbfe0351ee17eed0943da3479b424" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2eb4df7e">
+		<description>Gradius (hacked twinbee ship)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [Twinbee Ship Enabled] [RC-742] [6774].rom" size="0x20000" crc="2eb4df7e" sha1="e24497acf7a61bc548a4241c6301377dd277f4c5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="090624bc">
+		<description>Gradius (cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [Ulver crack] [RC-742] [877].rom" size="0x20000" crc="090624bc" sha1="910b156b562880ace789fb3f9b11848163c2df20" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e920b6ca">
+		<description>Gradius (hacked unlimited hyper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius - Nemesis - Konami (1986) [Unlimited Hyper] [RC-742] [6757].rom" size="0x20000" crc="e920b6ca" sha1="ea6944dbd893c699792286cd0bcdec13f9330ab3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0644abc8">
+		<description>Gradius 2 voiceset</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Gradius 2 - Nemeisis 2 - Voiceset Beta.rom" size="0x4000" crc="0644abc8" sha1="ef4734eadabeb0ed599f68bc6b299d5cae443983" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2bb8659a">
+		<description>Gradius 2 Beta (hacked/patched?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Beta Release] [RC-751] [892].rom" size="0x20000" crc="2bb8659a" sha1="06aa7bdc1d8f01e67d1a1736084384393074e613" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4e18f590">
+		<description>Gradius 2 (overdump/patched)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [RC-751] [897].rom" size="0x40000" crc="4e18f590" sha1="d441ccfede2c089fbef54e20b90c0d4b513c5196" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="214f6a7c">
+		<description>Gradius 2 (overdump/patched 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [RC-751] [3068].rom" size="0x40000" crc="214f6a7c" sha1="b459a1456a9a99f955c1939b4fd42e1856f69ec0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="30d51b19">
+		<description>Gradius 2 (overdump/patched 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [RC-751] [3069].rom" size="0x40000" crc="30d51b19" sha1="bc481f724bfbc10151e077222f2cbe930f29288d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f33de754">
+		<description>Gradius 2 (overdump/patched 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [RC-751] [3070].rom" size="0x40000" crc="f33de754" sha1="d3390f3a20695e82a54d1b31f9abd5d94f1acb01" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b6dd5874">
+		<description>Gradius 2 (overdump/patched 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [RC-751] [3071].rom" size="0x40000" crc="b6dd5874" sha1="4bd45de36cee439cbbd4e3b866bf2c0a01533c88" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eb9fb1cc">
+		<description>Gradius 2 (overdump/patched 6)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [RC-751] [3072].rom" size="0x40000" crc="eb9fb1cc" sha1="aba49422b6ca5e8ac3a1cfd11257ee8349e6f058" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e2a79631">
+		<description>Gradius 2 (overdump/patched 7)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [RC-751] [3073].rom" size="0x40000" crc="e2a79631" sha1="456a6e94c7fbcb1b8f6b91b0a4560b32145c020a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fa05c0a9">
+		<description>Gradius 2 (overdump/patched 8)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [RC-751] [3074].rom" size="0x40000" crc="fa05c0a9" sha1="cdc0b6fe335271c8e340fd5d84c44264c8d89e2a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d0b2e065">
+		<description>Gradius 2 (overdump/patched 9)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [RC-751] [4000].rom" size="0x40000" crc="d0b2e065" sha1="9bc8a18a229894c0e3439e006291f1e606b468b4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eb1e2123">
+		<description>Gradius 2 Beta (patched JoySNES)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Beta JoySNES] [RC-764] [5444].rom" size="0x20000" crc="eb1e2123" sha1="421c6446aaa4ffc43507eddb5eba49665a4ba7a6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="235c851f">
+		<description>Gradius 2 (cheated)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [cheat version with 100 lives and 3 cartridges enabled] [RC-751] [889].rom" size="0x20000" crc="235c851f" sha1="c66483cd0d83292e4f2b54a3e89bd96b8bf9abb2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="92c75f6a">
+		<description>Gradius 2 (cheated 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [cheat version with 100 lives and 3 cartridges enabled + invulnerability] [RC-751] [3057].rom" size="0x20000" crc="92c75f6a" sha1="90997276b3afdba40ac25dc2a603076220f98958" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="850e9770">
+		<description>Gradius 2 (cheated 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [cheat version with invulnerability] [RC-751] [890].rom" size="0x20000" crc="850e9770" sha1="4127844955388f812e33437f618936dc98944c0a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="28280320">
+		<description>Gradius 2 (enhanced FRS)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [enhanced by FRS] [RC-764] [5448].rom" size="0x40000" crc="28280320" sha1="f45d9c1190f188f57a26422ed013576f6456a075" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8639fbfa">
+		<description>Gradius 2 (enhanced FRS 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [enhanced by FRS &amp; Turbo patch] [RC-764] [5447].rom" size="0x40000" crc="8639fbfa" sha1="62c3a8054b8e8838d131faca19eb8c2d89c1b3e5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6bdc10ca">
+		<description>Gradius 2 (enhanced FRS 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="131762">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [enhanced by FRS &amp; Turbo patch] [RC-764] [6773].rom" size="131762" crc="6bdc10ca" sha1="e13937cab342afc47d5f7188875966d1aec43b55" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c744f71f">
+		<description>Gradius 2 (translated French)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3077].rom" size="0x20000" crc="c744f71f" sha1="4717edb49fb5d47c93071e3c74e32263cf04f7b6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b5916d5e">
+		<description>Gradius 2 (translated French 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3078].rom" size="0x40000" crc="b5916d5e" sha1="68d66abfb49a0591319171b384718c0b9a12617c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a40b1c3b">
+		<description>Gradius 2 (translated French 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3079].rom" size="0x40000" crc="a40b1c3b" sha1="3b355fe5879089e9199a0805e18a0fb06f625ae9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="67e3e076">
+		<description>Gradius 2 (translated French 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3080].rom" size="0x40000" crc="67e3e076" sha1="8611162631970c5d1a8c0e86eaa7d2b89eb3dd9b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="22035f56">
+		<description>Gradius 2 (translated French 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3081].rom" size="0x40000" crc="22035f56" sha1="8acc071c33dd5d860cda89ffcae381c4b88f508a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7f41b6ee">
+		<description>Gradius 2 (translated French 6)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3082].rom" size="0x40000" crc="7f41b6ee" sha1="329454f7147b48110ff398ea290036102073063c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="76799113">
+		<description>Gradius 2 (translated French 7)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3083].rom" size="0x40000" crc="76799113" sha1="8f112c22463ef731c45aba353497e4ac8915bef5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6edbc78b">
+		<description>Gradius 2 (translated French 8)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3084].rom" size="0x40000" crc="6edbc78b" sha1="41e7e225fd4151b5a766faa6f9de02af7cc8a6d4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="30fc379f">
+		<description>Gradius 2 (translated French 9)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3085].rom" size="0x40000" crc="30fc379f" sha1="856c11ab106d93e8f01eb144a356fc8e430e26a8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="216646fa">
+		<description>Gradius 2 (translated French 10)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3086].rom" size="0x40000" crc="216646fa" sha1="0b0805f52b75a10f79903a997a7dc3e5ed07a049" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e28ebab7">
+		<description>Gradius 2 (translated French 11)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3087].rom" size="0x40000" crc="e28ebab7" sha1="4a2f0e97b3dc40bdd15b76606b86789db5b0612b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a76e0597">
+		<description>Gradius 2 (translated French 12)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3088].rom" size="0x40000" crc="a76e0597" sha1="6310aa4d7d01adc8ce34c0d20fd370e738cded30" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fa2cec2f">
+		<description>Gradius 2 (translated French 13)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3089].rom" size="0x40000" crc="fa2cec2f" sha1="1a9a2646f140bd48982c099cfe68deaa87d795ee" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f314cbd2">
+		<description>Gradius 2 (translated French 14)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3090].rom" size="0x40000" crc="f314cbd2" sha1="65f6d7faf3eb521c2deba18b4091f405e889954f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ebb69d4a">
+		<description>Gradius 2 (translated French 15)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation by Django] [RC-751] [Translated] [3091].rom" size="0x40000" crc="ebb69d4a" sha1="24c5bac01ea9c1dc54c59a11ac52fd32f7e89587" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="96fb2e88">
+		<description>Gradius 2 (translated French 16)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation v3 by Django] [RC-751] [Translated] [3075].rom" size="0x20000" crc="96fb2e88" sha1="a4d4ba925f55f34290a31630703ed77f400dc25c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="56ce1600">
+		<description>Gradius 2 (translated French 17)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French Translation v4 by GDX] [RC-751] [Translated] [3076].rom" size="0x20000" crc="56ce1600" sha1="c046f10c0422756f17a3f480abeefde81123a1ba" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="35b7e9ab">
+		<description>Gradius 2 (patched JoySNES, translated French)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [French - JoySNES] [RC-764] [Translated] [5443].rom" size="0x20000" crc="35b7e9ab" sha1="f4cdb525d27e969991325f63b360ed2fa92cb525" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eda58382">
+		<description>Gradius 2 (patched FRS, invulnerable)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="131762">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [FRS hack and Invicible] [RC-764] [4384].rom" size="131762" crc="eda58382" sha1="9093f08bcaf90b9f14a12250a68df11c3b56eb0a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8657fa3f">
+		<description>Gradius 2 (patched FRS, invulnerable, 100 lives, 3 cartridges, translated Portuguese)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [FRS patch + invulnerability with 100 lives and 3 cartridge enabled [Portuguese v2 - Lhotian + GDX] [RC-751] [Translated] [3061].rom" size="0x40000" crc="8657fa3f" sha1="bf678073f1260b90650cd293a0c8fd0716a98fea" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a2e61600">
+		<description>Gradius 2 (patched FRS, invulnerable, 100 lives, 3 cartridges, translated French)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [FRS patch + invulnerability with 100 lives and 3 cartridge enabled [French v3 - Django + GDX] [RC-751] [Translated] [3063].rom" size="0x40000" crc="a2e61600" sha1="dcd26715d7a99c3434d7dd30b862d9a6ae662822" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="278b4cc1">
+		<description>Gradius 2 (patched FRS, invulnerable, 100 lives, 3 cartridges, translated French 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [FRS patch + invulnerability with 100 lives and 3 cartridge enabled [French v4 - GDX] [RC-751] [Translated] [3065].rom" size="0x40000" crc="278b4cc1" sha1="a5c62e653376eb12e47f4304b6bccac60a80fe5a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="36381122">
+		<description>Gradius 2 (patched FRS, invulnerable, 100 lives, 3 cartridges)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [FRS patch + invulnerability with 100 lives and 3 cartridge enabled] [RC-751] [3059].rom" size="0x40000" crc="36381122" sha1="97c5bce806337f1bac0a90074e0c986a4f278555" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="97cd8b5a">
+		<description>Gradius 2 (patched FRS, 100 lives, 3 cartridges, translated Portuguese)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [FRS patch + with 100 lives and 3 cardridges enabled [Portuguese v2 - Lhotian + GDX] [RC-751] [Translated] [3060].rom" size="0x40000" crc="97cd8b5a" sha1="2100fc1d0ad5a23d8580142bb6daed1f3e27e66b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b37c6765">
+		<description>Gradius 2 (patched FRS, 100 lives, 3 cartridges, translated French)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [FRS patch + with 100 lives and 3 cardridges enabled [French v3 - Django + GDX] [RC-751] [Translated] [3062].rom" size="0x40000" crc="b37c6765" sha1="fa40389630ba567e899d8ba59ede823e074e21d8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="36113da4">
+		<description>Gradius 2 (patched FRS, 100 lives, 3 cartridges, translated French 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [FRS patch + with 100 lives and 3 cardridges enabled [French v4 - GDX] [RC-751] [Translated] [3064].rom" size="0x40000" crc="36113da4" sha1="1d63002549455885b1e0ed18d36b0deb92f987c1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="27a26047">
+		<description>Gradius 2 (patched FRS, 100 lives, 3 cartridges)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [FRS patch + with 100 lives and 3 cardridges enabled] [RC-751] [3058].rom" size="0x40000" crc="27a26047" sha1="663a9e1281fbc1f9197e26a9f4111a8c228c28b6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="43520c49">
+		<description>Gradius 2 (translated Italian)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Italian Translation] [RC-751] [Translated] [3052].rom" size="0x40000" crc="43520c49" sha1="124b77059693e719c8e09c23a58cde0537f2a1ae" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="06b2b369">
+		<description>Gradius 2 (translated Italian 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Italian Translation] [RC-751] [Translated] [3053].rom" size="0x40000" crc="06b2b369" sha1="14cd5da17bc9a4f7c83ffc75cc1d6e826c98cc76" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5bf05ad1">
+		<description>Gradius 2 (translated Italian 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Italian Translation] [RC-751] [3054].rom " size="0x40000" crc="5bf05ad1" sha1="04617e65a7debc16b59659ea0008fcb4815b01a2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="52c87d2c">
+		<description>Gradius 2 (translated Italian 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Italian Translation] [RC-751] [3055].rom " size="0x40000" crc="52c87d2c" sha1="52dc06b9492e5b03cfd567114281ba590dc030dd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4a6a2bb4">
+		<description>Gradius 2 (translated Italian 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Italian Translation] [RC-751] [3056].rom " size="0x40000" crc="4a6a2bb4" sha1="7330a3bc6b629c73e3c4484666d8ebb0243baf51" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b8fd8480">
+		<description>Gradius 2 (patched JoySNES)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [JoySNES] [RC-764] [5446].rom" size="0x20000" crc="b8fd8480" sha1="642fe80f5620374620b7a3c49933ba0cfd9f7780" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="51d25b48">
+		<description>Gradius 2 (patched JoySNES 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [JoySNES-a] [RC-764] [5445].rom" size="0x20000" crc="51d25b48" sha1="ffcc562453ee4856f7cfb48a3d81167be521fee3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="db4d4970">
+		<description>Gradius 2 (patched JoySNES, Spanish)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [JoySNES - Spanish] [RC-764] [5449].rom" size="0x20000" crc="db4d4970" sha1="39741cf0ffc75b894a77c8f4e301f09dea4932de" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c0e331da">
+		<description>Gradius 2 (extracted from Konami Antiques MSX Collection 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Konami Antiques MSX Collection 2] [RC-751] [895].rom" size="0x20000" crc="c0e331da" sha1="76666da5870d1901026e3dded3f22ce7a706689d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b5f347b9">
+		<description>Gradius 2 (translated Korean, patched FRS)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Korean - JoySNES - FRS Patch] [RC-764] [Translated] [5451].rom" size="0x40000" crc="b5f347b9" sha1="df06f58106fdaa74f4487f81fdd547bc7568bb44" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c14dc6b2">
+		<description>Gradius 2 (translated Korean)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Korean] [RC-764] [Translated] [5452].rom" size="0x40000" crc="c14dc6b2" sha1="60cb7d3b9df79ab28357e7a9e4bafe3bf466112d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c7657c3c">
+		<description>Gradius 2 (translated Korean 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Korean] [RC-764] [Translated] [5453].rom" size="0x20000" crc="c7657c3c" sha1="6e2e1a28c4647eab94d6ed394e0be82f5f3d3bf6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b834b6db">
+		<description>Gradius 2 (translated Portuguese)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Portuguese Translation by Lhotian + patched by GDX] [RC-751] [Translated] [3049].rom" size="0x20000" crc="b834b6db" sha1="278e7072dc72990b9180a8f5c9235a53c2a5c3ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0cd47bc3">
+		<description>Gradius 2 (hacked smooth scroll)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Smooth Scroll] [RC-764] [6475].rom" size="0x40000" crc="0cd47bc3" sha1="b3feb6322af556266555fc6bb80c1e6612d0ef9c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2d5b66f7">
+		<description>Gradius 2 (hacked smooth scroll, vsync, colors)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="139264">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Smooth scroll - vsync patch and cool colors] [RC-751] [899].rom" size="139264" crc="2d5b66f7" sha1="c6fa7a891b491d2bcf31b81e33d43b9418a0f269" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="91208161">
+		<description>Gradius 2 (translated Spanish)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Spanish Translation] [RC-751] [Translated] [3050].rom" size="0x40000" crc="91208161" sha1="e90856547e130bf745717f4a11cbde69d3fccc54" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="80baf004">
+		<description>Gradius 2 (translated Spanish 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Spanish Translation] [RC-751] [Translated] [3051].rom" size="0x40000" crc="80baf004" sha1="1277fa1cef8d13a0e4b651d9b9d07135edd7e57b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e98b6f4c">
+		<description>Gradius 2 (translated Spanish 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [RC-751] [885].rom" size="0x20000" crc="e98b6f4c" sha1="2ae97f3c8152f56695c3d3a2dedaa781bf0a15f1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fc4c2b1e">
+		<description>Gradius 2 (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Standard in English] [RC-764] [Translated] [5450].rom" size="0x20000" crc="fc4c2b1e" sha1="1cbf6079fe45cba56fdc1c404c21a7dfdfe948b2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="364e486c">
+		<description>Gradius 2 (cracked Ulver, patched FRS)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Ulver crack + FRS patch] [RC-751] [3067].rom" size="0x40000" crc="364e486c" sha1="0954b9d48076993cd0b7e245700e347ef7cb34d0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d330367f">
+		<description>Gradius 2 (cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Ulver crack] [RC-751] [891].rom" size="0x20000" crc="d330367f" sha1="4c15375910461a7a34a2fd54c7f51e712f06bc69" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8bcac639">
+		<description>Gradius 2 (enhanced Victor Martinez)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gradius 2 - Nemesis 2 - Konami (1987) [Victor Martinez Enhancement] [RC-764] [4047].rom" size="0x40000" crc="8bcac639" sha1="522ae88b30c072fafe40c262da56bd26e8008608" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ea0afe51">
+		<description>Graphic Master (hacked Redi)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Graphic Master - HAL Laboratory (1985) [No Turbo-R] [hack byRedi Universoft Info] [6491].rom" size="0x8000" crc="ea0afe51" sha1="7eff6f92af861b50a13ee9062915eb3c078a535a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="67a49f2b">
+		<description>Gravitica (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="GRAVITICA - Yusuke Miyauchi (2018) [MSXDev2018 v1.1] [5913].rom" size="0x8000" crc="67a49f2b" sha1="9af8d1d04aa751328f9e0cfe666614d0b0cd7d31" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b2e57a45">
+		<description>Gremlins 2 (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Gremlins 2 - Topo Soft (1989) [905].rom" size="0x40000" crc="b2e57a45" sha1="d09d75c7f242a696931407458e717c9bdaadb7d9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b035766a">
+		<description>Gridtrap (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Grid Trap - Livewire (1985) [4300].rom" size="0x4000" crc="b035766a" sha1="facba449a0976c9ba6e770be2efabf921373482a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4a8c7381">
+		<description>Gridtrap (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Grid Trap - Livewire (1985) [a] [5915].rom" size="0x4000" crc="4a8c7381" sha1="1f4cfdebb1ddaf9e3145760a682b11b1714dfb1d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="35a9d500">
+		<description>Grog's Revenge (hacked Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Grog's Revenge - Comptiq (1985) [h Prosoft] [916].rom" size="0x8000" crc="35a9d500" sha1="ea151b443c27b77ac43fdae99db3adb0abf43fbb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cebc3257">
+		<description>Grog's Revenge (translated Italian)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Grog's Revenge - Comptiq (1985) [Ruote E Cavernicoli [tr It] [Translated] [912].rom" size="0x8000" crc="cebc3257" sha1="3b7a7cdc05b45518d2757ab82ed6415da1309486" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="76415ef0">
+		<description>Grog's Revenge (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Grog's Revenge - Comptiq (1985) [Topia] [915].rom" size="0x8000" crc="76415ef0" sha1="cf4c1a4df0a55c4a0cf33436e649f32e5857b5cc" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="106230b8">
  		<description>Guardic (Japan, hacked protection)</description>
  		<year>1986</year>
@@ -1367,8 +3259,129 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="b6759de4">
+		<description>Guardic (hacked protection 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Guardic - Compile (1986) [a2] [5916].rom" size="0x8000" crc="b6759de4" sha1="f71caadb63cc11664189b338b9d321f07af4edc7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9d187b26">
+		<description>Guardic (hacked Hong System)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Guardic - Compile (1986) [2828].rom" size="0x8000" crc="9d187b26" sha1="32a62d20456e0654a973774f0134a7278ac430e0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="72d21c6a">
+		<description>Gulkave (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Gulkave - Sega (1986) [5917].rom" size="0x8000" crc="72d21c6a" sha1="2d2f5e1b47b4d8f9888be73f216d8bda608ba43e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="441c8059">
+		<description>Gulkave (hacked Sammi)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Gulkave - Sega (1986) [a] [920].rom" size="0x8000" crc="441c8059" sha1="49ab343df35bf2df206cdffdcad63c64ca6e7284" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="74a34477">
+		<description>Gulkave (cracked Crack FM)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Gulkave - Sega (1986) [cr Crack Fm] [923].rom" size="0x8000" crc="74a34477" sha1="50f61894c2f519fa369d7b925de7d52b708dde29" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d4727815">
+		<description>Gun Fright (hacked Sammi)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Gun Fright - Ultimate Play The Game (1986) [929].rom" size="0x8000" crc="d4727815" sha1="974d6ef7601dc590a35644e2af7743067a867ac3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c5b0227c">
+		<description>Gun Fright (hacked Sammi 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Gun Fright - Ultimate Play The Game (1986) [928].rom" size="0x8000" crc="c5b0227c" sha1="f76e7e4ccca2a77a13d9a2d5198667ba810491f9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aaff606d">
+		<description>Gunsmoke (baddump, 2 bytes different, illogical code)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Gunsmoke - Prosoft (1990) [a] [5918].rom" size="0x8000" crc="aaff606d" sha1="69063dbd44b8df5c722d1c5b2289696378a8225a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2f6a09c2">
+		<description>Guttblaster (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Guttblaster - Eurosoft (1988) [3095].rom" size="0x10000" crc="2f6a09c2" sha1="1b8bc66aaecdc92dc7ab1434a3434cd4b7b9cab9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dd2b40cc">
+		<description>Guttblaster (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Guttblaster - Eurosoft (1988) [934].rom" size="0x10000" crc="dd2b40cc" sha1="b26b117ba689775c14bdffb4cf04f8de045f70c0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a880b077">
+		<description>Guttblaster (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Guttblaster - Eurosoft (1988) [GoodMSX] [3094].rom" size="0x10000" crc="a880b077" sha1="9bdd5886c87b86043de4864798092794bb0eb4cb" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="05939074">
-		<description>Gyro Adventure (cas2vrt conversion)</description>
+		<description>Gyro Adventure (cas2crt conversion)</description>
  		<year>19??</year>
  		<publisher>&lt;unknown&gt;</publisher>
 		<part name="cart" interface="msx_cart">
