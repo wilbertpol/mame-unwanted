@@ -20,6 +20,148 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<!-- too new -->
+	<software name="2434c7ea">
+		<description>The Fall of Prometheus</description>
+ 		<year>2021</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="Fall Of Prometheus - Mistery Labs (2021).rom" size="0xc000" crc="2434c7ea" sha1="9a57654fe44fe2a0d1ec93a9f06b72d14c6c023f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- demo part for a possible demo, more like a technical test -->
+	<software name="c9aed0ef">
+		<description>Field of view</description>
+ 		<year>2009</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="73728">
+				<rom name="Field Of View - Artrag (2009) [Demo] [705].rom" size="73728" crc="c9aed0ef" sha1="6d800787f5f5d63827b841aa29fe26ed89ea2cef" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- unfinished, only a title screen -->
+	<software name="473d9fc4">
+		<description>Final Race - Karoshi Corporation (2005) [unfinished game] [original] [2626].rom</description>
+ 		<year>2021</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="fs0218.rom" size="0x2000" crc="473d9fc4" sha1="6ca349d1ba2fc90c17a57fa01a337fdea7acfd9d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- work in progress -->
+	<software name="0c8146f1">
+		<description>Final Smash (v0.2.18)</description>
+ 		<year>2021</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="fs0218.rom" size="0xc000" crc="0c8146f1" sha1="f802a82a23115c0ac87b1a782399701f1cf2a136" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- work in progress -->
+	<software name="a6054af2">
+		<description>Final Smash (v0.2.16)</description>
+ 		<year>2021</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="fs0216.rom" size="0xc000" crc="a6054af2" sha1="a65ba916a0c94a1c352e8242ff02228d84e76fb6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- work in progress -->
+	<software name="98c72f88">
+		<description>Final Smash (v0.2.11)</description>
+ 		<year>2021</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="Final Smash v0.2.11 - Pixel Phenix (2021).rom" size="0xc000" crc="98c72f88" sha1="29c8551500a7b60e07301c2b63a42a593659430c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- work in progress -->
+	<software name="679dd74d">
+		<description>Final Smash (v0.2.00, 8KB RAM)</description>
+ 		<year>2021</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="Final Smash v0.2.00 - 8KB RAM (2021)(aoineko).rom" size="0xc000" crc="679dd74d" sha1="38be032e5507c0b720204b5e266cf7982e46ac68" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- work in progress -->
+	<software name="1dd44593">
+		<description>Final Smash (v0.2.00)</description>
+ 		<year>2021</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="Final Smash v0.2.00 (2021)(aoineko).rom" size="0xc000" crc="1dd44593" sha1="d949ebb534ea0c72a5b82c54dd10768e457203af" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Unclear who to credit or who the publisher is -->
+	<software name="8181bce4">
+		<description>Foggy's Quest</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Foggy's Quest - Rucksack Games (2019) [5792].rom" size="0x8000" crc="8181bce4" sha1="f827f100098dcc6a0da01f210d36a10ff10ed780" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Unclear who to credit or who the publisher is -->
+	<software name="7e65c394">
+		<description>Foggy's Quest (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="foggy.rom" size="0x8000" crc="7e65c394" sha1="1cb45a85fea2f0888abe9036009c2c616ad6da16" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="459f4f89">
+		<description>Foryster v00.9 (not working, overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Foryster v00.9 - Siudym (2022).rom" size="0x80000" crc="459f4f89" sha1="0d6840e2755331d95ee37599992ad3362609c592" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7bf8d358">
+		<description>Frogger's Adventure</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Froggers Adventure - Orazio Caccola (2021).rom" size="0x80000" crc="7bf8d358" sha1="35b45a0479993d51ff0246361709fb9da92abe9a" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="5678c6c2">
 		<description>Ghosts'n'Goblins Demo</description>
  		<year>19??</year>
@@ -1245,6 +1387,116 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="ef59584d">
+		<description>F1 Spirit (translated French)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="F1 Spirit - The Way To Formula 1 - Konami (1987) [RC-752] [3033].rom" size="0x20000" crc="ef59584d" sha1="3dc1574c77227beb1e66253c317a794fb70bbdb2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3dc124cb">
+		<description>F1 Spirit (cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="F1 Spirit - The Way To Formula 1 - Konami (1987) [Ulver crack] [RC-752] [668].rom" size="0x20000" crc="3dc124cb" sha1="f0be97ceca47b65b46c9518e6157b295f8c99c38" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3ea4efb2">
+		<description>F16 Fighting Falcon (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="F16 Fighting Falcon - NEXA (1984) [a] [5785].rom" size="0x4000" crc="3ea4efb2" sha1="2033de1eb5e568dc69c69097d4eb03b5938ae80d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6d54ad40">
+		<description>Facemaker (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Facemaker - Spinnaker (1983) [Taylor Conversion] [6735].rom" size="0x10000" crc="6d54ad40" sha1="7d68c178dcc24736137c5c20ee0aa60754198612" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4d19e7ca">
+		<description>Fairy (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Fairy - ZAP (1985) [5786].rom" size="0x4000" crc="4d19e7ca" sha1="0dd16a28f81f732a014ea0c7b9b12dc85cdbe499" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="68beb282">
+		<description>Fairy (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Fairy - ZAP (1985) [2807].rom" size="0x8000" crc="68beb282" sha1="768faca2bf9cdde7190904d8c31ce800b00b85d2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ad223a53">
+		<description>Fernando Martín Basket Master (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Fernando Martín Basket Master - Dinamic (1986) [6073].rom" size="0x20000" crc="ad223a53" sha1="b182a59d96d30e4cc1eb007381b185837a31519c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ff17be47">
+		<description>Fernando Martín Basket Master Executive Version (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Fernando Martín Basket Master - Dinamic (1986) [Executive Version] [6074].rom" size="0x10000" crc="ff17be47" sha1="ab105180c3b9620f2e3ab2d28601a0ee2fdc4c20" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f1f52cb3">
+		<description>Feud (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Feud - Binary Design, Ltd (1987) [4914].rom" size="0x10000" crc="f1f52cb3" sha1="91d5d2db0ae113ffef61e14d5d6595415127a967" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="233398bd">
+		<description>Feud (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Feud - Binary Design, Ltd (1987) [5787].rom" size="0x20000" crc="233398bd" sha1="48ed4c5fc55620ccd235f85a6635ca08ccfcd806" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="7b2ef621">
  		<description>Fire Rescue (Japan, manually recreated dump)</description>
  		<year>1984</year>
@@ -1258,6 +1510,490 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="0c3ed1ee">
+		<description>Fire Rescue (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Fire Rescue - Hudson Soft (1984) [2808].rom" size="0x4000" crc="0c3ed1ee" sha1="4b5cb07c6d0129bbccf1d9c5a98887ee36b94c03" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="713da736">
+		<description>Fire Rescue (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Fire Rescue - Hudson Soft (1984) [Fixed].rom" size="0x4000" crc="713da736" sha1="9e6440b82e110b8c0f99ec776ad8836d4390d4b6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3ecfdab5">
+		<description>Fire Rescue (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Fire Rescue - Hudson Soft (1984) [GDX SCC Version] [3254].rom" size="0x4000" crc="3ecfdab5" sha1="9dcd8d6a89618401da9f1df566a98914a6be4dea" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0c03e5ed">
+		<description>Firetrap (dsk2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Firetrap - Mijinko-Soft (1995) [3709].rom" size="0x8000" crc="0c03e5ed" sha1="2058b840da08f096af26fa8d970bebb87abbe45b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c0bd7798">
+		<description>Flappy Limited 85 (hacked/fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Flappy Limited 85 - dB-SOFT (1985) [a] [5789].rom" size="0x4000" crc="c0bd7798" sha1="659cf17cf244c693cf39cf20c196b434273569d5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f2fdb670">
+		<description>Flappy Limited (hacked, starts immediately)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Flash Splash - Toshiba-EMI (1984) [4975].rom" size="0x4000" crc="f2fdb670" sha1="ab42a63caed199ab62dd1dc036089c1e8e1ab2b7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="45c38035">
+		<description>Flash Splash (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Flash Splash - Toshiba-EMI (1984) [4975].rom" size="0x4000" crc="45c38035" sha1="94d7621b4c13935947fba4a83a401850b5f87558" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9eaba1e0">
+		<description>Flicky (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Flicky - Micronet (1986) [MSX1 Only] [2809].rom" size="0x8000" crc="9eaba1e0" sha1="2a77bfd0fb9b6d9e60aa9ae243299ebd236d3373" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e8a01565">
+		<description>Flight Deck 2 (hacked Zemina)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Flight Deck 2 - Aackosoft (1986) [2810].rom" size="0x10000" crc="e8a01565" sha1="deaf7245b990dce6010235159ce226c939dc2d7d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="92e7efb9">
+		<description>Flight Path 737 (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Flight Path 737 - Anirog (1985) [4892].rom" size="0x8000" crc="92e7efb9" sha1="6f7234fc7269dff29c62b99491686fa8d20fcc32" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="05fd4ee9">
+		<description>Flight Path 737 (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Flight Path 737 - Anirog (1985) [5590].rom" size="0x8000" crc="05fd4ee9" sha1="4c9b1026820a0faf20e77f68e5e3e68197af4fa5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1d380ede">
+		<description>Flight Path 737 (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Flight Path 737 - Anirog (1985) [a] [5591].rom" size="0x8000" crc="1d380ede" sha1="eba981ee662c8897e0f468414af0f3b84484ec39" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2f8e4e71">
+		<description>Flight Simulator (baddump? a few bits are different)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Flight Simulator - subLOGIC (1988) [a] [5791].rom" size="0x20000" crc="2f8e4e71" sha1="13d85a1a4437872d82deb8006fa188d581aec5da" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9980d91a">
+		<description>Flight Simulator (hacked mapper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Flight Simulator - subLOGIC (1988) [732].rom" size="0x20000" crc="9980d91a" sha1="2bd311a4baf59cb85b839cca1f55b7462aa96952" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="03422384">
+		<description>Flipper Slipper (hacked Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Flipper Slipper - Spectravideo - ASCII (1983) [2811].rom" size="0x4000" crc="03422384" sha1="6663e696b35f82b60c18752b58072ae56b2c3657" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="00b543f2">
+		<description>Foot Volley (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Foot Volley - Players (1986) [4894].rom" size="0x8000" crc="00b543f2" sha1="8ffa86e27ea487e943852e98246dae1f49f3b968" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4bf46ca4">
+		<description>Foot Volley (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Foot Volley - Players (1986) [5793].rom" size="0x8000" crc="4bf46ca4" sha1="2cb0cd93e7c1818aa800db4cbc6e8402331d511e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="816acb08">
+		<description>Football Manager (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Football Manager - Addictive Games (1987) [4906].rom" size="0x8000" crc="816acb08" sha1="802b3b3d63aa46fe04a5ea621860007a81b8fcd9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b31458bc">
+		<description>Football Manager - World Cup Edition (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Football Manager - World Cup Edition - Addictive Games (1990) [Spanish] [6064].rom" size="0x20000" crc="b31458bc" sha1="075aba75be6e55ae3b94bb4a66b2b84f66c8deee" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5233dead">
+		<description>Forbidden Fruit (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Forbidden Fruit - Krypton Force (1986) [5794].rom" size="0x4000" crc="5233dead" sha1="4c72f9b480777808615fdae87320e897c0b755d2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="71b4e67a">
+		<description>Forbidden Fruit (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Forbidden Fruit - Krypton Force (1986) [a] [5797].rom" size="0x4000" crc="71b4e67a" sha1="5d167100d194afafb844c51d475c047f2c48097f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ed050351">
+		<description>Forbidden Fruit (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Forbidden Fruit - Krypton Force (1986) [a2] [5795].rom" size="0x4000" crc="ed050351" sha1="397e6f8709f93ef2aa6cf5549c6c74762851fda2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="970c4c31">
+		<description>Forbidden Fruit (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Forbidden Fruit - Krypton Force (1986) [a3] [5796].rom" size="0x4000" crc="970c4c31" sha1="bbc391c6d46d16052307da760d3c99239f505ba4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c4415092">
+		<description>Formula 1 Simulator (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Formula 1 Simulator - Mastertronic (1985) [4900].rom" size="0x8000" crc="c4415092" sha1="175566fca35ed53de36e54a0ac764c1a89510ce3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5e684d62">
+		<description>Formula 1 Simulator (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Formula 1 Simulator - Mastertronic (1985) [a] [6124].rom" size="0x8000" crc="5e684d62" sha1="68a9941a863e194b7785cd966c8d11c9a03cb8ad" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="04cc1f1f">
+		<description>Fraction Fever (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Fraction Fever - Spinnaker (1983) [Taylor Conversion] [6751].rom" size="0x10000" crc="04cc1f1f" sha1="a84b3984a60412f79bf9929716c2bf52722a5199" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="669a7b41">
+		<description>Freddy Hardest (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Freddy Hardest - Dinamic (1987) [No Turbo-R] [6079].rom" size="0x20000" crc="669a7b41" sha1="93a419d1d1f8916e7b06556024ca369230c42041" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="567014f6">
+		<description>Freddy Hardest in South Manhattan (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Freddy Hardest in South Manhattan - Dinamic (1989) [6078].rom" size="0x20000" crc="567014f6" sha1="8abe8fbd9c4baa283ea44c2f1c1c9b3e4257a4c2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b049a234">
+		<description>Freedom Fighter v1.6 (9 lives)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Freedom Fighter - TheGeps (2020) [MSXDev2020 - 9 lives] [v1.6] [original] [6792].rom" size="0x20000" crc="b049a234" sha1="4aaeff8bb2989dac58d77959f67f08c9fd06b1ed" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c8b4ef84">
+		<description>Frenzy (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Frenzy - Stern (1982) [GDX Conversion] [2684].rom" size="0x10000" crc="c8b4ef84" sha1="d92af75f2f4c1a9cb338be6ffc3cd378b1928c60" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5b0cb42f">
+		<description>Frenzy (coleco conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Frenzy - Stern (1982) [r2] [6004].rom" size="0x10000" crc="5b0cb42f" sha1="5b25b770b679ee095fd7b27bd79b1b9242ec1059" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="19bad041">
+		<description>Frog (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Frog - Eurosoft (1988) [4348].rom" size="0x8000" crc="19bad041" sha1="87b6986bee3e048f49c3dce5f9a380923430875f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f72c23b6">
+		<description>Frogger (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Frogger - Konami (1983) [a2] [RC-704] [5798].rom" size="0x4000" crc="f72c23b6" sha1="c43e83b398198c203f1778a037b41a3674a2ae74" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="56786f68">
+		<description>Frogger (hacked Korean)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Frogger - Konami (1983) [RC-704] [2816].rom" size="0x2000" crc="56786f68" sha1="58b20a4bde5477094c6065c368c994bb42551754" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9cb9f475">
+		<description>Frogger (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Frogger (Coleco Vision) - Parker Brothers (1983) [Taylor Conversion] [6739].rom" size="0x10000" crc="9cb9f475" sha1="cee140427a5e816a1e67a2f477fee0b824e35b43" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7dadf6bb">
+		<description>Frogger II (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Frogger II Threeedeep! - Parker Brothers (1984) [Taylor Conversion] [6753].rom" size="0x10000" crc="7dadf6bb" sha1="e27b1b20a662917f08170bfc810db496acbd4b71" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="95aa9bef">
+		<description>Front Line (hacked Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Front Line - TAITO (1984) [ProSoft Hack] [4142].rom" size="0x4000" crc="95aa9bef" sha1="056767676327b0da884dc8f538b5e9a2cd4b11f2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9ef33db5">
+		<description>Fruit Panic (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Fruit Panic - Pony Canyon (1984) [2819].rom" size="0x8000" crc="9ef33db5" sha1="3d56286713aa7fd54648cd8f59a7e2ac2becc9fc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e2e88d22">
+		<description>Fruit Panic (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Fruit Panic - Pony Canyon (1984) [4016].rom" size="0x4000" crc="e2e88d22" sha1="7a4707b4771dc1e73eb15962e99876cb4c56915d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8532b351">
+		<description>Fruit Panic (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Fruit Panic - Pony Canyon (1984) [5280].rom" size="0x4000" crc="8532b351" sha1="638bcde6b60f982bb4ec017f0ea47ef641f20b11" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a7087d17">
+		<description>Fruit Panic (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Fruit Panic - Pony Canyon (1984) [764].rom" size="0x4000" crc="a7087d17" sha1="50ae2f5ea4f03e71ca49ca02b0a0cfaf4464286f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d169a641">
+		<description>Fruit Panic (cas2crt conversion 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Fruit Panic - Pony Canyon (1984) [a2] [5279].rom" size="0x8000" crc="d169a641" sha1="da6922b3acbcd97ca0413a0c1f365c76632f87b0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="419e3702">
+		<description>Fruity Frank (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Fruity Frank - Steven Wallis (1985) [5281].rom" size="0x8000" crc="419e3702" sha1="f6e26afa7c6b4b14a220c4c446bc7097426237db" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2142bd10">
+		<description>Future Knight (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Future Knight - Gremlin Graphics (1986) [5400].rom" size="0x10000" crc="2142bd10" sha1="f2ead45c2685ee07d8350a408e4465289457ae33" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="f65b5271">
  		<description>Gall Force - Defense of Chaos (Japan, hacked)</description>
