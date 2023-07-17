@@ -21,6 +21,42 @@ license:CC0-1.0
 	</software>
 
 	<!-- too new -->
+	<software name="0dd59289">
+		<description>Entombed v1.1</description>
+ 		<year>2021</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Entombed v1.1 - Amaury Carvalho (2021).rom" size="0x8000" crc="0dd59289" sha1="c7b4af39f8bd51dce3b0b263678d918f1aef6de0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- too new -->
+	<software name="e23a4252">
+		<description>Entombed v1.0</description>
+ 		<year>2021</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Entombed v1.0 - Amaury Carvalho (2021).rom" size="0x8000" crc="e23a4252" sha1="003ca7197a8f83bf929ffc15110f48f83bf88a73" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Turbo-R only -->
+	<software name="9664c590">
+		<description>EXODUS</description>
+ 		<year>2019</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="EXODUS - Jos'b (2019) [5784].rom" size="0x10000" crc="9664c590" sha1="b6ce2831e98cf64a096e9bca4b2b0d3a8dad3596" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- too new -->
 	<software name="2434c7ea">
 		<description>The Fall of Prometheus</description>
  		<year>2021</year>
@@ -1373,6 +1409,402 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="4e4895d4">
+		<description>Exa Innova (hacked Clover)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="E.I. - Exa Innova - Programmers 3 (1984) [2798].rom" size="0x4000" crc="4e4895d4" sha1="7744ba0294c877daff2dcc3e1dd10f4357bfd53a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4260bab6">
+		<description>Exa Innova (hacked Screen Software)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="E.I. - Exa Innova - Programmers 3 (1984) [2799].rom" size="0x4000" crc="4260bab6" sha1="ceff1e13041a43b4a3ef629b69708770f36bab54" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="966c4fb7">
+		<description>Eagle Control (extracted from The Games Collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Eagle Control - Eurosoft (1988) [4891].rom" size="0x10000" crc="966c4fb7" sha1="1362a9fefd8372420807a16a4bf08f23d0a131de" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ecb42eb8">
+		<description>Eagle Fighter (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Eagle Fighter - Casio (1985) [a2] [5778].rom" size="0x8000" crc="ecb42eb8" sha1="d051366734026f8b31d04a5397f6a24658adb98e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ed6d4d8b">
+		<description>Eddie Kidd Jump Challenge (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Eddie Kidd Jump Challenge - Martech Games (1985) [4895].rom" size="0x8000" crc="ed6d4d8b" sha1="826a302988a6d59d2fe7eb5d85c42caa22e59054" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6ab2f107">
+		<description>Eddie Kidd Jump Challenge (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Eddie Kidd Jump Challenge - Martech Games (1985) [5779].rom" size="0x8000" crc="6ab2f107" sha1="b6426c971ad70e89ea49cb2a0943ed63eb5eba95" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e00862aa">
+		<description>Eggerland Mystery (hacked/fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Eggerland Mystery - HAL Laboratory (1985) [a] [5324].rom" size="0x8000" crc="e00862aa" sha1="731586f8f91e3f63aad1aedbd8e8e349a2218165" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7c98f757">
+		<description>Eggerland Mystery (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xa000">
+				<rom name="Eggerland Mystery - HAL Laboratory (1985) [Konami SCC Conversion] [4205].rom" size="0xa000" crc="7c98f757" sha1="77f6f1e8a060b9ecac8c48541c9d4caf0a0778f8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9c33e161">
+		<description>Eggerland 2 (hacked/fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Eggerland Mystery 2- Meikyushinwa - HAL Laboratory (1986) [4937].rom" size="0x20000" crc="9c33e161" sha1="b3fa998a3b37e73007ebbc1d5d243a2ac0b53353" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0154fc36">
+		<description>Eggerland 2 (hacked/fixed 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Eggerland Mystery 2- Meikyushinwa - HAL Laboratory (1986) [5323].rom" size="0x20000" crc="0154fc36" sha1="73bd15462866deae5c67151a65391b82f267e3da" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1df2fa60">
+		<description>Eggerland 2 (hacked mapper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Eggerland Mystery 2- Meikyushinwa - HAL Laboratory (1986) [1466].rom" size="0x20000" crc="1df2fa60" sha1="cbe6c0db6201f8ac09310c788adc634873251164" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5fd839d2">
+		<description>Eggerland 2 (hacked mapper 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Eggerland Mystery 2- Meikyushinwa - HAL Laboratory (1986) [6392].rom" size="0x20000" crc="5fd839d2" sha1="c335e8382fee4ba1bfbd2f4cdd99b8222f3e910a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="872b7752">
+		<description>Eggerland 2 (hacked Thevma)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Eggerland Mystery 2- Meikyushinwa - HAL Laboratory (1986) [h Thevma] [1465].rom" size="0x20000" crc="872b7752" sha1="cf344e0f58fd918c089c4d4575caec8843944ff6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6d3b8c46">
+		<description>Eggerland 2 (SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="147456">
+				<rom name="Eggerland Mystery 2- Meikyushinwa - HAL Laboratory (1986) [SCC Version by FileHunter] [4039].rom" size="147456" crc="6d3b8c46" sha1="47ebf2ab6dbc424f7cd5179f09614db7ba6d8d75" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="52c3c2ef">
+		<description>Eggy (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Eggy - Bothtec (1985) [4326].rom" size="0x8000" crc="52c3c2ef" sha1="a590a2d864a0506201a35cc0655011e6c53e3610" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="15149c0a">
+		<description>Eggy (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Eggy - Bothtec (1985) [5517].rom" size="0x8000" crc="15149c0a" sha1="694b6248ef87299064bdee7e31a5e9fd316bf798" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a8bb42e2">
+		<description>Eggy (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Eggy - Bothtec (1985) [iPhone version] [original] [625].rom" size="0x8000" crc="a8bb42e2" sha1="0dca3736badad8dbab3b8d552a581065d9977b43" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="00461690">
+		<description>Eggy (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Eggy - Bothtec (1985) [original] [4008].rom" size="0x8000" crc="00461690" sha1="d40b482b482b5ad22d2a26e5f9697997df6fbf8d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7987cf70">
+		<description>El Amo del Mundo (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="El Amo del Mundo - Positive (1990) [6098].rom" size="0x10000" crc="7987cf70" sha1="71ce816b7fabcfb81bd81ab76552cfbe7d00a89a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2f9e810f">
+		<description>El Cid (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="El Cid - Dro Soft (1987) [353].rom" size="0x10000" crc="2f9e810f" sha1="72493ae23be25d8caa1396f6fc8e8cce001c9ee0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6d32c8e0">
+		<description>El Descubrimiento de America (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="El Descubrimiento de America - OMK Software (1986) [6102].rom" size="0x20000" crc="6d32c8e0" sha1="c93ae94bf2e868040f08a824026f19cf46776c54" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="52d02848">
+		<description>El Equipo A (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="El Equipo A - Zafiro (1988) [6123].rom" size="0x10000" crc="52d02848" sha1="f884b58b048a515d16eaee80ec8b4e46156ef6d5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7d149332">
+		<description>El Poder Oscuro (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="El Poder Oscuro - Arcadia Software (1988) [6076].rom" size="0x10000" crc="7d149332" sha1="01a9e60295a073c0198464078f1d9a91b497ed9f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="45cd49d3">
+		<description>El Poder Oscuro (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="El Poder Oscuro - Arcadia Software (1988) [a] No Turbo-R] [6077].rom" size="0x20000" crc="45cd49d3" sha1="d77b6a8c2f80ae4adce33474015ece65d12c4125" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4a01b538">
+		<description>Elevator Action (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Elevator Action - TAITO (1985) [a] [5780].rom" size="0x8000" crc="4a01b538" sha1="f4cf82a85830f106a05c2a726a098b39d629dd5c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e5179007">
+		<description>Elevator Action (translated Spanish)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Elevator Action - TAITO (1985) [tr Sp Msx Informatica] [Translated] [631].rom" size="0x8000" crc="e5179007" sha1="acab2c6147df101536efde0d57ca4ccde8ba3379" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2f345730">
+		<description>Elidon (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Elidon - Orpheus (1985) [5781].rom" size="0x8000" crc="2f345730" sha1="835ef7718dd55275830270e6ebf28d1de0450704" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0fef4168">
+		<description>Elite (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="Elite - Firebird Software (1987).rom" size="0xc000" crc="0fef4168" sha1="d089996f8b24141071c54fb46d9bb8a1c0488332" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f3984e69">
+		<description>Emerald Isle (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Emerald Isle - Level 9 Computing (1985) [4939].rom" size="0x10000" crc="f3984e69" sha1="a5fde4cae91d06811bd64ca3ebe76bb47755f73a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6e5d8b55">
+		<description>Emilio Butragueño Fútbol (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Emilio Butragueno Fútbol - Topo Soft (1988) [4964].rom" size="0x10000" crc="6e5d8b55" sha1="a8e2cebfb182696d2d62e4d2739cb90084422798" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6ea88602">
+		<description>Emilio Sánchez Vicario Grand Slam (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Emilio Sanchez Vicario Grand Slam - Zigurat (1989) [4192].rom" size="0x10000" crc="6ea88602" sha1="e54971fe4e3af187dac9802ab1ace16bf1fb4878" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dddd9358">
+		<description>Esgrima (extracted from load'n'run compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Esgrima - Unknown (1986) [No Turbo-R] [6471].rom" size="0x4000" crc="dddd9358" sha1="5db0552cbe35a1014c323276a86ed757df5360b4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="67cc0ce3">
+		<description>Ewoks and the Dandelion Warriors (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Ewoks and the Dandelion Warriors - Walther Miller (1987) [possible sound issues [a] [5782].rom" size="0x8000" crc="67cc0ce3" sha1="5cbb450a32b246af1a917ce69df8c1545561eace" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="76322e6a">
+		<description>Exciting Jockey (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Exciting Jockey - Casio (1984) [a] [5746].rom" size="0x4000" crc="76322e6a" sha1="82de7038674ecab1fa5afb7a44a0ef6d0cb86706" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a432424e">
+		<description>Exerion 1 (baddump? 2 bytes replaced by FF)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Exerion 1 - Jaleco (1984) [a3] [5516].rom" size="0x4000" crc="a432424e" sha1="d950f05a2b36338f115d10b23f25fca67a1a0d5d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6227b8fb">
+		<description>Exerion 1 (translated Portuguese)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Exerion 1 - Jaleco (1984) [tr Br Uriano] [Translated] [649].rom" size="0x4000" crc="6227b8fb" sha1="5be82c297566b3e08fa1fe2534be06ca2f95d565" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="369cb84e">
  		<description>Exerion (Japan, hacked)</description>
  		<year>1984</year>
@@ -1386,6 +1818,72 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="50ab1438">
+		<description>Exoide-Z Area 5 (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Exoide-Z - Casio (1986) [a3] [5514].rom" size="0x4000" crc="50ab1438" sha1="6f39f5f16bf1df2a9b5d420d02112b83ebe9047e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b3f328e9">
+		<description>Exoide-Z Area 5 (hacked SP)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Exoide-Z - Casio (1986) [a2] [5515].rom" size="0x4000" crc="b3f328e9" sha1="63c095f8a3e581c3754aab0b4d74e748463ad67d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="92f1542f">
+		<description>Exoide-Z Area 5 (hacked Clover)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Exoide-Z - Casio (1986) [2804].rom" size="0x4000" crc="92f1542f" sha1="6cd5308c13c08dac6979b4535d7dbc314e6850a6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="90636dca">
+		<description>Exoide-Z Area 5 (hacked Pro)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Exoide-Z - Casio (1986) [2803].rom" size="0x4000" crc="90636dca" sha1="be431182a97155c09adb9f95a4c23fc8ec8044f0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="44a77274">
+		<description>Exoide-Z Area 5 (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Exoide-Z Area 5 - Casio (1986) [a] [5513].rom" size="0x8000" crc="44a77274" sha1="ce0a6c1bcdaa9e935ee6530c75c5afc7d7e4d62c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0e13e654">
+		<description>Exoide-Z Area 5 (hacked Topia)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Exoide-Z Area 5 - Casio (1986) [2805].rom" size="0x8000" crc="0e13e654" sha1="0e0ca65312adae0829e6abab554ae9454e52ec0a" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="ef59584d">
 		<description>F1 Spirit (translated French)</description>
