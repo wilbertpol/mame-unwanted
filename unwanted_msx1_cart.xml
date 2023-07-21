@@ -20,6 +20,112 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<!-- Unknown who, what, when -->
+	<software name="54c16287">
+		<description>Damaxian</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Damaxian - Unknown (-) [5705].rom" size="0x8000" crc="54c16287" sha1="266d51950d9545d700e2d1b0ae11fa6043e79e56" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Unknown who, what, when -->
+	<software name="e960f636">
+		<description>Damaxian</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Damaxian - Unknown (-) [a] [5704].rom" size="0x8000" crc="e960f636" sha1="fbb4e10f5c2a5438237f8b0989f6ab4eec16fd05" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Music only  -->
+	<software name="84fc409f">
+		<description>Destroyer (music only)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Destroyer - CEZ Games Studio (2014) [MSX1 only - SCC music only] [original] [3238].rom" size="0x2000" crc="84fc409f" sha1="8e835c159e737e7fa7967ac4e8b5c4795fb3a5e0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Unknown who, what, when -->
+	<software name="4b20796b">
+		<description>Do</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Do - Unknown (-) [5756].rom" size="0x8000" crc="4b20796b" sha1="8c9a982bc7c96db8a3470c403d45384e8f1b6d42" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d4506396">
+		<description>Drive</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x1000">
+				<rom name="Drive - Yermani Soft (2008) [6097].rom" size="0x1000" crc="d4506396" sha1="52a9173b22c8a72376003764d73e07579dc2015d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f9581ade">
+		<description>Drive</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="385024">
+				<rom name="Drive - Yermani Soft (2008) [6097].rom" size="385024" crc="f9581ade" sha1="af4c5fcc3c945643d8ece465faf8b1efe660f1e1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Officially released patched demo? -->
+	<software name="f4606f14">
+		<description>Dynamite Go! Go! Demo (MSX1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dynamite Go! Go! - Demo (2021) (Rutubo Gameworks) (MSX1 Fixed).rom" size="0x8000" crc="f4606f14" sha1="bae0ba14c01274ad059978171818ce37bf265f8c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Officially released patched demo? -->
+	<software name="542c4ed6">
+		<description>Dynamite Go! Go! Demo (MSX2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dynamite Go! Go! - Demo (2021) (Rutubo Gameworks) (MSX2 VDP).rom" size="0x8000" crc="542c4ed6" sha1="c65754ab0ade0fba8e13e486c3fab1e915ebf861" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Initial demo; not supposed to fully work on real MSX1? -->
+	<software name="138fa8f6">
+		<description>Dynamite Go! Go! Demo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dynamite Go! Go! - Demo (2021) (Rutubo Gameworks).ROM" size="0x8000" crc="138fa8f6" sha1="737ec9e029596fd0b4737f36a4f6b3fcbdcd2022" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- too new -->
 	<software name="0dd59289">
 		<description>Entombed v1.1</description>
@@ -1408,6 +1514,1117 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="692a1b6c">
+		<description>D-Day (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="DD-Day - Toshiba (1984) [2788].rom" size="0x4000" crc="692a1b6c" sha1="6eeead7af376794ddb549998ecac9668215eaf54" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0966c89b">
+		<description>Dacman (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Dacman (CV2MSX) (gdx-Taylor) [ASCII16] [a1].rom" size="0x10000" crc="0966c89b" sha1="388aa970045fa01c99ba4234037a245caaf5b5d4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ee92d589">
+		<description>Daedalian Opus (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Daedalian Opus - Karoshi Corporation (2006) [GDX Fixed].rom" size="0x8000" crc="ee92d589" sha1="991b8745a16dff1b20eb94f0a3c5379756bcaf9c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c44f02d5">
+		<description>Daidasso (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Daidasso - Great Escape - Carry Lab (1985) [5735].rom" size="0x8000" crc="c44f02d5" sha1="bc9cdf516eeb410f2519b4105e17e64ef541ae34" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="623c6d85">
+		<description>Daiva Story 4 (hacked mapper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Daiva Story 4 - T&amp;ESOFT (1987) [493].rom" size="0x40000" crc="623c6d85" sha1="1833ffc252d43d3d8239e57d5ac2c015b4367988" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a773c76a">
+		<description>Daiva Story 4 (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Daiva Story 4 - T&amp;ESOFT (1987) [English Translation] [Translated] [494].rom" size="0x40000" crc="a773c76a" sha1="6159cdfc79c68bf7dfe2653fc0b5893ae913c72b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1eec0c83">
+		<description>Damspel (crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Damspel - GP Versluis (-) [497].rom" size="0x4000" crc="1eec0c83" sha1="8c5cf2df5f0b9df67239161aa843d9804af46f0e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1909ad6c">
+		<description>Danger X4 (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Danger X4 - ASCII (1984) [5747].rom" size="0x4000" crc="1909ad6c" sha1="022eaf97ca7dc6b45f3e597502a241a413d317e2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2b091d98">
+		<description>David II (baddump? 2 bits different)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="David II - ASCII (1984) [a] [5748].rom" size="0x4000" crc="2b091d98" sha1="4ddafef0cc72d8c055fc3889cebb88b3bcbd40c0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c3e3af2e">
+		<description>David II (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4001">
+				<rom name="David II - ASCII (1984) [o] [507].rom" size="0x4001" crc="c3e3af2e" sha1="f53fd0b550c437d683668376829fbd7f569f0ee5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8880cee6">
+		<description>De Bouwvakker (listing from MSX-Gids)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="De Bouwvakker - G.W.J. van der Pol () [6872].rom" size="0x10000" crc="8880cee6" sha1="9124e5524a74a5ee176005dfc9b28468f2b97cd5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="79cf953d">
+		<description>Death Wish 3 (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Death Wish 3 - Gremlin Graphics (1987) [5530].rom" size="0x10000" crc="79cf953d" sha1="726d33155b0474229085d97a2a3ad5d601d1b710" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c196a7b1">
+		<description>Death Wish 3 (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Death Wish 3 - Gremlin Graphics (1987) [5532].rom" size="0x10000" crc="c196a7b1" sha1="2313279c30a95e8252068c357bf0fa54eba870cc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="57d3ca81">
+		<description>Death Wish 3 (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Death Wish 3 - Gremlin Graphics (1987) [a] [5531].rom" size="0x10000" crc="57d3ca81" sha1="99a21f6399e0f1456cda4c7f5ef1577a4175e63f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="087f4619">
+		<description>Death Wish 3 (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Death Wish 3 - Gremlin Graphics (1987) [No Turbo-R] [5533].rom" size="0x20000" crc="087f4619" sha1="892eb8d2c9cd7726b950d0ae86811822e98e6322" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3a6b8e57">
+		<description>Decathlon (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Decathlon - Activision (1984) [2789].rom" size="0x8000" crc="3a6b8e57" sha1="41bfc01065fe4e14886a0f3047acb6b849f94805" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f99b1c22">
+		<description>Decathlon (underdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Decathlon - Activision (1984) [509].rom" size="0x4000" crc="f99b1c22" sha1="5d43cb6ca89f31d5f543e4dcd3fa9987b9769602" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9fe23cbd">
+		<description>Demand (typed from Login 1985-04)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Demand - Unknown (1984) [4317].rom" size="0x8000" crc="9fe23cbd" sha1="e7ab516eceb6e621355c5318e4d4f378278d9d8a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c92375ed">
+		<description>Demand (typed from Login 1985-04 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Demand - Unknown (1984) [a] [5750].rom" size="0x8000" crc="c92375ed" sha1="95b4ce67a16ce5680c3579b331a52710e8058140" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ddf04759">
+		<description>Demonia (cas2rom conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Demonia I - Microids (1986) [4984].rom" size="0x10000" crc="ddf04759" sha1="baf01754e3d266d330b1f47776bf641ff5437544" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bcc4dd7a">
+		<description>Demonia (cas2rom conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Demonia I - Microids (1986) [518].rom" size="0x10000" crc="bcc4dd7a" sha1="d5b164797bc969b55c1a6f4006a4535c3fb03cf0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cb0e27e0">
+		<description>Desolator (cas2rom conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Desolator - Gremlin Graphics (1986) [5274].rom" size="0x8000" crc="cb0e27e0" sha1="0d4b152ee0b8d248422b1e36f8f1bc11a0b2311c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="577222f8">
+		<description>Desolator (cas2rom conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Desolator - Gremlin Graphics (1986) [Cas to ROM Conversion] [4042].rom" size="0x8000" crc="577222f8" sha1="6d49ac73a0cec2845b889c2c99cebbc08c327f8b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7f9e8e95">
+		<description>Desolator (cas2rom conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Desolator - Gremlin Graphics (1986) [Cas to ROM Conversion] [4256].rom" size="0x8000" crc="7f9e8e95" sha1="718f5cd2ffb48ccc3787c84754628da671e39f35" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c01187a0">
+		<description>Devil Zone (rom conversion?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Devil Zone - Uttum (1989) [3029].rom" size="0x20000" crc="c01187a0" sha1="b5323c533dfddbd34836a67f915d3e448c6c43b4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0c73a4ac">
+		<description>Devil Zone (rom conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Devil Zone - Uttum (1989) [ROM Version by Manuel Pazos and GDX [cheat version] [521].rom" size="0x20000" crc="0c73a4ac" sha1="fab24aa4ef16cfd7e767726809d208cdd95a195a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="62ac58fc">
+		<description>Devil Zone (rom conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Devil Zone - Uttum (1989) [ROM Version by Manuel Pazos and GDX] [520].rom" size="0x20000" crc="62ac58fc" sha1="27a2a026f8d3ac3e00b2fc28f6a5702b25748d0c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a37459a0">
+		<description>Devil Zone (rom conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Devil Zone - Uttum (1989) [ROM Version by Manuel Pazos and GDX] [522].rom" size="0x20000" crc="a37459a0" sha1="48e9bb58e61b55d9b196db82cf51a9913f1a53bb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9602c3c5">
+		<description>Devil's Heaven (fixed SP)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Devil's Heaven - General (1984) [MSX1 Only] [5751].rom" size="0x4000" crc="9602c3c5" sha1="fe6047eb6b98c7e1fb9cb7077453c41c23fbd993" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5138e751">
+		<description>Diamond Mine II (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Diamond Mine II - Blue Ribbon Software (1986) [4868].rom" size="0x8000" crc="5138e751" sha1="440f0b91ae8af8ecea4264efcc80ffad644103a0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eeeee5fd">
+		<description>Diamond Mine II (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Diamond Mine II - Blue Ribbon Software (1986) [5752].rom" size="0x8000" crc="eeeee5fd" sha1="be2dd1aeacdbaa7a1e2ca73374ab6beb818a3360" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8b095520">
+		<description>Dig Dug (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dig Dug - NAMCO (1984) [a2] [5526].rom" size="0x8000" crc="8b095520" sha1="5409cfb652788e7725cdced4fe632b4a057eb9cb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="60311bde">
+		<description>Dig Dug (underdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Dig Dug - NAMCO (1984) [a3] [5525].rom" size="0x4000" crc="60311bde" sha1="b72383222cc7c5bcd0e3b935b5e97af394bc0401" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0dea37be">
+		<description>Dig Dug (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dig Dug - NAMCO (1984) [Bad] [526].rom" size="0x8000" crc="0dea37be" sha1="c1376facb3db0124f0557a95684d3059a3043fec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2b0cef42">
+		<description>Dig Dug (hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dig Dug - NAMCO (1984) [GDX SCC Version] [3252].rom" size="0x8000" crc="2b0cef42" sha1="0496b9a6e3f48577eae0ec1a110a88359a8a0be4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f1e8340b">
+		<description>Dig Dug (translated Portuguese)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dig Dug - NAMCO (1984) [Portuguese Hack] [Translated] [5524].rom" size="0x8000" crc="f1e8340b" sha1="54cecf7ca63318159b36a45d14704b956370449b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d1fed684">
+		<description>Disc Warrior (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Disc Warrior - Alligata (1985) [4918].rom" size="0x10000" crc="d1fed684" sha1="a5b4fb9a122bd6d3a50385026fb3484da20ac5ff" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a8c90b3a">
+		<description>Disc Warrior (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Disc Warrior - Alligata (1985) [a] [5754].rom" size="0x10000" crc="a8c90b3a" sha1="58574fec6f8cc16863931ac618c7fcd4f9639bb2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="83eb9106">
+		<description>Discovery (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Discovery - Eurosoft (1988) [4917].rom" size="0x10000" crc="83eb9106" sha1="3731f197797a88dd0454d4e8a88049cd834138f3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9dbbadf0">
+		<description>Dizzy Balloon (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dizzy Balloon - Pony Canyon (1984) [5755].rom" size="0x8000" crc="9dbbadf0" sha1="fcda3e58d683258c1dc425203184b54b27a87460" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7dd36c75">
+		<description>Dog Fighter (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Dog Fighter - Hudson Soft (1984) [4974].rom" size="0x4000" crc="7dd36c75" sha1="d8b19e54d6c389e846392ce58ea5b20a05ceb09d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f109ccf2">
+		<description>Donkey Kong (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Donkey Kong - Coleco (1981) [5140].rom" size="0x10000" crc="f109ccf2" sha1="fee581e80683982f11d4012ec9bd755727ee6ede" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d1c14af7">
+		<description>Donkey Kong (coleco conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Donkey Kong - Coleco (1981) [GDX Conversion] [original] [2673].rom" size="0x10000" crc="d1c14af7" sha1="f90c58b78d46faac333e0560676473d48c03b5af" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5963ee98">
+		<description>Donkey Kong (coleco conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Donkey Kong - Coleco (1981) [v16k] [r2] [5759].rom" size="0x8000" crc="5963ee98" sha1="0387853eaa4b0633e90931bc71dcd2b11ec82069" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e594b4e1">
+		<description>Donkey Kong (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Donkey Kong - Nintendo (1986) [5757].rom" size="0x10000" crc="e594b4e1" sha1="d9aeb14291feac81234377868e25719970b71a64" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5640e6e2">
+		<description>Donkey Kong (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="Donkey Kong - Nintendo (1986) [cr Dr. Jekyl and Mr. Hyde] [536].rom" size="0xc000" crc="5640e6e2" sha1="86fdfe9e26d6e77f41cbcb47e10e2f32e5518549" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b771843a">
+		<description>Donkey Kong (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Donkey Kong - Nintendo (1986) [Muffie Conversion] [6861].rom" size="0x8000" crc="b771843a" sha1="a3d8e5d5686b3f997d0767889a07ca4f96a43a9d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="640355f1">
+		<description>Donkey Kong (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Donkey Kong - Nintendo (1986) [Selected MSX models only] [3030].rom" size="0x10000" crc="640355f1" sha1="f503c092f96a26ca31620d79d3e4ac81e5ca69bd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8a5aea83">
+		<description>Donkey Kong (cas2crt conversion 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="Donkey Kong - Nintendo (1986) [Selected MSX models only] [6472].rom" size="0xc000" crc="8a5aea83" sha1="b1e4bd998b2966a168466fe92f179abe897e8770" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ea66a494">
+		<description>Donkey Kong Jr. (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Donkey Kong Jr. - Coleco (1983) [GDX Conversion] [2677].rom" size="0x8000" crc="ea66a494" sha1="61752708b2bb3556352799f211a513f1a82c67bc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a4cfd361">
+		<description>Donkey Kong Jr. (coleco conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Donkey Kong Jr. - Coleco (1983) [r2] [5758].rom" size="0x8000" crc="a4cfd361" sha1="0b8a05858d5222acf318d941247425f7fdbb85a4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="afec52df">
+		<description>Donpan (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Donpan - Colpax (1983) [2792].rom" size="0x4000" crc="afec52df" sha1="8f545627ba0467858c0310ac2d52d16c5bd7c56b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="52f063b0">
+		<description>Donpan (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Donpan - Colpax (1983) [5760].rom" size="0x4000" crc="52f063b0" sha1="95454c172e34f4cf1eb0600105366153f27ac4c8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="148416b9">
+		<description>Donpan (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Donpan - Colpax (1983) [5761].rom" size="0x4000" crc="148416b9" sha1="0d09fb6b96294ec326bdb24f32de0cc3ca5c22cb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a4983dcc">
+		<description>Donpan (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Donpan - Colpax (1983) [5762].rom" size="0x4000" crc="a4983dcc" sha1="9c2fefc4d7c731bfcccf055dd367e1c7c851e6bb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d2640f98">
+		<description>Donpan (cas2crt conversion 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Donpan - Colpax (1983) [MSX1 Only] [537].rom" size="0x4000" crc="d2640f98" sha1="291108a63e8aaaf06997bee7e988f89b0a7bb187" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ec021a75">
+		<description>Door Door mkII (hacked/fixed?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Door Door mkII - ENIX (1985) [539].rom" size="0x4000" crc="ec021a75" sha1="12c5edb41e696943c16f39c7b45b2aedc421411f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21184166">
+		<description>Door Door mkII (hacked protection?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Door Door mkII - ENIX (1985) [540].rom" size="0x4000" crc="21184166" sha1="8bb260181c404222e67f37ce84a252c5777472bc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="efd399b0">
+		<description>Door Door mkII (cracked Unicorn)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Door Door mkII - ENIX (1985) [cr Unicorn] [541].rom" size="0x4000" crc="efd399b0" sha1="83fce8c3e4843c4b1782b9ef83413c98f081d12e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="930e227f">
+		<description>Dorodon (baddump? 1 bit different)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Dorodon - UPL (1984) [5763].rom" size="0x4000" crc="930e227f" sha1="3cdef52b2958730b866250bfe7e7b6248e66749a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e933edb9">
+		<description>Double Dragon (hacked protection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Double Dragon - Zemina (1989) [a] [5764].rom" size="0x8000" crc="e933edb9" sha1="ce29e67a1bcb3478766ca96b96a245732c1b2c05" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8c802d01">
+		<description>Dr. Archie (dsk2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Dr. Archie - Microtac Software (1989) [4351].rom" size="0x10000" crc="8c802d01" sha1="1d10067f71785cd34562ffc983a3b16befeef5e2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9fe9483c">
+		<description>Dr. Jackle and Mr. Wide (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dr. Jackle and Mr. Wide - Mastertronic (1987) [4448].rom" size="0x8000" crc="9fe9483c" sha1="63457ad3b4d3c10ec10dc4357f8828cd24468b00" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="98590026">
+		<description>Dr. Jackle and Mr. Wide (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dr. Jackle and Mr. Wide - Mastertronic (1987) [a] [5768].rom" size="0x8000" crc="98590026" sha1="b0d53cbfea186610f6dcd9d4da130cde9eb40b60" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5eb592f0">
+		<description>Dr. Seuss Fix-Up The Mix-Up Puzzler (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Dr. Seuss Fix-Up The Mix-Up Puzzler - Coleco (1984) [Taylor Conversion] [6746].rom" size="0x10000" crc="5eb592f0" sha1="1929f76d43fcab3d9269b1552fcb02fd38a9f302" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="70787875">
+		<description>Dr.Copy (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Dr.Copy - Emiiru (1987) [English] [Translated] [5766].rom" size="0x4000" crc="70787875" sha1="3d65748a31e456fc1be8221900afc55b2ec62c34" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0f9c4fc0">
+		<description>Dr.Copy (translated English partial)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Dr.Copy - Emiiru (1987) [Partial English] [Translated] [5767].rom" size="0x4000" crc="0f9c4fc0" sha1="e660e8b0dd031c92d812f9d096b1311f2e234394" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="453cbb27">
+		<description>Dracula (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="753664">
+				<rom name="Dracula - Genesis Soft (1986) [6089].rom" size="753664" crc="453cbb27" sha1="f1c54c9245d59861806fb6ddad9a3fa998497557" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d9e0025d">
+		<description>Dragon Attack (hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Dragon Attack - Takara (1983) [GDX SCC Version] [3253].rom" size="0x4000" crc="d9e0025d" sha1="03a496f08946a344fff343509f596f7030bf5a50" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e984fe9c">
+		<description>Dragon Quest 1 (hacked mapper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Dragon Quest 1 - MSX1 Version - ENIX (1986) [6418].rom" size="0x20000" crc="e984fe9c" sha1="7e9a9ce7c18206b325830e9cdcbb27179118de96" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="898fa88b">
+		<description>Dragon Quest 2 (hacked mapper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Dragon Quest 2 - MSX1 Version - ENIX (1987) [565].rom" size="0x40000" crc="898fa88b" sha1="68691348a29ce59046f993e9abaf3c8651bdda3c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9c327402">
+		<description>Dragon Slayer 1 (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dragon Slayer 1 - Square (1985) [a] [5771].rom" size="0x8000" crc="9c327402" sha1="6cc70a6a24362061e91aeb68e0d9b2f7f92ac586" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cca4488b">
+		<description>Dragon Slayer 1 (translated Spanish)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dragon Slayer 1 - Square (1985) [2794].rom" size="0x8000" crc="cca4488b" sha1="9103862cb815ddf10d1ae4bbc238c4e7b1754004" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="885773f9">
+		<description>Dragon Slayer 3 (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Dragon Slayer 3 - Romancia - MSX1 Version - Falcom (1986) [3031].rom" size="0x20000" crc="885773f9" sha1="f913ba02cd07e7d6a18d79d0fc2f4628841fc5c6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e78d75cd">
+		<description>Dragon Slayer 3 (translated Spanish)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Dragon Slayer 3 - Romancia - MSX1 Version - Falcom (1986) [MSX Translations] [Spanish Translation - Speed Boost] [Translated] [575].rom" size="0x20000" crc="e78d75cd" sha1="3795737471fa09f4bee252bb19ea16013cd22809" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f18c7aa7">
+		<description>Dragon Slayer 4 (hacked password font)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Dragon Slayer 4 - MSX1 Version - Falcom (1987) [Kralizec's Dragon Slayer 4 improved password readability patch] [585].rom" size="0x40000" crc="f18c7aa7" sha1="a3584e9554bb3e9b384a3b2b80636709d9e842f2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1d9ac66c">
+		<description>Drakkar (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Drakkar - Diabolic (1989) [6085].rom" size="0x20000" crc="1d9ac66c" sha1="bffe0f61cafddc3eaadadd778e22348082836d1a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a93f9438">
+		<description>Drazen Petrovic Basket (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Drazen Petrovic Basket - Topo Soft (1989) [4056].rom" size="0x10000" crc="a93f9438" sha1="cce60a271ef07ba2813dde1a4638138bf92d00b5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ba6730d3">
+		<description>Dream Runaway (from Popcom 1985-12)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dream Runaway - Popcom Soft (1985) [5772].rom" size="0x8000" crc="ba6730d3" sha1="d241c478381841d72fea1b536ac0ca5fb758bf97" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="15b997cb">
+		<description>Dream Runaway (from Popcom 1985-12, fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dream Runaway - Popcom Soft (1985) [Keyclick fix] [6679].rom" size="0x8000" crc="15b997cb" sha1="639695be1fa8ba9d937295ff80a5f8485df4d196" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d78da5fc">
+		<description>Driller Tanks (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Driller Tanks - Hudson Soft - Japanese Softbank (1983) [593].rom" size="0x4000" crc="d78da5fc" sha1="d22817c519f5316f61c963580a620b0493a6232d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b289111a">
+		<description>Driller Tanks (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Driller Tanks - Hudson Soft - Japanese Softbank (1983) [a] [592].rom" size="0x4000" crc="b289111a" sha1="95d968baa9f4996926371b8486ab55835b7d9d52" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="51163fcb">
+		<description>Drink It (cdrom2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Drink It - Crappysoft (2006) [original] [594].rom" size="0x4000" crc="51163fcb" sha1="c55dd15a27b69b61e839f8500f56badb4ee58ad4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="32667d35">
+		<description>Droids the White Witch (hacked/fixed?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Droids the White Witch - Walther Miller (1987) [4407].rom" size="0x8000" crc="32667d35" sha1="63c759e34f377d0145911c08056e8e91b7f2d1a1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8e9f463c">
+		<description>Droids the White Witch (hacked/fixed? 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Droids the White Witch - Walther Miller (1987) [5522].rom" size="0x8000" crc="8e9f463c" sha1="e9b18f62dc6f06d8b0eeaf49cde22a59f074b8cc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2ab23e5a">
+		<description>Drome (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Drome - The Bytebusters (1987) [4325].rom" size="0x10000" crc="2ab23e5a" sha1="c3b1e5a26f1d8ca3c44cedce758d07832f8a4925" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="59d9652d">
+		<description>Drop (only displays Loading)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Drop - MSXosaure (2010) [MSX Basic Challenge 2010] [original] [2709].rom" size="0x4000" crc="59d9652d" sha1="b918206abcf3c570f636d3f4b9d70bcbc25ed079" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b740ef4b">
+		<description>dsk2rom support rom</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="dsk2rom support ROM - Joyrex (-) [This ROM is not meant to be executed] [6678].rom" size="0x4000" crc="b740ef4b" sha1="7e60b5c5fc5903b70a5acd7a48813f065fb126ea" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d6d3df79">
+		<description>Duck Hunt (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Duck Hunt - Karoshi Corporation (2004) [FRS Safe Phaser Fix] [4386].rom" size="0x2000" crc="d6d3df79" sha1="e2aaf1486bf69ce7fe934315c9fb7fe42a226adf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="88d25833">
+		<description>Dungeon Adventure (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dungeon Adventure - Level 9 Computing (1984) [5775].rom" size="0x8000" crc="88d25833" sha1="d78be4ef3478f6da7afdf9f127aeb90e8c18200e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="83fa94e3">
+		<description>Dunk Shot (hacked Mickey Soft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dunk Shot - HAL Laboratory (1986) [2796].rom" size="0x8000" crc="83fa94e3" sha1="a4dcb6b5c4a770171975c93eabb2868c7e38f914" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c906547b">
+		<description>Dunk Shot (enhanced)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="974848">
+				<rom name="Dunk Shot - HAL Laboratory (1986) [Arcade Enhanced].rom" size="974848" crc="c906547b" sha1="f76848a92ccebcdb31980686af305896411b1b35" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="19c5e57c">
+		<description>Dustin (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Dustin - Dinamic (1987) [3032].rom" size="0x20000" crc="19c5e57c" sha1="43ea1152883b57316fb0ebdd06472035fa753a7f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9c3b62ba">
+		<description>Dustin (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Dustin - Dinamic (1987) [5776].rom" size="0x10000" crc="9c3b62ba" sha1="6645e27680f708953850f2db7dff6665dd2a3895" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4d310554">
+		<description>Dustin (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Dustin - Dinamic (1987) [604].rom" size="0x10000" crc="4d310554" sha1="2799d221d5486d48226bbbd3941207e1fc7c985e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="729376f8">
+		<description>Dynamite Bowl (baddump? 1 byte different)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Dynamite Bowl - MSX1 - Softvision (1988) [4450].rom" size="0x20000" crc="729376f8" sha1="39cbdbc89085e6bcb0544ba3bd151cc46bcdc6cb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0521ca7a">
+		<description>Dynamite Dan (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Dynamite Dan - Mirrorsoft (1986) [4297].rom" size="0x10000" crc="0521ca7a" sha1="3b5b0055ac3f21290d3de9121edd7cf31ef65ee7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="69d24443">
+		<description>Dynamite Dan (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Dynamite Dan - Mirrorsoft (1986) [a] [5777].rom" size="0x20000" crc="69d24443" sha1="ec8e6ba440e9be5531aee098bc808b43f91a1f4a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="75f41d87">
+		<description>Dynamite Go! Go! Demo (fixed Nyyrikki)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dynamite Go! Go! - Demo (2021) (Rutubo Gameworks)(MSX 1 &amp; Scroll Fix by NYYRIKKI).ROM" size="0x8000" crc="75f41d87" sha1="911b7821c9f58a43660eb56298cf0659356ba992" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eec66ce7">
+		<description>Dynamite Go! Go! Demo (fixed Nyyrikki 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dynamite Go! Go! - Demo (2021) (Rutubo Gameworks)(MSX 1 Fix by NYYRIKKI).ROM" size="0x8000" crc="eec66ce7" sha1="ebcf5458f73a1b8c3e233a330cb5c60824831c12" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="88bdd996">
+		<description>Dynamite Go! Go! Demo (fixed Nyyrikki 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Dynamite Go! Go! - Demo (2021) (Rutubo Gameworks)(Scroll Fix by NYYRIKKI).ROM" size="0x8000" crc="88bdd996" sha1="bdacff63bea81d1c1fdc163af85f9fb653855272" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="4e4895d4">
 		<description>Exa Innova (hacked Clover)</description>
