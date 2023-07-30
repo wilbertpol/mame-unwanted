@@ -20,6 +20,102 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<!-- feels unfinished, not a real title screen, starts immediately -->
+	<software name="b95e565b">
+		<description>Bank</description>
+ 		<year>2008</year>
+ 		<publisher>German Gomez Herrera</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="385024">
+				<rom name="Bank - German Gomez Herrera (2008) [original] [190].rom" size="385024" crc="b95e565b" sha1="f0fee046198a076e664811f4e3a788d5f0b47183" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- unfinished, only title screen and options -->
+	<software name="172537ea">
+		<description>Battle Colonies</description>
+ 		<year>2011</year>
+ 		<publisher>Karoshi Corporation</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Battle Colonies - Karoshi Corporation (2011) [unfinished game] [original] [2624].rom" size="0x4000" crc="172537ea" sha1="8379dfd36f2b3b686f9aa5c2c800a47a347a0f46" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- too new -->
+	<software name="db5218db">
+		<description>Black Sea</description>
+ 		<year>2022</year>
+ 		<publisher>Manunuk</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Black Sea - Mananuk (2022).rom" size="0x10000" crc="db5218db" sha1="05e4638a26ba4f6bdb357e7a4a6453a33d1fb495" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- too new -->
+	<software name="d2640775">
+		<description>Black Sea</description>
+ 		<year>2022</year>
+ 		<publisher>Manunuk</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="Black Sea Treasure Hunters - Mananuk (2022)(a).rom" size="0xc000" crc="d2640775" sha1="eaa870b1148012ab2751e717ad24314b0606fd74" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- To sort -->
+	<software name="0596a961">
+		<description>Block Tower</description>
+ 		<year>1992</year>
+ 		<publisher>MSX-FAN</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Block Tower - MSX-FAN (1992) [241].rom" size="0x4000" crc="0596a961" sha1="d2ce76cddb6cc12dc68e9683b072fb57947ec172" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Turbo-R only -->
+	<software name="2e36ef1f">
+		<description>Blur</description>
+ 		<year>2008</year>
+ 		<publisher>XL2S Entertainment</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Blur - XL2S Entertainment (2008) [Turbo-R Only] [original] [243].rom" size="0x20000" crc="2e36ef1f" sha1="f9122717f50a7a5a195d7ade2dd9bd3ea353cc1c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- too new -->
+	<software name="65ef2546">
+		<description>Bomnber Battle</description>
+ 		<year>2021</year>
+ 		<publisher>Amaury Carvalho</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="Bomber Battle - Amaury Carvalho (2021).rom" size="0xc000" crc="65ef2546" sha1="b6593aee43affc721be034ae0fce8c2b251fab3d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Unfinished, only a title screen -->
+	<software name="70601524">
+		<description>Bust a Move</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bust a Move - Karoshi Corporation (2011) [unfinished game] [original] [2625].rom" size="0x8000" crc="70601524" sha1="59ee15e914910314781c69cd58c91e6c45625733" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- Unknown who, what, when -->
 	<software name="f71ce5e4">
 		<description>C.C.R. 2</description>
@@ -1533,6 +1629,1403 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="3c9f57c4">
+		<description>Back to the Future (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Back To The Future - Pony Canyon (1985) [Patched by BiFi - Level fix].ROM" size="0x8000" crc="3c9f57c4" sha1="fa69d5d1006911cfb17960d784d767f46392588e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="77d6aba0">
+		<description>Baduk (extracted from compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Baduk - Zemina (-) [4231].rom" size="0x4000" crc="77d6aba0" sha1="077591f5ffa5debe278be3ce60bd7f1f5d69da88" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3168399e">
+		<description>Ballblazer (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Ballblazer - Lucasfilm (1987) [6133].rom" size="0x10000" crc="3168399e" sha1="def93715769792e204445c19b7c288bac48435d1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7ba2c2c8">
+		<description>Bang! Bang! (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Bang! Bang! (1985)(Ample, Mel Software)(JP)(en)[GDX Fixed].rom" size="0x4000" crc="7ba2c2c8" sha1="2ab8f94ffdf7e7dd1ce7a7266056e7fa0d7c6430" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="169624e4">
+		<description>Bank Panic (hacked/fixed?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bank Panic - Sega (1985) [a2] [5615].rom" size="0x8000" crc="169624e4" sha1="bc534526cd6b8daddf615750fe65ce7742e866d8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="775310a3">
+		<description>Bank Panic (hacked inputs)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bank Panic - Sega (1985) [1,2,3 keys [left, centre, right door] [4270].rom" size="0x8000" crc="775310a3" sha1="912614d50bafa6f3ab7f94b5520e79af35e58220" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b197fcec">
+		<description>Bank Panic (translated Korean)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bank Panic - Sega (1985) [Eunhaeng Gangdo - Korean] [Translated] [5616].rom" size="0x8000" crc="b197fcec" sha1="7231061f060f36cde984534daeac4d91cac43918" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c901ea1c">
+		<description>Barbarian (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Barbarian - Mastertronic (1988) [4881].rom" size="0x10000" crc="c901ea1c" sha1="cf21257864e411c8c2e3dc52ef5f9867aa02112c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b6ff92e5">
+		<description>Barbarian (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Barbarian - Mastertronic (1988) [5355].rom" size="0x10000" crc="b6ff92e5" sha1="97a634644496ecb2cba7058c2c6560b3ac86e798" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="88871a93">
+		<description>Barbarian (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Barbarian - Mastertronic (1988) [English] [5356].rom" size="0x10000" crc="88871a93" sha1="2c14dbd890f98daf64185ba80ba7a7ba4eec3a6e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c57c91f5">
+		<description>Barbarian (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Barbarian - Mastertronic (1988) [English] [5359].rom" size="0x10000" crc="c57c91f5" sha1="97ac70fe7171b31e125b9999d993d5fc7db9bacb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3f026623">
+		<description>Barbarian (cas2crt conversion 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Barbarian - Mastertronic (1988) [Portuguese] [5357].rom" size="0x10000" crc="3f026623" sha1="b666895e16bc3abbc541260ef4f1a4d1c02f3cc9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="12159a18">
+		<description>Barbarian (cas2crt conversion 6)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Barbarian - Mastertronic (1988) [Portuguese] [5360].rom" size="0x20000" crc="12159a18" sha1="74462f22aca2dbd17d034f6da55f303820601d16" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="72f9ed45">
+		<description>Barbarian (cas2crt conversion 7)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Barbarian - Mastertronic (1988) [Portuguese] [5362].rom" size="0x10000" crc="72f9ed45" sha1="b03485f37f8b5bb020f2f2df710268d2b7aa4464" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d1637fd4">
+		<description>Barbarian (cas2crt conversion 8)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Barbarian - Mastertronic (1988) [Spanish] [5358].rom" size="0x10000" crc="d1637fd4" sha1="1aca424e0591a3209c03b13ac8dd7e9dc04a3ef2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9c98f4b2">
+		<description>Barbarian (cas2crt conversion 9)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Barbarian - Mastertronic (1988) [Spanish] [5361].rom" size="0x10000" crc="9c98f4b2" sha1="b35e01886923e878064db1d9b06dd1ddb1a9f782" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="605e4da3">
+		<description>Barbarian II (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Barbarian II - The Dungeon of Drax - Palace Software (1988) [6051].rom" size="0x40000" crc="605e4da3" sha1="30baaadb5b6bfee401391dfee91f85885dcdd234" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1dec79d6">
+		<description>Barnstormer (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Barn Stormer - Electric Software (1986) [2743].rom" size="0x8000" crc="1dec79d6" sha1="f3dbd4bca83cb9edc364ca49d440f1642e1e2f20" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="defe3134">
+		<description>Basic Compiler (fixed typos)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Basic Compiler - Heart Soft (1985) [v1.0] [a] [call basic] [6340].rom" size="0x4000" crc="defe3134" sha1="5308b2606249aff1b5176ec148fcb63f3a43c34f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b008d644">
+		<description>Batman Rescue the Rovin (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Batman - Rescue The Rovin - Ocean (1987) [3026].rom" size="0x10000" crc="b008d644" sha1="a3f3fb0f78b1f1e953a8fd57e108eb0d90f480c9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cc6d4d69">
+		<description>Batman Rescue the Rovin (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Batman - Rescue The Rovin - Ocean (1987) [201].rom" size="0x10000" crc="cc6d4d69" sha1="3739d841abfef971db76ba10915b19b9df833476" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6ee2c303">
+		<description>Batman Rescue the Rovin (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Batman - Rescue The Rovin - Ocean (1987) [ROM version by Kabish] [3025].rom" size="0x20000" crc="6ee2c303" sha1="c522d40644544d78c9fb1f124a8313db1d45d89e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21e671f0">
+		<description>Batman Rescue the Rovin (hacked save/lad, hz, r800)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Batman - Rescue The Rovin - Ocean (1987) [Save-Load, 50Hz-60Hz, R800 mode by Ramones] [4272].rom" size="0x10000" crc="21e671f0" sha1="3254d7a564448b9594fe0f59b977210a7085a219" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="690f9715">
+		<description>Batman The Movie (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Batman - The Movie - Ocean (1989) [6113].rom" size="0x10000" crc="690f9715" sha1="ec8bea11c9abfda43a2cd34b829a76a185c87d41" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="84803990">
+		<description>Batten Tanuki (fixed/hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Batten Tanuki no Daibouken - Raccoon Dog - Tecno Soft (1985) [a2] [204].rom" size="0x8000" crc="84803990" sha1="efe44e5f4593036a6c00358638462a933d16b979" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="16d19d95">
+		<description>Battle Chopper (dsk2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Battle Chopper - Methodic Solutions (1985) [Disk Conversion] [4043].rom" size="0x10000" crc="16d19d95" sha1="961d495919d66be1a27a0bae2606f062a73549d9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="53991f35">
+		<description>Battle Cross (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4001">
+				<rom name="Battle Cross - Sony (1984) [o] [205].rom" size="0x4001" crc="53991f35" sha1="16f29e9553419865c1160617232614a72f88f3d4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5f75a0d9">
+		<description>Battle for Midway (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Battle for Midway - PSS (1985) [4935].rom" size="0x10000" crc="5f75a0d9" sha1="829aa3d5573930fe224e7883599f606f2bb5db8b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bdc18f43">
+		<description>BAW Basic (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="BAW Basic - Barq (-) [o] [6171].rom" size="0x8000" crc="bdc18f43" sha1="f9f3e2e6222e1cdb0784bf041e4a01146aab736a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f848dfb5">
+		<description>BC's Quest for Tires II Grog's Revenge (fixed/hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="BC's Quest For Tires II Grog's Revenge - Sydney (1984) [a3] [5610].rom" size="0x8000" crc="f848dfb5" sha1="9c86e844a10d701fc43cc9ab2ee352b8c0a87fd0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4c9deac5">
+		<description>BC's Quest for Tires II Grog's Revenge (fixed/hacked? 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="BC's Quest For Tires II Grog's Revenge - Sydney (1984) [a4] [5611].rom" size="0x8000" crc="4c9deac5" sha1="dc19ce302aef23730a9438b3853ef39d5968f5c8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d15c17c8">
+		<description>BC's Quest for Tires II Grog's Revenge (fixed/hacked? 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="BC's Quest For Tires II Grog's Revenge - Sydney (1984) [a] [5614].rom" size="0x8000" crc="d15c17c8" sha1="899ccc70c07cdff62dc1870a9d01cb8827eac5e6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9295a4bb">
+		<description>BC's Quest for Tires II Grog's Revenge (hacked Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="BC's Quest For Tires II Grog's Revenge - Sydney (1984) [a] ProSoft] [5612].rom" size="0x8000" crc="9295a4bb" sha1="1733b798467412cab858b8904e73a8c3e04c5e37" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d17d2f4b">
+		<description>BC's Quest for Tires II Grog's Revenge (hacked Topia)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="BC's Quest For Tires II Grog's Revenge - Sydney (1984) [a] Topia] [5613].rom" size="0x8000" crc="d17d2f4b" sha1="339a1200c341ea043d739081c5a50c04d5bb659b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dd996e1b">
+		<description>Beach-Head (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Beach Head - Access Software (1985) [4227].rom" size="0x8000" crc="dd996e1b" sha1="22e59dae5eefb9c7a0e67f480b68ccb1aada19a6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1fed3823">
+		<description>Beamrider (fixed?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Beamrider - Activision (1984) [a] [5299].rom" size="0x4000" crc="1fed3823" sha1="507f9bf5ac87b107b50d24451b1dc3e6eb4e9487" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1f974162">
+		<description>Beamrider (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Beamrider - Activision (1984) [2744].rom" size="0x8000" crc="1f974162" sha1="201d2d99247356ce0e847fb169225481d6adb7c0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e4203504">
+		<description>Bear George (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Bear George - Soft Bee (1985).ROM" size="0x4000" crc="e4203504" sha1="edf6911c945469f5ba70d8a59e1445b52ca9b75a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="82abe7d0">
+		<description>Beba Overclock (coleco conversion??)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Beba Overclock - Muffie (2021).rom" size="0x8000" crc="82abe7d0" sha1="137b8c0dd075da3c78a559dcbca7920c79aa870e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="909b81fb">
+		<description>Becky (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Becky - MIA (1983) [Translation by Hap and Rieks] [Translated] [218].rom" size="0x4000" crc="909b81fb" sha1="4eb5c8e5bc0b0c1bcfc55c53a819d5d592eb0551" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4614b41a">
+		<description>Bestial Warrior (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Bestial Warrior - Dinamic (1989) [5364].rom" size="0x20000" crc="4614b41a" sha1="aeb8138507069f8cac15c1498514b28f7451e0fc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0ce75806">
+		<description>Bestial Warrior (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Bestial Warrior - Dinamic (1989) [5365].rom" size="0x20000" crc="0ce75806" sha1="516c2870460eea57345eda86c35d14277c01131b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="52c71d15">
+		<description>Bestial Warrior (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Bestial Warrior - Dinamic (1989) [5366].rom" size="0x10000" crc="52c71d15" sha1="db5ba118dc95ea3bee5e8b5d7e5e240dd76272ea" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fbacbc7a">
+		<description>Binary Land (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Binary Land - Hudson Soft - Japanese Softbank (1984) [230].rom" size="0x4000" crc="fbacbc7a" sha1="ef476e25fb6b7221ca778a379117885450dd36f0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b6df74f5">
+		<description>Binary Land (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Binary Land - Hudson Soft - Japanese Softbank (1984) [2745].rom" size="0x4000" crc="b6df74f5" sha1="013fe787d071c64d7d2692b984734c5812a483c2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e7f61689">
+		<description>Black Beard (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Black Beard - Topo Soft (1988) [5738].rom" size="0x10000" crc="e7f61689" sha1="950dfb9e2cb1c81d826bf30ad6a2f031e3294e65" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="de7d193b">
+		<description>Black Beard (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Black Beard - Topo Soft (1988) [a] [5739].rom" size="0x20000" crc="de7d193b" sha1="44a1b3b49b9edc01a2d94c836b97aa6eee0de9c7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a5e358f2">
+		<description>Blagger (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Blagger - Alligata (1984) [Converted from tape by Alligata] [239].rom" size="0x8000" crc="a5e358f2" sha1="6bc6acb11e684406a5d939337b29f33dc9816ad1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3d065465">
+		<description>Blagger (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Blagger - Alligata (1984) [MSX1 only] [237].rom" size="0x8000" crc="3d065465" sha1="b4dd886d4a44cc42fc9e95d2db0943d422e4bda8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bdbdf44a">
+		<description>Blagger (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Blagger - Alligata (1984) [Enhanced version by Jose Luis Tur] [4271].rom" size="0x8000" crc="bdbdf44a" sha1="6f014b3ae1960468bf71b18c8e396d0eadf5b6ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="99c0b665">
+		<description>Blagger (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Blagger - Alligata (1984) [a2] [5706].rom" size="0x8000" crc="99c0b665" sha1="0063c3c9bd3c7ad057e6b1b9e6f6bef1287dfdda" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2df14805">
+		<description>Blasteroids (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Blasteroids - Image Works (1987) [5707].rom" size="0x20000" crc="2df14805" sha1="c743071057d3ffac5f3d77c6745aa8a38abae8da" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f4213cc2">
+		<description>Blasteroids (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Blasteroids - Image Works (1987) [a] [5708].rom" size="0x10000" crc="f4213cc2" sha1="81ea6d509c820e25f4e772300658c2a31df4abfa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1cfd7376">
+		<description>Blockade Runner (hacked Clover)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Blockade Runner - Interphase (1984) [2747].rom" size="0x4000" crc="1cfd7376" sha1="a4f8627b060e521c0c8537e45912d39b8ded5991" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0e685f9f">
+		<description>Blow Up (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Blow Up - Eurosoft (1987) [4091].rom" size="0x10000" crc="0e685f9f" sha1="445a9744035218b70041a3eae70b4bd3460da031" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0e79cadd">
+		<description>Blow Up (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Blow Up - Eurosoft (1987) [a] [5300].rom" size="0x10000" crc="0e79cadd" sha1="5053675bfc3ab2df9e9301a66b18cd88b840c9c5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b3163402">
+		<description>BMX Simulator (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="BMX Simulator - Codemasters (1986) [4959].rom" size="0x10000" crc="b3163402" sha1="746c6ba648bef6aaccca2ad09a75c0632acf4f2d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="888317b1">
+		<description>Boardello (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Boardello - Bubble Bus (1985) [4311].rom" size="0x4000" crc="888317b1" sha1="e455393e7234923a520d14045db14da4334322d4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c68a02f9">
+		<description>Boardello (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Boardello - Bubble Bus (1985) [5709].rom" size="0x4000" crc="c68a02f9" sha1="10196cb2f8fa6a3023e680a03b2956fe864b2334" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ee12c2e6">
+		<description>Boggy'84 (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Boggy'84 - Nippon Columbia - Colpax - Universal (1984) [5710].rom" size="0x2000" crc="ee12c2e6" sha1="a07481d7f1f3925a40ef99aacfcae9c752ff402c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="45b70f9c">
+		<description>Bomb Jack (dsk2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bomb Jack - Sega (1983) [256].rom" size="0x8000" crc="45b70f9c" sha1="cef76580a01cc8e16704590d0d884d7eeadaa3a8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="70ef15e5">
+		<description>Bomb Jack (hacked Krazilec)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Bomb Jack - Sega (1983) [Kralizec MSX2 Version] [original] [2618].rom" size="0x10000" crc="70ef15e5" sha1="5c904e7d202d9df2ff2ef9c8300f00d207670e82" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6d3387b7">
+		<description>Bomber Man (hacked Screen)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Bomber Man - Hudson Soft - Japanese Softbank (1983) [2750].rom" size="0x2000" crc="6d3387b7" sha1="40217fbafa2af3bcf34f80dd215eee22d86d83ac" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="93ecf0c5">
+		<description>Bomber Man - Eric and the Floaters (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Bomber Man - Hudson Soft - Japanese Softbank (1983) [Eric And The Floaters version] [265].rom" size="0x4000" crc="93ecf0c5" sha1="b0d384ec10f59d201f346a3cd7eb31b9a80c28ca" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ac8d4acf">
+		<description>Bomber Man (hacked Clover)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Bomber Man - Hudson Soft - Japanese Softbank (1983) [h Clover] [6486].rom" size="0x2000" crc="ac8d4acf" sha1="356b216cc7790b62af460f5720646c4d4803502e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="72188b8b">
+		<description>Bomber Man (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bomber Man - Hudson Soft - Japanese Softbank (1983) [o] [264].rom" size="0x4021" crc="72188b8b" sha1="2c0e3d130a1655617f9f80836f4b8b606f0774f2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a8d14f93">
+		<description>Bomber Man (overdump 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Bomber Man - Hudson Soft - Japanese Softbank (1983) [2751].rom" size="0x4000" crc="a8d14f93" sha1="f54243e461cd8852fbe5e612bbe0ab71cf6ee524" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="af2e0c2b">
+		<description>Bomber Man (overdump 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Bomber Man - Hudson Soft - Japanese Softbank (1983) [2749].rom" size="0x4000" crc="af2e0c2b" sha1="1c6d69fbc7a8fea434b871bdd1aa7d816c48ac44" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="600f53de">
+		<description>Bomber Man Special (beecard conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bomber Man Special - Hudson Soft (1986) [5712].rom" size="0x8000" crc="600f53de" sha1="7f9e577475e228dcbc97fffd7cb6e1f6e9ff36a1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="29f3d994">
+		<description>Bomber Man Special (beecard conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bomber Man Special - Hudson Soft (1986) [Hudson - EVA - Deluxe Edition] [268].rom" size="0x8000" crc="29f3d994" sha1="abe625e853cde9908a302f63da407d3e67c6e59e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="085703f9">
+		<description>Bomber Man Special (beecard conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bomber Man Special - Hudson Soft (1986) [Hudson - EVA - Deluxe Edition] [5711].rom" size="0x8000" crc="085703f9" sha1="d7bfa27a2d6c143eb8183ed0fba5d8865117251d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8cb9d82a">
+		<description>Booga-Boo (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Booga-Boo - Indescomp (1986) [4145].rom" size="0x4000" crc="8cb9d82a" sha1="8fe21e5ff12cbd52e379bfc1feaf9f560289ba42" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a2955d18">
+		<description>Booga-Boo (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Booga-Boo - Indescomp (1986) [5714].rom" size="0x4000" crc="a2955d18" sha1="2a91ccc4a8085a9acd195bf1a264deaf2db329b0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="076be943">
+		<description>Boom (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Boom - Aackosoft (1985) [4872].rom" size="0x4000" crc="076be943" sha1="61c2b320968963428a27944c376e2d82d2786300" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0c0a99a4">
+		<description>Booty (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Booty - Eurosoft (1988) [4897].rom" size="0x8000" crc="0c0a99a4" sha1="2578d1e08a89d4ed07dc1bf7beae8130b9f5060a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c80755db">
+		<description>Booty (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Booty - Eurosoft (1988) [a] [6065].rom" size="0x8000" crc="c80755db" sha1="09c030ff2fbd9ff1c0c19cf779d8bddc84aa9244" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e7684351">
+		<description>BOP! (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="BOP! - Bug-Byte Software (1986) [4146].rom" size="0x4000" crc="e7684351" sha1="5f1284752e8836880bd23f023f77b9dc048be38d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="00240aa2">
+		<description>BOP! (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="BOP! - Bug-Byte Software (1986) [a] [5742].rom" size="0x4000" crc="00240aa2" sha1="1ffb9c249d030342b9d125cd35579030e6020fb3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f2f2f0c8">
+		<description>Borfesu (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Borfesu - XtalSoft (1987) [English Translation by HAP] [Translated] [277].rom" size="0x20000" crc="f2f2f0c8" sha1="855cabd1ad1abae3a9d26999d48c66de8096d7c5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ae42d0ea">
+		<description>Bosconian (hacked Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bosconian - NAMCO (1984) [2755].rom" size="0x8000" crc="ae42d0ea" sha1="30161382e2410a72ece072719a561ec550256c7c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="db109940">
+		<description>Bosconian (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bosconian - NAMCO (1984) [3434].rom" size="0x8000" crc="db109940" sha1="ad84cdb17d242f3d44c54f490d32f3006e96276c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a5a1be6a">
+		<description>Bosconian (hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bosconian - NAMCO (1984) [GDX SCC Version] [3248].rom" size="0x8000" crc="a5a1be6a" sha1="6f50ab2e4b4f40aa78e3d52ea3a1d6bace3ad361" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="df73a896">
+		<description>Bosconian (hacked SCC 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x60000">
+				<rom name="Bosconian - NAMCO (1984) [In game SCC music] [6887].rom" size="0x60000" crc="df73a896" sha1="a7b94a1b56ea642a6fc101cd653403f9322409b8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ccec02b2">
+		<description>Bosconian (hacked MSX-Audio)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Bosconian - NAMCO (1984)(MSX-Audio).ROM" size="0x80000" crc="ccec02b2" sha1="14b6d65e184befa3b9d697db9bd5a803b4f83831" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b76767a0">
+		<description>Bouken Roman (fixed?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bouken Roman - Dota - System Soft (1986) [a2] [5740].rom" size="0x8000" crc="b76767a0" sha1="953ac0569d5e82e1cb6b60412e56534d73e4ca42" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="98d1b9ff">
+		<description>Boulder Dash (fixed SP)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Boulder Dash - First Star Software (1986) [Champion Edition-a] [5551].rom" size="0x8000" crc="98d1b9ff" sha1="87fdad9c7d2d2c54e0b2e7484bf4f79ce7397bcc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6de08cd4">
+		<description>Boulder Dash (fixed SP 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Boulder Dash - First Star Software (1986) [Champion Edition-a2] [5552].rom" size="0x8000" crc="6de08cd4" sha1="5f0b43b6ac1af661bde563704e5a51cd6d707c8f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aa9e8259">
+		<description>Boulder Dash (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Boulder Dash - First Star Software (1986) [287].rom" size="0x4000" crc="aa9e8259" sha1="6097fb7194b64148287e654870c98eb0e2b33850" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="80dadbc8">
+		<description>Boulder Dash (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Boulder Dash - First Star Software (1986) [5550].rom" size="0x4000" crc="80dadbc8" sha1="dae75b692112e06f5be8f00e71e0776f75010475" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fca8acd1">
+		<description>Boulder Dash (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Boulder Dash - First Star Software (1986) [Champion Edition-a3] [5553].rom" size="0x4000" crc="fca8acd1" sha1="52206eb683f2c7386f10f07cc6bc80db48ea89fa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="42001f4f">
+		<description>Boulder Dash (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Boulder Dash - First Star Software (1986) [MSX1 Only] [2756].rom" size="0x4000" crc="42001f4f" sha1="28b25f82e6c35161b4955efa107b472acbb84f70" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aa751b61">
+		<description>Boulder Dash (cas2crt conversion 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Boulder Dash - First Star Software (1986) [MSX1 Only] [286].rom" size="0x4000" crc="aa751b61" sha1="9b3be70492994320e185aae302cdb3841d7f518a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="178aa9a7">
+		<description>Boulder Dash 2 (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Boulder Dash 2 - First Star Software (1987) [288].rom" size="0x4000" crc="178aa9a7" sha1="d28201ca9b7d062d37c62bc4d6212f2a0d3e1cb4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c7da2a53">
+		<description>Boulder Dash 2 (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Boulder Dash 2 - First Star Software (1987) [a2] [5548].rom" size="0x4000" crc="c7da2a53" sha1="c018aa71a7c20842aa6f42a2c1a58dad7f81bfd3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="06d45bc2">
+		<description>Boulder Dash 2 (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Boulder Dash 2 - First Star Software (1987) [a3] [5549].rom" size="0x4000" crc="06d45bc2" sha1="cfc53f6569fd45472c082de6c608446cccb74700" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b8a8b27b">
+		<description>Boulder Dash 2 (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Boulder Dash 2 - First Star Software (1987) [MSX1 Only] [2757].rom" size="0x4000" crc="b8a8b27b" sha1="bd13e3d81aa075365feecbee7c52b1baae98ea33" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cf270c3b">
+		<description>Bouncing Block (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Bouncing Block - Idealogic (1988) [291].rom" size="0x4000" crc="cf270c3b" sha1="f1f571c1d9360839450c26d73c6aef89e1e052eb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a80d0063">
+		<description>Bouncing Block (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<rom name="Bouncing Block - Idealogic (1988) [a] [290].rom" size="0x2000" crc="a80d0063" sha1="b76ffb94a08457df0a51897cd87cd8a91610224c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5039ed00">
+		<description>Bounder (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Bounder - Gremlin Graphics (1985) [4295].rom" size="0x10000" crc="5039ed00" sha1="c827522427d4561a212c00f029247695f94ff99a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="334efc07">
+		<description>Bousou Tokkyuu SOS (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Bousou Tokkyuu SOS - Stop The Express - Hudson Soft - Japanese Softbank (1985) [292].rom" size="0x8000" crc="334efc07" sha1="f2d1a057940b44c04ba08f4ff2767eef8b515833" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="89aac266">
+		<description>Bousou Tokkyuu SOS (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Bousou Tokkyuu SOS - Stop The Express - Hudson Soft - Japanese Softbank (1985) [5609].rom" size="0x20000" crc="89aac266" sha1="75326515c9bd63d9e4185030598993ce6ac8371c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b6063493">
+		<description>Bousou Tokkyuu SOS (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Bousou Tokkyuu SOS - Stop The Express - Hudson Soft - Japanese Softbank (1985) [a] [293].rom" size="0x4000" crc="b6063493" sha1="78b1bb63975d2b51390898539c075bf4bdd72343" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0d752a31">
+		<description>Break In (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Break In - The Bytebusters (1987) [3433].rom" size="0x8000" crc="0d752a31" sha1="be08ec5c848c1378ca954ade9065b850c6ce1660" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ab38629b">
+		<description>Break In (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Break In - The Bytebusters (1987) [Alalamiah release-a] [5741].rom" size="0x8000" crc="ab38629b" sha1="ad79892ef30e2906c6b4787af2f6f454e1d51412" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aff7d926">
+		<description>Break It (listing from MSX Gids 15)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Break It - Martin vd Graaf (1987) [original] [3975].rom" size="0x8000" crc="aff7d926" sha1="e85138db78459856dcfdac10bfd737ac90f3ad09" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9e8aed1c">
+		<description>Brick Breaker (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Brick Breaker - Juliet Software (1987) [5898].rom" size="0x4000" crc="9e8aed1c" sha1="c5cc3b61b1fe8e036331d086712a06ffdb75ce57" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="775fe34e">
+		<description>MSX-Bridge (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Bridge - Filosoft (1991) [297].rom" size="0x4000" crc="775fe34e" sha1="0d9a37ff931e5db2cdee2e0f312fd4bbef5cfd29" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b4bfc4e0">
+		<description>Brik (bas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x1000">
+				<rom name="Brik - German Gomez Herrera (2008) [6153].rom" size="0x1000" crc="b4bfc4e0" sha1="58e7d25fbf439f708f6380ca8e5a24a3ed7a9c11" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="916093a3">
+		<description>Brik (bas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="385024">
+				<rom name="Brik - German Gomez Herrera (2008) [original] [298].rom" size="385024" crc="916093a3" sha1="c1219e0735d31f1c41995795e58b04b97bf1b71a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="590841b9">
+		<description>Bronx (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Bronx - Animagic (1989) [6049].rom" size="0x10000" crc="590841b9" sha1="fb7cc1c1a48c5fa0034df604a02722ff0a822666" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1b16de4e">
+		<description>Bubbler (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Bubbler - Ultimate Play The Game (1987) [4970].rom" size="0x10000" crc="1b16de4e" sha1="ad10829f0f7a64fa5adc1408c8d394f131828530" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e9c09913">
+		<description>Bubbler (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Bubbler - Ultimate Play The Game (1987) [5353].rom" size="0x10000" crc="e9c09913" sha1="25cdd9aef263d5d2ec403db454130159e242eea1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="de39a9c1">
+		<description>Bubbler (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Bubbler - Ultimate Play The Game (1987) [5354].rom" size="0x10000" crc="de39a9c1" sha1="6219ec49b735e80e3c8d1d5ba2bb107390df8716" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a5262661">
+		<description>Bubbler (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Bubbler - Ultimate Play The Game (1987) [ROM version by Kabish] [4273].rom" size="0x20000" crc="a5262661" sha1="3fca2c8e43d2acb98fc7b46c5d9dae1c90f2ca6c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fb62a43f">
+		<description>Buck Rogers (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Buck Rogers - Planet of Zoom - Sega (1983) [a] [5718].rom" size="0x8000" crc="fb62a43f" sha1="17423b732c8c59561546d8e5f9945cc18ca0c945" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="80150cac">
+		<description>Buck Rogers (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Buck Rogers - Planet of Zoom - Sega (1983) [cas2rom] [4079].rom" size="0x8000" crc="80150cac" sha1="25ccc462ab7ecbe9f8e63e931840d6164b9cc4c1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cd3d6de1">
+		<description>Buggy Ranger (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Buggy Ranger - Dinamic (1990) [5904].rom" size="0x20000" crc="cd3d6de1" sha1="fe9cb69221f2156e7b069c419e8e5d3af4693520" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="31806e15">
+		<description>Burger Time (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Burger Time - Coleco (1982) [2686].rom" size="0x10000" crc="31806e15" sha1="ccf2bdb5cbdfae61d810a096ba48569e41873940" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="78d96a52">
+		<description>Burger Time (coleco conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Burger Time - Coleco (1982) [Mattel Version] [5717].rom" size="0x8000" crc="78d96a52" sha1="0d4d25f0670cc5a1b24de26c7f2a5d4021b7ff15" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9a91fd24">
+		<description>Burger Time (coleco conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Burger Time - Coleco (1982) [r2] [5716].rom" size="0x10000" crc="9a91fd24" sha1="97c20556234fefaf1687b460166b408d41e5a16a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="59a56c68">
+		<description>Buru To Marty Kikiippatsu - Inspecteur Z (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Buru To Marty Kikiippatsu - Inspecteur Z - HAL Laboratory (1986) [a] [5817].rom" size="0x8000" crc="59a56c68" sha1="9b19a24d9c51d6d69b46d65fa5076c40a56a314a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="57a1bfb3">
+		<description>Buru To Marty Kikiippatsu - Inspecteur Z (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Buru To Marty Kikiippatsu - Inspecteur Z - HAL Laboratory (1986) [tr En] [Translated] [309].rom" size="0x8000" crc="57a1bfb3" sha1="01b506cfecb366f7e00bcabb717e86e8974c02a2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c86541be">
+		<description>Buster Block (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Buster Block - Steven Wallis (1985) [4913].rom" size="0x10000" crc="c86541be" sha1="9b7531830e112d0b13d6a49588ba1f1b528baed4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7d88bf13">
+		<description>Buster Block (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Buster Block - Steven Wallis (1985) [5905].rom" size="0x10000" crc="7d88bf13" sha1="90ec78f555aa6ddc77363a200026441fe29efafd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="66f2be7b">
+		<description>Busy Rainy Day (extracted from compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Busy Rainy Day - Hudson Soft (1983) [4433].rom" size="0x4000" crc="66f2be7b" sha1="17cdba8c632d137c7c1aa3a1b04c11846d6b913d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="739c591f">
+		<description>Buzz Off! (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Buzz Off! - Electric Software (1984) [4923].rom" size="0x8000" crc="739c591f" sha1="0cc026e997517909c2f4852cfe0cc0110a5392d2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b0e20d0d">
+		<description>Buzz Off! (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Buzz Off! - Electric Software (1984) [5684].rom" size="0x8000" crc="b0e20d0d" sha1="59ae12a33348dc9918a3f8fd2bd88c52919abe73" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="51445292">
  		<description>Car-Race (Japan, overdump)</description>
