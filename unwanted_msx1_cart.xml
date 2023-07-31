@@ -20,6 +20,124 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<!-- does not work -->
+	<software name="f44525e2">
+ 		<description>Aleste 2 Theme</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="cart" interface="msx_cart">
+ 			<dataarea name="rom" size="0x2000">
+ 				<rom name="Aleste 2 Theme - WYZ (2007) [59].rom" size="0x2000" crc="f44525e2" sha1="0025565bf89b8dd698fcf49f10345ca29adbc2f6" />
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<!-- only displays title screen -->
+	<software name="alienatt15">
+		<description>Alien Attack (v1.5)</description>
+		<year>2021</year>
+		<publisher>MSXDev</publisher>
+		<info name="developer" value="Marcos Daniel Blanco"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="konami" />
+			<dataarea name="rom" size="0x20000">
+				<rom name="alien attack - marcos daniel blanco (2021) (v1.5).rom" size="0x20000" crc="cdd11b15" sha1="97aa7deeb55d93425b94c72ad416d687bed25cfd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- only displays title screen -->
+	<software name="alienatt104">
+		<description>Alien Attack (v1.04)</description>
+		<year>2021</year>
+		<publisher>MSXDev</publisher>
+		<info name="developer" value="Marcos Daniel Blanco"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="konami" />
+			<dataarea name="rom" size="0x20000">
+				<rom name="alien attack - marcos daniel blanco (2021) (v1.04).rom" size="0x20000" crc="432a641d" sha1="220fbbd1292b514745e1e06d54802e049ee1ce9e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- only plays static on title screen -->
+	<software name="alienattl1">
+		<description>Alien Attack (v L1)</description>
+		<year>2021</year>
+		<publisher>MSXDev</publisher>
+		<info name="developer" value="Marcos Daniel Blanco"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="konami" />
+			<dataarea name="rom" size="0x40000">
+				<rom name="alien attack - marcos daniel blanco (2021) (v l1).rom" size="0x40000" crc="805be938" sha1="500f02907586b4cbc7da254b190cdfe1599ccb96" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- only plays static on title screen -->
+	<software name="alienattl1a">
+		<description>Alien Attack (v L1a)</description>
+		<year>2021</year>
+		<publisher>MSXDev</publisher>
+		<info name="developer" value="Marcos Daniel Blanco"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="konami" />
+			<dataarea name="rom" size="0x40000">
+				<rom name="alien attack - marcos daniel blanco (2021) (v l1a).rom" size="0x40000" crc="b4413e6d" sha1="43ef933943fa5433b3cb48e0ea8b4b7f43a81541" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- only plays static on title screen -->
+	<software name="alienattl1b">
+		<description>Alien Attack (v L1b)</description>
+		<year>2021</year>
+		<publisher>MSXDev</publisher>
+		<info name="developer" value="Marcos Daniel Blanco"/>
+		<part name="cart" interface="msx_cart">
+			<feature name="slot" value="konami" />
+			<dataarea name="rom" size="0x40000">
+				<rom name="alien attack - marcos daniel blanco (2021) (v l1b).rom" size="0x40000" crc="f23ccc61" sha1="81b1b5fe4861079cd316a05d6bb0b77007a39ad7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- what to do with this -->
+	<software name="bfbb4993">
+		<description>Aliens Sound Demo</description>
+ 		<year>2008</year>
+ 		<publisher>Dvik &amp; Joyrex</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Aliens Sound Demo - DVIK &amp; Joyrex productions (2008) [Please run on msx2 for better graphics] [original] [74].rom" size="0x80000" crc="bfbb4993" sha1="91d3f1463dac4d5fed8d4ff34bed0d388c61f164" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- too new -->
+	<software name="3b33c8c1">
+		<description>Amadeus Classical Beats</description>
+ 		<year>2021</year>
+ 		<publisher>Amaury Carvalho</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xc000">
+				<rom name="Amadeus Classical Beats - Amaury Calvalho (2021).rom" size="0xc000" crc="3b33c8c1" sha1="6b70f3a0d7c69b0713d772f439e8208e1bee3283" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- sort out where it came from -->
+	<software name="a6ff5c3d">
+		<description>ASM Cocar / Monitor Asmcocar v5.2</description>
+ 		<year>1987</year>
+ 		<publisher></publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="ASM Cocar - MSX Informatica (1987) [158].rom" size="0x4000" crc="a6ff5c3d" sha1="194ff03c3063a852c831b034fe215208802b64cf" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- feels unfinished, not a real title screen, starts immediately -->
 	<software name="b95e565b">
 		<description>Bank</description>
@@ -1587,6 +1705,325 @@ license:CC0-1.0
 
 <!-- The rest of the list -->
 
+	<software name="015da0a4">
+		<description>A Life M36 Planet (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="A Life M36 Planet - Pixel (1987) [Translated into English] [Bug Fix and New Font] [Translated] [3984].rom" size="0x20000" crc="015da0a4" sha1="47779c38c2d7e3e4fe1fc168229fe63352d763f3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e6ca1b58">
+		<description>A Life M36 Planet (translated English 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="A Life M36 Planet - Pixel (1987) [Translated into English] [Bug Fix] [Translated] [3384].rom" size="0x20000" crc="e6ca1b58" sha1="dc2d11c53a973f1be8b26ff7317cfaf66614d99e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="08fc8b75">
+		<description>A Life M36 Planet (translated English 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="A Life M36 Planet - Pixel (1987) [Translated into English] [Fix and New Font] [Translated] [3985].rom" size="0x20000" crc="08fc8b75" sha1="1d65960e8b0d19a32b19de6f60857e73ff409781" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aff44f1f">
+		<description>A Life M36 Planet (translated English 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="A Life M36 Planet - Pixel (1987) [Translated into English] [No Bug Fix] [Translated] [3385].rom" size="0x20000" crc="aff44f1f" sha1="307cd28662f2c960fa54dcf08c33d8a25be2a2f7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="194f2aab">
+		<description>A.E. (hacked/fixed?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="A.E. - Programmers 3 (1983) [22].rom" size="0x4000" crc="194f2aab" sha1="e14970387aa8927256397cd35fd8c356a0502143" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9adc07fa">
+		<description>Aacko Presto (dsk2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Aacko Presto - The Bytebusters (1986) [24].rom" size="0x8000" crc="9adc07fa" sha1="e9c35caa8544f81d927cb610e850085e5d81ceca" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ddbc1f28">
+		<description>Abu Simbel Profanation (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Abu Simbel Profanation - Dinamic (1986) [4299].rom" size="0x10000" crc="ddbc1f28" sha1="a9262508fd26353c91650e124ce5581e01b1e370" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="603a0c0d">
+		<description>Abu Simbel Profanation (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Abu Simbel Profanation - Dinamic (1986) [ROM version by Kabish] [4265].rom" size="0x20000" crc="603a0c0d" sha1="488aec861ef8213583723e745ab618d22f191737" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f19847be">
+		<description>Activision Gamecase (hacked compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Activision Gamecase - JAM (2002) [26].rom" size="0x40000" crc="f19847be" sha1="d76c7a5c2d28684f0d67114cc7b9707b296e68a2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e16e9781">
+		<description>Activision Gamecase (hacked compilation 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Activision Gamecase - JAM (2002) [3018].rom" size="0x40000" crc="e16e9781" sha1="3460ef57fecae3e65d41dee28cdd8f25bdab540e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="53d2addd">
+		<description>Actman (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Actman - Mass Tael (1984) [6345].rom" size="0x4000" crc="53d2addd" sha1="933909ebf483387a4aaf4dd402b2d4e7c6a95ad6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5e26ac1d">
+		<description>Actman (hacked Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Actman - Mass Tael (1984) [ProSoft Hack] [4178].rom" size="0x4000" crc="5e26ac1d" sha1="bbbbd3f7868f9b36bd291fa9394407a11e2f70d4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="94a75978">
+		<description>Adam's Musicbox Demo (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Adam's Musicbox Demo - Coleco (1987) [Taylor Conversion] [6748].rom" size="0x10000" crc="94a75978" sha1="b0d46893268b04369e809b9cec8bd7f19fe5b180" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c6c17f9e">
+		<description>Adel (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Adel - Mind Games Espana (1987) [4967].rom" size="0x10000" crc="c6c17f9e" sha1="4431e02d7251a6a3d728e0c0e52bdea48ca64faf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7f7a2dba">
+		<description>Adonis (extracted from MSX Magazine coverdisk)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Adonis - MSX Magazine (1988) [4151].rom" size="0x8000" crc="7f7a2dba" sha1="a194565a62710e8f931e7a8ad52488de696afa98" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a9e85614">
+		<description>Adven' Chuta (hacked, added Japanese font)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Adven'chuta! - MIA (1983) [a] [5889].rom" size="0x4000" crc="a9e85614" sha1="09a09bb1602728666822213f2bee4da348a5eb83" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="703fa855">
+		<description>Adven' Chuta (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Adventure Kid - Open (1993) [2661].rom" size="0x4000" crc="703fa855" sha1="af266365c288de416ec0058dd807d460565dd326" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2f9bed70">
+		<description>Adventure Kid (hacked? some code nopped out)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Adventure Kid - Open (1993) [2661].rom" size="0x20000" crc="2f9bed70" sha1="c7c1814aec465d3a27a638697f04a351604011df" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cd8b5dd6">
+		<description>Adventure Kid (hacked mapper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Adventure Kid - Open (1993) [a] [4226].rom" size="0x20000" crc="cd8b5dd6" sha1="07df8a02b98b8a1d27a3e139fe6605eea17f35f3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ddf0e6df">
+		<description>Adventure Kid (hacked mapper 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Adventure Kid - Open (1993) [a2] [4225].rom" size="0x20000" crc="ddf0e6df" sha1="30aca0d77a9b3f1066a7f6840c22c4426fe71a6d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bcf65ff4">
+		<description>African Trail Simulator (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="African Trial Simulator - Positive (1990) [4363].rom" size="0x10000" crc="bcf65ff4" sha1="407f26562fd28e2369863961f44ebbdbea1f55df" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="78ec814e">
+		<description>African Trail Simulator (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="African Trial Simulator - Positive (1990) [5891].rom" size="0x10000" crc="78ec814e" sha1="c6fbc3bc5364c483f518b2d5ec95667458772ef2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f3c47596">
+		<description>After the War (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="After the War - Dinamic (1989) [4327].rom" size="0x20000" crc="f3c47596" sha1="4856871882a8e051efd2db9828171ca7b66d8d26" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f6055285">
+		<description>After the War (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="After the War - Dinamic (1989) [Part 1] [5893].rom" size="0x20000" crc="f6055285" sha1="a90ce54f24bc7480e7c2a310258a4138931b7cda" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d7c25e95">
+		<description>After the War (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="After the War - Dinamic (1989) [Part 2] [5894].rom" size="0x20000" crc="d7c25e95" sha1="2193a80fbdaf55573858c625cd6bc55c1f9e3669" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7b44f7a4">
+		<description>Afteroids (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Afteroids - Made in Spain (1988) [5892].rom" size="0x10000" crc="7b44f7a4" sha1="3ca335c9307e7d6ef83b186bca650555f714e477" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="67a04ae7">
+		<description>Agigongnyong Dooly (hacked/fixed?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Agigongnyong Dooly (Baby Dinosaur Dooly) - Daou (1991) [5233].rom" size="0x8000" crc="67a04ae7" sha1="163bcbe2781bb315a733233a20ddcd49bc017a99" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e6b77578">
+		<description>Air Hockey (hacked FRS)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Air Hockey - ASCII (1992) [FRS Hack] [4436].rom" size="0x8000" crc="e6b77578" sha1="3e0a376b92967e9c6ea86a4add21a8a912291e70" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="08d44758">
+		<description>Albatros (fixed?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Albatros - Telenet Japan (1986) [41].rom" size="0x8000" crc="08d44758" sha1="3a9e1020b693b244f8437e938cdc7e0917eb441b" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="baf2c03c">
  		<description>Alcazar - The Forgotten Fortress (Japan, hacked protection)</description>
  		<year>1985</year>
@@ -1602,6 +2039,292 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="2d9f28c3">
+		<description>Alcazar (hacked protection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Alcazar - The Forgotten Fortress - Activision (1985) [a2] [2733].rom" size="0x4000" crc="2d9f28c3" sha1="647733c674138fc6a295a0ad3e4d627668a04cdc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e7572444">
+		<description>Alcazar (hacked protection 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Alcazar - The Forgotten Fortress - Activision (1985) [a3] [5896].rom" size="0x4000" crc="e7572444" sha1="a2e30a49a5401be257ae69eb52d8fbe3332dddc6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bb0ff10d">
+		<description>Alcyon (extracted from Turbo Pack B)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Alcyon - Philips Spain (1987) [part of Turbo Pack B] [5897].rom" size="0x4000" crc="bb0ff10d" sha1="c0171f18f716f6c750b0adc127315aa2210c87e7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4e2cc91c">
+		<description>Ale Hop! (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Ale Hop! - Topo Soft (1988) [4346].rom" size="0x10000" crc="4e2cc91c" sha1="816100d4858c1a02769231c2a5095eda3695a403" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2ac246f9">
+		<description>Ale Hop! (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Ale Hop! - Topo Soft (1988) [a] [6502].rom" size="0x10000" crc="2ac246f9" sha1="5550bc42bf15c61cdd5fd4be72434d3dac1d60b7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b08adb11">
+		<description>Alibaba and 40 Thieves (cleaned/unused code removed?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Alibaba And 40 Thieves - Sony (1984) [a3] [66].rom" size="0x4000" crc="b08adb11" sha1="49fd05804c78c791732d2f73b83b3af56999f270" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="066cf53b">
+		<description>Alibaba and 40 Thieves (fixed/hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Alibaba And 40 Thieves - Sony (1984) [GoodMSX correction] [5429].rom" size="0x4000" crc="066cf53b" sha1="93d167bcd60f7d4c351c9ed648469e3b37f596a0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6d81dca9">
+		<description>Alibaba and 40 Thieves (hacked, remains of crt2cas/dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Alibaba And 40 Thieves - Sony (1984) [64].rom" size="0x4000" crc="6d81dca9" sha1="f19712f0da98b5423ebec3150f5741dfa25acf85" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="23979463">
+		<description>Alibaba and 40 Thieves (hacked Clover)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Alibaba And 40 Thieves - Sony (1984) [a] Clover Version] [5667].rom" size="0x4000" crc="23979463" sha1="2b62b26f78b216c4d94f2c9d61081445cd144867" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0a89d0bb">
+		<description>Alibaba and 40 Thieves (hacked Clover 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Alibaba And 40 Thieves - Sony (1984) [2734].rom" size="0x4000" crc="0a89d0bb" sha1="1643d2d998df2b37e944072417ecb259934b9302" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="28605332">
+		<description>Alibaba and 40 Thieves (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4001">
+				<rom name="Alibaba And 40 Thieves - Sony (1984) [o] [65].rom" size="0x4001" crc="28605332" sha1="cc93d295a7a5d6b669328cd49b1825c77fe39705" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c647d66c">
+		<description>Alien 8 (hacked Topia)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Alien 8 - Ultimate Play The Game (1986) [2736].rom" size="0x8000" crc="c647d66c" sha1="825fbcc771a698967873018999c7e8750c6e734b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="550da36d">
+		<description>Alien Syndrome (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Alien Syndrome - Sega (1988) [MSX1 Only - 50hz - Toshiba hx-10] [5002].rom" size="0x10000" crc="550da36d" sha1="5e63e5fe0fc8a0b7c5225c7c79f3c0cbb4f0b447" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d427c252">
+		<description>Aliens (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Aliens - Electric Dreams (1987) [4968].rom" size="0x10000" crc="d427c252" sha1="a0b9f99bd359e19c22eeede1721e679f1ab58890" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1944e3ec">
+		<description>Aliens (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Aliens - Electric Dreams (1987) [ROM version by Kabish] [4266].rom" size="0x20000" crc="1944e3ec" sha1="ac7a778447971597360fa3e0c6fc9a17c3159777" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="98db173e">
+		<description>Aliens 2 (hacked mapper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Aliens 2 - Square (1987) [3020].rom" size="0x20000" crc="98db173e" sha1="92a0ca682a367cbc1c6c5f96f8b84619a43e9f12" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="22522037">
+		<description>Aliens 2 (cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Aliens 2 - Square (1987) [Ulver crack] [73].rom" size="0x20000" crc="22522037" sha1="1e7ac21796642c3ccb66b0ef0f00ba4752428aca" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="74875b1c">
+		<description>Alpha Blaster (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Alpha Blaster - Aackosoft (1984) [5668].rom" size="0x8000" crc="74875b1c" sha1="7ef619106084065e6c93d080223371372285cf3b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3c60058a">
+		<description>Alpha Squadron (hacked/fixed?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Alpha Squadron - AG Corp. (1984) [5669].rom" size="0x4000" crc="3c60058a" sha1="32346e82b0007c63b527c7fcd6eadc8709ad1f58" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0dac33a1">
+		<description>Alpharoid (cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Alpharoid - Pony Canyon (1986) [76].rom" size="0x8000" crc="0dac33a1" sha1="f294becf726a704ced1d7214f1c2b1edc77b6bf0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="101c49f3">
+		<description>Alpharoid (cheated)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Alpharoid - Pony Canyon (1986) [cheat version] [79].rom" size="0x8000" crc="101c49f3" sha1="73e3a43cabbe2a4ea504a06b88ccf7f0b066c726" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e8bd60bc">
+		<description>Alpine Ski (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Alpine Ski - Double Brain! (1987) [2737].rom" size="0x4000" crc="e8bd60bc" sha1="96e89ec0a2b4b35e03436a8bcbdf7de5cc4b6aed" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="df06490b">
+		<description>Alpine Ski (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Alpine Ski - Double Brain! (1987) [a] [5670].rom" size="0x4000" crc="df06490b" sha1="8b5e84c080ff61bc97e982ba337833ad1ae08397" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="145078cf">
+		<description>Amaurote (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Amaurote - M.A.D. (1987) [4267].rom" size="0x20000" crc="145078cf" sha1="92be8c41564ec89012964f2e0f0df6d058ef323e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="192d9c5d">
+		<description>Amaurote (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Amaurote - M.A.D. (1987) [a] [6503].rom" size="0x20000" crc="192d9c5d" sha1="691f5e6d0ddfe154b571c8ef96cc37eb9cd310db" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="99843420">
+		<description>American Truck (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="American Truck - Telenet Japan (1985) [a3] [5664].rom" size="0x8000" crc="99843420" sha1="e0bf5b5ae0f420c663f7b69f4f889added6e39f7" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="d9f1354b">
  		<description>American Truck (Japan, hacked)</description>
  		<year>1985</year>
@@ -1616,6 +2339,105 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="a992dec1">
+		<description>American Truck (translated Spanish)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="American Truck - Telenet Japan (1985) [tr Sp] [Translated] [90].rom" size="0x8000" crc="a992dec1" sha1="a6cd42c6cdebcd9b20330e64a38bb7abde5bbe30" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1afdfbc3">
+		<description>Amida (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Amida - Victor Co. of Japan (JVC) (1983) [5671].rom" size="0x4000" crc="1afdfbc3" sha1="57851440420ac87dc52b5a84aecffba7bcac7305" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="de9b5335">
+		<description>Amoto's Puf (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Amoto's Puf - System 4 (1988) [4366].rom" size="0x8000" crc="de9b5335" sha1="b2e82ca1079455a4b9e1acf6e9533f9b9e4d8fd8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2d3c9e35">
+		<description>Anaza (hacked Edgard)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Anaza - Kaleidoscope Special - GA-Yume - HOT-B (1987) [h Edgard] [92].rom" size="0x8000" crc="2d3c9e35" sha1="f67ea4e2dd0356e7747b24633dedae8c414e7e32" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eeb0a634">
+		<description>Anaza (cracked Ulver)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Anaza - Kaleidoscope Special - GA-Yume - HOT-B (1987) [Ulver crack] [95].rom" size="0x8000" crc="eeb0a634" sha1="876c09450bc2b36a873e1733cfa31c6b9d080ba5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7fbc1d08">
+		<description>Angelo (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Angelo - Mass Tael (1984) [a2] [5663].rom" size="0x4000" crc="7fbc1d08" sha1="3aa69e1767d2e81b2ea2dc4ad0e0bee1ed4e68c7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="50786209">
+		<description>Angleball (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Angleball - Mastertronic (1987) [4969].rom" size="0x8000" crc="50786209" sha1="eb65ef06f5256e3f3360a3329b97353672e42d66" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c0f4fd30">
+		<description>Angleball (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Angleball - Mastertronic (1987) [a] [5662].rom" size="0x8000" crc="c0f4fd30" sha1="c34946979978ce0fe5d71a83de6b3bee18db8df3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aee2363d">
+		<description>Animal Land (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Animal Land - ENIX (1987) [104].rom" size="0x20000" crc="aee2363d" sha1="db33011d006201b3bd3bbc4c7c952da2990f36e4" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="6b739c93">
  		<description>Antarctic Adventure (Europe, hacked protection)</description>
  		<year>1984</year>
@@ -1629,6 +2451,600 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="4a0a1edb">
+		<description>Antarctic Adventure (hacked protection 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Antarctic Adventure - Konami (1984) [a2] [RC-701] [5660].rom" size="0x4000" crc="4a0a1edb" sha1="88ed8d16ad1dd9f3de2a08409baa62f730042c78" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9c5e15ad">
+		<description>Antarctic Adventure (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Antarctic Adventure - Konami (1984) [a] [RC-701] [5814].rom" size="0x4000" crc="9c5e15ad" sha1="e5a1f6a4733d11b56570f3be45831430d4f07820" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="05fba4a9">
+		<description>Antarctic Adventure (baddump? 1 bit different)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Antarctic Adventure - Konami (1984) [Japanese version] [RC-701] [107].rom" size="0x4000" crc="05fba4a9" sha1="292215c95c82948823eb0fbe1b081f14d6b6290d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="31100046">
+		<description>Antarctic Adventure (hacked Prosoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Antarctic Adventure - Konami (1984) [h by Prosoft] Japanese version] [RC-701] [110].rom" size="0x4000" crc="31100046" sha1="e8af1da8478ebfd796b1f04a2429073259761ebb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="02e02598">
+		<description>Antarctic Adventure (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Antarctic Adventure - Konami (1984) [o] Japanese version] [RC-701] [109].rom" size="0x8000" crc="02e02598" sha1="8999a51c94460c8db1ca033b64b568bf919300c2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b5f03b83">
+		<description>Antarctic Adventure (hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Antarctic Adventure - Konami (1984) [GDX SCC Version] [RC-701] [3246].rom" size="0x4000" crc="b5f03b83" sha1="c40d24a31e36f786688a556c1b63c1dda40325b6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6901d4ea">
+		<description>Antarctic Adventure (hacked SCC 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Antarctic Adventure - Konami (1984) [SCC Enhanced - a] [RC-701] [5506].rom" size="0x10000" crc="6901d4ea" sha1="ea166874cc4eb78e7eaf0f83e774c994972ac338" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="346f52a1">
+		<description>Antarctic Adventure (hacked SCC 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Antarctic Adventure - Konami (1984) [SCC Enhanced] [RC-701] [5507].rom" size="0x10000" crc="346f52a1" sha1="619eaa8297928aa57c3cbd34bd18f4be48fe662e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="61eab25c">
+		<description>Antarctic Adventure (hacked SCC 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0xa000">
+				<rom name="Antarctic Adventure - Konami (1984) [SCC Music] [RC-701] [5158].rom" size="0xa000" crc="61eab25c" sha1="71cf1c2fa12be4e00b6026634f23cc62ceb56728" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="67db4627">
+		<description>Antares (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Antares - Juliet Software (1987) [5661].rom" size="0x8000" crc="67db4627" sha1="0f99638db9b11e49e1d5940fe773934284443b61" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="335a4930">
+		<description>Anty (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Anty - Bothtec (1984) [119].rom" size="0x4000" crc="335a4930" sha1="4b6147172c12f74fe5b2386e6cc78ea0d763316a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0c38d83d">
+		<description>Anty (fixed 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Anty - Bothtec (1984) [a2] [5672].rom" size="0x4000" crc="0c38d83d" sha1="c5f359cfd2bacef98d291a0e37879c1ffc7aefca" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="929894e5">
+		<description>Aquapolis SOS (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Aquapolis SOS - General (1983) [a] [5673].rom" size="0x4000" crc="929894e5" sha1="8350a2c7823247f86bbfca89d6607742ae9a2fe3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d82e3eae">
+		<description>Aquapolis SOS (hacked Sammi)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Aquapolis SOS - General (1983) [only for MSX1 [h Sammy] [120].rom" size="0x4000" crc="d82e3eae" sha1="0400bf9fcebf76ead52a702a00b51eef991f730a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0b98c851">
+		<description>Aquapolis SOS (hacked Sammi 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Aquapolis SOS - General (1983) [2740].rom" size="0x4000" crc="0b98c851" sha1="cf6d6b78f38a680e67251b3a56a7b590407441ba" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d4a426a3">
+		<description>Arabic Sakhr Basic (underdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Arabic Sakhr Basic - Al Alamiah (1987) [v2.02] [6682].rom" size="0x10000" crc="d4a426a3" sha1="2da83f3d46d613f5f21e63aaa451b05012b4e20e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2a480782">
+		<description>Aramo (translated French)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Aramo - XAIN - Sein (1986) [French] [a] [Translated] [6483].rom" size="0x8000" crc="2a480782" sha1="185f2fbc9eb08224764186c3522328abfe67edc9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fde312d4">
+		<description>Aramo (translated French 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Aramo - XAIN - Sein (1986) [French] [Translated] [3021].rom" size="0x8000" crc="fde312d4" sha1="c6683bcf9934d695d5ef828e11cb36eb4d86a7b5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="00928184">
+		<description>Arctic Fox (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Arctic Fox - Electronic Arts (1989) [5676].rom" size="0x10000" crc="00928184" sha1="e9f95e4bcfe6a86534df306e9914dd168239f993" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="46d2a607">
+		<description>Arkanoid (translated Korean)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Arkanoid - TAITO (1986) [Korean Translation] [Translated] [6813].rom" size="0x8000" crc="46d2a607" sha1="3626850f4b0fea0918174c51cddde10b97e7252e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7a1cc726">
+		<description>Arkos (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="Arkos - Arcadia Software (1988) [4962].rom" size="0x40000" crc="7a1cc726" sha1="79505b0304198de0be8e807a1e0fe19b270e446a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7e8528f5">
+		<description>Army Moves (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Army Moves - Dinamic (1987) [Part 1 and 2] [5679].rom" size="0x20000" crc="7e8528f5" sha1="fcd9b658670bc8c5f423104c6b39cad9a01c2dfd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ebe45b14">
+		<description>Army Moves (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Army Moves - Dinamic (1987) [Part 1] [5677].rom" size="0x20000" crc="ebe45b14" sha1="a6d725f82f4b3052e6b446c904e21f264c6ce4fc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0aafe03c">
+		<description>Army Moves (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Army Moves - Dinamic (1987) [Part 2] [5678].rom" size="0x20000" crc="0aafe03c" sha1="7adcb99549acbfc105191a37e445971794287089" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="236de176">
+		<description>Arquimedes (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Arquímedes XXI - Dinamic (1987) [5902].rom" size="0x10000" crc="236de176" sha1="a386d639e22851be531afb0f4549c7433c031d4a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="db5d874d">
+		<description>Ascii Game Case 1 (hacked compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Ascii Game Case 1 - JAM (2002) [5230].rom" size="0x80000" crc="db5d874d" sha1="aa8acc71268b129801b7485ce3234dca9dfc96f4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a4cdf608">
+		<description>Ascii Game Case 2 (hacked compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x80000">
+				<rom name="Ascii Game Case 2 - JAM (2002) [5231].rom" size="0x80000" crc="a4cdf608" sha1="dd700a479ac9ef56120c46ce057c1268d409d33f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="62d71a05">
+		<description>Aspar GP Master (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Aspar GP Master - Dinamic (1988) [5068].rom" size="0x10000" crc="62d71a05" sha1="4b7ca4cf9c730f4b81f3666770b7a0816d470425" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="74603b50">
+		<description>Aspar GP Master (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Aspar GP Master - Dinamic (1988) [5831].rom" size="0x10000" crc="74603b50" sha1="74c1178607120afcc0d524836887250bea4550fa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a10909bb">
+		<description>Aspar GP Master (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Aspar GP Master - Dinamic (1988) [ROM version by Kabish] [4268].rom" size="0x20000" crc="a10909bb" sha1="07758cd468178225be59b3536ed1f46e80e5ff6b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d4806180">
+		<description>Astro Blaster (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Astro Blaster - Eurosoft (1988) [4903].rom" size="0x8000" crc="d4806180" sha1="929318149a92db59f584b0d8c42d105a06b6b0fa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cd1f93f4">
+		<description>Astro Blaster (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Astro Blaster - Eurosoft (1988) [5655].rom" size="0x8000" crc="cd1f93f4" sha1="44b10f8948ba3de203ead23646334913b73e7368" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ab9fb4a4">
+		<description>Astro Marine Corps (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Astro Marine Corps - Dinamic (1989) [3022].rom" size="0x20000" crc="ab9fb4a4" sha1="48b335806b30ec99609a5b9e82ac896b6cd01b75" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="58d6e0d2">
+		<description>Astro Marine Corps (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Astro Marine Corps - Dinamic (1989) [4232].rom" size="0x20000" crc="58d6e0d2" sha1="e692fe39337dbd10dbf35e90f7afc8b21da20aa2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bd68a068">
+		<description>Astro Marine Corps (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Astro Marine Corps - Dinamic (1989) [Part 1 [a] [5652].rom" size="0x20000" crc="bd68a068" sha1="ef81a612bd7d2f92731ee073b23b884a459aa2a2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="220d9f7a">
+		<description>Astro Marine Corps (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Astro Marine Corps - Dinamic (1989) [Part 1 and 2] [5654].rom" size="0x20000" crc="220d9f7a" sha1="be2f1be16760dfd197ef2fb4ebd7cd525483702e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="edb64e00">
+		<description>Astro Marine Corps (cas2crt conversion 5)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Astro Marine Corps - Dinamic (1989) [Part 1] [5650].rom" size="0x20000" crc="edb64e00" sha1="fb47cb16ab6011bce61bcc2f790f2dff5bdc5ebe" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7b6ab8ec">
+		<description>Astro Marine Corps (cas2crt conversion 6)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Astro Marine Corps - Dinamic (1989) [Part 2 [a] [5653].rom" size="0x20000" crc="7b6ab8ec" sha1="a6b27e6109f7dd461e9afed508e064467f814822" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2bb45684">
+		<description>Astro Marine Corps (cas2crt conversion 7)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Astro Marine Corps - Dinamic (1989) [Part 2] [5651].rom" size="0x20000" crc="2bb45684" sha1="922eb84cc289ed161c72ed3ca7d9a9223ac56228" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5753e1b7">
+		<description>Astro Plumber (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Astro Plumber - Blue Ribbon Software (1986) [5680].rom" size="0x4000" crc="5753e1b7" sha1="597bc45cf9a78605d7503034fe91cb15768d0a18" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="73ebe9f1">
+		<description>Athletic Ball (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Athletic Ball - ASCII (1984) [a] [5586].rom" size="0x4000" crc="73ebe9f1" sha1="7b1a2972597fe5703a4345fad66203bbc8bcfc0e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="45b102aa">
+		<description>Athletic Land (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Athletic Land - Konami (1984) [a3] [RC-700] [5589].rom" size="0x4000" crc="45b102aa" sha1="7c41f331a504f1712efe8b9555a939fba3d56624" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9c4a8983">
+		<description>Athletic Land (empty space different)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Athletic Land - Konami (1984) [RC-700] [5588].rom" size="0x4000" crc="9c4a8983" sha1="0fb2aa18c30d7e8ada42b4d2a034543f07486cc3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d53d40e6">
+		<description>Athletic Land (hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="Athletic Land - Konami (1984) [GDX SCC Version] [RC-700] [3247].rom" size="0x4000" crc="d53d40e6" sha1="6a955432a641d87954763ef58735fa90495b65c8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d199c45e">
+		<description>Attack 4 (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Attack 4 Women Volleyball - Pax Softonica (1986) [a] [5832].rom" size="0x8000" crc="d199c45e" sha1="bfb5f35546d5939b333364f487992566fb12855c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="29f6d86d">
+		<description>Attack 4 (hacked Topia)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Attack 4 Women Volleyball - Pax Softonica (1986) [Topia] [169].rom" size="0x8000" crc="29f6d86d" sha1="c6c64d803d65ce439d00034a86a570f8c77d18d5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="94ff5d6b">
+		<description>Attack of the Killer Tomatoes (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Attack of the Killer Tomatoes - Global Software (1986) [5903].rom" size="0x10000" crc="94ff5d6b" sha1="6399d86fa8b3359f470af63822cf44db0f3c562a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3e287acf">
+		<description>Attacked (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Attacked - Tynesoft (-) [5681].rom" size="0x10000" crc="3e287acf" sha1="abc0b474818fb7315eef789fbeff251a89575541" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1306ccca">
+		<description>Auf Wiedersehen Monty (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Auf Wiedersehen Monty - Gremlin Graphics (1987) [4162].rom" size="0x10000" crc="1306ccca" sha1="bd71f818bf98e21fd1f3d7f35c4e77162a7c6c5a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7a70d725">
+		<description>Auf Wiedersehen Monty (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Auf Wiedersehen Monty - Gremlin Graphics (1987) [5296].rom" size="0x10000" crc="7a70d725" sha1="83ab0b40b37a113e4c4f63684f5e845ad993125d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b0af40b4">
+		<description>Auf Wiedersehen Monty (cas2crt conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Auf Wiedersehen Monty - Gremlin Graphics (1987) [5297].rom" size="0x10000" crc="b0af40b4" sha1="a682b7e96de26abf89f9b5452b8d9a7cc92a6b17" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6c4f8b4b">
+		<description>Auf Wiedersehen Monty (cas2crt conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Auf Wiedersehen Monty - Gremlin Graphics (1987) [5298].rom" size="0x20000" crc="6c4f8b4b" sha1="39383ce48dc6b531a44e9935de822297ceaf51f1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="111fc33b">
+		<description>Avenger (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="Avenger - Gremlin Graphics (1986) [5351].rom" size="0x10000" crc="111fc33b" sha1="032a42bb7d0371a6b745b9fb8aace14008557a08" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1b8873ca">
+		<description>Avenger (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="Avenger - Gremlin Graphics (1986) [5352].rom" size="0x20000" crc="1b8873ca" sha1="b7d967a9e810ff57d37f8826f57a076ddd383861" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="3c9f57c4">
 		<description>Back to the Future (fixed)</description>
