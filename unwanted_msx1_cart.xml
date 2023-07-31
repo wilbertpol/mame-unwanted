@@ -20,6 +20,18 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<!-- too new -->
+	<software name="e7e808dd">
+		<description>3D Deathchase (alpha 2)</description>
+ 		<year>2022</year>
+ 		<publisher>The Retro Programmer</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="3D Deathchase v Alpha 2 - The Retro Programmer (2022).rom" size="0x4000" crc="e7e808dd" sha1="65662d2b6998f225235d3474bc551d817b85fb56" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- does not work -->
 	<software name="f44525e2">
  		<description>Aleste 2 Theme</description>
@@ -1704,6 +1716,171 @@ license:CC0-1.0
 
 
 <!-- The rest of the list -->
+
+	<software name="a6e02c26">
+		<description>10th Frame (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="10th Frame - Access Software (1987) [4318].rom" size="0x10000" crc="a6e02c26" sha1="da58f56d4b1660bc36d74bfb29776ef8ec61a831" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="62faf29c">
+		<description>10th Frame (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="10th Frame - Access Software (1987) [a] [5275].rom" size="0x10000" crc="62faf29c" sha1="7a26c43add73d87fdac7950e6c07ac9b15732830" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="43f5dcce">
+		<description>180 (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="180 - Mastertronic (1987) [5888].rom" size="0x10000" crc="43f5dcce" sha1="c9162927f5036b1c56efbbfc61b1fd5a73a64b66" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1369ca55">
+		<description>180 (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="180 - Mastertronic (1987) [ROM version by Kabish] [4264].rom" size="0x20000" crc="1369ca55" sha1="dfacf4673181df555681d9a5512ba97461724344" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bee4e57a">
+		<description>1942 (hacked mapper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="1942 - Capcom (1987) [a] [7].rom" size="0x20000" crc="bee4e57a" sha1="dd1e87a16e5fb38d9d729ef7edc6da21146a99fe" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="74e91e83">
+		<description>1942 (baddump? 1 FF changed to 00)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<rom name="1942 - Capcom (1987) [Zemina Hack] [3429].rom" size="0x20000" crc="74e91e83" sha1="061ac6c59e0bcf4d315cb7329bccb955f6af4001" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6f10d79c">
+		<description>2010 - The Graphic Action Game (coleco conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="2010 - The Graphic Action Game - Coleco (1984) [GDX Conversion] [3221].rom" size="0x10000" crc="6f10d79c" sha1="073c469f82053c1e5283691cd61c5ccae37d909f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="53dfd15e">
+		<description>2010 - The Graphic Action Game (coleco conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<rom name="2010 - The Graphic Action Game - Coleco (1984) [Taylor Conversion] [6736].rom" size="0x10000" crc="53dfd15e" sha1="69cdcafddc4caa23952bc9f13acbbcf983c92be4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="782989f0">
+		<description>3-D Bomberman (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="3-D Bomberman - Hudson Soft (1984) [4296].rom" size="0x8000" crc="782989f0" sha1="1993ea04f59578a219a896bc423bf583231d1c92" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4002dd71">
+		<description>3D Knockout (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="3D Knockout - Alligata (1985) [4905].rom" size="0x8000" crc="4002dd71" sha1="916c08dc5d99e67f5f52cbb962932b92ad96196f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ed706601">
+		<description>3D Knockout (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="3D Knockout - Alligata (1985) [5884].rom" size="0x8000" crc="ed706601" sha1="6d098b3fe8c7c9d57df38f72480c0055fc33f687" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="30cf9142">
+		<description>3D Tennis (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="3D Tennis - ASCII (1983) [a] [5886].rom" size="0x8000" crc="30cf9142" sha1="6335a69678114d1777ef09b07881eeb379ba04f3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d86a493a">
+		<description>50 Metres (fixed GDX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<rom name="50 Metres - Cobinee (2018)[GDX MSX Support Fix].rom" size="0x4000" crc="d86a493a" sha1="93eef26520594c77cfb43cd59f191c5229537a92" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="61928ec6">
+		<description>747 400b Flightsimulator (cas2crt conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="747 400b Flightsimulator - Methodic Solutions (1988) [4442].rom" size="0x8000" crc="61928ec6" sha1="c003da490f6a399db8e4360708a8fe9e576575cb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="af686093">
+		<description>747 400b Flightsimulator (cas2crt conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="747 400b Flightsimulator - Methodic Solutions (1988) [a] [5656].rom" size="0x8000" crc="af686093" sha1="c2baf4135f4f7e63a287f54af361ca2e55dd097f" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="015da0a4">
 		<description>A Life M36 Planet (translated English)</description>
