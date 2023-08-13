@@ -368,6 +368,215 @@ license:CC0-1.0
 
 	<!-- hacks, cracks, conversions -->
 
+	<software name="1ae664a4">
+		<description>Nebula Wars (manually created with DiskMgr1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="NAM (19xx)(-)(it).dsk" size="737280" crc="1ae664a4" sha1="7410ca7ca67dd9f130bff3ae744fc92e75d409da" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3cc8bb94">
+		<description>Nebula Wars (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Nebula Wars (19xx)(JCE)(es).dsk" size="737280" crc="3cc8bb94" sha1="7595eaeb5f403238a86957856551be29de2cc100" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="acc3f9b6">
+		<description>Exciting Baseball (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Nessen Koushiyen. Exciting Baseball (1984)(Casio).dsk" size="737280" crc="acc3f9b6" sha1="b59988f4303317a2a193318a4ac470b45acb5ff6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="52bac6c8">
+		<description>New Bubble Bobble (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="New Bubble Bobble. Boggle Boggle (1988)(Zemina)[cr Mr The Bulldog].dsk" size="737280" crc="52bac6c8" sha1="ddec782fa495e2ed874dbf93a0c92fe040f5f6ef" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3f858bea">
+		<description>Night Flight (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Night Flight (1982)(Nippon Columbia - Colpax - Universal).dsk" size="737280" crc="3f858bea" sha1="976aa402adb7d75e6e02018e7b319ea2ac08ac9f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d812172d">
+		<description>Nightshade (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Nightshade (1985)(Ultimate Play The Game).dsk" size="737280" crc="d812172d" sha1="1ccb2c280f157a3431d4be79458131b6db4118be" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="97212f27">
+		<description>Ninja Jajamaru Kun (dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ninja Kun. Majyo no Bouken (1985)(Nippon Dexter).dsk" size="368640" crc="97212f27" sha1="3e7067b5902b829431834ab4da1458cc5b01a724" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5e3b725a">
+		<description>Ninja Kun (dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ninja Kun. Majyo no Bouken (1985)(Nippon Dexter).dsk" size="737280" crc="5e3b725a" sha1="04dcc7fddb5d892e72907464a4f15224020e7cd9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6f4ed20f">
+		<description>Ninja Love (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ninja Love (2012)(Oniric)(es).dsk" size="737280" crc="6f4ed20f" sha1="21ab660322660a6a07185dfcb8ea9fcfcec1db62" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1afd6605">
+		<description>Ninja Princess (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ninja Princess (1986)(Pony Canyon).dsk" size="737280" crc="1afd6605" sha1="e6848392c30e6cd64065dc0bdf05a4f2f186db25" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4d814132">
+		<description>Ninjya Kage (dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ninjya Kage (1984)(Hudson Soft).dsk" size="737280" crc="4d814132" sha1="f6575ce16f065c3f657b10ae855344aab48d60f9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8cf33438">
+		<description>Nonamed (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Nonamed (1986)(Dinamic Software)(es).dsk" size="737280" crc="8cf33438" sha1="942d15eac606f93be9d6c3e7bcca8959c823206e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ddbdc3a2">
+		<description>Nonamed (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Nonamed (1986)(Dinamic Software)(es)[a].dsk" size="737280" crc="ddbdc3a2" sha1="73d5e115779af8ce05da28a283253fd3f6fae2b7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b067fdfe">
+		<description>Norseman (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Norseman (1984)(Electric Software)[cr Galicia MSX Club].dsk" size="737280" crc="b067fdfe" sha1="9ad94f1e2ff7b17428c169d2621f39b96928844b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="84aa6f3a">
+		<description>Nuclear Bowls (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Nuclear Bowls (1986)(Zigurat Software)(es).dsk" size="737280" crc="84aa6f3a" sha1="42dd975d576e2fa237473d6338e1096aa41ecc4d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="37f378ab">
+		<description>Nuclear Bowls (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Nuclear Bowls (1986)(Zigurat Software)(es)[a].dsk" size="737280" crc="37f378ab" sha1="2672fe206abf9d8cf155814e44819a7fb0441a89" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="833668a9">
+		<description>Nuclear Bowls (cas2dsk conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Nuclear Bowls (1986)(Zigurat Software)(es)[h CEZ].dsk" size="737280" crc="833668a9" sha1="557bcb56292e0e1314f084925b37b8996fc164b8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="05e0c920">
+		<description>Number Painter (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Number Painter (19xx)(Ask).dsk" size="737280" crc="05e0c920" sha1="d9f8f31054ad2a2db89a33c6035c42aadb742083" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9c9c342b">
+		<description>El Numero Fantasma (manually created with NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Numero Fantasma, El (1987)(Editorial Cometa)(es).dsk" size="737280" crc="9c9c342b" sha1="c53e7cb51f57a163ba50fb8eaf9bbf97d4334946" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="95ff94ee">
 		<description>O'Mac Farmer (crt2dsk conversion)</description>
  		<year>19??</year>
