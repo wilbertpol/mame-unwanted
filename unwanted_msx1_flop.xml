@@ -7,6 +7,28 @@ license:CC0-1.0
 
 	<!-- to sort, too new, separated tools, etc -->
 
+	<software name="1a8b3302">
+		<description>Oleg Shamshura Collection 1 (personal collection? Has some unique Russian titles)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Oleg Shamshura Collection 1 (19xx)(Oleg Shamshura)(ru).dsk" size="737280" crc="1a8b3302" sha1="91a946550c431848ffbd1e5d3470b4dd99d6cb75" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7498af8f">
+		<description>Oleg Shamshura Collection 2 (personal collection? Has some unique Russian titles)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Oleg Shamshura Collection 2 (19xx)(Oleg Shamshura)(ru).dsk" size="737280" crc="7498af8f" sha1="5a32b0179ee94ca3d3d875e5f4ec1cf0d2733d7b" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- Unknown who released it and when, no title screen. -->
 	<software name="591ec529">
 		<description>Pekopon</description>
@@ -345,6 +367,259 @@ license:CC0-1.0
 	</software>
 
 	<!-- hacks, cracks, conversions -->
+
+	<software name="95ff94ee">
+		<description>O'Mac Farmer (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="O'Mac Farmer (1984)(Ascii).dsk" size="737280" crc="95ff94ee" sha1="68f4f6bf2fae4f494e4941296522fcce6e7a54ea" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0807689e">
+		<description>Obliterator (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Obliterator (1989)(Dro Soft)(es)[t].dsk" size="737280" crc="0807689e" sha1="ea4ddd87978b1325a6af0d06a760f8fea93a0c94" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="41762e1f">
+		<description>Ocean Conqueror (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ocean Conqueror (1987)(Mastertronic).dsk" size="737280" crc="41762e1f" sha1="4fd0397c59975654d06a940003f4a71da06d1786" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6dd78e32">
+		<description>Octagon Squad (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Octagon Squad (1986)(Mastertronic).dsk" size="737280" crc="6dd78e32" sha1="852d89706053f9e9261c3d8faafbb5abe5ae1718" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="73f180f5">
+		<description>Octagon Squad (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Octagon Squad (1986)(Mastertronic)[a].dsk" size="737280" crc="73f180f5" sha1="d8d5feb4b69a067bb01038c9dcf31a3cc8cd4969" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5ea72c65">
+		<description>Octopuss (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Octopuss MSX Panic (1986)(Eoe)(fr).dsk" size="737280" crc="5ea72c65" sha1="7397baf09e85a4e2415a9bdefccf685da47c26b2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="20cb01ca">
+		<description>Octopuss (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Octopuss MSX Panic (1986)(Eoe)(fr)[Fixed].dsk" size="737280" crc="20cb01ca" sha1="11c5954ad2f9eabf2af120ad6d6d6e91ea333616" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="da22d63f">
+		<description>Octopuss (cas2dsk conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Octopuss MSX Panic (1986)(Eoe)(fr)[a].dsk" size="368640" crc="da22d63f" sha1="2c221097d83f9243a0c23116ee643f3d07841d37" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fdc7efdd">
+		<description>Offering (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Offering (1984)(AI Inc.).dsk" size="368640" crc="fdc7efdd" sha1="0da5b90d3feb34d5e5d9e34a98b9741c1e0f28ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ff223967">
+		<description>Ogro, O - A Mansao dos Ogros Monstros (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ogro, O - A Mansao dos Ogros Monstros (19xx)(-)(pt).dsk" size="737280" crc="ff223967" sha1="7d1a85aedb8975144f3f4a32c319aa722981a0b9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b8943da4">
+		<description>Ogro, O - A Mansao dos Ogros Monstros (manually created with DSKTOOL 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ogro, O - A Mansao dos Ogros Monstros (19xx)(-)(pt)[a].dsk" size="737280" crc="b8943da4" sha1="97d31c88be10ca8556a8739df4522264b80860e2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9cf775cc">
+		<description>Oh Mummy! (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Oh Mummy!! (1984)(Longman Software).dsk" size="737280" crc="9cf775cc" sha1="cd7db0faf25ae33699b1708a19a874e3662e158a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7e4ff327">
+		<description>Oldskool MSXmas demo (does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Oldskool MSXmas Demo (2004)(Infinite).dsk" size="737280" crc="7e4ff327" sha1="a4f76c4ef1545cb8931265af9019218734d9ab62" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4be9ec52">
+		<description>Ole! (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ole! (1986)(Bug-Byte Software)(fr).dsk" size="737280" crc="4be9ec52" sha1="516d6c6403528c996b465564f147e4723fc78bce" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9097e675">
+		<description>Operation Havoc (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Operation Havoc (1990)(Traposoft).dsk" size="737280" crc="9097e675" sha1="7b9396b9c64664b6e577bd3410595ef2d5d7a705" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6db00bf1">
+		<description>Operation Wolf (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Operation Wolf (1988)(Ocean Software).dsk" size="737280" crc="6db00bf1" sha1="0d5d3854098059fcffbbc065ba276649a3b10866" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7b998967">
+		<description>Operation Wolf (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Operation Wolf (1988)(Ocean Software)[cr Diego Soft].dsk" size="737280" crc="7b998967" sha1="a89e2597c019c1a02e77dff11520ffef24b5bd1b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="49d41e80">
+		<description>ORIGM (basic 10 liner contest)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="ORIGM - Renato de Rezende (2021).dsk" size="737280" crc="49d41e80" sha1="d5a90ada70db319265d5d6cb61241d8be8e0e7c3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="99ceb487">
+		<description>Ormuz (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ormuz (1988)(Iber Soft)(es).dsk" size="737280" crc="99ceb487" sha1="77657a23a04ff9d2990a312aa96e60632b1dd189" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="10a29788">
+		<description>Ormuz (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ormuz (1988)(Iber Soft)(es)[a].dsk" size="737280" crc="10a29788" sha1="e9153c0ec0609a02a7a37f298c503797e3e98bfc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f7e8ac34">
+		<description>Othello Competicao (msxmania)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Othello Competicao (19xx)(-)(pt).dsk" size="368640" crc="f7e8ac34" sha1="4a5993748cd4c88c426f9c634473a84db6f6d2d3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9c8bbe4e">
+		<description>Outland? (does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Outland (1985)(Magical Zoo).dsk" size="737280" crc="9c8bbe4e" sha1="3be6cda519a0016f5bb91540e8b33c827bc77a6e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8c6b2cc7">
+		<description>Outroyd (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Outroyd (1985)(Magical Zoo).dsk" size="737280" crc="8c6b2cc7" sha1="64f170fd8cdc0d611494bdc3e83c8d84c9e14077" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="1dea6b7f">
 		<description>Pac-Land (cas2dsk conversion)</description>
