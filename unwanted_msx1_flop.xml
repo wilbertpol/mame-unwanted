@@ -7,6 +7,40 @@ license:CC0-1.0
 
 	<!-- to sort, too new, separated tools, etc -->
 
+	<!-- Too new -->
+	<software name="ac717d24">
+		<description>Mini Games</description>
+ 		<year>2020</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mini Games (2020)(Alex Alves).dsk" size="737280" crc="ac717d24" sha1="c2a43d23a754523ecfbad3bc86d986267c9966cf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="34df7eab">
+		<description>Mission v1.1 - Colecovision Emulator (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mission v1.1 - ColecoVision Emulator (1996)(Marcel de Kogel).dsk" size="737280" crc="34df7eab" sha1="7e506c4eec04343e97164c18ec8506e345bd9d1f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ef149759">
+		<description>MSX Tape Image Converter (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Tape Image Converter v1.0 (1998)(Marcel de Kogel).dsk" size="737280" crc="ef149759" sha1="2efc0d1e08b495e6c5185eaf3ca5eb943c9d55df" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="1a8b3302">
 		<description>Oleg Shamshura Collection 1 (personal collection? Has some unique Russian titles)</description>
  		<year>19??</year>
@@ -368,8 +402,3379 @@ license:CC0-1.0
 
 	<!-- hacks, cracks, conversions -->
 
+	<software name="c4e20051">
+		<description>M-47 (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="M-47 (1986)(Edisoft)(es).dsk" size="737280" crc="c4e20051" sha1="f54d3beb6abd7c4a1aa169a64fecddb866152aeb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a493f21a">
+		<description>M-BASIC v5.2 (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="M-BASIC v5.2 (1980)(Microsoft).dsk" size="737280" crc="a493f21a" sha1="74db34e54e2e5c3190ff31887a0f5730e83ac982" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="76074e29">
+		<description>Mac Attack (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mac Attack (1986)(Eaglesoft).dsk" size="737280" crc="76074e29" sha1="b8bbac5cbf9528918201c20f8a1d5ee6b6e308c9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9df875c0">
+		<description>Macadam Bumper (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Macadam Bumper (1985)(Sony).dsk" size="737280" crc="9df875c0" sha1="08a8a6c69352c7488d2c3013357f3b2206dcdcd7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="31ebe06b">
+		<description>Mad Max (manually created with NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mad Max (1987)(BKS).dsk" size="737280" crc="31ebe06b" sha1="3ffc76a65cadc0fab451661a357111044bed3ad9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1d33474b">
+		<description>Mad Mix 2 (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mad Mix 2 - En el Castillo de los Fantasmas (1990)(Topo Soft)(es)[cr Damian Roman].dsk" size="737280" crc="1d33474b" sha1="a11f8a9bcefa9ceee1a51d9db1c8ca8a8cf4d5fd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="67fbd24e">
+		<description>Mad Mix 2 (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mad Mix 2 - En el Castillo de los Fantasmas (1990)(Topo Soft)(es)[cr Damian Roman][a].dsk" size="737280" crc="67fbd24e" sha1="3de02059253855d42b67d4cf5cd8859fa5bfbddc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="39f5b47c">
+		<description>Mad Mix Game (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mad Mix Game (1988)(Topo Soft)(es).dsk" size="737280" crc="39f5b47c" sha1="683dac6d070403944efbfab9dd78d8e15b1a6542" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="29d99c3c">
+		<description>Mad Mix Game (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mad Mix Game (1988)(Topo Soft)(es)[a].dsk" size="737280" crc="29d99c3c" sha1="5809930fba76bd1f04bcc406ff02af0ec97c91e9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a22b6a1e">
+		<description>Mad-Fox (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mad-Fox (1986)(Manhattan Transfer)(es).dsk" size="737280" crc="a22b6a1e" sha1="e6615cab2c9123503c55c29bf211523955c6c363" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="52efe0e6">
+		<description>Magic Johnson's Basketball (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Magic Johnson's Basketball (1990)(Dro Soft)(es).dsk" size="737280" crc="52efe0e6" sha1="ac4f214e9bd47d4b2dddbf45bc770cd59f8fda6b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b0c683b8">
+		<description>Magic Paint (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Magic Paint (19xx)(-).dsk" size="737280" crc="b0c683b8" sha1="7abb7f2b3fb9d3d053c5f6faeca915c4a4cbcf2f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="06d3cccd">
+		<description>Magic Pinball (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Magic Pinball (1987)(OMK Software)(es).dsk" size="737280" crc="06d3cccd" sha1="cd7ea60143ea7cd452534c73bf5950a3a0091671" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5a566a05">
+		<description>Magical Kid Wiz (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Magical Kid Wiz (1986)(Sony).dsk" size="737280" crc="5a566a05" sha1="9f6db10d6d780ccb2973dd81bcfbfd46c0eca26a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9f8ca813">
+		<description>Magical Tree (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Magical Tree (1984)(Konami).dsk" size="737280" crc="9f8ca813" sha1="11bfffbdc758190ca681f3704b7de97774ffb042" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="396b74f0">
+		<description>Mahjong (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mahjong (1984)(Konami).dsk" size="737280" crc="396b74f0" sha1="e83d8d3a4699d7d7c559eaeecdb1ae849f0f2858" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a4cac536">
+		<description>A Maldicao da Vila Sinistra (cracked FreeSoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Maldicao da Vila Sinistra, A (1988)(P.I.S.C.)(pt).dsk" size="737280" crc="a4cac536" sha1="27a8e33b85ae1e9587557135c5371104779ea8d0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4857f4ee">
+		<description>A Maldicao da Vila Sinistra (cracked FreeSoft 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Maldicao da Vila Sinistra, A (1988)(P.I.S.C.)(pt)[cr FreeSoft Club].dsk" size="737280" crc="4857f4ee" sha1="e2c287bcf0eb1e10bba375a54f1247de44dc6153" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="83411f57">
+		<description>Mambo (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mambo (1989)(Positive)(es).dsk" size="737280" crc="83411f57" sha1="c6dc757c9e42c6a3a1a96fd95c0561f2982a3e27" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="40dcc9da">
+		<description>Mambo (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mambo (1989)(Positive)(es)[a].dsk" size="737280" crc="40dcc9da" sha1="86576500f537001684681918d0fab230d077eaef" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e3bfb380">
+		<description>Mandragore (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mandragore (1986)(Infogrames)(fr).dsk" size="737280" crc="e3bfb380" sha1="38015e19d6d4a970f5961d99514599044523795d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8fb18a07">
+		<description>Mandragore (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mandragore (1986)(Infogrames)(fr)[a].DSK" size="368640" crc="8fb18a07" sha1="29ff90cbfa8c6cffc221cdfa3e80f9cf00c6068c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3c987a56">
+		<description>Manes (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Manes (1984)(Ascii).dsk" size="737280" crc="3c987a56" sha1="ce180893b044120817d98f79bef25c1550b8cf64" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="95d35093">
+		<description>Manic Miner (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Manic Miner (1984)(Software Projects).dsk" size="737280" crc="95d35093" sha1="e27e95236b4cf23333df7bd12655221819b4058d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c47d852c">
+		<description>Mapgame (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Map Game (1985)(Erbe Software)(es).dsk" size="737280" crc="c47d852c" sha1="6c8df72ee02e0f3e2d2e7a8bde138f716215adc4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d050732b">
+		<description>Mapgame (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Map Game (1985)(Erbe Software)(es)[a].dsk" size="737280" crc="d050732b" sha1="7240be5da18bdf3b42c9873792ef45b92d8996b4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4d6fc601">
+		<description>Mappy (dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mappy (1984)(Namcot).dsk" size="737280" crc="4d6fc601" sha1="3ca5e209d633aba8baf80d250b9047ad32b6d378" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c8dcb4a5">
+		<description>Marie Celeste (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Marie Celeste (1985)(Editora Lutecia)(pt).dsk" size="737280" crc="c8dcb4a5" sha1="a8bffb61f0643b2a7c6898b82b8ceceaa3173874" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c48eb822">
+		<description>Marine Battle (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Marine Battle (1983)(Ascii).dsk" size="737280" crc="c48eb822" sha1="c42da58f5c8bf1eec9924217d98cb30122d10227" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5d18c2a3">
+		<description>Mars (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mars (1989)(Nagi-P Soft).dsk" size="737280" crc="5d18c2a3" sha1="b90fe6feeec14a5ae82ac369363842fbb2bc86fa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8cc3dcd5">
+		<description>Mars II (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mars II (1990)(Nagi-P Soft).dsk" size="737280" crc="8cc3dcd5" sha1="fcd59d13bcc2380e58328336efdb7933f600bd9d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fc49fac8">
+		<description>Mars II (alt 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mars II (1990)(Nagi-P Soft)[a].dsk" size="737280" crc="fc49fac8" sha1="e5c35a7cbbfb19c85ca440dbd527e573975d6abe" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6ce501e3">
+		<description>Martianoids (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Martianoids (1987)(Ultimate Play The Game).dsk" size="737280" crc="6ce501e3" sha1="f6aae705a2bcf19a124a7fbceac48b06e6675f53" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="baaa608e">
+		<description>Mask II (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mask II (1987)(Gremlin Graphics Software).dsk" size="737280" crc="baaa608e" sha1="2e5a1ec2bd64a3d44c6badbb2d881e07d72220c6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="535aec9a">
+		<description>Mask II (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mask II (1987)(Gremlin Graphics Software)[a].dsk" size="737280" crc="535aec9a" sha1="a5f6d392898538adc9a1a0f4c1e2b4ad31d7da15" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="45cd2e82">
+		<description>Master Chess (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Master Chess (1987)(Mastertronic).dsk" size="737280" crc="45cd2e82" sha1="10c7bf557ad8909fc42e7f4085a13c8cc680d375" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="40ad210d">
+		<description>Master de Sonido - A1 Spirit (hacked, extracted sounds)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Master de Sonido - A1 Spirit - The Way to Formula 1 (19xx)(Martos)(es)[SCC].dsk" size="737280" crc="40ad210d" sha1="13dc9f4b319bb732ed6ad913f918cec0b95bf8c8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bc2984c0">
+		<description>Master de Sonido (es, hacked, extracted sounds)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Master de Sonido - Konami (19xx)(Martos)(es)[SCC].dsk" size="737280" crc="bc2984c0" sha1="86be294d0c709d6b5681d37e237f79690298d75f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0179071e">
+		<description>Master de Sonido (ja, hacked, extracted sounds)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Master de Sonido - Konami (19xx)(Martos)(ja)[SCC].dsk" size="737280" crc="0179071e" sha1="f3b7089e1116d0fee892515bb7565fd181570106" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c2a187cc">
+		<description>Master de Sonido (en, hacked, extracted sounds)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Master de Sonido - Konami (19xx)(Martos)[SCC].dsk" size="737280" crc="c2a187cc" sha1="000de8d8beb44c7a945a8271a4c9c3e7b89a4767" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8c1ec2bb">
+		<description>Master of the Lamps (dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Master of the Lamps (1985)(Activision).dsk" size="737280" crc="8c1ec2bb" sha1="3a78463fbff471438de8a19d8474b6a30470dfc6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="702f07ca">
+		<description>Mastervoice Wordstore (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Master Voice (1985)(Aackosoft).dsk" size="737280" crc="702f07ca" sha1="6a7ad3a77e1897223f045c0a7f2edaa0932e75cb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f827bca5">
+		<description>Masters of the Universe (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Masters of the Universe - The Movie (1987)(Gremlin Graphics Software).dsk" size="737280" crc="f827bca5" sha1="6a01fec27f927ffe702482e1579121b1d2ce1075" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b63b13e1">
+		<description>Matagal (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Matagal (19xx)(Ricardo Kuntzke)(pt).dsk" size="737280" crc="b63b13e1" sha1="fc2f39d4a3dbf43d7cda69650dbd8f197ac95043" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6074a7ed">
+		<description>Mata Marcianos (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Matamarcianos - El Secreto de la Piramide (Manhattan Transfer - 1991).dsk" size="737280" crc="6074a7ed" sha1="fc98594f24fa6ec0cf339fda822a98072968f7a7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1a7560e9">
+		<description>Mata Marcianos (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Matamarcianos. Batalla Espacial (1986)(Manhattan Transfer)(es).dsk" size="737280" crc="1a7560e9" sha1="e6ce431e9b2860c384688a47e56045d1a89f3e06" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ba15c1f9">
+		<description>Match Day II (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Match Day II (1987)(Ocean Software).dsk" size="737280" crc="ba15c1f9" sha1="9f3cc2d583855abe8cbac8bc50fe72c6a7177bdb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c2442311">
+		<description>Match Day II (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Match Day II (1987)(Ocean Software)[a].dsk" size="737280" crc="c2442311" sha1="1e9197dd4dbaf76af31285789d6953d1a57c00d1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ed3a2760">
+		<description>Mateo (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mateo (19xx)(-)(es).dsk" size="737280" crc="ed3a2760" sha1="5ede6e118a371a7f5ff9d12ac29d77e8b3f26240" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="99e37fd2">
+		<description>Maths Invaders (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Maths Invaders (1985)(Aackosoft).dsk" size="737280" crc="99e37fd2" sha1="f68740cdc9f5915747ad3aabd526d5834285ab8f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f0b3ad23">
+		<description>Maxima (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Maxima (1984)(PSS).dsk" size="737280" crc="f0b3ad23" sha1="b3cd4d6558789ec6be7e2025ea7fd2d2160d873b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6f606f5a">
+		<description>Mayhem (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mayhem (1985)(Mr. Micro)[cr Magicracks].dsk" size="737280" crc="6f606f5a" sha1="6cef6345f930c278d3d29d700423f75181c73aae" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="63122d5b">
+		<description>Maze Max (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Maze Max (1985)(Loriciels)(fr).dsk" size="737280" crc="63122d5b" sha1="528597581d87d63ce85bda5dcb26271d42bb9796" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="33fb70b2">
+		<description>Maze of the Black Spider (extracted from compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Maze of the Black Spider, The (1989)(Eurosoft).dsk" size="737280" crc="33fb70b2" sha1="5815b4f2918a96a5bc7dc46b444ef724ed834b18" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6281156e">
+		<description>Mazes Unlimited (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mazes Unlimited (1986)(Eaglesoft).dsk" size="737280" crc="6281156e" sha1="b4b97cad5d936f33f3a43e45327395bf953b74f9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3129db49">
+		<description>Maziacs (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Maziacs (1985)(DK'Tronics).dsk" size="737280" crc="3129db49" sha1="83388f6fdac64551de50444d79d82e240756676a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6cb0191f">
+		<description>Mecano Oasis (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mecano Oasis (1987)(Grupo de Trabajo Software)(es).dsk" size="737280" crc="6cb0191f" sha1="c4a81bed610508562850f13706e121dd49a3cfc3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7f682ee5">
+		<description>Mecom (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mecom (1988)(Iber Soft)(es).dsk" size="737280" crc="7f682ee5" sha1="21c3e27c4670b8546573f0be70bdeed1951306d3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d869e27e">
+		<description>Mega Chess (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mega Chess (1988)(Iber Soft)(es)[aka Super Chess].dsk" size="737280" crc="d869e27e" sha1="a0ed66a5c66c0bd1ce5f41d9fc9f07f220721f4c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="78c7a574">
+		<description>Mega Desolators (manually created with DiskMgr1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mega Desolators (19xx)(Colin Dooley).dsk" size="737280" crc="78c7a574" sha1="cc1bb9ecb7efb8270cf45ae4c785c64bbb4f237e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f042e2dc">
+		<description>Megalopolis (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Megalopolis SOS (1986)(Compile).dsk" size="737280" crc="f042e2dc" sha1="afb824cb818cfb1e29e4a0ebe8b13e6660b6b44f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21922d91">
+		<description>Meganova (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Meganova (1988)(Dinamic Software)(es).dsk" size="737280" crc="21922d91" sha1="46d8c7af079aa95cc4a773fdd524e18c0f6037e1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b05d57f6">
+		<description>Meganova (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Meganova (1988)(Dinamic Software)(es)[a].dsk " size="737280" crc="b05d57f6" sha1="9580a233fb82f99850b3e3bd05a5e0f2ef382062" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="503e40ac">
+		<description>Megaphoenix (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Megaphoenix (1991)(Dinamic Software).dsk" size="737280" crc="503e40ac" sha1="c3d2cf0075f914e76512fbb7206f0c4ab7b4a46d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="295ab8de">
+		<description>Megaphoenix (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Megaphoenix (1991)(Dinamic Software)[a].dsk" size="737280" crc="295ab8de" sha1="7aeb4dc05b73473344dd5f1fda20426eeed17fc3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fef17cd5">
+		<description>Menphis (protected?, keeps rebooting)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_5_25">
+			<dataarea name="flop" size="368640">
+				<rom name="Menphis (1989)(Nemesis Informatica)(pt)[a].dsk" size="368640" crc="fef17cd5" sha1="d7d4b240ebe3d433ece4cedaf28e6e26d449b5a6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ac6b53b3">
+		<description>Menphis (baddump?, disk i/o error)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Menphis (1989)(Nemesis Informatica)(pt).dsk" size="737280" crc="ac6b53b3" sha1="c3578af2f6a2bc12709bf6491fd8e9814db2cd37" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c78a5440">
+		<description>Menudisk (manually created with NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Menudisk (1993)(A&amp;L Software)(pt).dsk" size="737280" crc="c78a5440" sha1="fbef16ce1d8a7cea85b5a5a83c05c0c8e1ba70a4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1cf5c264">
+		<description>Merlin (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Merlin (1987)(Mind Games Espana)(es).dsk" size="737280" crc="1cf5c264" sha1="612ed6dd52067afb75ba1987b543769c00c5ef84" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c00212a9">
+		<description>Merlin (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Merlin (1987)(Mind Games Espana)(es)[h CEZ].dsk" size="737280" crc="c00212a9" sha1="6a030d470c874166eb82f0b7bd8cb6cf50d5a532" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5d7b2b65">
+		<description>Merry X'Mas (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Merry X'Mas. Christmas (1987)(-).dsk" size="737280" crc="5d7b2b65" sha1="e04e6bea876b65c557525288f70d8f38f6440530" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0f3543a4">
+		<description>Meteor Storm (converted download)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Meteor Storm - _NetNomad (2020).dsk" size="737280" crc="0f3543a4" sha1="da19faaaf4a4cf75861736ce3d8218c98a7c4c0a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f7380f81">
+		<description>Meteoros (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Meteoros. Meteors. Meteor Storm (19xx)(-).dsk" size="737280" crc="f7380f81" sha1="0acb0ec94d56a6a407d66ab0299d131ec135df70" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="49413262">
+		<description>Metropolis (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Metropolis (1989)(Topo Soft)(es).dsk" size="737280" crc="49413262" sha1="239d02eca74a44008ad8a3607f96d4d8dd27056f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d5c54e66">
+		<description>Metropolis (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Metropolis (1989)(Topo Soft)(es)[a].dsk" size="737280" crc="d5c54e66" sha1="f8cdc960bb04b3a870d06abdcf458ea5f72e2c30" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8ade9434">
+		<description>Michel Futbol Master (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Michel Futbol Master (1989)(Dinamic Software)(es).dsk" size="368640" crc="8ade9434" sha1="515ed586374f0864f731aa6f592ba3ee95ac2d3c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4aed10e9">
+		<description>Michel Futbol Master (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Michel Futbol Master (1989)(Dinamic Software)(es)[a].dsk" size="737280" crc="4aed10e9" sha1="4ba1ed443ae97fa074bb9cd25fbb9db4a5445bce" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3f83984c">
+		<description>Michel Futbol Master (cas2dsk conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Michel Futbol Master (1989)(Dinamic Software)(es)[h MSX Games bOX].dsk" size="368640" crc="3f83984c" sha1="1299779588a67905ec5feb6eb430ecc46ad8e476" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1a0efd7e">
+		<description>Micky-Lucky (listing from MSX Magazine 1985-06)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Micky-Lucky (MSX Magazine, 1985)(en).dsk" size="368640" crc="1a0efd7e" sha1="4e8649ab13e46cf49dd2eecf7b550c30b7b05248" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="84f7dc49">
+		<description>Micro Man Id Man (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Micro Man Id-Man (1986)(Micros ID)(fr).dsk" size="737280" crc="84f7dc49" sha1="b9593a97d3c1842d75b84e9e2413e7ba1468ad96" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a2c72802">
+		<description>Midnight Brothers (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Midnight Brothers (1986)(Sony).dsk" size="737280" crc="a2c72802" sha1="ca83aa48042c8eedf3881e8802849e8572093f1d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="314e217d">
+		<description>Midnight Building (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Midnight Building (1984)(Ascii).dsk" size="737280" crc="314e217d" sha1="99fe639f85ad828baca2486afc374c7d707011d4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ab5e79aa">
+		<description>Mike Gunner (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mike Gunner (1988)(Dinamic Software)(es)[a][gunstick].dsk" size="737280" crc="ab5e79aa" sha1="3e231cca04784ecd15f0457ab0d8198f07a0f461" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1c9df0de">
+		<description>Mike Gunner (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mike Gunner (1988)(Dinamic Software)(es)[gunstick].dsk" size="737280" crc="1c9df0de" sha1="8ef6f37252879143342b210ed1cad2e1f4447390" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4815eac7">
+		<description>Mil Caras (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mil Caras (1985)(Idealogic)(es).dsk" size="737280" crc="4815eac7" sha1="0430c4c5003be750a220888a62a27f7bb42a7bed" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5a5da238">
+		<description>Milk Race (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Milk Race (1987)(Mastertronic).dsk" size="737280" crc="5a5da238" sha1="74b9e018d923850c185b5345009699384a8d33ab" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="27d520db">
+		<description>MillerGraph (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Miller Graph (1987)(Walther Miller)(es).dsk" size="737280" crc="27d520db" sha1="e6185e23df799b84da3cb700ce55dac84b119d5a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ee3189dd">
+		<description>A Mina (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mina, A (19xx)(-)(pt).dsk" size="737280" crc="ee3189dd" sha1="6eb0a125cf15036fff0995e4ba55282c64a3c158" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dd62d386">
+		<description>Mini Golf (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mini Golf (1985)(Namcot).dsk" size="737280" crc="dd62d386" sha1="e4f9c2b289db1901156f03b0e0cdbc967b7b5c70" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="55246cca">
+		<description>Miraculus (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Miraculus (1985)(Volker Becker).dsk" size="737280" crc="55246cca" sha1="cee5cdf3e19b6917e3e6cf60eca422d855cf0554" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a6d0a3b1">
+		<description>Mision de Combate (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mision de Combate (1984)(Advance)(es).dsk" size="737280" crc="a6d0a3b1" sha1="2ca101403870d6588b9a74706b6f54c298e070cf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ae55b0d1">
+		<description>Mision Rescate (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mision Rescate (1986)(Anaya Multimedia)(es).dsk" size="737280" crc="ae55b0d1" sha1="b801fbbf572906fba8f0973d0dbcb641b287a47d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e48a4dc4">
+		<description>Mision Rescate (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mision Rescate (1986)(Anaya Multimedia)(es)[a].dsk" size="737280" crc="e48a4dc4" sha1="73f19cf73547759b4cdd59941a87b87b0eeb4707" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3125c7c0">
+		<description>Missing in the Okhotsk (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Missing in the Okhotsk~Hokkaido Rensa Satsujin - Turbo R patched (Login Software) (1985).dsk" size="737280" crc="3125c7c0" sha1="64ba94a56cd8cef29d60f71801e7044e61aa56a0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="49a60365">
+		<description>Mission2MIR (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mister Jaws (1987)(Eaglesoft).dsk" size="368640" crc="49a60365" sha1="d4710e4bc4cbe64b6ace2cc9e4c42a61a6cdc874" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="249b8334">
+		<description>Mr Jaws (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mister Jaws (1987)(Eaglesoft).dsk" size="737280" crc="249b8334" sha1="be0d6c29f18d44ddd25a63ed04c76d9f102ff891" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7f05a273">
+		<description>El Misterio del Nilo (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Misterio del Nilo, El (1987)(Zigurat Software)(es).dsk" size="737280" crc="7f05a273" sha1="55c185944989533f8997c2b0ff49f3571a748c2b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7e174026">
+		<description>El Misterio del Nilo (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Misterio del Nilo, El (1987)(Zigurat Software)(es)[a].dsk" size="737280" crc="7e174026" sha1="77b043af03b066fa6638f00a4706e3a8335cd601" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e8393b40">
+		<description>MJ-05 (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MJ-05 (1983)(Hudson Soft).dsk" size="368640" crc="e8393b40" sha1="db2805f8ddf00f95704ce89e49e24346f94ac799" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b6f19c38">
+		<description>Mo-Karimakka (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mo-Karimakka. Bochibochidenna Sport (1986)(Leben Pro).dsk" size="737280" crc="b6f19c38" sha1="122ca778ee8ddb2bea4b6f7a74b62a819f7d8d60" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="051ccfdc">
+		<description>Moai no Hihou (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Moai no Hihou. Secret Treasure of Moai (1986)(Casio).dsk" size="737280" crc="051ccfdc" sha1="6920e4e265bbd5a94ac1282edef931bdbef23240" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d3cf637f">
+		<description>Moai no Hihou (crt2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Moai no Hihou. Secret Treasure of Moai (1986)(Casio)[cr Static Soft].dsk" size="737280" crc="d3cf637f" sha1="f5fd3a7c41432350daa92dca9b6310cfae51be74" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2ba3aba7">
+		<description>Mobile Planet Stylus (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mobile Planet Stylus - Approach from the Westgate (1986)(Hal).dsk" size="737280" crc="2ba3aba7" sha1="e1c09469a7828227c4e9afd4047bf39f34695813" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7610dc91">
+		<description>Mobile Suit Gundam (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mobile Suit Gundam (1984)(Bandai).dsk" size="737280" crc="7610dc91" sha1="3b9d4271c2f189fbb4e1d421a3c798719c2f97d3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="20ee7be8">
+		<description>Mole Mole (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mole Mole (1985)(Victor)[tr pt].dsk" size="737280" crc="20ee7be8" sha1="9d74dfbf5bfd10e65c44dd25822fc0485aa839c1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f68c621f">
+		<description>Mole Mole 2 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mole Mole 2 (1987)(Victor)[tr pt Metalsoft].dsk" size="737280" crc="f68c621f" sha1="02249f0de5a882d7f9e73bd6d90d469fefc95dde" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ebf528a7">
+		<description>Mole Mole 2 (crt2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mole Mole 2 (1987)(Victor)[tr pt Metalsoft][a].dsk" size="368640" crc="ebf528a7" sha1="a913638465fb6b124b7f989f02b3c8e1e2ac69b7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e85beabc">
+		<description>Molecule Man (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Molecule Man (1986)(Mastertronic).dsk" size="737280" crc="e85beabc" sha1="5c6df152634f96dade8ed442944a4ec79d6581da" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3879ebed">
+		<description>Monkey Academy (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Monkey Academy (1984)(Konami).dsk" size="737280" crc="3879ebed" sha1="fdc60908083520781dcfd185b9c4869cd0d40d76" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1a288844">
+		<description>Monks (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Monks (19xx)(-)(es).dsk" size="737280" crc="1a288844" sha1="a84192c699c80225afe818e2851da7c56fb42af8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9f273c23">
+		<description>Monopoly (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Monopoly (1986)(Leisure Genius).dsk" size="737280" crc="9f273c23" sha1="9ef9609ffed1efc7dcb9923e59f657de54a50fe9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0a6eed7d">
+		<description>Monster's Fair (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Monster's Fair (1984)(Toho).dsk" size="368640" crc="0a6eed7d" sha1="6074ceed602612ae6e46ddd26e9bde19f2b32814" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4b2b9ccb">
+		<description>Monster's Fair (crt2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Monster's Fair (1984)(Toho)[a].dsk" size="737280" crc="4b2b9ccb" sha1="17a87541351c28d5c815fcc8ddf86f219d9ae572" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="03f3c019">
+		<description>Moon Land (older version?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Moodland (2012)(Gamecast).dsk" size="737280" crc="03f3c019" sha1="0958878e055d23b01f68167445dcc1204165ac3f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d4dee6fe">
+		<description>Moon Patrol (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Moon Patrol (1984)(Irem).dsk" size="737280" crc="d4dee6fe" sha1="7735a75c4f47b5278d0f080183084279efd4097b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4323cb3f">
+		<description>Moon Race (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Moon Race (1985)(Volker Becker).dsk" size="737280" crc="4323cb3f" sha1="26a364a2f03ca242b0c24919851ee036935b1a19" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="701a6c70">
+		<description>Moonrider (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Moon Rider (1986)(Eaglesoft).dsk" size="737280" crc="701a6c70" sha1="937c65ae57f4e4a9a0417099d4a2471e80a4c7de" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bf2c6a50">
+		<description>Moonbase (manually created with DSKTOOL, does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Moonbase (1994)(Second Foundation).dsk" size="737280" crc="bf2c6a50" sha1="3d849a4c7363da1372f4e9904b9173e7eaf3a75f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="537b4723">
+		<description>Moonwalker (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Moonwalker (1989)(US Gold)[t].dsk" size="737280" crc="537b4723" sha1="3a746ede44cab624aed3af55537e751b58fbd3a8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d2996df5">
+		<description>Mopi Ranger (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mopi Ranger (1985)(Konami).dsk" size="737280" crc="d2996df5" sha1="ee2938fcd06240035a275a3b5556a8dbf3adda2e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a056d0ed">
+		<description>Mortadelo y Filemon (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mortadelo y Filemon (1988)(Dro Soft)(es).dsk" size="737280" crc="a056d0ed" sha1="287851ad894f257acf4f51e0d68bc23f3e31f6dc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f3e82233">
+		<description>Mortadelo y Filemon II (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mortadelo y Filemon II - Safari Callejero (1990)(Dro Soft)(es).dsk" size="737280" crc="f3e82233" sha1="dcf666041418a7f457aeb41e92463e2780f34e0f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bfb09167">
+		<description>Mortadelo y Filemon II (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mortadelo y Filemon II - Safari Callejero (1990)(Dro Soft)(es)[a].dsk" size="737280" crc="bfb09167" sha1="62dd77b978a24a220a121db581274a2d3f020200" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a01b5041">
+		<description>MOT (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mot (1989)(Opera Soft)(es).dsk" size="368640" crc="a01b5041" sha1="f32562ba7777cb17b15363f0aaa0efb5348609e7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c04def22">
+		<description>MOT (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mot (1989)(Opera Soft)(es)[cr J. Hernandez].dsk" size="737280" crc="c04def22" sha1="37319fe5009cc8a860135775da172dc7e60c7b64" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a1ab0e3f">
+		<description>MOT (cas2dsk conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mot (1989)(Opera Soft)(es)[cr J. Hernandez][a].dsk" size="737280" crc="a1ab0e3f" sha1="2e6e7701ecc8bdfe7a232fb3c2290cb99eab9458" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="76f81108">
+		<description>El Motorista Sideral (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Motorista Sideral, El (1986)(Anaya Multimedia)(es)[a].dsk" size="737280" crc="76f81108" sha1="2b3618e8525b4e58e85436c336d33473a11dd807" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3924e60a">
+		<description>Mountain Bike Racer (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mountain Bike Racer (1990)(Positive).dsk" size="737280" crc="3924e60a" sha1="02f3f9a712df1625176eaa0c790b493926c616d7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8d53e02d">
+		<description>Mountain Bike Racer (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mountain Bike Racer (1990)(Positive)[a].dsk" size="737280" crc="8d53e02d" sha1="bf7a2fd77ccef10fd29fb15c43436f13d8bea7d2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b384794c">
+		<description>Mouse Jump (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mouse Jump (1985)(SvL Software)(nl).dsk" size="737280" crc="b384794c" sha1="8b50cb675c3d0b04995ba7a84b57f7b158f8ed0a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4a4482c8">
+		<description>Mouser (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mouser (1983)(Sony).dsk" size="737280" crc="4a4482c8" sha1="f3f68b24172ea2fd85470fe5a46a031f9c514735" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="862d9f8b">
+		<description>Mr. Chin (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mr. Chin (1984)(Hal).dsk" size="737280" crc="862d9f8b" sha1="3ccb29045267642069b260220b60d0ca534c8973" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="52be0090">
+		<description>Mr. Do! Vs Unicorns (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mr. Do! vs Unicorns (1984)(Sony).dsk" size="737280" crc="52be0090" sha1="e846fceaf36ffbb850aaad0e081c24631951010d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="52a44314">
+		<description>Mr. Do's Wildride (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mr. Do's Wildride (1985)(Nippon Columbia - Colpax - Universal).dsk" size="737280" crc="52a44314" sha1="422073cb62618fcb3b90650aa9c44a3314a487ce" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="64e01143">
+		<description>Mr. Gomoku (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mr. Gomoku (1984)(Apollo Technica)[tr pt DisProsoft].dsk" size="737280" crc="64e01143" sha1="61ac7a1c05a9d8ae6cb78f0b56f7c4f5f5b73ef6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="464d56bc">
+		<description>Mr. Wong's Loopy Laundry (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mr. Wong's Loopy Laundry (1984)(Artic Computing).dsk" size="737280" crc="464d56bc" sha1="11a2cc9aa0a8f3b4c6e8c68f8807639cf8aa50d2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7a43aa19">
+		<description>Mr. Wong's Loopy Laundry (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mr. Wong's Loopy Laundry (1984)(Artic Computing)[a].dsk" size="368640" crc="7a43aa19" sha1="b18bafe9602a3629f10198544282d7419b287c08" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="356542cc">
+		<description>MST Calc (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MST-Calc (1985)(MST Consultants)[Boot with CTRL].dsk" size="737280" crc="356542cc" sha1="56e520ff6b0913a4b577bdd55d235a81ac321343" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0e1097d7">
+		<description>MSX Baseball (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Baseball (1984)(Panasoft).dsk" size="737280" crc="0e1097d7" sha1="e30aebbdb3e1c74a0b2dbc0e6c8cbd935c03d344" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="96a4b5eb">
+		<description>MSX CD-ROM (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX CD-ROM (19xx)(-).dsk" size="737280" crc="96a4b5eb" sha1="40c909f9885850d26475ef9c158dd3a4227bc067" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="db17ca83">
+		<description>Turbo Chess (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Chess Turbo Chess (1986)(Artic Computing).dsk" size="737280" crc="db17ca83" sha1="e3f4bd900ccd0ca5dab41fe894d69818c801d332" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="14902540">
+		<description>MSX Daikoshin (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Daikoshin. Rompe MSX (1989)(MSX Magazine).dsk" size="737280" crc="14902540" sha1="f8d915f42c00488b259a8e2f8dc87901f95abf32" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c1cb07b8">
+		<description>MSX Debug (files do not load?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_5_25">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Debug v1.1 (1989)(-)(pt).dsk" size="184320" crc="c1cb07b8" sha1="60d1e032b56e00e75583f3cd8a4c0e3dcce0c951" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7342031a">
+		<description>MSX Game Pack (manually created compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Game Pack (19xx)(-)(ES).dsk" size="737280" crc="7342031a" sha1="6b3ae925ecf9b92fc91c07deca878010cc319f7f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="270aa72f">
+		<description>MSX Loading Screens (manually created with NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Loading Screens (19xx)(-).dsk" size="737280" crc="270aa72f" sha1="dbd3a8ff6a3c2744a07db93f57614c70afc3639b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6e94f6cf">
+		<description>MSX Mania Collection - Disk 001 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 001 (19xx)(-).dsk" size="737280" crc="6e94f6cf" sha1="f7cf2ee5387f2217b4157fc8c6b0723828a22fe2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ca3c6748">
+		<description>MSX Mania Collection - Disk 002 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 002 (19xx)(-).dsk" size="737280" crc="ca3c6748" sha1="ec21eddf7da5c7666776a0a3c16a0cf05bb69bfd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ab3e44c1">
+		<description>MSX Mania Collection - Disk 003 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 003 (19xx)(-).dsk" size="737280" crc="ab3e44c1" sha1="09e533b30aaca2d68e4d525c52c6987edab5e9e9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fae6bfa9">
+		<description>MSX Mania Collection - Disk 004 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 004 (19xx)(-).dsk" size="737280" crc="fae6bfa9" sha1="d25fbeb5e994b0ec0679cfb6aa22b52519762c88" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0b4d90d9">
+		<description>MSX Mania Collection - Disk 005 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 005 (19xx)(-).dsk" size="737280" crc="0b4d90d9" sha1="3c87692dc625b987c6d496353adf68db4e2d24d5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="54ad40a4">
+		<description>MSX Mania Collection - Disk 006 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 006 (19xx)(-).dsk" size="737280" crc="54ad40a4" sha1="7fd2ed5629e7628cec48e945a055fd3637708fea" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="947c2af2">
+		<description>MSX Mania Collection - Disk 007 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 007 (19xx)(-).dsk" size="737280" crc="947c2af2" sha1="1156125d2ccf5cafa2c8156b259b8eaea4964fe6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="96aa7c68">
+		<description>MSX Mania Collection - Disk 008 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 008 (19xx)(-).dsk" size="737280" crc="96aa7c68" sha1="976c5d0693b92eac6ddf8e02c2ec339743d8475f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6e14062d">
+		<description>MSX Mania Collection - Disk 009 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 009 (19xx)(-).dsk" size="737280" crc="6e14062d" sha1="13f4bc55fec26adbc3852f2c1108192094c0f9fd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5797f1e6">
+		<description>MSX Mania Collection - Disk 010 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 010 (19xx)(-).dsk" size="737280" crc="5797f1e6" sha1="c32ef34f45f7691e43533791478b20321de2e3d0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bb8e37de">
+		<description>MSX Mania Collection - Disk 011 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 011 (19xx)(-).dsk" size="737280" crc="bb8e37de" sha1="391017e1db3173b06ff6db3cf71290bb5083f04f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9b2258bb">
+		<description>MSX Mania Collection - Disk 012 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 012 (19xx)(-).dsk" size="737280" crc="9b2258bb" sha1="aea70b13ebc397bb17503beaac3125b37d375cec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="02761e42">
+		<description>MSX Mania Collection - Disk 013 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 013 (19xx)(-).dsk" size="737280" crc="02761e42" sha1="0ef320190e2c3ec3fae4b0ea40483acd33a1a24f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d2d969be">
+		<description>MSX Mania Collection - Disk 014 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 014 (19xx)(-).dsk" size="737280" crc="d2d969be" sha1="d1217f5132aa312f8732934727c941d42adb8856" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="636d5626">
+		<description>MSX Mania Collection - Disk 015 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 015 (19xx)(-).dsk" size="737280" crc="636d5626" sha1="00092cef4f466138bcd2281cbb616c6efee2a6d9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1d320798">
+		<description>MSX Mania Collection - Disk 016 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 016 (19xx)(-).dsk" size="737280" crc="1d320798" sha1="769867b665f12d00a1868b6ad9e4f5be8ab0cba8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="afa19673">
+		<description>MSX Mania Collection - Disk 017 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 017 (19xx)(-).dsk" size="737280" crc="afa19673" sha1="27c04a1dcb26e83b391cb601e847eb2bb14392c6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aec6c245">
+		<description>MSX Mania Collection - Disk 018 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 018 (19xx)(-).dsk" size="737280" crc="aec6c245" sha1="2b121a672ff7184cc5381781fc7c934cafae36d0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="66246d26">
+		<description>MSX Mania Collection - Disk 019 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 019 (19xx)(-).dsk" size="737280" crc="66246d26" sha1="a3b96af147ce2b1c5d31254b8faac690eb37d54b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="45674740">
+		<description>MSX Mania Collection - Disk 020 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 020 (19xx)(-).dsk" size="737280" crc="45674740" sha1="a3e8b78fa1c831d30792dd7b9c25e7b79e850684" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="47d9fbd2">
+		<description>MSX Mania Collection - Disk 021 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 021 (19xx)(-).dsk" size="737280" crc="47d9fbd2" sha1="bccd8987cd594bbd39fbe15394dcf1fec33ba939" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9e4b0466">
+		<description>MSX Mania Collection - Disk 022 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 022 (19xx)(-).dsk" size="737280" crc="9e4b0466" sha1="28a8abd0688aace29da3593427259785a0d351ba" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8c194ded">
+		<description>MSX Mania Collection - Disk 023 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 023 (19xx)(-).dsk" size="737280" crc="8c194ded" sha1="a0c946cd31d02c2282e335602b7b9f74d7db7529" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c2d41363">
+		<description>MSX Mania Collection - Disk 024 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 024 (19xx)(-).dsk" size="737280" crc="c2d41363" sha1="56dcd4129e83aea2864e2c078811fb6cc9d08994" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="336825ee">
+		<description>MSX Mania Collection - Disk 025 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 025 (19xx)(-).dsk" size="737280" crc="336825ee" sha1="812dd5a3559aadaa580cdd2b1492b7afad77c6ef" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7a7fa337">
+		<description>MSX Mania Collection - Disk 026 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 026 (19xx)(-).dsk" size="737280" crc="7a7fa337" sha1="ab97d6c0482cf1abee5cf785fcf0c783e61f415f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4693a939">
+		<description>MSX Mania Collection - Disk 027 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 027 (19xx)(-).dsk" size="737280" crc="4693a939" sha1="92b84d0b0042aa36a85271ad2d37736f4363278d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ba29d7df">
+		<description>MSX Mania Collection - Disk 028 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 028 (19xx)(-).dsk" size="737280" crc="ba29d7df" sha1="40eb3f9a6109e657e52ba3b12a8b88cf70b17f82" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="74b4327d">
+		<description>MSX Mania Collection - Disk 029 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 029 (19xx)(-).dsk" size="737280" crc="74b4327d" sha1="73c7b5fdeffcb6a67b1456a002a507e8422fb57a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b954ec51">
+		<description>MSX Mania Collection - Disk 030 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 030 (19xx)(-).dsk" size="737280" crc="b954ec51" sha1="6f40c0305bde8d246d85a341dec40e1b5a2435f2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="02cb055b">
+		<description>MSX Mania Collection - Disk 031 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 031 (19xx)(-).dsk" size="737280" crc="02cb055b" sha1="89d11a8f55c89904b8d7e88df57a602d848f014b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5e200622">
+		<description>MSX Mania Collection - Disk 032 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 032 (19xx)(-).dsk" size="737280" crc="5e200622" sha1="9f9dc3abd7e02526de68aa7ce38309d140bdf1d9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e94b045b">
+		<description>MSX Mania Collection - Disk 033 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 033 (19xx)(-).dsk" size="737280" crc="e94b045b" sha1="94b2ea7120aef9b747f74f42b04a31d05b8ce994" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7b5bc6be">
+		<description>MSX Mania Collection - Disk 034 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 034 (19xx)(-).dsk" size="737280" crc="7b5bc6be" sha1="0b2f1fa64456b247eaa5fba048c012f69c6933ac" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="35138617">
+		<description>MSX Mania Collection - Disk 035 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 035 (19xx)(-).dsk" size="737280" crc="35138617" sha1="a6db4602251625019b50e6b4c384b274a1eef689" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ff8d3405">
+		<description>MSX Mania Collection - Disk 036 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 036 (19xx)(-).dsk" size="737280" crc="ff8d3405" sha1="3c3781e90ebc0179ac24fddf7596b8c6152fc06b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="02923ea8">
+		<description>MSX Mania Collection - Disk 037 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 037 (19xx)(-).dsk" size="737280" crc="02923ea8" sha1="1c487d23cba7faf2e8064f341582698a1b68fc08" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="24cc984f">
+		<description>MSX Mania Collection - Disk 038 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 038 (19xx)(-).dsk" size="737280" crc="24cc984f" sha1="81b9535790b77f616a663ff190a1448dd53b1760" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3fa54b6b">
+		<description>MSX Mania Collection - Disk 039 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 039 (19xx)(-).dsk" size="737280" crc="3fa54b6b" sha1="61230136abc197b104a90a49adfdc12a00fe5828" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2a3e3058">
+		<description>MSX Mania Collection - Disk 040 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 040 (19xx)(-).dsk" size="737280" crc="2a3e3058" sha1="680a55a03a5afd8621787dec6fe79e130555f7f0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5444c049">
+		<description>MSX Mania Collection - Disk 041 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 041 (19xx)(-).dsk" size="737280" crc="5444c049" sha1="f1f410df3c086cdc14bc0a49158796852dafd7f7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1ff4b757">
+		<description>MSX Mania Collection - Disk 042 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 042 (19xx)(-).dsk" size="737280" crc="1ff4b757" sha1="39ea1ac1710aea2076b52ebd9e3782f272509088" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="387e01e9">
+		<description>MSX Mania Collection - Disk 043 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 043 (19xx)(-).dsk" size="737280" crc="387e01e9" sha1="b1edd58caaf224db82faa715cfdf56e14270b6e4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4220dee7">
+		<description>MSX Mania Collection - Disk 044 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 044 (19xx)(-).dsk" size="737280" crc="4220dee7" sha1="db0f786734f60512adb792f43d56f02d6a7a04bf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6227db6a">
+		<description>MSX Mania Collection - Disk 045 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 045 (19xx)(-).dsk" size="737280" crc="6227db6a" sha1="3a5f541edd3de19ab0428dad7240c0c7af8f7f47" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e97abc1e">
+		<description>MSX Mania Collection - Disk 046 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 046 (19xx)(-).dsk" size="737280" crc="e97abc1e" sha1="7a671c972078fff82beb9cb6efc770430f563d8e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b4f4fc58">
+		<description>MSX Mania Collection - Disk 047 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 047 (19xx)(-).dsk" size="737280" crc="b4f4fc58" sha1="d9caebd6ce20252c85eb8be8682816c9d9b1fe40" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2fe08f1a">
+		<description>MSX Mania Collection - Disk 048 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 048 (19xx)(-).dsk" size="737280" crc="2fe08f1a" sha1="8485e8ec8d378ed397f8fb145452c38c9d425abc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="934a811e">
+		<description>MSX Mania Collection - Disk 049 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 049 (19xx)(-).dsk" size="737280" crc="934a811e" sha1="799915159241f9a007102f2e8e8e224f46346f73" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="70330964">
+		<description>MSX Mania Collection - Disk 050 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 050 (19xx)(-).dsk" size="737280" crc="70330964" sha1="9a58a3c339dbb563631a862990ba325b932ab3d9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="33b441e5">
+		<description>MSX Mania Collection - Disk 051 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 051 (19xx)(-).dsk" size="737280" crc="33b441e5" sha1="03a4938c95820f8d72cc37c4fa51b5662add9b35" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f6aca8f6">
+		<description>MSX Mania Collection - Disk 052 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 052 (19xx)(-).dsk" size="737280" crc="f6aca8f6" sha1="ad41290e0f1bb275acf6b1b291c7423b3795e9b0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5a33e18d">
+		<description>MSX Mania Collection - Disk 053 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 053 (19xx)(-).dsk" size="737280" crc="5a33e18d" sha1="95d48eb80dcee460d793c21c531a40bf9d99e756" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d9371b0a">
+		<description>MSX Mania Collection - Disk 054 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 054 (19xx)(-).dsk" size="737280" crc="d9371b0a" sha1="f6f5ea6265e9c29cd2a0b09e78bff98c6ef1dd07" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7f5aa727">
+		<description>MSX Mania Collection - Disk 055 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 055 (19xx)(-).dsk" size="737280" crc="7f5aa727" sha1="0851d7d86a8a00dc124bc1d1b965e8b1a060972e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bc590277">
+		<description>MSX Mania Collection - Disk 056 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 056 (19xx)(-).dsk" size="737280" crc="bc590277" sha1="cd3f3b961bda93618d8a1f8e52089ed50809ed0e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bfff102d">
+		<description>MSX Mania Collection - Disk 057 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 057 (19xx)(-).dsk" size="737280" crc="bfff102d" sha1="59fd42da9b1fc9b085f1e26c4a578e569c58b9a5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a33026fa">
+		<description>MSX Mania Collection - Disk 058 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 058 (19xx)(-).dsk" size="737280" crc="a33026fa" sha1="531f066682425568382eb6e2176f494840c56ada" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fb3beb4d">
+		<description>MSX Mania Collection - Disk 059 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 059 (19xx)(-).dsk" size="737280" crc="fb3beb4d" sha1="58632a72a1dd09c3808e38ff7025bd1e182b6ab6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1fc99ea4">
+		<description>MSX Mania Collection - Disk 060 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 060 (19xx)(-).dsk" size="737280" crc="1fc99ea4" sha1="8285b9727e9d8c51277bb29c298077b36213a08b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="41769bf9">
+		<description>MSX Mania Collection - Disk 061 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 061 (19xx)(-).dsk" size="737280" crc="41769bf9" sha1="6447a3b6127c4fc11dc38ec97e97b1c711bd5a05" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="523a64e6">
+		<description>MSX Mania Collection - Disk 062 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 062 (19xx)(-).dsk" size="737280" crc="523a64e6" sha1="8819ad0948dc9f8232f430ca8feb3121aca35051" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="78bb0573">
+		<description>MSX Mania Collection - Disk 063 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 063 (19xx)(-).dsk" size="737280" crc="78bb0573" sha1="dcb38704e50edf97477e88bb900b26e86511eb86" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="09d3eeee">
+		<description>MSX Mania Collection - Disk 064 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 064 (19xx)(-).dsk" size="737280" crc="09d3eeee" sha1="62701201050dc497bf1a3dae4c78d5b922059031" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="673f6ba9">
+		<description>MSX Mania Collection - Disk 065 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 065 (19xx)(-).dsk" size="737280" crc="673f6ba9" sha1="6212168ddf9774bd56af32bcb23f3f24919df894" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ab00a11d">
+		<description>MSX Mania Collection - Disk 066 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 066 (19xx)(-).dsk" size="737280" crc="ab00a11d" sha1="d04f82efb94afa1f25fc94bbc6c02ebe93f8c7f0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4f1cbdea">
+		<description>MSX Mania Collection - Disk 067 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 067 (19xx)(-).dsk" size="737280" crc="4f1cbdea" sha1="02ac390ba801b2b5027581222aac839c24e8d1f9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2212ff18">
+		<description>MSX Mania Collection - Disk 068 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 068 (19xx)(-).dsk" size="737280" crc="2212ff18" sha1="45bb9199e668bc25280297b0207f702169ef04b9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9316ec6d">
+		<description>MSX Mania Collection - Disk 069 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 069 (19xx)(-).dsk" size="737280" crc="9316ec6d" sha1="73616e667b6789dc1747b27c3ffb28f8ebb47bd0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7981fd9e">
+		<description>MSX Mania Collection - Disk 070 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 070 (19xx)(-).dsk" size="737280" crc="7981fd9e" sha1="b995ce72b1d2271b4b1e89141148d3aa96922c0f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1f063a5e">
+		<description>MSX Mania Collection - Disk 071 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 071 (19xx)(-).dsk" size="737280" crc="1f063a5e" sha1="f62f4280ce98119f338147d49fc2d2b26aabdbd2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d7bf9582">
+		<description>MSX Mania Collection - Disk 072 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 072 (19xx)(-).dsk" size="737280" crc="d7bf9582" sha1="c75da49db343cbb05d12fd4185920ec6a6d0714d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="83b8faa6">
+		<description>MSX Mania Collection - Disk 073 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 073 (19xx)(-).dsk" size="737280" crc="83b8faa6" sha1="c25594f2886e9825a28d87b462bf5d940cb9ca4a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6e9d6895">
+		<description>MSX Mania Collection - Disk 074 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 074 (19xx)(-).dsk" size="737280" crc="6e9d6895" sha1="d31cd9a5b198377e3ca1a29fe0aad13cf6d99689" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="431af577">
+		<description>MSX Mania Collection - Disk 075 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 075 (19xx)(-).dsk" size="737280" crc="431af577" sha1="043942f3372a9ba4ea2cbd2f7d0b6580c9b68fcf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="654ca59f">
+		<description>MSX Mania Collection - Disk 076 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 076 (19xx)(-).dsk" size="737280" crc="654ca59f" sha1="3dfaaa7a0383d7ecbfd419bd8db2e3bf2d533f0b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="593d8056">
+		<description>MSX Mania Collection - Disk 077 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 077 (19xx)(-).dsk" size="737280" crc="593d8056" sha1="d19c48b38d7e931afa5d37a99eed5a4558e7871b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f5185a03">
+		<description>MSX Mania Collection - Disk 078 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 078 (19xx)(-).dsk" size="737280" crc="f5185a03" sha1="f84bd6f084c50f4afa4d189ab2eba9a808a1ea1a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7f97e88b">
+		<description>MSX Mania Collection - Disk 079 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 079 (19xx)(-).dsk" size="737280" crc="7f97e88b" sha1="b28bffc220d6e1073d562f79f017039480ba1ff8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c136854a">
+		<description>MSX Mania Collection - Disk 080 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 080 (19xx)(-).dsk" size="737280" crc="c136854a" sha1="27e03510273fcb1df48997b5d9d78b19684c6f3e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="804b39c7">
+		<description>MSX Mania Collection - Disk 081 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 081 (19xx)(-).dsk" size="737280" crc="804b39c7" sha1="91bc918ca45d4e324957f96209e251ce7d87dd08" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="07a386c0">
+		<description>MSX Mania Collection - Disk 082 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 082 (19xx)(-).dsk" size="737280" crc="07a386c0" sha1="a1d583cc0b98b14a1aee02a3ac636660638bad4b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f4a45fda">
+		<description>MSX Mania Collection - Disk 083 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 083 (19xx)(-).dsk" size="737280" crc="f4a45fda" sha1="ed5e81ba1d8dcd898cdf5f641092ea90b42c8fcf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2c6161ec">
+		<description>MSX Mania Collection - Disk 084 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 084 (19xx)(-).dsk" size="737280" crc="2c6161ec" sha1="7d2debaa65f683bf402e62a9aeec3141c8b9bcd3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c5eea68b">
+		<description>MSX Mania Collection - Disk 085 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 085 (19xx)(-).dsk" size="737280" crc="c5eea68b" sha1="8091dfea4dbd3bf070ba3f4b56eb5653fc6f73a5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="914857ea">
+		<description>MSX Mania Collection - Disk 086 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 086 (19xx)(-).dsk" size="737280" crc="914857ea" sha1="ffd2d06b215f19c18c9cd194e6fc5ac3c56db0ab" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ed6b07eb">
+		<description>MSX Mania Collection - Disk 087 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 087 (19xx)(-).dsk" size="737280" crc="ed6b07eb" sha1="7839041a7964015ca8496f9543f0b45849971d5f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d76ddc9c">
+		<description>MSX Mania Collection - Disk 088 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 088 (19xx)(-).dsk" size="737280" crc="d76ddc9c" sha1="a5db5c147b370b0e1ad6e2a1879c7e00e4db91a9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0f00aa07">
+		<description>MSX Mania Collection - Disk 089 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 089 (19xx)(-).dsk" size="737280" crc="0f00aa07" sha1="621edcf1e1b4c40924dcd4d0b3ad74e93e71bdfe" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c25e1d25">
+		<description>MSX Mania Collection - Disk 090 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 090 (19xx)(-).dsk" size="737280" crc="c25e1d25" sha1="56c3500205caa15db52f0456196744cd97eb3d5b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c446e618">
+		<description>MSX Mania Collection - Disk 091 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 091 (19xx)(-).dsk" size="737280" crc="c446e618" sha1="6a0cbfd4acd09ff221fd76ba7545e5af52853c48" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c5b47bf2">
+		<description>MSX Mania Collection - Disk 092 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 092 (19xx)(-).dsk" size="737280" crc="c5b47bf2" sha1="099684e7265343c7fe728fd206fe9c5d0e5862cb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="78622a3c">
+		<description>MSX Mania Collection - Disk 093 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 093 (19xx)(-).dsk" size="737280" crc="78622a3c" sha1="8473fab7d50cfd295a031b377cad0c24734f590c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="51150192">
+		<description>MSX Mania Collection - Disk 094 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 094 (19xx)(-).dsk" size="737280" crc="51150192" sha1="411cb738980b332a8500b8e833e891e3f98a39d2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="59fe7f41">
+		<description>MSX Mania Collection - Disk 095 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 095 (19xx)(-).dsk" size="737280" crc="59fe7f41" sha1="99b841d961280b7fc4fcd4e438fb47ceaaca6403" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="18003d16">
+		<description>MSX Mania Collection - Disk 096 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 096 (19xx)(-).dsk" size="737280" crc="18003d16" sha1="c2f41e1eca21521045bd8ff337ab5342426b4ab6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="68477a85">
+		<description>MSX Mania Collection - Disk 097 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 097 (19xx)(-).dsk" size="737280" crc="68477a85" sha1="6940e9ccaa09b2a5606557ad707de836a4ceba09" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ab2ccabd">
+		<description>MSX Mania Collection - Disk 098 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 098 (19xx)(-).dsk" size="737280" crc="ab2ccabd" sha1="2e24b0590f33ba7398661e1f99ed32284b28d498" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7ab52fd2">
+		<description>MSX Mania Collection - Disk 099 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 099 (19xx)(-).dsk" size="737280" crc="7ab52fd2" sha1="18420daca4d7b8c17c2ec389f9c9e1fcb2547d83" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="230e848e">
+		<description>MSX Mania Collection - Disk 100 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 100 (19xx)(-).dsk" size="737280" crc="230e848e" sha1="2b992f8afc2823858a80d66b00d1552b09106281" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dd4f3515">
+		<description>MSX Mania Collection - Disk 101 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 101 (19xx)(-).dsk" size="737280" crc="dd4f3515" sha1="f7df28d47f3fe6a50fc18f4e77e82637ab8ebc27" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b8818176">
+		<description>MSX Mania Collection - Disk 102 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 102 (19xx)(-).dsk" size="737280" crc="b8818176" sha1="13f5908dd47bd9f9dfd8956981306eaf68739c1b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d864e742">
+		<description>MSX Mania Collection - Disk 103 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 103 (19xx)(-).dsk" size="737280" crc="d864e742" sha1="0561e39174572628f934d4950df0a3664d760ce0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="53c5344f">
+		<description>MSX Mania Collection - Disk 104 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 104 (19xx)(-).dsk" size="737280" crc="53c5344f" sha1="f0bac53646125fd3e579e406a2e0b641f8a77b6c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bb6eb6ac">
+		<description>MSX Mania Collection - Disk 105 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 105 (19xx)(-).dsk" size="737280" crc="bb6eb6ac" sha1="fe898276c013e29795eed104c8e3b356cfaa52c9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a471cc4b">
+		<description>MSX Mania Collection - Disk 106 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 106 (19xx)(-).dsk" size="737280" crc="a471cc4b" sha1="0063ac510a5d0485b7e5b2dd26aa15e76232e66d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="428182df">
+		<description>MSX Mania Collection - Disk 107 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 107 (19xx)(-).dsk" size="737280" crc="428182df" sha1="b201fbc49bcafa8736a3c04fe512d07c9b12f96e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="042a4cc9">
+		<description>MSX Mania Collection - Disk 108 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 108 (19xx)(-).dsk" size="737280" crc="042a4cc9" sha1="3b274fd70e04a7a329fefeab255e79c23708ce1c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="81938916">
+		<description>MSX Mania Collection - Disk 109 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 109 (19xx)(-).dsk" size="737280" crc="81938916" sha1="4af62752fd5dd2707f377c8164dc517379c46c2c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a9a6a6d1">
+		<description>MSX Mania Collection - Disk 110 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 110 (19xx)(-).dsk" size="737280" crc="a9a6a6d1" sha1="9930ce22085472a993d1d3a2874bf7d302b00404" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="00465bf1">
+		<description>MSX Mania Collection - Disk 111 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 111 (19xx)(-).dsk" size="737280" crc="00465bf1" sha1="807606d747ba5a565b3f529a0162de26c75f349a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="277ebf69">
+		<description>MSX Mania Collection - Disk 112 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 112 (19xx)(-).dsk" size="737280" crc="277ebf69" sha1="e4d089cdee209f5064fb7836869e98c1f92567b1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a4b0eb86">
+		<description>MSX Mania Collection - Disk 113 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 113 (19xx)(-).dsk" size="737280" crc="a4b0eb86" sha1="1eb0bd0e352754ff1846d2b751722b50c5bb73ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="009f781d">
+		<description>MSX Mania Collection - Disk 114 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 114 (19xx)(-).dsk" size="737280" crc="009f781d" sha1="bfb39245cb82e3430c3eecf3c7e11d651fae59fc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="caf5157f">
+		<description>MSX Mania Collection - Disk 115 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 115 (19xx)(-).dsk" size="737280" crc="caf5157f" sha1="8edd57086cd877bb808848a3a082263e1ca1aefd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="096cd690">
+		<description>MSX Mania Collection - Disk 116 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 116 (19xx)(-).dsk" size="737280" crc="096cd690" sha1="8aaae9db778f5b11a5cbf871dddd182ddefaecda" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="09663097">
+		<description>MSX Mania Collection - Disk 117 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 117 (19xx)(-).dsk" size="737280" crc="09663097" sha1="5c7056b78b3c66769c7c50a3fadf807cf0b61475" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="16337bd7">
+		<description>MSX Mania Collection - Disk 118 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 118 (19xx)(-).dsk" size="737280" crc="16337bd7" sha1="63148a52f47d44784bd1d69c0f93d267cf16c558" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3f3a1a54">
+		<description>MSX Mania Collection - Disk 119 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 119 (19xx)(-).dsk" size="737280" crc="3f3a1a54" sha1="94163e000244933213941a980dbf063af976e4db" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="17735f4d">
+		<description>MSX Mania Collection - Disk 120 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 120 (19xx)(-).dsk" size="737280" crc="17735f4d" sha1="306427bfb0fc14a61cf7fda80b9b730b948f38af" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ab5f8c42">
+		<description>MSX Mania Collection - Disk 121 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 121 (19xx)(-).dsk" size="737280" crc="ab5f8c42" sha1="df27fc901f7f42ac4d97e89825401f0ea2f7ead2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4f9cf6ea">
+		<description>MSX Mania Collection - Disk 122 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 122 (19xx)(-).dsk" size="737280" crc="4f9cf6ea" sha1="3b50075688e31e676515390a55cd38f5263ee5c9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7081f95a">
+		<description>MSX Mania Collection - Disk 123 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 123 (19xx)(-).dsk" size="737280" crc="7081f95a" sha1="8b25e071c2dd5673da78960143ad2303bb72616c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d77bcb72">
+		<description>MSX Mania Collection - Disk 124 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 124 (19xx)(-).dsk" size="737280" crc="d77bcb72" sha1="adf5ca46dd5fcb1db1a0a1a53f43f7c540b87a58" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fe16f1b2">
+		<description>MSX Mania Collection - Disk 125 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 125 (19xx)(-).dsk" size="737280" crc="fe16f1b2" sha1="0ea7cf3c2a6386e3411e3fe5724f4a9be1010992" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="498426f0">
+		<description>MSX Mania Collection - Disk 126 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 126 (19xx)(-).dsk" size="737280" crc="498426f0" sha1="6f7a6842dd1d224150a2490f60109dcf5d549c8d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="81bbe97b">
+		<description>MSX Mania Collection - Disk 127 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 127 (19xx)(-).dsk" size="737280" crc="81bbe97b" sha1="2c0c8c6152a70293e3aacd204caf3ccdd4d5c799" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d9fe1e7e">
+		<description>MSX Mania Collection - Disk 128 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 128 (19xx)(-).dsk" size="737280" crc="d9fe1e7e" sha1="9414d0ca1852f3a0c895e53626ff87d722765c64" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f05390d7">
+		<description>MSX Mania Collection - Disk 129 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 129 (19xx)(-).dsk" size="737280" crc="f05390d7" sha1="0ebaca954b4a53909f5fb88913e00cd6cffd2636" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="68399bcb">
+		<description>MSX Mania Collection - Disk 130 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Disk 130 (19xx)(-).dsk" size="737280" crc="68399bcb" sha1="db113f7b005cb74df740f915c698708931e0de11" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ead0e4bc">
+		<description>MSX Mania Collection - Special Disk 001 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Special Disk 001 (19xx)(-).dsk" size="737280" crc="ead0e4bc" sha1="5a2cd2d13c160bb564e503e3e674edee199f8e82" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f022cd47">
+		<description>MSX Mania Collection - Special Disk 002 (msx mania)</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Mania Collection - Special Disk 002 (19xx)(-).dsk" size="737280" crc="f022cd47" sha1="2ed52548001cb1b427a7a697ba82796d3fcaf6a6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a14102cf">
+		<description>MSX MuSIC Editor (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX MuSIC Editor (19xx)(M.A. Cabrera).dsk" size="737280" crc="a14102cf" sha1="1e3e45ec5c8a7cfe9525f4149a3ed321fb7e27fc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ef65030b">
+		<description>MSX Pac-4. Cocos (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Pac-4. Cocos (1985)(Amsterdam)(nl).dsk" size="737280" crc="ef65030b" sha1="3ee132b9dc0a31187d7c53185b690a0e778a5ed7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ea080945">
+		<description>MSX Pagemake deluxe disk 1 (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX PageMaker Deluxe (19xx)(Nemesis Informatica)(pt)(Disk 1 of 4)[h MSX Files].dsk" size="737280" crc="ea080945" sha1="2ac738ab4786306b956f9b50cdc41d12b22f521d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c99a3e83">
+		<description>MSX Top CAD (baddump?, manually created with DiskMgr1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX Top CAD v1.2 (19xx)(Nemesis Informatica)(pt).dsk" size="737280" crc="c99a3e83" sha1="cb66c49757f9a3cee9d2b860f9c9cbba5c286ddb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7b8cebe1">
+		<description>MSX-21 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX-21 (1983)(Ascii).dsk" size="737280" crc="7b8cebe1" sha1="41b997522b5f11b2adbbd7007ee6c284e7bb9061" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fdc7fbc7">
+		<description>MSX-DOS 1.8 (hacked image, 700+ kb free on a 1DD floppy)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MSX-DOS (1983)(Microsoft).dsk" size="368640" crc="fdc7fbc7" sha1="b042d4b7391aec53567e08a7f29a9ab57093b0aa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5eec9d0a">
+		<description>MT-Base (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MT-Base (1987)(Micro Technology)(nl).dsk" size="368640" crc="5eec9d0a" sha1="66fb80753508b86ae1102a2b83ad9947ca49bfc1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="07cda7ed">
+		<description>MT-Base (crt2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MT-Base (1987)(Micro Technology)(nl)[cr Speedy-Hacking No].dsk" size="737280" crc="07cda7ed" sha1="260d2dbec2c8a930da52b0fecb909005e437dc79" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c72ee12e">
+		<description>MT-Debug (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MT-Debug (1985)(Micro Technology).dsk" size="737280" crc="c72ee12e" sha1="d9a09972c618ae8fb9cbe04863e062974b9a07d4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="55a08e0d">
+		<description>Music Editor MUE (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="MUE - Music Editor (1984)(Hal).dsk" size="737280" crc="55a08e0d" sha1="c4e0ef932f2c4acf95815302482fe815c60fa6ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="934268b9">
+		<description>Munchy (en, manually created with DiskMgr1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Munchy (1989)(Tyfoon-Software)(en).dsk" size="368640" crc="934268b9" sha1="76166b2be7538d9960377aa6fd86fafbec65af2b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fab6d369">
+		<description>Munchy (nl, manually created with DiskMgr1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Munchy (1989)(Tyfoon-Software)(nl).dsk" size="368640" crc="fab6d369" sha1="213ceab87d83310f8017e786a0cd8940a2aa50e7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1e8156f9">
+		<description>Munchy (nl, manually created with DiskMgr1 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Munchy (1989)(Tyfoon-Software)(nl)[a].dsk" size="368640" crc="1e8156f9" sha1="457360fc2849fb74368faae04de610855071e740" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="138000c8">
+		<description>Mundial de Futbol (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mundial de Futbol (1990)(Opera Soft)(es).dsk" size="737280" crc="138000c8" sha1="5c692f842cf18a2c2da6b14a8645e492e2a6d1b9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="be18afcf">
+		<description>El Mundo de los Gases (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mundo de los Gases, El (1985)(Ediciones SM)(es).dsk" size="737280" crc="be18afcf" sha1="1d3cb8d7ed0668d67a685bf2fa384647d9f70e61" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2a19715b">
+		<description>O Mundo Perdido da 3a Dimensao (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mundo Perdido da 3a Dimensao, O (1988)(Guilherme da Silva)(pt).dsk" size="737280" crc="2a19715b" sha1="e2cbd679dc0e95290e2fc30354fea6c490fd562c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="40a1348b">
+		<description>El Mundo Perdido (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mundo Perdido, El (1988)(Topo Soft)(es).dsk" size="737280" crc="40a1348b" sha1="42fd874cc7ea6fc5f5bdcce4f00d70d0006a2f42" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a6ffdb6c">
+		<description>El Mundo Perdido (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mundo Perdido, El (1988)(Topo Soft)(es)[a].dsk" size="737280" crc="a6ffdb6c" sha1="a1c19f6411e04f7e8bb0b313579f90f5c3a0dc81" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d4bdce22">
+		<description>The Munsters (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="The Munsters (Icon Games) (2013).dsk" size="737280" crc="d4bdce22" sha1="adfc6d7e4d14c036b5f2a91a975156e569bcb9c0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9b4df38d">
+		<description>Music Creator (hacked for MSX2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Music Creator 2nd Version (1987)(Philips).dsk" size="368640" crc="9b4df38d" sha1="7d8eaa3e4d18c85123013a991002a9d36846d96d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="580c748c">
+		<description>Music Maestro (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Music Maestro (1985)(Paul Midcalf - Simon Jones).dsk" size="737280" crc="580c748c" sha1="fdb1e79bbc8eb3d74fe1fd649851566992f54cd9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cba47dfb">
+		<description>Mutant Zone (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mutan Zone (1989)(Opera Soft)(es)(Disk 1 of 2)[cr Dominio][t].dsk" size="737280" crc="cba47dfb" sha1="2ca1965a83b391e1bbbd03a4bbc3ee21504ede95" />
+			</dataarea>
+		</part>
+		<part name="flop2" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mutan Zone (1989)(Opera Soft)(es)(Disk 2 of 2)[cr Dominio][t].dsk" size="737280" crc="f467639b" sha1="306e6c54548cbca74e214a0ed0bf6a41502c6eb0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b436e42b">
+		<description>Mutant Zone (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mutan Zone (1989)(Opera Soft)(es).dsk" size="368640" crc="b436e42b" sha1="ff4d43f0247258bafcf06d6f365a60f3e1bed4c4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ae7413f9">
+		<description>Mutant Zone (cas2dsk conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mutan Zone (1989)(Opera Soft)(es)[a].dsk" size="737280" crc="ae7413f9" sha1="9bc3ec37ecda05fe96d999c87784bfc21baddfb4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21b4704e">
+		<description>Mutant Monty (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mutant Monty (1985)(Artic Computing).dsk" size="737280" crc="21b4704e" sha1="a76161e34f0ea23586903676d80dbabf8f8d69bf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="df934165">
+		<description>Mystery City (manually created dsk, en)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mystery City v1.1.4 (2021)(Rogerio)(en).dsk" size="737280" crc="df934165" sha1="307577b304e65f1569dcbd9a02a93f7b309ecf08" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1b71c793">
+		<description>Mystery City (manually created dsk, es)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mystery City v1.1.4 (2021)(Rogerio)(es).dsk" size="737280" crc="1b71c793" sha1="673dd61bce550536d594e66e0f926525de82c496" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a9cc5832">
+		<description>Mystery City (manually created dsk, pt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mystery City v1.1.4 (2021)(Rogerio)(pt).dsk" size="737280" crc="a9cc5832" sha1="19c11245dc015869407aa9bd47f2e2b7c705d55a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b2d3b1f5">
+		<description>Mythos (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Mythos (1990)(Opera Soft)[cr Damian Roman].dsk" size="737280" crc="b2d3b1f5" sha1="6673f1a9a3d7c3e7eb5bd15009682871f7b69cb3" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="1ae664a4">
-		<description>Nebula Wars (manually created with DiskMgr1)</description>
+		<description>NAM (manually created with DiskMgr1)</description>
  		<year>19??</year>
  		<publisher>&lt;unknown&gt;</publisher>
 		<part name="flop1" interface="floppy_3_5">
