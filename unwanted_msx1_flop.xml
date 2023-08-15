@@ -8,6 +8,30 @@ license:CC0-1.0
 	<!-- to sort, too new, separated tools, etc -->
 
 	<!-- Too new -->
+	<software name="eafe9272">
+		<description>La Reliquia</description>
+ 		<year>2020</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="La Reliquia (2020)(Angel Golaso)(es).dsk" size="737280" crc="eafe9272" sha1="61c516e4a2d98e946fe3f6d4972dbf8533efc679" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- to sort -->
+	<software name="f8d7cfad">
+		<description>Labirinth (Fire Town part is unfinished)</description>
+ 		<year>1987</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Labirinth (Fire Town) (1987)(Oleg Shamshura)(ru).DSK" size="737280" crc="f8d7cfad" sha1="bdb9ab6fe7b8690f2281ac7acc480e73e7e7d927" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Too new -->
 	<software name="ac717d24">
 		<description>Mini Games</description>
  		<year>2020</year>
@@ -401,6 +425,462 @@ license:CC0-1.0
 	</software>
 
 	<!-- hacks, cracks, conversions -->
+
+	<software name="dca69074">
+		<description>Labboss (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Labboss (1987)(Cleversoft)(fr).dsk" size="737280" crc="dca69074" sha1="3b0d614b11d13469fd6597de850a7c2de5257a3f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fdb5b51b">
+		<description>Laberinto (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Laberinto (1985)(Advance)(es).dsk" size="737280" crc="fdb5b51b" sha1="e94e05a6e1cbe823baf061cdb661edde27fb888c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9be16b79">
+		<description>El Ladron de Pasteles (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ladron de Pasteles, El (1985)(Advance)(es).dsk" size="737280" crc="9be16b79" sha1="e461f795bafcb7e403a5a499eb6df3432656680f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="566bcdc5">
+		<description>Lady Safari (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lady Safari (1988)(OMK Software)(es).dsk" size="737280" crc="566bcdc5" sha1="49bd1b8618ed2f78b2ddc4ee8a2e2a09cf695710" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="677b366b">
+		<description>Lady Safari (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lady Safary (1988)(OMK Software)(es).dsk" size="737280" crc="677b366b" sha1="6f2c82b9df01d85bc952546ea1c209f4092e8b8b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d09dfd5e">
+		<description>Lady Safari (cas2dsk conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lady Safary (1988)(OMK Software)(es)[a].dsk" size="737280" crc="d09dfd5e" sha1="ed06a60362c4cc192b3ab9451f5472955616eead" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9a780c46">
+		<description>Lady Safari (cas2dsk conversion 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lady Safary (1988)(OMK Software)(es)[h CEZ].dsk" size="737280" crc="9a780c46" sha1="971919e2a189740b60a0edb2f0e923469e609ac3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bfd51da5">
+		<description>Lancelot (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lancelot - All Parts (1988)(Level 9 Computing).dsk" size="368640" crc="bfd51da5" sha1="8c6a5cfab54a149922e245e961a957392a36c694" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eb9da871">
+		<description>Laptick'2 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Laptick 2 (1985)(dB-Soft).dsk" size="737280" crc="eb9da871" sha1="06c00c821cee29841ab53dfe199dae01e9b0ea71" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ff4a9023">
+		<description>Las Aventuras de Rudolphine Rur (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="RUR1.dsk" size="737280" crc="ff4a9023" sha1="79b17c738f5e04eca68e03e3fbe21032ab8c6680" />
+			</dataarea>
+		</part>
+		<part name="flop2" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="RUR2.dsk" size="737280" crc="8e9269f0" sha1="c4ad343a7cc6f42cfa5fd858590b17b4a47bd921" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3c011e87">
+		<description>Laser Squad (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Laser Squad (1988)(Blade Software)[tr it Hydra Soft].dsk" size="737280" crc="3c011e87" sha1="17b62ce5bc5849ff68756ba34c3c0c1878a0af64" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cfa3d9f2">
+		<description>Laser Warriors (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Laser Warriors (19xx)(-).dsk" size="737280" crc="cfa3d9f2" sha1="a7459609807f18aafdbcfbeebd7e543a7177189a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="715d13e9">
+		<description>The Last Mission (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Last Mission, The (1987)(Opera Soft)(es).dsk" size="737280" crc="715d13e9" sha1="9384a5b9f79cb9c3437990594e538fd0f41cdd60" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5c433913">
+		<description>The Last Mission (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Last Mission, The (1987)(Opera Soft)(es)[a].dsk" size="737280" crc="5c433913" sha1="f8a6f331abb61d28b8f299827832e24d9ec32269" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2479af90">
+		<description>Last War (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Last War (1989)(Nagi-P Soft)(ja).dsk" size="737280" crc="2479af90" sha1="f3424792c6d451171a0b357f2cc5ccb28eebb8d6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="92592635">
+		<description>Lazer Bykes (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lazer Bykes (1985)(PSS).dsk" size="737280" crc="92592635" sha1="1393a054995cd750c9c695c8c11eeb82d0239ba3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c6d1ce9c">
+		<description>Lazer Bykes (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lazer Bykes (1985)(PSS)[a].dsk" size="737280" crc="c6d1ce9c" sha1="e2a6696ec334a0b0d14a6e651bff1806ebdf42f2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="43cf5ee9">
+		<description>Lazy Jones (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lazy Jones (1985)(Terminal Software).dsk" size="737280" crc="43cf5ee9" sha1="9e579752d716ba54cdda0f3bf4174c75fda38319" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1ead7cc4">
+		<description>Le Mans (dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Le Mans (1984)(Electric Software).dsk" size="737280" crc="1ead7cc4" sha1="479d23f851aa191061b5e1deabef4f8e71bc6fcd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="92e9e0de">
+		<description>Lector de Cabeceras (manually created with NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lector de Cabeceras (19xx)(-)(es).dsk" size="737280" crc="92e9e0de" sha1="5a9d73d4e4cd7a5ea9a8bf83e2006b3495c78b01" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1b8d87be">
+		<description>Legend (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Legend (1988)(Iber Soft)(es).dsk" size="737280" crc="1b8d87be" sha1="cd2f27b200d541041a015f3e1378a61975b20354" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="778f022f">
+		<description>Legend (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Legend (1988)(Iber Soft)(es)[h CEZ].dsk" size="737280" crc="778f022f" sha1="2e203197ad7addf4e2c82e62ad144fa3a8eca553" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4a453b00">
+		<description>Legend of Ladra (alt 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Legend of Ladra. Radola Fantasia (1988)(MSX Magazine)(ja)[a3].dsk" size="737280" crc="4a453b00" sha1="fb4800bb9e3af55c53a5885f91e07afd9e0e12f5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5d9daca2">
+		<description>Legends (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Legends (19xx)(-)(es).dsk" size="737280" crc="5d9daca2" sha1="d3db4e2f1dd2d09579fdc3c1624b445621b86501" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="48768c38">
+		<description>Legion (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Legion (1988)(-).dsk" size="737280" crc="48768c38" sha1="202884cb814e34969a37f9d949b0dfec4d2f2b38" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8b9ca9fe">
+		<description>Like (does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Like (1992)(Crunchworks)(pt).dsk" size="368640" crc="8b9ca9fe" sha1="ed1fa504a82808cd705bcf46f435be3411900c39" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c4d79e8e">
+		<description>Like Educativos (does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Like Educativos (1992)(Crunchworks)(pt).dsk" size="737280" crc="c4d79e8e" sha1="aec923182057458b2238a035e4caf2df4dbd0d4a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="550fd490">
+		<description>Like Jogos (does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Like Jogos (1992)(Crunchworks)(pt).dsk" size="737280" crc="550fd490" sha1="eb56f21c389cefb6391e08c0035446e0696f48d9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9cd610c1">
+		<description>Lire Vite (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lire Vite. Leer Mas Rapido (1985)(Anaya Multimedia)(M6).dsk" size="737280" crc="9cd610c1" sha1="6bfdd5fc0e5546248c0e4c7249d147e67f14a2c8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="53e07ec3">
+		<description>Lives Ball (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lives Ball (1986)(Micro-MSX)(fr).dsk" size="737280" crc="53e07ec3" sha1="8451b0e33822d9f7f335d5e74751af7eda05313e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7b55229b">
+		<description>Livingstone Supongo (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Livingstone Supongo (1986)(Opera Soft)(es)[b].dsk" size="737280" crc="7b55229b" sha1="2a08c9f5d55b423a25a2e1e3171eb699b7443b1a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8543b906">
+		<description>Livingstone Supongo II (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Livingstone Supongo II (1989)(Opera Soft)[cr Damian Roman].dsk" size="737280" crc="8543b906" sha1="a3bf06f2eba78eeb9ed09adead1a584e19244daf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9cefea93">
+		<description>Livingstone Supongo II (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Livingstone Supongo II (1989)(Opera Soft)[cr Damian Roman][a].dsk" size="737280" crc="9cefea93" sha1="b7468e4597b24575875cac4d41c426c1a7de1f78" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f80ae640">
+		<description>Locke Superman - Asteroid Kahn (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Locke the Superman - Asteroid Kahn (1984)(Pony Canyon).dsk" size="737280" crc="f80ae640" sha1="e4fca93eff4e50ecfbb3895938a80a8ee309235b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8f3d5cd7">
+		<description>Lode Runner II (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lode Runner II (1985)(Sony).dsk" size="737280" crc="8f3d5cd7" sha1="e0eb10be6ccd3907f5195daa2fb3b9a753724fa9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="032ad30b">
+		<description>Logic (hacked file-hunter)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Logic (1989)(Tandem)(ru).disk.dsk" size="737280" crc="032ad30b" sha1="55bb4a2919f8c75d8e4899fb77b71d3cd3f2b1df" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2ef184e5">
+		<description>Loppan (does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Loppan (2000)(Johannesson).dsk" size="737280" crc="2ef184e5" sha1="2af6cc0f7c7e561392767cfde9d6590eb09f850c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5d9e60e8">
+		<description>Lorna (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lorna (1990)(Topo Soft)(es)[cr Damian Roman].dsk" size="737280" crc="5d9e60e8" sha1="6e91e00860395ec6ecf896455d6eb07c5c6762ed" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="692c9c61">
+		<description>Lorna (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lorna (1990)(Topo Soft)(es)[cr Damian Roman][a].dsk" size="737280" crc="692c9c61" sha1="ff7800b14d2aa9d8f6ce12334a10e5333879eca2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cf63ebef">
+		<description>Loteria Primitiva (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Loteria Primitiva (1985)(Loto Lar)(es).dsk" size="737280" crc="cf63ebef" sha1="cca27963489d9ea75f4b201654e0d6db61152b8b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6e14da29">
+		<description>Lunar Ball (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Lunar Ball (1985)(Pony Canyon).dsk" size="737280" crc="6e14da29" sha1="45d6357b57ad85dcb8d37985942f14bdf2b3cdf1" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="c4e20051">
 		<description>M-47 (cas2dsk conversion)</description>
