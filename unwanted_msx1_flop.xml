@@ -426,6 +426,864 @@ license:CC0-1.0
 
 	<!-- hacks, cracks, conversions -->
 
+	<software name="b4b6014d">
+		<description>Kage no Densetsu (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Kage no Densetsu. Legend of Kage (1986)(Taito).dsk" size="737280" crc="b4b6014d" sha1="26300125a19d49dbd6af5668d57c70fa62a679a3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e7e4188e">
+		<description>Karuizawa Kidnapping Guide (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Karuizawa Kidnapping Guidance, The (1986)(Enix)(ja)[needs 256k].dsk" size="737280" crc="e7e4188e" sha1="458851b1e27666d57e5936fdc7d610465ee6f109" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eb2071b9">
+		<description>Karuizawa Kidnapping Guide (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Karuizawa Kidnapping Guidance, The (1986)(Enix)(ja)[a][needs 256k].dsk" size="737280" crc="eb2071b9" sha1="ed4b81728d93bdeb0ccfb4e308063d50c858d942" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="60c36eb6">
+		<description>Kate II (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Kate II (19xx)(DEPJ Soft)(nl).dsk" size="737280" crc="60c36eb6" sha1="b1f3927f876ad1450284eadb44f9a4cfd77f6f07" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d68fd6c5">
+		<description>Katmosis (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Katmosis Faraon (1985)(ABC Soft)(es).dsk" size="737280" crc="d68fd6c5" sha1="5452d7dc391368dfc2edca9771639c21870f1157" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3918007a">
+		<description>Ke Rulen los Petas (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ke Rulen los Petas (1989)(Iber Soft)(es).dsk" size="737280" crc="3918007a" sha1="8a6e8df303a1662d4c89e9a7f978f672e56bdf2a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9dc6d5cf">
+		<description>The Stone of Wisdom (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Kenja no Ishi. The Stone of Wisdom (1986)(Casio).dsk" size="737280" crc="9dc6d5cf" sha1="a130c79a320b9cc57fd125f47586a3778dfc4189" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6a7df719">
+		<description>The Stone of Wisdom (crt2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Kenja no Ishi. The Stone of Wisdom (1986)(Casio)[a].dsk" size="368640" crc="6a7df719" sha1="96f9accc7b509c364a26eb0064937f2accd3a3d7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bbb959eb">
+		<description>Killer Station (extracted from compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Killer Station (1983) (Hudson Soft).dsk" size="737280" crc="bbb959eb" sha1="61970d6f23a663791d34a8ecad2ca1b7448d712e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cde03f47">
+		<description>Kimpo (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Kimpo (1984)(-).dsk" size="737280" crc="cde03f47" sha1="7666529b380af6d4e68dfa91271ec2c0cd80c817" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5ee08db2">
+		<description>Kinasai (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Kinasai (1984)(-).dsk" size="737280" crc="5ee08db2" sha1="92ae4cbdac9cc15e0dbde3aa7637c70458c27d70" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d59e099f">
+		<description>King &amp; Balloon (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="King &amp; Balloon (1984)(Namcot).dsk" size="737280" crc="d59e099f" sha1="d361f9f98c0182279c4d7dfabfd5d00223fc23c8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a607d7b0">
+		<description>King Leonard (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="King Leonard (1986)(Mind Games Espana)(es).dsk" size="737280" crc="a607d7b0" sha1="09d3a0238e835614d9b59a5fb7172b96f956bce5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7669f660">
+		<description>King Leonard (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="King Leonard (1986)(Mind Games Espana)(es)[t].dsk" size="737280" crc="7669f660" sha1="a97e33acb9fc186786eec129015c714ee6cd1863" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="83addd48">
+		<description>King's Knight (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="King's Knight (1986)(Square)[needs 256k].dsk" size="737280" crc="83addd48" sha1="31f012fb896957ff6d6ce6d254c7e67ee06de97f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5440a600">
+		<description>King's Knight (crt2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="King's Knight (1986)(Square)[a][needs 256k].dsk" size="737280" crc="5440a600" sha1="d9458f74961f4a6b749a4a083318b7b728c8b7aa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2bd7d6b3">
+		<description>King's Valley (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="King's Valley (1985)(Konami).dsk" size="737280" crc="2bd7d6b3" sha1="68b867d558d495492ac3b9db02ac0a82aaadf1a3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="16b4d610">
+		<description>King's Valley II (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="King's Valley II - The Seal of El Giza (1988)(Konami)[cr Sigma][SCC].dsk" size="737280" crc="16b4d610" sha1="05aef43e408bff9fb1c1c74182397ab2b4519f8b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c4ed41be">
+		<description>King's Valley Plus (extraced from game collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="King's Valley Plus (1985)(Konami)[Fixed].DSK" size="327680" crc="c4ed41be" sha1="9aff5d9edb61e7e695f01c4860fc1781422c1c62" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1293f90b">
+		<description>King's Valley Plus (extraced from game collection 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="King's Valley Plus (1985)(Konami)[FRS Patched).dsk" size="737280" crc="1293f90b" sha1="fa712b998c1099be2a60bbce6b44b04c4e1324d6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="52d65926">
+		<description>King's Valley Plus (extraced from game collection 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="King's Valley Plus (1985)(Konami)[GDX Fixed].dsk" size="368640" crc="52d65926" sha1="33024080129063350b3bd9dc51a1ad7a78aea465" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7a29d664">
+		<description>Kinnikuman (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Kinnikuman. Muscle Man (1985)(Bandai).dsk" size="737280" crc="7a29d664" sha1="0f88e04b4d777a255ddf45d1ce439a40111489ae" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dfe44ed4">
+		<description>Klaverjassen (manually created with DiskMgr1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Klaverjassen (19xx)(C.A. Reedijk).dsk" size="737280" crc="dfe44ed4" sha1="b37763f9f451b34f10a32a1a991aa49fd747f37e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="260b35f8">
+		<description>Klaverjassen (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Klaverjassen (19xx)(Kees)(nl).dsk" size="737280" crc="260b35f8" sha1="e75ea0f314d1772786b6d97e7c700a22186304fc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="345cc9d1">
+		<description>Klax (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Klax (1990)(Domark).dsk" size="737280" crc="345cc9d1" sha1="78ec5762c75bf582c7055f79209ecaf95b4f25bf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a4f670bc">
+		<description>Kleiduif (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Kleiduif (19xx)(-)(nl).dsk" size="737280" crc="a4f670bc" sha1="737dab9547b1e4be54e1d86dcb5a7308829af79a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="776736a4">
+		<description>Knight Ghost (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Knight Ghost (1987)(Dro Soft)(es).dsk" size="737280" crc="776736a4" sha1="e27fffa3732f4de68ab0135ecd6d6b310e569983" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a0895dd8">
+		<description>Knight Lore (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Knight Lore (1985)(Ultimate Play The Game).dsk" size="737280" crc="a0895dd8" sha1="0ee5f57b0b8385561c0752b8248036532ab5c83f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="20d7142b">
+		<description>Knight Orc (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Knight Orc - All Parts (1987)(Level 9 Computing).dsk" size="368640" crc="20d7142b" sha1="28e06f874ecd56c50593ecde2f351edb2076bc52" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2af051a4">
+		<description>Knight Tyme (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Knight Tyme (1986)(Mastertronic Added Dimension).dsk" size="737280" crc="2af051a4" sha1="5dbd1399f64d87ed39a9b890fb8eff9748f47362" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9fac0941">
+		<description>Knightmare II (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Knightmare II - The Maze of Galious (1987)(Konami).dsk" size="737280" crc="9fac0941" sha1="b657839cd2bdebfa70029bda3e170d774fd21ebb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ad065a09">
+		<description>Knightmare (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Knightmare. Majyo Densetsu (1986)(Konami).dsk" size="737280" crc="ad065a09" sha1="c906439d545fdbc800bf650298d0b5c98614f44e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0171a805">
+		<description>Konami Game Collection (manually created collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami - The Complete Game Collection (19xx)(-) MSX1.dsk" size="737280" crc="0171a805" sha1="c7a1c0935ed52cc114b2f0459f280238b37201fa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5028af93">
+		<description>Konami Game Collection (manually created collection 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami - The Complete Game Collection (19xx)(-).dsk" size="737280" crc="5028af93" sha1="4936b20615ecf8ddecd8686c60d0882d0151b7a0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="73ec2780">
+		<description>Konami Game Collection 1-1 (keeps rebooting)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 1 (1988)(Konami)(Disk 1 of 2)[SCC+][MSX2ready].dsk" size="737280" crc="73ec2780" sha1="b6fe81edcf3bf657f7bb21e999695f7abdeea972" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="46885b2f">
+		<description>Konami Game Collection 1-1 (keeps rebooting 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 1 (1988)(Konami)(Disk 1 of 2)[a][SCC+][MSX2ready].dsk" size="737280" crc="46885b2f" sha1="6cae846462627c5d191cdadc23e2f0afbf3ef34d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3653e627">
+		<description>Konami Game Collection 1-1 (hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 1 (1988)(Konami)(Disk 1 of 2)[a][SCC][MSX2ready].dsk" size="737280" crc="3653e627" sha1="88234bdb2a12a056744ccf2e573c3f167ca29be4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0a9062cc">
+		<description>Konami Game Collection 1-1 (hacked SCC 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 1 (1988)(Konami)(Disk 1 of 2)[b][SCC].dsk" size="737280" crc="0a9062cc" sha1="9bdcab6db730081e9243ae322d1e663ec05332ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="113fe20c">
+		<description>Konami Game Collection 1-1 (hacked SCC 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 1 (1988)(Konami)(Disk 1 of 2)[SCC].dsk" size="737280" crc="113fe20c" sha1="e4f74b4d895feaa0d4042fdc10415b5ff405c022" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a0f4c17c">
+		<description>Konami Game Collection 1-2 (hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 1 (1988)(Konami)(Disk 2 of 2)[SCC].dsk" size="737280" crc="a0f4c17c" sha1="906f91a8e86dfaf2d2321c27b5b5565b4a67c090" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9269ce5e">
+		<description>Konami Game Collection 2 (keeps rebooting)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 2 (1988)(Konami)(JP)[SCC+][MSX2ready].dsk" size="737280" crc="9269ce5e" sha1="959beb7b1190ba253b70394a2c95fe873d2c360f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="74315c69">
+		<description>Konami Game Collection 2 (keeps rebooting 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 2 (1988)(Konami)(JP)[a][SCC+][MSX2ready].dsk" size="737280" crc="74315c69" sha1="3744ce68ab273f9531e7676863219755eb371b9f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ce17b67e">
+		<description>Konami Game Collection 2 (hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 2 (1988)(Konami)(JP)[a][SCC][MSX2ready].dsk" size="737280" crc="ce17b67e" sha1="34da4c7db94481f2c4bbe28734e5d6dd5a92dd5d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="59e542da">
+		<description>Konami Game Collection 2 (hacked SCC 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 2 (1988)(Konami)(JP)[b][SCC].dsk" size="737280" crc="59e542da" sha1="aae2f21878871667aa8aefe0ce984e475826dc17" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b5a0f2b3">
+		<description>Konami Game Collection 2 (hacked SCC 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 2 (1988)(Konami)(JP)[SCC].dsk" size="737280" crc="b5a0f2b3" sha1="dc3678d2f2ccffe61941d71a959432260d0a455a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8d5ac152">
+		<description>Konami Game Collection 3 (SCC+ does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 3 (1988)(Konami)(JP)[SCC+][MSX2ready].dsk" size="737280" crc="8d5ac152" sha1="82c6c7131339362caea918649ce5b1f0a2cddb43" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2b34b348">
+		<description>Konami Game Collection 3 (hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 3 (1988)(Konami)(JP)[a][SCC][MSX2ready].dsk" size="737280" crc="2b34b348" sha1="84504de877d939c3c41dbb2b40421db6ef99f730" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="13ab6ae0">
+		<description>Konami Game Collection 3 (hacked SCC 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 3 (1988)(Konami)(JP)[b][SCC].dsk" size="737280" crc="13ab6ae0" sha1="ab587750c36e7c844558f95fa555efffd96ef4e5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6575f8da">
+		<description>Konami Game Collection 3 (hacked SCC 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 3 (1988)(Konami)(JP)[SCC].dsk" size="737280" crc="6575f8da" sha1="705ce15cab1e13638c7c293f5b0af6e9c90eb644" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fa7b7c38">
+		<description>Konami Game Collection 3 (hacked SCC 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 3 (1988)(Konami)(JP)[SCC][MSX2ready].dsk" size="737280" crc="fa7b7c38" sha1="31c6e06051ab0bfe628f0f11e458f7e375ee5673" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="94ed3095">
+		<description>Konami Game Collection 4 (SCC+ does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 4 (1988)(Konami)(JP)[SCC+][MSX2ready].dsk" size="737280" crc="94ed3095" sha1="40c2f721276b7c42a4499e1fcda49cb219946df7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="25cb7eac">
+		<description>Konami Game Collection 4 (hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 4 (1988)(Konami)(JP)[a][SCC].dsk" size="737280" crc="25cb7eac" sha1="51c0aef03af8d7aad49b985d8cd570227e8a8851" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="de81f35b">
+		<description>Konami Game Collection 4 (hacked SCC 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 4 (1988)(Konami)(JP)[a][SCC][MSX2ready].dsk" size="737280" crc="de81f35b" sha1="137d6fa0ef1fc131a2dc999a877d4d46a331339d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="59d39cb8">
+		<description>Konami Game Collection 4 (hacked SCC 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 4 (1988)(Konami)(JP)[b][SCC].dsk" size="737280" crc="59d39cb8" sha1="b4f53312294fef1fea18b3343a66e89e20040a0e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a3f9a236">
+		<description>Konami Game Collection 4 (hacked SCC 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection - Volume 4 (1988)(Konami)(JP)[SCC].dsk" size="737280" crc="a3f9a236" sha1="ef4b81a9fcdf26b19cbfe484ebe7ba37cabf8722" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="be0fd4c4">
+		<description>Konami Game Collection Special (does not work on msx2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection Special (1989)(Konami)(JP)[SCC+].dsk" size="737280" crc="be0fd4c4" sha1="d60c706e73492d8fa48428e79fb29238d2e54f21" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b15f292d">
+		<description>Konami Game Collection Special (does not work on msx2 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection Special (1989)(Konami)(JP)[a][SCC+].dsk" size="737280" crc="b15f292d" sha1="18ebfd4c709d85652673dd6a7381f4a55d06f393" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cfa8b79b">
+		<description>Konami Game Collection Special (hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection Special (1989)(Konami)(JP)[a2][SCC].dsk" size="737280" crc="cfa8b79b" sha1="ae0482474955fab8d6443dd4473a8ecf652ba1ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a961f179">
+		<description>Konami Game Collection Special (hacked SCC 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection Special (1989)(Konami)(JP)[a][SCC].dsk" size="737280" crc="a961f179" sha1="e58ed393ad348ad658af8d85588f7444c3c7e86a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6f085eb9">
+		<description>Konami Game Collection Special (hacked SCC 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection Special (1989)(Konami)(JP)[b][SCC][MSX1ready].dsk" size="737280" crc="6f085eb9" sha1="17fd7c7e40c611ca1ecee6f3a50f2953536653ed" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="850c6c65">
+		<description>Konami Game Collection Special (hacked SCC 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami Game Collection Special (1989)(Konami)(JP)[SCC][MSX1ready].dsk" size="737280" crc="850c6c65" sha1="4429f6764bc59127be2f3954b49585058eef5fa0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a5aa0991">
+		<description>Konami's Baseball (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami's Baseball (1984)(Konami).dsk" size="737280" crc="a5aa0991" sha1="52c53de6defc7889f5c8d6bb7e2366addb607b91" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5b77650f">
+		<description>Konami's Billiards (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami's Billiards (1984)(Konami).dsk" size="737280" crc="5b77650f" sha1="2f1954a72b8d3ab4b3e4eb5b363646a94051968c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f6771838">
+		<description>Konami's Game Master (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami's Game Master - European Version (1986)(Konami).dsk" size="737280" crc="f6771838" sha1="f7375683c425d6252fa71da753e237f73c0e1ac6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c221a5d3">
+		<description>Konami's Game Master II (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami's Game Master II (1988)(Konami).dsk" size="737280" crc="c221a5d3" sha1="a5aa0a5f16dd6c55be9345aee83a75d335b741bb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="76dd4fc0">
+		<description>Konami's Golf (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami's Golf (1985)(Konami).dsk" size="737280" crc="76dd4fc0" sha1="9f8790472d19a405e6a2de49737174de75c56ad4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a4e6049f">
+		<description>Konami's Ping Pong (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami's Ping Pong (1985)(Konami).dsk" size="737280" crc="a4e6049f" sha1="b677ae9a1b917e7c002b8d00ede43c5d49cf02c3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1735c4e2">
+		<description>Konami's Pooyan (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami's Pooyan (1985)(Hudson Soft).dsk" size="737280" crc="1735c4e2" sha1="a8a26cde9b4038979c89a9c8667201446ec55a25" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f8f3b78b">
+		<description>Konami's Soccer (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami's Soccer (1985)(Konami).dsk" size="737280" crc="f8f3b78b" sha1="6c82a8cf610d501a456b6697201af25ef8612a89" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="98aed887">
+		<description>Konami's Synthesizer (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami's Synthesizer (1986)(Konami).dsk" size="737280" crc="98aed887" sha1="441a1cda3b142ddf8daa2e04c833d533750951fb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="23ed7935">
+		<description>Konami's Tennis (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Konami's Tennis (1984)(Konami).dsk" size="737280" crc="23ed7935" sha1="0a1d22eb0cd95c7b92ed8159708b8c7bd35b75b3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8d446dfc">
+		<description>Koneko no Daibouken (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Koneko no Daibouken. Kitty's Great Adventure. Catboy (1986)(Casio).dsk" size="737280" crc="8d446dfc" sha1="621f5504568d1a016ecad6d3b7c75e591e7fb294" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="93b7db47">
+		<description>Koroshi Am III Deluxe Pack (converted to 2DD, MSX2 title/hack?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Koroshi Am III Deluxe Pack (19xx)(Monoki)(jp).dsk" size="737280" crc="93b7db47" sha1="c06a99c0280c22b15ba86cd19f0af6fbc5224e50" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b6e28567">
+		<description>Krakout (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Krakout (1987)(Gremlin Graphics Software).dsk" size="737280" crc="b6e28567" sha1="9e731fcac499c141b599f4d65b71f255621b0d77" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e18c7a19">
+		<description>Krypton (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Krypton (1986)(Manhattan Transfer)(es).dsk" size="737280" crc="e18c7a19" sha1="c59be5c3086d01e0b400650cbe83d8b0099b3d38" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a432d986">
+		<description>Kubus (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Kubus (1985)(Kuma Computers).dsk" size="737280" crc="a432d986" sha1="03bed39a3c36079eb73a7114a5532e5ee0230fba" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="48879bcf">
+		<description>Kuma Logo (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Kuma Logo (1984)(Kuma Computers).dsk" size="737280" crc="48879bcf" sha1="85b774b9104772a7856b9df8777c141e3b2a3a21" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9be8e298">
+		<description>Kung-Fu Master (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Kung Fu Master (1984)(Ascii).dsk" size="737280" crc="9be8e298" sha1="bbcbdab72a9e83830dc7fb44c5b947ef86c01a93" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="dca69074">
 		<description>Labboss (cas2dsk conversion)</description>
  		<year>19??</year>
