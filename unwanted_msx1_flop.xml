@@ -426,6 +426,363 @@ license:CC0-1.0
 
 	<!-- hacks, cracks, conversions -->
 
+	<software name="22365722">
+		<description>J.P. Winkle (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="J.P. Winkle (1986)(MSX Magazine).dsk" size="737280" crc="22365722" sha1="f00682d7c6e5c5a215a51c0246a38ccdcb8d1ada" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="43ac3f98">
+		<description>Jabato (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jabato (1989)(Aventuras AD)(es)[a].dsk" size="737280" crc="43ac3f98" sha1="0a95cb65c4d80bae69f4c3e484e9d9cdfce715ac" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9526c8db">
+		<description>Jabato (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jabato (1989)(Aventuras AD)(es)[a2].dsk" size="737280" crc="9526c8db" sha1="1e348b2ae14534a699862a644a390d302e27afc1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="217cd70b">
+		<description>Jack the Nipper (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jack the Nipper (1986)(Gremlin Graphics Software).dsk" size="737280" crc="217cd70b" sha1="b3dc19ad3cb381ef82257581f325fece12ab0665" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7e39cc0d">
+		<description>Jack the Nipper II (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jack the Nipper II - In Coconut Capers (1987)(Gremlin Graphics Software).dsk" size="737280" crc="7e39cc0d" sha1="ca185b6b9987e9687bae6299b19c3ec4852dc08c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="40db69bb">
+		<description>Jake in the Caves (listing from MSX Computer Magazine 13)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jake in the Caves (1986)(SvL Software)(nl).dsk" size="737280" crc="40db69bb" sha1="b88284a4bcd7fdbe6120fbc9e45d91cb07318591" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="be3798d2">
+		<description>Jaws (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jaws (1989)(Screen 7)[t].dsk" size="737280" crc="be3798d2" sha1="570eb8b5ab5903562cd1d63ccc29e7a915866db3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e9bbe448">
+		<description>Jet Set Willy (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jet Set Willy (1985)(Software Projects).dsk" size="737280" crc="e9bbe448" sha1="4964806ddea2c629419ca06b202874ec69c54cb0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fc9393be">
+		<description>Jet Set Willy (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jet Set Willy (1985)(Software Projects)[a].dsk" size="737280" crc="fc9393be" sha1="74acac67e3de2dfe63ac3501ac03dc572f3832f1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f9ca7bce">
+		<description>Jet Set Willy (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="JJet Set Willy (1985)(Software Projects)[u][b].dsk" size="32768" crc="f9ca7bce" sha1="540974c3bea5835bfafc53f54ef84750d6453fb3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="af505b0c">
+		<description>Jet Set Willy 2 (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jet Set Willy II - The Final Frontier (1985)(Software Projects)[t].dsk" size="737280" crc="af505b0c" sha1="80c9d7d113acbda75f92d10bec1b8f3322e62176" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9dd66358">
+		<description>Jewels of Darkness (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jewels of Darkness - All Parts (1986)Level 9 Computing).dsk" size="368640" crc="9dd66358" sha1="46b95256c89b167d89255d69d8a93b1082d87f50" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21ddb80f">
+		<description>Jewels of Darkness 1 (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jewels of Darkness I - Colossal Adventure v2 (1986)(Level 9 Computing).dsk" size="737280" crc="21ddb80f" sha1="2c5d387be7de4da795f54909cfe7de64f3b265fd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4bd5696e">
+		<description>Jewels of Darkness 3 (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jewels of Darkness III - Dungeon Adventure (1984)(Level 9 Computing).dsk" size="737280" crc="4bd5696e" sha1="9acd75939825861ede0b8e19141600569cb9f40f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aa2a66e8">
+		<description>Jissen Four Battle Mahjong (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jissen - 4-nin Mahjong. Four Battle Mahjong (1984)(Sony).dsk" size="737280" crc="aa2a66e8" sha1="7676cc36597f1c1ae9b82071f8e2b207b6491aaa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bf412145">
+		<description>Joe Blade (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Joe Blade (1989)(Players Software).dsk" size="737280" crc="bf412145" sha1="dac97dea95af174b405119a82abd5d878cbf8a40" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fc647958">
+		<description>Johny Comomolo in 3-2-1 Fire (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Johny Comomolo in 3-2-1 Fire (1986)(Dro Soft).dsk" size="737280" crc="fc647958" sha1="3b32575e273a4369f95564b2d937b8d798f8396b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="901555c8">
+		<description>Johny Comomolo in 3-2-1 Fire (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Johny Comomolo in 3-2-1 Fire (1986)(Dro Soft)[h CEZ].dsk" size="737280" crc="901555c8" sha1="99815b6e626d2fa62d2162857af57825f31c4fa4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1ac140e4">
+		<description>Jony y el Trono del Jaguar (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jony y el Trono del Jaguar (1986)(Grupo de Trabajo Software)(es)[cr G.M. &amp; E.C.].dsk" size="737280" crc="1ac140e4" sha1="29d17a116f41ed90649ad72916cbd8e973f6efbf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="473c33b8">
+		<description>Joquei (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Joquei (19xx)(-)(pt).dsk" size="737280" crc="473c33b8" sha1="190458a6864977c01c0601728143e3f3b6614967" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="077b548c">
+		<description>Journey to the Centre of the Earth (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Journey to the Centre of the Earth (1985)(Bug-Byte Software).dsk" size="737280" crc="077b548c" sha1="64ecb7ec427d94d293f2db27ff0897346c9a71ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="89d83207">
+		<description>Journey to the Centre of the Earth (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Journey to the Centre of the Earth (1985)(Bug-Byte Software)(Fony Fixed).dsk" size="368640" crc="89d83207" sha1="2e1b1f2a507f31ac282e53587ef8a139c6cffb39" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="54542314">
+		<description>Juega... Pero Seguro (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Juega... Pero Seguro (1989)(OMK Software)(es)[h CEZ].dsk" size="737280" crc="54542314" sha1="9bb8049cd10f6d0585986262eff1896a942ae774" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="89ace18b">
+		<description>Jumbo (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jumbo (1987)(Wolfgang Well).dsk" size="737280" crc="89ace18b" sha1="247f0f7988cc78b18333f1bc2063a379fa4c5d5e" />
+			</dataarea>
+		</part>
+		<part name="meta" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="._Jumbo (1987)(Wolfgang Well).dsk" size="176" crc="df85fd83" sha1="68b56f2c5a7eb421327261f710240b2d806ad7c4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="480cd221">
+		<description>Jump (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jump (1985)(Ascii).dsk" size="368640" crc="480cd221" sha1="3ea22f11ad55cf7641f838d8dea7e42eec4c6b7b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1ee94a8b">
+		<description>Jump Coaster (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jump Coaster (1984)(Nippon Columbia - Colpax - Universal).dsk" size="737280" crc="1ee94a8b" sha1="0ace294811ab4a4142f5a308b5a167f354d58f7f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="89aced4e">
+		<description>Jumper 2 (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jumper 2 (1985)(Magic Circle).dsk" size="737280" crc="89aced4e" sha1="178b61479d86fc9fc1e3c54c5a5987e9337a401e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="78f7b03b">
+		<description>Jumpin' Jack (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jumping Jack (1986)(LiveWire Software)[cr Special Services].dsk" size="737280" crc="78f7b03b" sha1="27ddba43dd0d6825049f125ff6e73eb38d30564a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="04710419">
+		<description>Jungle Jim (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jungle Jim (19xx)(-).dsk" size="737280" crc="04710419" sha1="128ce2473fd27b21d8ccb036c82c3956f7f183a8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ffe15295">
+		<description>Jungle Warrior (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jungle Warrior (1990)(Zigurat Software)(es).dsk" size="737280" crc="ffe15295" sha1="a0b560a6e8eceac84f412b166e162801166be733" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ef11b1a9">
+		<description>Jungle Warrior (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Jungle Warrior (1990)(Zigurat Software)(es)[a].dsk" size="737280" crc="ef11b1a9" sha1="ce510ace606bb3287ace4560b3533989164f64c5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="67121d87">
+		<description>Juno First (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Juno First (1983)(Sony).dsk" size="737280" crc="67121d87" sha1="7f152c65db6f984cb8324ff9b76434af9fdde2d2" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="b4b6014d">
 		<description>Kage no Densetsu (crt2dsk conversion)</description>
  		<year>19??</year>
