@@ -7,6 +7,18 @@ license:CC0-1.0
 
 	<!-- to sort, too new, separated tools, etc -->
 
+	<!-- Does not start, reboots on msx2. -->
+	<software name="ironstar">
+		<description>IronStar</description>
+		<year>2005</year>
+		<publisher>Larini</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="ironstar - larini.dsk" size="737280" crc="98d5a952" sha1="b7f5fc7ffd30c65aac503bb567d25a46bd245bae" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- Too new -->
 	<software name="eafe9272">
 		<description>La Reliquia</description>
@@ -425,6 +437,380 @@ license:CC0-1.0
 	</software>
 
 	<!-- hacks, cracks, conversions -->
+
+	<software name="8db2999e">
+		<description>Ice (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ice (1986)(Eaglesoft).dsk" size="737280" crc="8db2999e" sha1="dbc9f630b0475d55dcd834320164cc273b2ffc15" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="af034195">
+		<description>The Ice King (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ice King, The (1986)(CDS Microsystems).dsk" size="737280" crc="af034195" sha1="23c9b257b0215656690941e23534e563b459986a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0e57bba6">
+		<description>Ice World (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ice World (1985)(Casio).dsk" size="737280" crc="0e57bba6" sha1="4506def0d2e28b9baebe8aa0a78da99d4b80f090" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5faa6156">
+		<description>Ice-Breaker (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ice-Breaker (1990)(Topo Soft)(es).dsk" size="737280" crc="5faa6156" sha1="b8a935a6d6a76465798a4d46a7215bd4a5e779dd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ae49066b">
+		<description>Ice-Breaker (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ice-Breaker (1990)(Topo Soft)(es)[t].dsk" size="737280" crc="ae49066b" sha1="cbcf32f0d51592faec2f38df488e5604fa5d989c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dfea4432">
+		<description>Icicle Works (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Icicle Works (1984)(Asshole).dsk" size="737280" crc="dfea4432" sha1="8b64ca2e347fde6e010f43c8a082f05520ff3c8d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0907370f">
+		<description>Icicle Works (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Icicle Works (19xx)(-)[b].dsk" size="737280" crc="0907370f" sha1="d5f772f5b57913e8634f0d7068dbab4215e27a3e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="999ce20c">
+		<description>Iconia (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Iconia (1987)(Panacom)(pt).dsk" size="737280" crc="999ce20c" sha1="7237bdebf6805d0e6631972264b8e7bebb2d2784" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6c4921d9">
+		<description>Iconia (manually created with DSKTOOL 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Iconia (1987)(Panacom)(pt)[a].dsk" size="737280" crc="6c4921d9" sha1="2c904bead31a01b177f42368c1e93a2f6081cb27" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="373219b2">
+		<description>Idea Type (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="IdeaType - Instructor Mecanografico (1985)(Idealogic)(es).dsk" size="737280" crc="373219b2" sha1="1d667cebd7375863a67157c0d9cde69f28739700" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6379d185">
+		<description>Iga Ninpouten (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Iga Ninpouten. Small Ninja (1985)(Casio).dsk" size="737280" crc="6379d185" sha1="92cdcd6d859627cb01d834b400d42fe706b96fc1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="770b8c8f">
+		<description>Iga Ninpouten 2 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Iga Ninpouten 2. Small Ninja 2 - The Mooncastle (1986)(Casio).dsk" size="737280" crc="770b8c8f" sha1="80f3819f7b504fa55543f7c993f4d879403ce9ad" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fff6c973">
+		<description>Igloo (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Igloo (1985)(Garbi Soft)(es).dsk" size="737280" crc="fff6c973" sha1="bce22cb8cbe3982ea75be13ef0ebdea4529e2cf9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eeafadeb">
+		<description>Igloo (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Igloo (1985)(Garbi Soft)(es)[h CEZ].dsk" size="737280" crc="eeafadeb" sha1="4104ca101e2bf7506127e8ec7c9bb299b943982c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8d452b95">
+		<description>A Ilha de Tresuro (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ilha do Tesouro, A (1991)(Fernando Tollendal)(pt).dsk" size="737280" crc="8d452b95" sha1="c862aa72d015f02b0c5c44e3d46d15cf8822832c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e2ea126a">
+		<description>Iligks I (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Iligks Episode I - Theseus (1984)(Ascii).dsk" size="737280" crc="e2ea126a" sha1="d427429dc806d7391b38a4495a7c57f6863ff648" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9a29d23a">
+		<description>Iligks IV (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Iligks Episode IV - The Maze of Illegus (1984)(Ascii).dsk" size="737280" crc="9a29d23a" sha1="ac5dad8cf0678e52b620c69a37eacd38cac13341" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="50dbdab1">
+		<description>Illusions (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Illusions - Translation by FONY (1985)(Nice Ideas)(en).dsk" size="368640" crc="50dbdab1" sha1="dd14b41404cf751fd8de8ae10228e80438046138" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d285e2df">
+		<description>Impetus (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Impetus (Inufuto) (2021).dsk" size="368640" crc="d285e2df" sha1="92433562e2368305eaacab4c640f7a2867d905b4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3f7de79a">
+		<description>Indian no Bouken (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Indian no Bouken. Indian's Adventure (1984)(Hudson Soft).dsk" size="737280" crc="3f7de79a" sha1="025a6a5e0658f80ba027d831750f07a9a10ecb52" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fe844a45">
+		<description>Indiana Jones and the Last Crusade (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Indiana Jones and the Last Crusade (1989)(Erbe Software)(es)[cr Damian Roman].dsk" size="737280" crc="fe844a45" sha1="ecc5b641b3dbd6098206a13cff6593a2e82086f6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c18fb76c">
+		<description>Indiana Jones and the Temple of Doom (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Indiana Jones and the Temple of Doom (1987)(US Gold).dsk" size="737280" crc="c18fb76c" sha1="75ffb804a14371ee1d163ddb440fd47dda05bb99" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="32f7c619">
+		<description>Indoor Race (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Indoor Race (1987)(Mind Games Espana)(es)[h CEZ].dsk" size="737280" crc="32f7c619" sha1="96a20781367afd079701a2bc383156a0446b8880" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e4b3b1fc">
+		<description>Indy 555 (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Indy 555 (1986)(Editora Aleph)(pt).dsk" size="737280" crc="e4b3b1fc" sha1="711d29e45f71113761c4e28d544089a3af35a6d4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="11194c0a">
+		<description>Ingrid's Back! (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ingrid's Back - All Parts  (1988)(Level 9 Computing).dsk" size="368640" crc="11194c0a" sha1="6a539b1304b7d49baa6fd1f6fb6eae06ecd84e69" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9d06453a">
+		<description>International Karate (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="International Karate (1986)(Endurance Games).dsk" size="737280" crc="9d06453a" sha1="f5b0b32b5765e23c710c3c9ce431e84a5e97123d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="13e8b81a">
+		<description>International Karate (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="International Karate (1986)(Endurance Games)[a].dsk" size="737280" crc="13e8b81a" sha1="60167714d4ab3599d6d0f1fa3d869bd837655d69" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a6f7df53">
+		<description>Intrepido (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Intrepido (1988)(Enrique I. Graziano)(es).dsk" size="737280" crc="a6f7df53" sha1="550aef7b5acca541a4d974f9f958ac211a4d3efa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="75757190">
+		<description>Invasion (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Invasion (1987)(Bulldog).dsk" size="737280" crc="75757190" sha1="3545219d550b54c1198e3f4f638b128e6928fd07" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cb96bf51">
+		<description>Invierte y Gana (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Invierte y Gana (1986)(DIMensionNEW)(es).dsk" size="737280" crc="cb96bf51" sha1="0ffbb40899078d4ef9a26477e7ed515db614c830" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="34dd1883">
+		<description>Iron Eagle (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Iron Eagle (1986)(GVH)(nl).dsk" size="737280" crc="34dd1883" sha1="6b5e73a10731c5675c08c9afeb13bd2807d45a01" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="88480771">
+		<description>The Iron Gauntz (hacked to display Sega)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Iron Gauntz, The (Sega Version)(1997)(Oops).dsk" size="737280" crc="88480771" sha1="c5f770eba786cc1d9145e45c5ecfeb19cb0198b5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e102f746">
+		<description>World Cup Italia '90 (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Italia '90 - World Cup Soccer (1989)(Dro Soft)(es)[h MSX Files].dsk" size="737280" crc="e102f746" sha1="0136924f5801d67d83cd974742a93c3b5d44df5f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="047fa837">
+		<description>Ito Ipi (invalid file size)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="741376">
+				<rom name="Ito Ipi (2006)(Jose Javier Franco Benitez).dsk" size="741376" crc="047fa837" sha1="d55d178a112281707e6d9e2735900a3bf4c81c9e" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="22365722">
 		<description>J.P. Winkle (crt2dsk conversion)</description>
