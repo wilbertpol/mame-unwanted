@@ -7,6 +7,18 @@ license:CC0-1.0
 
 	<!-- to sort, too new, separated tools, etc -->
 
+	<!-- Too new -->
+	<software name="e05d8547">
+		<description>Hibernated 1 - This Place is Death (Director's Cut)</description>
+ 		<year>2022</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hibernated 1 - This Place is Death (Directors Cut) (2021) (Stefan Vogt &amp; Pond Software).dsk" size="737280" crc="e05d8547" sha1="75bc96462f05d068388dd8ffcd14e6dc8a4d0c03" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- Does not start, reboots on msx2. -->
 	<software name="ironstar">
 		<description>IronStar</description>
@@ -437,6 +449,776 @@ license:CC0-1.0
 	</software>
 
 	<!-- hacks, cracks, conversions -->
+
+	<software name="107b8515">
+		<description>H.E.R.O. (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="H.E.R.O. (1984)(Activision).dsk" size="737280" crc="107b8515" sha1="a9fd19d599df0992c89784922141a3ae73c00a3f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="971dc676">
+		<description>Habilit (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Habilit (1988)(Iber Soft)(es).dsk" size="737280" crc="971dc676" sha1="cfb59aeff07e5568be539c86c44dc931cb935be2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a7a28bfc">
+		<description>Habilit (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Habilit (1988)(Iber Soft)(es)[a].dsk" size="737280" crc="a7a28bfc" sha1="811413add12da80f9fe26f5fa32b96b3b76a46cf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="831af114">
+		<description>Hades (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hades (1985)(Sony)(es)[t].dsk" size="737280" crc="831af114" sha1="57e8767fbfab542ba8fe3bdfdd0eef4b958b0a9f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="131cda47">
+		<description>Hadesu no Monshou (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hadesu no Monshou. The Seal of Hades (1986)(Casio).dsk" size="737280" crc="131cda47" sha1="c0512d918a76ca05b9646493b15a4afd53b14bbf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="668c008b">
+		<description>Haller (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Haller (1987)(Comtrom Software)(es).dsk" size="737280" crc="668c008b" sha1="c3a517105c5704826d22fcd51ba5f6c5af087eb9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b2371024">
+		<description>Hammer Boy (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hammer Boy (1991)(Dinamic Software)[cr Damian Roman].dsk" size="737280" crc="b2371024" sha1="cbb61de9721daaf2abbad9fd989d53dcc8f8f059" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b1dedd75">
+		<description>Hanafuda Koi Koi (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hanafuda Koi Koi - Gostop Godori (1984)(Ascii).dsk" size="737280" crc="b1dedd75" sha1="7d33d90505311883a953159dea0b9ee792df54c7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="810cbb2c">
+		<description>Hanafuda Koi Koi (crt2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hanafuda Koi Koi - Gostop Godori (1984)(Ascii)[a].dsk" size="368640" crc="810cbb2c" sha1="84f44ef46dcbd022b6550da50d9e527ff8067f10" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="89c609fc">
+		<description>Hang-On (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hang-On (1986)(Pony Canyon).dsk" size="737280" crc="89c609fc" sha1="f5c1e0acf47034c5b45da2c7b01d33cd6829e946" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3d5c9385">
+		<description>Showjumper (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Harvey Smith's Showjumper (1985)(Software Projects)[passworded].dsk" size="737280" crc="3d5c9385" sha1="fea000491babae23d63c3ee3ad9a75f8c2ec4e1e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="28ed57ed">
+		<description>Hayabusa (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hayabusa. Moonsweeper (1985)(Toshiba-EMI).dsk" size="737280" crc="28ed57ed" sha1="59c24757dc1aac5512e1ac869111da4652700cdd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8b0f50bb">
+		<description>Head over Heels (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Head over Heels (1987)(Ocean Software).dsk" size="737280" crc="8b0f50bb" sha1="4a837e8e64afcc519f1e945cbfe09648e6dfa1ed" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b6d36814">
+		<description>Head over Heels (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Head over Heels (1987)(Ocean Software)[a].dsk" size="737280" crc="b6d36814" sha1="209985976186f81f83b971e22a2b9e208d5ce0d1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="153cf502">
+		<description>Heat Seeker (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Heat Seeker (1986)(Mind Games Espana).dsk" size="737280" crc="153cf502" sha1="1b4ca51bfa290d85a6bf3be038034efa1dca0b7f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="daf651ca">
+		<description>Heavy Boxing (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Heavy Boxing (1983)(Hal).dsk" size="737280" crc="daf651ca" sha1="daa11f0407c3c20169fde722ec2676481de268a8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bd753138">
+		<description>The Heist (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Heist, The (1985)(Aackosoft).dsk" size="737280" crc="bd753138" sha1="c1e588f946a309479cd83d63dd4a5829568982c4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1d7f0a0b">
+		<description>Heli Tank (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Heli Tank (1984)(Ascii).dsk" size="737280" crc="1d7f0a0b" sha1="2819d42972f95369733b21384302b3a452e7e8fb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0744062e">
+		<description>Heli War (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Heli War (1987)(P.I.S.C.)(pt).dsk" size="737280" crc="0744062e" sha1="ad109b5feb03995cc81d639b12ab4a63c5da42d5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3723166f">
+		<description>Hercules - Slayer of the Damned (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hercules - Slayer of the Damned (1988)(Gremlin Graphics Software)[t].dsk" size="737280" crc="3723166f" sha1="3e10b8613bd09875c31d6e83a2966cbc26438331" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3f6dfc77">
+		<description>Here &amp; There with the Mr. Men (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Here &amp; There with the Mr. Men (1985)(Mirrorsoft).dsk" size="737280" crc="3f6dfc77" sha1="65851ae51712024cfa2b4d554bcb9c50bd9e36e9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9a619255">
+		<description>La Herencia (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Herencia, La (1987)(Infogrames)(es)[a][aka Inheritance, The].dsk" size="737280" crc="9a619255" sha1="246a439f08c06b2096d0c0bb9965d44875d102e0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9e4887fa">
+		<description>La Herencia (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Herencia, La (1987)(Infogrames)(es)[aka Inheritance, The].dsk" size="368640" crc="9e4887fa" sha1="7a22df6bbe99341a16af1b3395e4bc4f695a9459" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6158ff7a">
+		<description>La Herencia (cas2dsk conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Herencia, La (1987)(Infogrames)(es)[cr New Soft][aka Inheritance, The].dsk" size="368640" crc="6158ff7a" sha1="c21a17c0d40f0a685c2d8b72b0ba9c869e28bbb5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8f42054a">
+		<description>Hero-X (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hero-X (1985)(H. Itsui).dsk" size="737280" crc="8f42054a" sha1="46cbc8ffba0483c6daa3fd19e09d142b3765c72c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1ddbc2d5">
+		<description>Hero-X (manually created with DiskMgr1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hero-X (1985)(H. Itsui)[b].dsk" size="737280" crc="1ddbc2d5" sha1="68ffc89e9c995384662eae2608cb551c86ed490c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2c0770d6">
+		<description>Het Damspel MSX Dames (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Het Damspel MSX Dammes (1988)(MSX Gids)(nl).dsk" size="737280" crc="2c0770d6" sha1="d77450314671d1dcd094a7f405f04dfd976232ca" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bdeef1d6">
+		<description>Het Verlaten Kerkhof (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Het Verlaten Kerkhof (1986)(Pevocrack)(nl).dsk" size="737280" crc="bdeef1d6" sha1="b0fe70ceb734d632e5c5eba41d2a3166d06268c9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="680c15e8">
+		<description>Hibernated 1 (single sided conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hibernated 1 - This Place is Death (Directors Cut) (2021) (Stefan Vogt &amp; Pond Software)(SS).dsk" size="737280" crc="680c15e8" sha1="cae174739cd630b2a38882771df6a8733901e6af" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cb9c4d06">
+		<description>High Way Star (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="High Way Star (1984)(Ascii).dsk" size="737280" crc="cb9c4d06" sha1="1f19d183a2d279e8c8352685c73b754d2c6ea1e6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="218272d5">
+		<description>Highway Encounter (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Highway Encounter (1985)(Dinamic Software)(es).dsk" size="737280" crc="218272d5" sha1="9a151e861a370484a1a116676ed0fef14b314496" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="93e9a1dd">
+		<description>Hiper Tronic (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hiper Tronic (1987)(Grupo de Trabajo Software)(es)[h CEZ].dsk" size="737280" crc="93e9a1dd" sha1="48d4aba9de1a684f1ef7973bdf0afb98b8340ee6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="559d5f06">
+		<description>Hitchhiker's Guide to the Galaxy (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hitchika (1984)(Infocom).dsk" size="737280" crc="559d5f06" sha1="094a95668da81ce0af89f88f4a847871c028cab9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8ede57f1">
+		<description>Pretty Sheep (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hitsuji Yai. Pretty Sheep (1984)(Hudson Soft).dsk" size="737280" crc="8ede57f1" sha1="7e056829e0f2c7dc1c542eeb45d796271062c409" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a68259c2">
+		<description>Hole in One (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hole in One (1984)(Hal).dsk" size="737280" crc="a68259c2" sha1="57a9ea3ea1cfb355c711e663bb18497c2fb4a1a1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="60014587">
+		<description>Hole in One Professional (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hole in One Professional (1986)(Hal).dsk" size="737280" crc="60014587" sha1="a5b4427d36ee2757388ae146237dcddfeaff2156" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fe27e3a4">
+		<description>Home Writer (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Home Writer (1985)(Sony).dsk" size="737280" crc="fe27e3a4" sha1="9a9b9c3f689c8a03c7dcbcd1709714b60ac0442f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bac8fc3a">
+		<description>Hopper (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hopper (1986)(Eaglesoft).dsk" size="737280" crc="bac8fc3a" sha1="d0a05bea5d0ee36aff375544aa1219135b97cec4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5df9a963">
+		<description>Horror em Amityville (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Horror em Amityville (19xx)(Matias MSX Software)(pt).dsk" size="737280" crc="5df9a963" sha1="8572d557946a52131f5cbd2fc16a5dda289a9eaf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2ae53234">
+		<description>Horror em Amityville (manually created with DSKTOOL 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Horror em Amityville (19xx)(Matias MSX Software)(pt)[a].dsk" size="737280" crc="2ae53234" sha1="ee637b7781dc7b2fdd10c6fe1d99e5c8b189dea7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ae57b804">
+		<description>Hostages (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hostages (1990)(Infogrames).dsk" size="737280" crc="ae57b804" sha1="d355f382b7e41e0ff0fd9089287b997f310e5462" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="816b4750">
+		<description>Hot Dog (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hot Dog (19xx)(-)(es).dsk" size="737280" crc="816b4750" sha1="2ae6727f308f176eed05165b30d43153ab98fb7d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bb5037d6">
+		<description>Hot Shoe (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hot Shoe (1984)(Longman Software).dsk" size="737280" crc="bb5037d6" sha1="69036e86816a804380cade1e911ec5c01e07bda2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="04541947">
+		<description>Howard the Duck (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Howard the Duck (1987)(Activision).dsk" size="737280" crc="04541947" sha1="efa759dbaf61b9c5bce5741eeaf7924293ceb63b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="206babbe">
+		<description>Hugh (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hugh (1986)(-)(es).dsk" size="737280" crc="206babbe" sha1="387885154d301c5e94c8bd84c6f585035481b338" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="af45cd59">
+		<description>Humphrey (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Humphrey (1984)(Mr. Micro).dsk" size="737280" crc="af45cd59" sha1="cd6507ea8d34bc7a94f544f7cb1603313f7d6e94" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d39042b0">
+		<description>Humphrey (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Humphrey (1988)(Zigurat Software)(es).dsk" size="737280" crc="d39042b0" sha1="d3e9d662b8a6f55e3330dbedf41ac644930c7636" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e28d8844">
+		<description>Humphrey (cas2dsk conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Humphrey (1988)(Zigurat Software)(es)[a].dsk" size="737280" crc="e28d8844" sha1="e48e9dde472712c0e9367e00162cdbaa433262d6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="09eb3934">
+		<description>Hunchback (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hunchback (1984)(Ocean Software).dsk" size="737280" crc="09eb3934" sha1="0f3974e134ae194579d7477cdead63d6a9a67425" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="00bb44ec">
+		<description>Hundra (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hundra (1988)(Dinamic Software)(es).dsk" size="737280" crc="00bb44ec" sha1="045177a7ab6bdb4128d573df3b57eb019b33d31c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2a45e9b2">
+		<description>Hundra (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hundra (1988)(Dinamic Software)(es)[cr LASP][t +3].dsk" size="737280" crc="2a45e9b2" sha1="84b82ecd1bd031246e5615b502a625f8c050c5d8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d9f6b7eb">
+		<description>Hungry Harry (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hungry Harry (19xx)(P&amp;M Mundy).dsk" size="737280" crc="d9f6b7eb" sha1="378a9bfdca889e19c68e67aefbddd41b8370622f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cacaedd7">
+		<description>The Hunt for Red October (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hunt for Red October, The (1988)(Grandslam Entertainments).dsk" size="737280" crc="cacaedd7" sha1="8ac23251dad584ed50644fcbc7cde0c98c2e9370" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9a64f888">
+		<description>The Hunt for Red October (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hunt for Red October, The (1988)(Grandslam Entertainments)[a].dsk" size="737280" crc="9a64f888" sha1="e5741f3244d9726d75b19d7ca4d59d6efeaa0fb9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="345f4f25">
+		<description>Hurricane (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hurricane (1985)(Microland)(nl).dsk" size="737280" crc="345f4f25" sha1="3aef471ad279fbcf7bcd8e95303d9aef36ea9f7c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a1ee3ab9">
+		<description>Hustle (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hustle (19xx)(Maz Soft).dsk" size="737280" crc="a1ee3ab9" sha1="04903170a7914245ad284cf904cbc91746de3421" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ddcd4d9a">
+		<description>Hustle Chumy (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hustle Chumy (1983)(General).dsk" size="737280" crc="ddcd4d9a" sha1="1efca1390f5b275bfcca00e3cf99d29f5901134f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ddbb565e">
+		<description>Hustler (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hustler (1984)(Bubblebus Software).dsk" size="737280" crc="ddbb565e" sha1="a2ab06aa4d0d27f71d128391e0a543bbbb4df919" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="829ee7a1">
+		<description>Hyde (manually created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hyde (1984)(-).dsk" size="737280" crc="829ee7a1" sha1="6e6ef09de0746a3b304194df2e500efb63724f5e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1fa0bdd3">
+		<description>Hydlide (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hydlide (1985)(T&amp;E Soft).dsk" size="737280" crc="1fa0bdd3" sha1="f181a735a54dfc019be486b59010407520721de3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e937cfb7">
+		<description>Hydlide 2 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hydlide II - Shine of Darkness (1986)(T&amp;E Soft).dsk" size="737280" crc="e937cfb7" sha1="f343af238031714343fa11afd8ddeb965c1dff1c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9e83a623">
+		<description>Hydlide 3 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hydlide III - The Space Memories (1987)(T&amp;E Soft).dsk" size="737280" crc="9e83a623" sha1="9db8896fb4fd87f7368483e620ca5b176d75f0f4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ba969f05">
+		<description>Hyper Olympic 1 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hyper Olympic 1 (1984)(Konami).dsk" size="737280" crc="ba969f05" sha1="6287fef728dd56ad2b1f0faf38bac761675c6c78" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="42ec8e02">
+		<description>Hyper Olympic 2 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hyper Olympic 2 (1984)(Konami).dsk" size="737280" crc="42ec8e02" sha1="c0e35f3288bdbd6b26f7745ece117f3aa0a3d401" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="94298559">
+		<description>Hyper Rally (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hyper Rally (1985)(Konami).dsk" size="737280" crc="94298559" sha1="8f2e8df3e1dc95bf25bed3b730e56ee7b56a2cf0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cbaa8560">
+		<description>Hyper Sports 1 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hyper Sports 1 (1984)(Konami).dsk" size="737280" crc="cbaa8560" sha1="3156e3a41ec9683357a47fb7e7c5f5cf94007884" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bec6e51f">
+		<description>Hyper Sports 2 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hyper Sports 2 (1984)(Konami).dsk" size="737280" crc="bec6e51f" sha1="d40acac239dc7179fcdaadfa193522a8a03c5108" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aa28c7d9">
+		<description>Hyper Sports 2 (crt2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hyper Sports 2 (1984)(Konami)[a].dsk" size="737280" crc="aa28c7d9" sha1="4d01061ad9dc73e8dfb28960279c7480178f3f0b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="76e11c2b">
+		<description>Hyper Sports 3 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hyper Sports 3 (1985)(Konami).dsk" size="737280" crc="76e11c2b" sha1="6c70ce57eef0efa396960a805dbfcc0c232a91d1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7b8894c9">
+		<description>Hypsys (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Hypsys (1989)(Techno Arts)[cr Damian Roman].dsk" size="737280" crc="7b8894c9" sha1="bb2a558fea56e971579d44e4d95198f46b755eb1" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="8db2999e">
 		<description>Ice (cas2dsk conversion)</description>
