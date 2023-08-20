@@ -7,6 +7,61 @@ license:CC0-1.0
 
 	<!-- to sort, too new, separated tools, etc -->
 
+	<software name="548c4475">
+		<description>ExecROM v1.0 (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="ExecROM v1.0 (1998)(A&amp;L Software).dsk" size="737280" crc="548c4475" sha1="7f8e77a326262b5d36efdad849f121aa68158ac2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="967219e1">
+		<description>ExecROM v1.0 (separate tool 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="ExecROM v1.0 (1998)(A&amp;L Software)[a].dsk" size="737280" crc="967219e1" sha1="b900d1e4137c0b823fcf7333dfacff74d7425e22" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5bfee003">
+		<description>ExecROM v1.1 (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="ExecROM v1.1 (1998)(A&amp;L Software).dsk" size="737280" crc="5bfee003" sha1="dd90803eb7629e89287ad59dcf5ce07ced2b6c9d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5d1e0280">
+		<description>ExecROM v1.1 (separate tool 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="ExecROM v1.1 (1998)(A&amp;L Software)[a].dsk" size="737280" crc="5d1e0280" sha1="d852720dc590f24ca5276fc6e6e200677d490c67" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f7b65998">
+		<description>Explorador de Cintas (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Explorador de Cintas (1990)(El Halcon Pirata)(es).dsk" size="737280" crc="f7b65998" sha1="f44e07b945f4eedcef90866b4b5a5f8e76b6fd19" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- Too new -->
 	<software name="e05d8547">
 		<description>Hibernated 1 - This Place is Death (Director's Cut)</description>
@@ -450,6 +505,501 @@ license:CC0-1.0
 
 	<!-- hacks, cracks, conversions -->
 
+	<software name="9d2c3379">
+		<description>E.I. Exa Inova (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="E.I. - Exa Innova (1984)(Sony).dsk" size="737280" crc="9d2c3379" sha1="9a19c63376819d5f77be6cd2f2e4e3430ab98a2a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a2a5902b">
+		<description>Eagle (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Eagle (1987)(Dro Soft)(es)[h CEZ].dsk" size="737280" crc="a2a5902b" sha1="a6924f2acd86425b12229558c804b32eaabe8556" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="13315cef">
+		<description>Eagle Control (extracted from The Games Collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Eagle Control (1988)(Eurosoft).dsk" size="737280" crc="13315cef" sha1="33dd5f8861c00c5548db7d4e4f5b2ed843dfa1e4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f37d1a9b">
+		<description>Eagle Control (extracted from The Games Collection 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Eagle Control (1988)(Eurosoft)[cr Crazy Boss].dsk" size="368640" crc="f37d1a9b" sha1="92f3c8aa2939846fce1ae9c8f95421e47d343343" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7167ef54">
+		<description>Eagle Fighter (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Eagle Fighter (1985)(Casio).dsk" size="737280" crc="7167ef54" sha1="0335a502ad8b5c77b90b3ee6a6cfc7b402b69eef" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="66bb5034">
+		<description>Eat Blue (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Eat Blue! (1995)(Paxanga Soft).dsk" size="368640" crc="66bb5034" sha1="1b5c7828a3854edacf92895c77409836b4cb88d0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f336b2f9">
+		<description>Eddie Kidd Jump Challenge (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Eddie Kidd Jump Challenge (1985)(Martech Games).dsk" size="737280" crc="f336b2f9" sha1="5fb9eee28b251941a55d683eaec3957b2a04d522" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d22a994c">
+		<description>Eddie Kidd Jump Challenge (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Eddie Kidd Jump Challenge (1985)(Martech Games)[a].dsk" size="737280" crc="d22a994c" sha1="a6baa38a866152739a8d4e8741b219b1df6901e9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bddb0eb8">
+		<description>Editor de Adventures (keeps rebooting)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Editor de Adventures v3.4 (1986)(ProKit)(pt).dsk" size="737280" crc="bddb0eb8" sha1="a2f97d96a790feda869f14408d001eb72b1e80dd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f26ea65a">
+		<description>Eggerland Mystery (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Eggerland Mystery (1985)(Hal).dsk" size="737280" crc="f26ea65a" sha1="28004d40ae049ee4d2bae549bab804c5133bf442" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7ce7a59f">
+		<description>Eggerland Mystery (crt2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Eggerland Mystery (1985)(Hal)[u][b].dsk" size="70604" crc="7ce7a59f" sha1="8c4f2de01138f137d7c395bca7e045ff06b61795" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="af84111f">
+		<description>Eggerland Mystery 2 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Eggerland Mystery 2. Meikyushinwa (1986)(Hal).dsk" size="737280" crc="af84111f" sha1="0d109751a40c3e1a27057321e7034b6e6c96a3fd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="581d0c15">
+		<description>Egor Rogov MSX Software Collection (personal compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Egor Rogov MSX Software Collection.dsk" size="737280" crc="581d0c15" sha1="fdfabc77a2ac8567a6fe2b8f203f12aa4467a22b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="30a0b2bf">
+		<description>Eletron (invalid file size)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="741376">
+				<rom name="Eletron (2006)(Jose Javier Franco Benitez).dsk" size="741376" crc="30a0b2bf" sha1="e6752b4228551bb493874129adbb4fcfa487746f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5d08f8c5">
+		<description>Elevator Action (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Elevator Action (1985)(Nidecom).dsk" size="737280" crc="5d08f8c5" sha1="34b694c9f1f25e0de659eea32828ffcb04a75846" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5e559499">
+		<description>Elite (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Elite (1987)(Firebird Software)[b].dsk" size="737280" crc="5e559499" sha1="371fb871206eb057e81ac10a0e95ef5293f9701b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2ae3a066">
+		<description>Elite Cheat Creator (separate tool?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Elite Cheat Creator MSX Disk Version + Save Game.dsk" size="737280" crc="2ae3a066" sha1="94b4fdd13f6b8f04a752f4fa129d16e83ad9f105" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="42797d6c">
+		<description>Emerald Isle (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Emerald Isle (1985)(Level 9 Computing)[a].dsk" size="737280" crc="42797d6c" sha1="e0d7744ec1707a654f27d3d0928d9be4dd164b51" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ada6b68d">
+		<description>Emilio Butragueno Futbol (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Emilio Butragueno Futbol (1988)(Topo Soft - Ocean Software)(es).dsk" size="737280" crc="ada6b68d" sha1="efff20239a9e8451eb1fad5b515e5faed7b4b3ed" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a66dd468">
+		<description>Emilio Butragueno Futbol (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Emilio Butragueno Futbol (1988)(Topo Soft - Ocean Software)(es)[cr Fun Soft].dsk" size="737280" crc="a66dd468" sha1="f216a80508d839ff42b21f8e35574cd2e5afa447" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8dec65e5">
+		<description>Emilio Butragueno Futbol II (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Emilio Butragueno Futbol II - Campeonato (1989)(Erbe Software - Ocean Software)(es).dsk" size="737280" crc="8dec65e5" sha1="767d2fecfc69b1898ded753d1acada66544ed4ae" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9f0e3b42">
+		<description>Emilio Sanchez Vicario Grand Slam (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Emilio Sanchez Vicario Grand Slam (1989)(Zigurat Software)(es).dsk" size="737280" crc="9f0e3b42" sha1="5c8f5bf2fb8b89841b2fffa04ee958921d96291d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f4062847">
+		<description>Emilio Sanchez Vicario Grand Slam (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Emilio Sanchez Vicario Grand Slam (1989)(Zigurat Software)(es)[cr Damian Roman].dsk" size="737280" crc="f4062847" sha1="7eb7194dfea901dd5bd04f19cf3a055309a1252f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="70028ac6">
+		<description>EMU - Editor de Musicas (keeps rebooting)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="EMU - Editor de Musicas (19xx)(XSW Software)(pt).dsk" size="737280" crc="70028ac6" sha1="b6868dd968e01482f4806cd4c933891b5968d4d8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="db1e5b81">
+		<description>En la Edad Media (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="En la Edad Media (1985)(Load 'n' Run)(es).dsk" size="737280" crc="db1e5b81" sha1="ca112ca02fef2ff979c9b800229e4accadb7f7fe" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1c863373">
+		<description>En Ruta (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="En Ruta (1985)(Microgesa)(es).dsk" size="737280" crc="1c863373" sha1="85aa12b1a54f264e4ab8dbdba0a83b585fca9485" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5c3e4392">
+		<description>Enchanted (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Enchanted (1989)(Positive)(es).dsk" size="737280" crc="5c3e4392" sha1="f7c21b87f6662bc907acc6cf4d58c5393fbe9fa6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aad927ed">
+		<description>Enchanted (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Enchanted (1989)(Positive)(es)[h CEZ].dsk" size="737280" crc="aad927ed" sha1="d02c4c339de0f7d547448c0ff8e2f3c6cd04d66d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fa20e2e7">
+		<description>Enemy (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Enemy (1986)(German Soft).dsk" size="737280" crc="fa20e2e7" sha1="27d67d3c91a09afb377ed0acac0dfed8e1cf0182" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e05c50c0">
+		<description>Enigma (does not start)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Enigma (1987)(Odin Software).dsk" size="368640" crc="e05c50c0" sha1="47c3ac1842e84aac2513f31987d3f2f1a674fb62" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0d89045c">
+		<description>Erik the Viking (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Erik the Viking (1984)(Level 9 Computing).dsk" size="368640" crc="0d89045c" sha1="e4e3b0e3c4f13eae8caaa18a914df4f7e2d64c23" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="79d47e3a">
+		<description>Erik the Viking (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Erik the Viking Text Only (1984)(Level 9 Computing).dsk" size="368640" crc="79d47e3a" sha1="c41f20af4f2697da534ef5b3bf145f08a135bc8b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7287cfb7">
+		<description>Escalador (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Escalador (1985)(EMSA)(es).dsk" size="737280" crc="7287cfb7" sha1="011a1828bb00b53f7883fb520e7e95ed96507a55" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0b2d4eaf">
+		<description>Estrada de Ferro (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Estrada de Ferro (1986)(Editora Aleph)(pt).dsk" size="737280" crc="0b2d4eaf" sha1="f10ababf07dc8c68e6978b8e21223b6b2e837b57" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="64e2c5f0">
+		<description>Esvay (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Esvay (1984)(CD Systems)(nl).dsk" size="737280" crc="64e2c5f0" sha1="92c6513dbd7801bc020b219d2e43ed0860a4bca3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="55b76f05">
+		<description>European Games (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="European Games (1987)(Tynesoft).dsk" size="737280" crc="55b76f05" sha1="3c07c7189440465af9b135cf2e8e3adfdcf4ac85" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ea95071b">
+		<description>European Highway Racing (keeps rebooting)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="European Higway Racing (1995)(Second Foundation).dsk" size="737280" crc="ea95071b" sha1="904299ad7a0254a48697e6799645bbe0c98f77aa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b6d031a7">
+		<description>Ewoks and the Dandelion Warriors (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ewoks and the Dandelion Warriors (1987)(Walther Miller).dsk" size="737280" crc="b6d031a7" sha1="7bf9da7ee9f85cb5b57232ed82f2e7ed9b9bf360" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="55e088dd">
+		<description>Excalibur (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Excalibur (19xx)(-)(pt).dsk" size="737280" crc="55e088dd" sha1="2bd807cb9b4eeab7ca58dee5559afb89d098d969" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9845a716">
+		<description>Exchanger (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Exchanger (1983)(Ascii).dsk" size="737280" crc="9845a716" sha1="eae19adbfdf30f7f6197605a5eeb6e93430ba718" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2284ea42">
+		<description>Exerion (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Exerion (1984)(Jaleco).dsk" size="737280" crc="2284ea42" sha1="545b09754c0b64075febcda76e86808238726d2a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f5ffddb8">
+		<description>Exerion II Zorni (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Exerion II - Zorni (1984)(Jaleco).dsk" size="737280" crc="f5ffddb8" sha1="6255326a92e0ad77c9c73b235b8800c555913b6c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ad42e670">
+		<description>Exodus (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Exodus (1986)(Volker Becker)(nl).dsk" size="737280" crc="ad42e670" sha1="087b66dd4923dfb61d13cb33b2f693ffbce6febf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fb1b0135">
+		<description>Exoide-Z (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Exoide-Z (1986)(Casio).dsk" size="737280" crc="fb1b0135" sha1="a28271b9450463a9dd5fd4846286e6810ede2657" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="da32799a">
+		<description>Exploding Atoms (extracted from Vicious Viper compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Exploding Atoms (1985)(Sanyo).dsk" size="737280" crc="da32799a" sha1="4ffa47bfa9acf7fba9ef471e9577441ce9ea3ea3" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="11295667">
 		<description>F-1 Spirit (crt2dsk conversion)</description>
  		<year>19??</year>
@@ -488,8 +1038,8 @@ license:CC0-1.0
  		<year>19??</year>
  		<publisher>&lt;unknown&gt;</publisher>
 		<part name="flop1" interface="floppy_3_5">
-			<dataarea name="flop" size="737280">
-				<rom name="Faeton (2006)(Jose Javier Franco Benitez)(es).dsk" size="737280" crc="469fb312" sha1="308f1524dcda5482bcde58c42b8d68ecee094668" />
+			<dataarea name="flop" size="741376">
+				<rom name="Faeton (2006)(Jose Javier Franco Benitez)(es).dsk" size="741376" crc="469fb312" sha1="308f1524dcda5482bcde58c42b8d68ecee094668" />
 			</dataarea>
 		</part>
 	</software>
