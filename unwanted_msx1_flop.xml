@@ -7,6 +7,139 @@ license:CC0-1.0
 
 	<!-- to sort, too new, separated tools, etc -->
 
+	<!-- too new -->
+	<software name="49ecece0">
+		<description>Cocoa and the Time Machine</description>
+ 		<year>2020</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cocoa And The Time Machine - Minilop (2020).dsk" size="737280" crc="49ecece0" sha1="bd995f23bfc873bad7ab8d2302cef5e5b6cd4bdc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4d121dab">
+		<description>Conversor Bin-Com v1.3 (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Conversor Bin-Com v1.3 (19xx)(Nemesis Informatica)(pt).dsk" size="737280" crc="4d121dab" sha1="7541d5d2057fb4177e23eaa8ef643e8a7ca46b5b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0bc79928">
+		<description>Conversor Bin-Com v1.3 (separate tool 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Conversor Bin-Com v1.3 (19xx)(Nemesis Informatica)(pt)[a].dsk" size="737280" crc="0bc79928" sha1="875338ab20c756f4bae850a3d9dd50f6af5ee4d0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="30266ba8">
+		<description>Converter 2.0 (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Converter v2.0 (19xx)(Aackosoft).dsk" size="737280" crc="30266ba8" sha1="dc4fa288225d7214cffa12dcf1c56ec23ae46d54" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a89e15c3">
+		<description>Copion de Cartuchos 16k (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Copion de Cartuchos 16k (19xx)(Pyramid Soft)(es).dsk" size="737280" crc="a89e15c3" sha1="3bd3c74fbed396828c53d2d68d6f1bda47ddfe61" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d2d1a971">
+		<description>Copion de Cartuchos 16k (separate tool 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Copion de Cartuchos 16k (19xx)(Pyramid Soft)(es)[a].dsk" size="737280" crc="d2d1a971" sha1="504b8ae2e7621c2587a2186abe833e180806d4e9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="22f5cf2e">
+		<description>Copion de Cartuchos 32k (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Copion de Cartuchos 32k (19xx)(Pyramid Soft)(es).dsk" size="737280" crc="22f5cf2e" sha1="04396d52f28524d8d2439f34dbd81cc20b5a6ab7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5acc02a9">
+		<description>Copion de Cartuchos 32k (separate tool 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Copion de Cartuchos 32k (19xx)(Pyramid Soft)(es)[a].dsk" size="737280" crc="5acc02a9" sha1="340b17f00f9bc891182babf340bde54b3ab8848b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="85037817">
+		<description>Coppa Proibita (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Coppa Proibita (19xx)(Soft Bee)(pt).dsk" size="737280" crc="85037817" sha1="bbf0d368f3523f093f3be35734603c201458cc59" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="efad6e04">
+		<description>Copy Guay (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Copy Guay (1986)(Eloy Roman)(es).dsk" size="737280" crc="efad6e04" sha1="69da10d812837a80780082e6df9cd46ca9330dcb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3539d28b">
+		<description>Copy MSX 2 (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Copy MSX 2 (19xx)(-)(es).dsk" size="737280" crc="3539d28b" sha1="2fbbf0ba4c2a3b612f8ca3f1b0a12d5438e5f9a0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="80f1577f">
+		<description>Copy-Turbo-Gremline (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Copy-Turbo-Gremline (1990)(El Halcon Pirata)(es).dsk" size="737280" crc="80f1577f" sha1="5a43d7ed2534b1ae7d5223ff986f36c76dbe2eaf" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="548c4475">
 		<description>ExecROM v1.0 (separate tool)</description>
  		<year>19??</year>
@@ -504,6 +637,1678 @@ license:CC0-1.0
 	</software>
 
 	<!-- hacks, cracks, conversions -->
+
+	<software name="5608cce4">
+		<description>C_So! (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="C So! (1985)(Pony Canyon).dsk" size="737280" crc="5608cce4" sha1="480208cca4b8867d6a7466d27a0fa177efed7997" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8fdff3d2">
+		<description>Cabbage Patch Kids (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cabbage Patch Kids (1984)(Konami).dsk" size="737280" crc="8fdff3d2" sha1="691efa58cc8cc10f68746ece5b393dc69f8ca3d6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ba44f3ee">
+		<description>Cacorm (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cacorm (2022)(Inufuto).dsk" size="737280" crc="ba44f3ee" sha1="4b96805c8ea03f7859411dbdf4e1b390600d99b7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="85d4ffe7">
+		<description>Californa Games (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="California Games (1987)(US Gold).dsk" size="737280" crc="85d4ffe7" sha1="6cd232b36222f131a22a1c6c20778e2d9488f14b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="62b3da99">
+		<description>Californa Games (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="California Games (1987)(US Gold)[a].dsk" size="737280" crc="62b3da99" sha1="b46171c47d7d10dbc32a732efaae4c94d5ade2ac" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="30368fc4">
+		<description>Camelot Warriors (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Camelot Warriors (1986)(Dinamic Software)(es).dsk" size="737280" crc="30368fc4" sha1="ad7602d8d60e3561ef0545e0136f37e88d16ef7e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bec9728f">
+		<description>Camelot Warriors (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Camelot Warriors (1986)(Dinamic Software)(es)[h MSX Games bOX].dsk" size="368640" crc="bec9728f" sha1="fc29b163328da7f8c270226aafc1834d2571ca3f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1ba4b9d7">
+		<description>Campo Minado (does not respond to keypresses)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Campo Minado (1991)(Renato de Mello)(pt).dsk" size="737280" crc="1ba4b9d7" sha1="1c48ad6b54e6f2a0b0798084ada536c596ba8747" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c1da76de">
+		<description>Can of Worms (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Can of Worms (1986)(LiveWire Software).dsk" size="368640" crc="c1da76de" sha1="0a14b3f2fdcef25cf19c3b8897f7630c4d6c0548" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="59f9c156">
+		<description>Candoo Ninja (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Candoo Ninja (1983)(Ascii).dsk" size="737280" crc="59f9c156" sha1="acc6fe3ccc8f2a3027520dd901c48dd0506e85c8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9be2382f">
+		<description>Cannon Ball (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cannon Ball (1983)(Hudson Soft).dsk" size="737280" crc="9be2382f" sha1="0c22a1c7373ea9b93cfe415bc33621f1957e8a8b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a6a9c79a">
+		<description>Capitan Sevilla (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Capitan Sevilla (1988)(Dinamic Software)(es).dsk" size="737280" crc="a6a9c79a" sha1="472f1f7c792776e4292e6a73982e9d1d5a67b87a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9d15daa3">
+		<description>Capitan Sevilla (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Capitan Sevilla (1988)(Dinamic Software)(es)[a].dsk" size="737280" crc="9d15daa3" sha1="aa1ada28c267469cc451cadb0cdb97c294a4ea9d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5f78f383">
+		<description>Capitan Trueno (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Capitan Trueno (1989)(Dinamic Software)(es).dsk" size="368640" crc="5f78f383" sha1="f48545629ee40b65afbc9f9dfcddebf5a2444e61" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6ced96a5">
+		<description>Capitan Trueno (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Capitan Trueno (1989)(Dinamic Software)(es)[a].dsk" size="737280" crc="6ced96a5" sha1="1fc53b80dc2d1c240bba4760ccaa86cda9806cf7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="706d8175">
+		<description>Capitan Trueno (cas2dsk conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Capitan Trueno (1989)(Dinamic Software)(es)[t].dsk" size="737280" crc="706d8175" sha1="b15578af88cba80952d3945f4ec8797f3415a7ee" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="33e9c955">
+		<description>Caple (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Caple (19xx)(-).dsk" size="737280" crc="33e9c955" sha1="96f465b12ef0a45b8f1ce9986b631759b5b7c757" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="43d5ef89">
+		<description>Captain Chef (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Captain Chef (1984)(Nippon Columbia - Colpax - Universal).dsk" size="737280" crc="43d5ef89" sha1="66fe62369215f582b3006d65538831852f4b3417" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b47cc759">
+		<description>Captain Cosmo (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Captain Cosmo (1984)(Ascii).dsk" size="737280" crc="b47cc759" sha1="02edd0a9dcca97580b4ded364defb390a86f4b4b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1060dd25">
+		<description>Capture os Mongas (bad 5.25" conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Capture os Mongas (19xx)(Editora McGraw-Hill)(pt).dsk" size="737280" crc="1060dd25" sha1="8f9206a37f5e03b27001dd9fe27afcd2c88da379" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ae45bb63">
+		<description>Capture os Mongas (what is it supposed to do?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Capture os Mongas (19xx)(Editora McGraw-Hill)(pt)[a].dsk" size="368640" crc="ae45bb63" sha1="12aef32cad905d99d8213469e4b886e90c0bfbc4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ee929fe1">
+		<description>Car Fighter (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Car Fighter (1985)(Casio).dsk" size="737280" crc="ee929fe1" sha1="f9d0db8c0311b28e35d6da03665252f4e8bd0b41" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="03ceabd8">
+		<description>Car Jamboree (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Car Jamboree (1984)(Sony).dsk" size="737280" crc="03ceabd8" sha1="fe87555878b54a46c7a84834c91b290a41d991c0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e80b049c">
+		<description>Car Race (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Car Race (1983)(Ample Software).dsk" size="737280" crc="e80b049c" sha1="629203cded2841bc992d6b51e28936d7b49f65ed" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ba95f585">
+		<description>Carlos Sainz (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Carlos Sainz (1990)(Zigurat Software)(es).dsk" size="737280" crc="ba95f585" sha1="682f48d97ae901e433225d5cda61fae28744ce16" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="188af2f2">
+		<description>Carlos Sainz (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Carlos Sainz (1990)(Zigurat Software)(es)[a].dsk" size="737280" crc="188af2f2" sha1="bbbd7aa49f69b16eade278e0c152826c3ce242eb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5c368b85">
+		<description>Carlos Sainz (cas2dsk conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Carlos Sainz (1990)(Zigurat Software)(es)[a2].dsk" size="737280" crc="5c368b85" sha1="31e9cbc43c28196203db1eab69920c2132831a38" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5e32fe24">
+		<description>Carry (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Carry (19xx)(-).dsk" size="737280" crc="5e32fe24" sha1="362b5b066353cc7783bb0b50cc3efe93dba7ca02" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="176eab76">
+		<description>Cartoon (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cartoon (19xx)(-)(pt).dsk" size="737280" crc="176eab76" sha1="8d2aec9c6c152039cff731ee47446861db84d879" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c0cb526a">
+		<description>Casa Maldita (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Casa Maldita, La (1986)(Load 'n' Run)(es).dsk" size="737280" crc="c0cb526a" sha1="748712e1fe63d3e6c1b6f3a4f6eb928f49c766ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2a08e029">
+		<description>Casanova (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Casanova (1989)(Iber Soft)(es).dsk" size="737280" crc="2a08e029" sha1="8e33cff3cee1f56db046279373ec3166858d70bd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7fcff347">
+		<description>Casanova (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Casanova (1989)(Iber Soft)(es)[cr Knight Software].dsk" size="737280" crc="7fcff347" sha1="8034b2ef9797fef73426524af5605691812130ee" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="313aea93">
+		<description>Casio World Open (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Casio World Open (1985)(Casio)[cr Boram Soft].dsk" size="737280" crc="313aea93" sha1="ee544e73bec05e193a56c1e931d233463819e77b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2352ab80">
+		<description>Castelo Negro (bad 5.25" conversion?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Castelo Negro (1987)(P.I.S.C.)(pt).dsk" size="737280" crc="2352ab80" sha1="f52593365cefeb61fa23d3ff5556bf34c6b83faf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="401a088b">
+		<description>Castelo Negro (bad 5.25" conversion? 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Castelo Negro (1987)(P.I.S.C.)(pt)[a].dsk" size="737280" crc="401a088b" sha1="380f678304f56a2e0fa6ffcc39d63034b8bb99bb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="439333d3">
+		<description>Castelo Negro (bad 5.25" conversion? 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Castelo Negro (1987)(P.I.S.C.)(pt)[a2].dsk" size="737280" crc="439333d3" sha1="c19b00f2fc4355d7d9cbe18288e9affac11ff16f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="47e6a853">
+		<description>Castle Combat (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Castle Combat (1985)(Spectravideo).dsk" size="737280" crc="47e6a853" sha1="fb83e1d31750c3ba9a59453980c003cf01151b26" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="26c838b4">
+		<description>Castle Excellent (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Castle Excellent (1989)(Ascii)[t Damian Roman].dsk" size="737280" crc="26c838b4" sha1="7a03b20aa305f9661a3e915f400654b616488d28" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0900729e">
+		<description>Castle Money (does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Castle Money (2017)(Gamecast).dsk" size="737280" crc="0900729e" sha1="6a746d6286d91e94c40a8c05db65339f4b341a52" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d3447ba8">
+		<description>Castle Tomb (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Castle Tomb (2009)(AG Software).dsk" size="737280" crc="d3447ba8" sha1="57ae6b4bddfbce7c8d23ab3ac8123c24a54ee2fb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="669d7697">
+		<description>The Castle (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Castle, The (1986)(Ascii).dsk" size="737280" crc="669d7697" sha1="99ffcbf3e31edcbfab4c8c728c742a402d7252da" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2f8e1431">
+		<description>Cat &amp; Wolf (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cat &amp; Wolf (19xx)(Drack Soft).dsk" size="737280" crc="2f8e1431" sha1="4de1b80fd0d6bc9e6d2f2532e6aa2fd52581cb8f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="280d6be8">
+		<description>Catch the Mouse Puzzle (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Catch the Mouse Puzzle (19xx)(-).dsk" size="737280" crc="280d6be8" sha1="3bad73885ec47cdb34531933aa91c31aa560b443" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0dc959a6">
+		<description>Cavern of Death (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cavern of Death (1987)(Dro Soft)(es).dsk" size="737280" crc="0dc959a6" sha1="22b0f82031e5e5ffc7694af719d3a6dc80ca1002" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cc9c8018">
+		<description>Cavern of Death (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cavern of Death (1987)(Dro Soft)(es)[h CEZ].dsk" size="737280" crc="cc9c8018" sha1="4469fd09570050a4d99f3c3eb360dc854c586620" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a0677be7">
+		<description>Cavit (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cavit (2021(FC2).dsk" size="368640" crc="a0677be7" sha1="134c80c2ab1139b3d044a0ecee680b0f57a04f33" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1fc91197">
+		<description>La Celula (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Celula, La (1987)(Microgesa)(es).dsk" size="737280" crc="1fc91197" sha1="a734954f010317a26feb9dc366e661321f34c0dc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="748c8bb9">
+		<description>Cerebral (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cerebral (19xx)(-)(es).dsk" size="737280" crc="748c8bb9" sha1="c8ac60913a338ec2299d3059667c623f44765c8d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9733b027">
+		<description>Chack'n Pop (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chack 'n Pop (1984)(Taito).dsk" size="737280" crc="9733b027" sha1="8fcd9e39d7fdc6d1eb5d8942ee35cee6e06aaa35" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ae8b5aff">
+		<description>Champ (created with NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Champ (1984)(PSS).dsk" size="737280" crc="ae8b5aff" sha1="aca88410d5efb92cfdfad47828fc8c763c597ea7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e9b38f07">
+		<description>Champion Boxing (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Champion Boxing (1985)(Pony Canyon).dsk" size="737280" crc="e9b38f07" sha1="8d26d1c08b8f9190d361f58009512c8d758b4078" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8d67680d">
+		<description>Champion Ice Hockey (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Champion Ice Hockey (1986)(Pony Canyon)[cr Nemesis].dsk" size="737280" crc="8d67680d" sha1="94516411a809788ed6ebdb6c0dcb65f64931080c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ef840033">
+		<description>Champion Kendo (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Champion Kendo (1986)(Pony Canyon).dsk" size="737280" crc="ef840033" sha1="1a997aaccdfcc16b62a5b65d82d061a564d5e0dc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="43869995">
+		<description>Champion Pro Wrestling (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Champion Pro Wrestling (1985)(Pony Canyon).dsk" size="737280" crc="43869995" sha1="96f238ebc3f8cfb33b8aee696edfed41b8f97ebf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="52264e46">
+		<description>Champion Soccer (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Champion Soccer (1985)(Pony Canyon).dsk" size="737280" crc="52264e46" sha1="cf7010948aa006740566a2ebbfda252792f110c1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7ff74c3c">
+		<description>Championship Lode Runner (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Championship Lode Runner (1985)(Sony).dsk" size="737280" crc="7ff74c3c" sha1="23a5a38ad1d33f68d4e8925ccc4bf81faf776d1b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f7054c46">
+		<description>Channel Defensa del Estrecho (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Channel Defensa del Estrecho (1986)(Load 'n' Run)(es).dsk" size="737280" crc="f7054c46" sha1="6c978da87a06a2472962309c89b9c11df3992c22" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="06d2f91a">
+		<description>Chase H.Q. (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chase H.Q. (1988)(Ocean Software).dsk" size="737280" crc="06d2f91a" sha1="4fb3456069d8c2e785273f6e41226147feb23abb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="928c476f">
+		<description>Chase H.Q. (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chase H.Q. (1988)(Ocean Software)[cr Forca Informatica].dsk" size="368640" crc="928c476f" sha1="2bc5868fb035125ded174e38e4aed340b4769fed" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="864963d3">
+		<description>Checkers in Tan Tan (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Checkers in Tan Tan (1985)(Pony Canyon).dsk" size="737280" crc="864963d3" sha1="d57438d16ffdc500c4493d9c505b6974afbf4535" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7edc36c9">
+		<description>Checkmate! First Moves in Chess (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Checkmate! First Moves in Chess (1985)(Toshiba-EMI)[needs 64k in slot 2].dsk" size="737280" crc="7edc36c9" sha1="1eda39a2de8057b4bc82ebe58c7295860162ccba" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f7f7153d">
+		<description>Chemie (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chemie (1987)(Gemaakt)(nl).dsk" size="737280" crc="f7f7153d" sha1="38f191e305cc566ec2990144519ff8cbc0641006" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="948acce5">
+		<description>Chess Master (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chess Master (1985)(Philips).dsk" size="737280" crc="948acce5" sha1="f182953ef9be53b60cd5e5dd7bff542b7134985c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fd85aba0">
+		<description>The Chessmaster 2000 (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chessmaster 2000, The (1990)(Dro Soft)(es).dsk" size="737280" crc="fd85aba0" sha1="cb1764e5cbd1d73cb18fc1134194fc3db1027050" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="41d6269a">
+		<description>Chicago's 30 (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chicago 30's (1988)(Topo Soft)(es).dsk" size="737280" crc="41d6269a" sha1="21091b023b7b779c4e6a738405662ece926a0d52" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="45d01cc4">
+		<description>Chicago's 30 (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chicago 30's (1988)(Topo Soft)(es)[a].dsk" size="737280" crc="45d01cc4" sha1="0df5976a3cb87eb2501dfce11c18eb6210684d25" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d7b3f6e8">
+		<description>Chicago's 30 (cas2dsk conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chicago 30's (1988)(Topo Soft)(es)[a2].dsk" size="737280" crc="d7b3f6e8" sha1="d3f84235c8543a354a4efd8ad19b1d8bad6d7d9a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="10d91160">
+		<description>Chicken Chase (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chicken Chase (1986)(Bug-Byte Software).dsk" size="737280" crc="10d91160" sha1="c1d6f22c4a88460f518d1e56f967f21b82dcfe8d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d1ad4ed7">
+		<description>Chiller (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chiller (1985)(Mastertronic).dsk" size="737280" crc="d1ad4ed7" sha1="1e15c9405cbfd8181b669a1683a0a82eba4e1926" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="da6b8d05">
+		<description>Chiller (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chiller (1985)(Mastertronic)[French by Django].dsk" size="737280" crc="da6b8d05" sha1="e945dba6794c9ab276972f9bb002262e3d9bb2df" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fbad06a8">
+		<description>Choplifter (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Choplifter (1985)(Broderbound).dsk" size="737280" crc="fbad06a8" sha1="400eacf62667cb75cdaa3701c028758ded5d828c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0fc05ffe">
+		<description>ChoroQ (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Choro Q (1984)(Taito).dsk" size="737280" crc="0fc05ffe" sha1="f628e62660c325ad57728d546b76145621c24c4d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5f73bac5">
+		<description>Choy-Lee-Fut Kung-Fu Warrior (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Choy-Lee-Fut Kung-Fu Warrior (1990)(Positive)(es).dsk" size="737280" crc="5f73bac5" sha1="09ab38bd4690052ba27d599fed6aafbad54eb019" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="579e4e5a">
+		<description>Chuck Yeager's Advanced Flight Trainer (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chuck Yeager's Advanced Flight Trainer (1989)(Dro Soft).dsk" size="737280" crc="579e4e5a" sha1="4b5410b5b706bb75b6cb7dfc270e219f5f19f7db" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="18efaeef">
+		<description>Chuckie Egg (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Chuckie Egg (1984)(A &amp; F Software).dsk" size="737280" crc="18efaeef" sha1="d9e36f4e519d61e55574c56c6757aa443ccf04b4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ac91c5e8">
+		<description>Ci-U-Than I (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ci-U-Than Trilogy I - La Diosa de Cozumel (1990)(Aventuras AD)(es).dsk" size="368640" crc="ac91c5e8" sha1="7a1cf0f7d2d289da37b6e7f35c20a2aa83930c0a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7805e16d">
+		<description>Ci-U-Than I (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ci-U-Than Trilogy I - La Diosa de Cozumel (1990)(Aventuras AD)(es)[a].dsk" size="737280" crc="7805e16d" sha1="30a9d811fbc1be2f75e758ec37c575c9f3df7d75" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4a4f3abe">
+		<description>Ci-U-Than I (cas2dsk conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ci-U-Than Trilogy I - La Diosa de Cozumel (1990)(Aventuras AD)(es)[a2].dsk" size="737280" crc="4a4f3abe" sha1="cb2e490237f4a33496f65049c5aa8ecb2e3a2fd7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="30333049">
+		<description>El Cid (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cid, El (1987)(Dro Soft)(es).dsk" size="737280" crc="30333049" sha1="6aeb530f0e41109b5c6adc7baf5b8ebb268ac6d5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fc048ad3">
+		<description>El Cid (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cid, El (1987)(Dro Soft)(es)[a].dsk" size="737280" crc="fc048ad3" sha1="a1d10d9e1856464eb6e1ec868bbfd02862fb944f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="19138d18">
+		<description>Ciencias de la Naturaleza 8 EGB (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Ciencias de la Naturaleza 8 EGB (1985)(Anaya Multimedia)(es)[h CEZ].dsk" size="737280" crc="19138d18" sha1="d4d31aa37c1446cee7204530bd952512a0043c78" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0b9dc028">
+		<description>Circus Charlie (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Circus Charlie (1984)(Konami).dsk" size="737280" crc="0b9dc028" sha1="22e4a5fda29f7a239eb8cde7fbc935885f1da0ab" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4954d3ad">
+		<description>City Connection (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="City Connection (1986)(Jaleco).dsk" size="737280" crc="4954d3ad" sha1="adc04934effeea43c3e3316bad851ff8085d6af5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="76d0c4c3">
+		<description>Coaster Race (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Coaster Race (1986)(Sony).dsk" size="737280" crc="76d0c4c3" sha1="82be3cda649f7103bc855e2fa5f5a6821abbea43" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4dc1a449">
+		<description>Cobra's Arc (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cobra's Arc (1986)(Dinamic Software)(es).dsk" size="737280" crc="4dc1a449" sha1="a0895c41560bc427bfe9925cd5fe8c63a0fe8bae" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1c3af3a2">
+		<description>Cobra's Arc (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cobra's Arc (1986)(Dinamic Software)(es)[a].dsk" size="737280" crc="1c3af3a2" sha1="7dc0ecd6a91e7c81249a8f2b148396e45ca7e1fd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f823fd18">
+		<description>Coco Castle (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Coco Castle (1984)(Kuma Computers).dsk" size="737280" crc="f823fd18" sha1="37430dab89e42307a22e4dbcc5625df950733b5d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d1a9611b">
+		<description>Codigo de Circulacion (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Codigo de Circulacion (19xx)(DB Software)(es).dsk" size="737280" crc="d1a9611b" sha1="08d461f956e666d7c6aa489be865eb733da249a4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="34569831">
+		<description>Coelho Maluco (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Coelho Maluco (19xx)(Input MSX)(pt)[aka Jumping Rabbit].dsk" size="737280" crc="34569831" sha1="1ff7cf2f9bb865038b9f760404272f2ccf2fb07c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b8ba0608">
+		<description>Coliseum (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Coliseum (1988)(Topo Soft)(es).dsk" size="737280" crc="b8ba0608" sha1="02433af04a682f81a30bc4aa30762a35bd3418ba" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="58d31d99">
+		<description>Coliseum (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Coliseum (1988)(Topo Soft)(es)[a].dsk" size="737280" crc="58d31d99" sha1="0269d57c672e5279fa6ff40a526fd59404dfc39a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a496d100">
+		<description>Colmena (invalid file size)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="741376">
+				<rom name="Colmena (2006)(Jose Javier Franco Benitez)(es).dsk" size="741376" crc="a496d100" sha1="6ffeb6a6e6b4eb86a8be6aae83b085e0bb143952" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f0656fde">
+		<description>Colony (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Colony (1987)(Bulldog).dsk" size="737280" crc="f0656fde" sha1="d5b774ec2b5ad3f1a18d337f4595ed7098dffcf5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="01195cb1">
+		<description>Colony (crt2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Colony (1987)(Bulldog)[a].dsk" size="737280" crc="01195cb1" sha1="8d0232e25be2303f266cc164b0ef53c00bf7f879" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="438a8577">
+		<description>Color Ball (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Color Ball (1984)(Hudson Soft).dsk" size="737280" crc="438a8577" sha1="6469e5924875cc81a266073ca2243565de460f4a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="43375fc3">
+		<description>Color Tochika (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Color Tochika. Pillbox (1983)(Magic Soft).dsk" size="737280" crc="43375fc3" sha1="3863c0c5ec472996ca9c72d3c778ee9bc55f2b89" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dc8b5fc9">
+		<description>Colossal Adventure (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Colossal Adventure  - B-Version - Text Only (1984)(Level 9 Computing).dsk" size="368640" crc="dc8b5fc9" sha1="b78364cfb2be273ab7f213712f3913d8b2a7d676" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="277843bb">
+		<description>Collossal Cave Adventure (conversion created for file-hunter)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Comarques de Catalunya (19xx)(Centre d'Estudis Catalun)(es).dsk" size="737280" crc="277843bb" sha1="18a2a3d14afac517e88ea7c032a7364c0108f019" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cb03436d">
+		<description>Colossus Chess 4 (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Colossus 4 Chess (1986)(CDS Microsystems).dsk" size="737280" crc="cb03436d" sha1="e841987a287994624c0f9dd11c47876eac0cfcd7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dbedf762">
+		<description>Colt 36 (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Colt 36 (1987)(Topo Soft)(es).dsk" size="737280" crc="dbedf762" sha1="28aad62bfe306d17f6caba84a0d83e7990e7263f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2fca5fad">
+		<description>Colt 36 (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Colt 36 (1987)(Topo Soft)(es)[t].dsk" size="737280" crc="2fca5fad" sha1="6f5d369316f42e1aefd8b4e064e9ac04517e19b2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8d1e6c57">
+		<description>Comando Quatro (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Comando Quatro (1989)(Zigurat Software)(es).dsk" size="737280" crc="8d1e6c57" sha1="ef335bbeb280744c35287f6294f3c33694100d20" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1e0452d5">
+		<description>Comando Quatro (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Comando Quatro (1989)(Zigurat Software)(es)[t].dsk" size="737280" crc="1e0452d5" sha1="448a2c3a5ac58e76b40690fa3adadcf7cbb85dae" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3044da54">
+		<description>Comando Tracer (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Comando Tracer (1989)(Dinamic Software)(es).dsk" size="737280" crc="3044da54" sha1="92a8eb197461e8fcec98a25b81b85f86cd1c44cb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c5639a9a">
+		<description>Comarques de Catalunya (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Comarques de Catalunya (19xx)(Centre d'Estudis Catalun)(es).dsk" size="737280" crc="c5639a9a" sha1="b56c0e01abcecd670978490ebdf98282f40f870b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="69af106a">
+		<description>Comblot (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Comblot (1985)(Sprites)(fr).dsk" size="737280" crc="69af106a" sha1="afc3f5495e2bc66644d6ea67bed07eedcc620996" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7fbcc0b7">
+		<description>Comecocos (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Comecocos (19xx)(Idealogic)(es).dsk" size="737280" crc="7fbcc0b7" sha1="73a0955ac3ea02c72fe5590ad4e1d688353471aa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="77a0560e">
+		<description>Comecocos (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Comecocos (19xx)(Idealogic)(es)[b].dsk" size="737280" crc="77a0560e" sha1="892e8ded1b0e9cfcdab2a267b62c4e5a195bee4d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b75bae94">
+		<description>Comet Tail (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Comet Tail (1984)(Qnix).dsk" size="737280" crc="b75bae94" sha1="9fb7dd35f00599d71fe22b50642d972228301ed8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ceb5eab8">
+		<description>Comic Bakery (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Comic Bakery (1984)(Konami).dsk" size="737280" crc="ceb5eab8" sha1="86f371e1e95aba43a8e5dfbb3e584d1d3275355b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4b1154ab">
+		<description>Compor (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Compor (1985)(Philips).dsk" size="737280" crc="4b1154ab" sha1="7fa6d7e09192d437f853b547d607e2aca577e6ee" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8817338c">
+		<description>Computer Billiards (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Computer Billiards (1985)(Sony).dsk" size="737280" crc="8817338c" sha1="73e273a176d572d08d77da626bf72bbd77287450" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="49bdd660">
+		<description>Computer Chess (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Computer Chess (1985)(Sony).dsk" size="737280" crc="49bdd660" sha1="c94a983efbe026dbe779cd6cbfe5d897b476b2c4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b47e8f13">
+		<description>Computer Pachinko (extracted from Super Game Collection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Computer Pachinko (1984)(Sony).dsk" size="737280" crc="b47e8f13" sha1="e2c1b27b1b408b16eb064d54c86777a9ab31a751" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="47c045c9">
+		<description>Con-Dori (crt2dsk)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Con-Dori (1983)(Cross Talk).dsk" size="737280" crc="47c045c9" sha1="3392752642428d42c5cabd6d90d9a2338cba4340" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fffb6342">
+		<description>O Conde de Monte Cristo (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Conde de Monte Cristo, O (1988)(Nemesis Informatica)(pt).dsk" size="737280" crc="fffb6342" sha1="cf1c611472a469dc9310c59dea671eea7c080d32" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="62bca214">
+		<description>O Conde de Monte Cristo (overdump 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_5_25">
+			<dataarea name="flop" size="737280">
+				<rom name="Conde de Monte Cristo, O (1988)(Nemesis Informatica)(pt)[a].dsk" size="368640" crc="62bca214" sha1="2ed64fca1a991d70d5401450684167620fda319a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="220404db">
+		<description>Congo Bongo (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Congo Bongo (1983)(Sega).dsk" size="737280" crc="220404db" sha1="3f3859753a0c190b128e13cee47ec70dcf660c8f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="63c18f22">
+		<description>Continental Circus (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Continental Circus (1989)(Virgin Mastertronic)[cr Damian Roman].dsk" size="737280" crc="63c18f22" sha1="8c25f1a24b985d8a3e64fd55ccc26dafb05d4088" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c89c3b77">
+		<description>Contract Bridge (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Contract Bridge (1985)(Alligata Software).dsk" size="737280" crc="c89c3b77" sha1="bbdcf1338acd04601e8c4dc83b289a5faeee9bf4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="77c84a9a">
+		<description>Corsarios (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Corsarios (1989)(Opera Soft)(es).dsk" size="737280" crc="77c84a9a" sha1="7bbdfa7a464ed28bb07149ba53801f2b508dbbfb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="879f8950">
+		<description>Corsarios (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Corsarios (1989)(Opera Soft)(es)[a].dsk" size="737280" crc="879f8950" sha1="6ad5d7e2826a1243fc9787ba754c83160d18cfcb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="869c98e0">
+		<description>Cosa Nostra (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cosa Nostra (1986)(Opera Soft)(es).dsk" size="737280" crc="869c98e0" sha1="fc5c21f8cd7858e8c531fd1065de0c0702be4230" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7a9fa4a9">
+		<description>Cosa Nostra (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cosa Nostra (1986)(Opera Soft)(es)[needs 128k].dsk" size="737280" crc="7a9fa4a9" sha1="546a763791278aa5bf3cfaa9c1ccb8878d3b6397" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b8b68f82">
+		<description>Cosmic Sheriff (cracked Barcelona MSX Club)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cosmic Sheriff (1989)(Dinamic Software)(es)[cr Barcelona MSX Club].dsk" size="737280" crc="b8b68f82" sha1="7f26d9ad841f5b9a6f7c53ee893cb35701f9d23f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="08de51b4">
+		<description>Cosmic Sheriff (cracked Barcelona MSX Club 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cosmic Sheriff (1989)(Dinamic Software)(es)[cr Barcelona MSX Club][h CEZ].dsk" size="737280" crc="08de51b4" sha1="04d7429a6683c909dc2e539681321a180879fb94" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e006e390">
+		<description>Cosmic Shock Absorber (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cosmic Shock Absorber (1986)(Martech Games).dsk" size="737280" crc="e006e390" sha1="ca26001f6a0d2d2f19061f5f35bdd9f8026ec6d8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0e089b06">
+		<description>Cosmo Explorer (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cosmo Explorer (1985)(Sony).dsk" size="737280" crc="0e089b06" sha1="4c61480975e78bcdd5905a69a8b291632ec13cd5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7554a49c">
+		<description>Cosmos (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cosmos (1987)(Club MSX)(es).dsk" size="737280" crc="7554a49c" sha1="535f2df3069afac090a698211e1e59bae5f2d97f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="48646a2a">
+		<description>Crazy Bullet (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Crazy Bullet (1983)(Ascii).dsk" size="737280" crc="48646a2a" sha1="ad07bac1efa0e9cf9237a9cac9f290ec1f095738" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f920bbbd">
+		<description>Crazy Cars (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Crazy Cars (1988)(Titus).dsk" size="737280" crc="f920bbbd" sha1="453ae3bbf31ccc5117487b506939d5f229173670" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="797c7bb7">
+		<description>Crazy Train (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Crazy Train (1983)(Sony).dsk" size="737280" crc="797c7bb7" sha1="f4140821618ac7ebd6369e92c861b8edb98e2ed9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dda93a15">
+		<description>Crazy Train (crt2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Crazy Train (1983)(Sony)[a].dsk" size="368640" crc="dda93a15" sha1="1f3d625818f2410f546d0fca0a2f1a69442aee09" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6fc0e7ac">
+		<description>Cresta Run (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cresta Run (19xx)(-).dsk" size="737280" crc="6fc0e7ac" sha1="f69c5b2758ad5171dc06356581df4e55ad5c3117" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="91d4e8dc">
+		<description>Cribbage (created with DiskMgr1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cribbage (19xx)(-)[b].dsk" size="737280" crc="91d4e8dc" sha1="0c40e2cd27fcc29b80f6aef09b1c82d5073c17ef" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a4ef543d">
+		<description>Criptoaritmetica (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Criptoaritmetica (1988)(Renato de Mello)(pt).dsk" size="737280" crc="a4ef543d" sha1="7d97e7d39942f61156f525d7c41392e5ed784464" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="20e4a644">
+		<description>Cronos (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cronos (1989)(Barnajocs).dsk" size="737280" crc="20e4a644" sha1="7eb6fb3d74f96ce0918f67e5ed52e984315e6226" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9d95b0b0">
+		<description>Crucigrama Matematico (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Crucigrama Matematico (19xx)(Data MSX)(es).dsk" size="737280" crc="9d95b0b0" sha1="8d360b6ccb87a155aab6c03d1e2ec537fa24c8a9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3882ae67">
+		<description>Crux (msxmania)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Crux (1986)(Bits Art).dsk" size="368640" crc="3882ae67" sha1="c94d6f4a927162ec9560b50717020541ddac3d65" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ce9cbd2a">
+		<description>Crux (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Crux (1986)(Bits Arts).dsk" size="737280" crc="ce9cbd2a" sha1="860b487ad1e8a7f3be4f1c7d71d5866661edb7a4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="31d4920c">
+		<description>Crystal Out (only shows scrolling bars)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Crystal Out (1991)(MSX Magazine).dsk" size="737280" crc="31d4920c" sha1="bb1c2927d53efef9353339821055d2671a88f41a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8c6dee73">
+		<description>CTRL (created with NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="CTRL (19xx)(-)(es).dsk" size="737280" crc="8c6dee73" sha1="7b1c6111e33b89c70cb039abc0c6624485ce9d64" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c7e8df0e">
+		<description>Cubik (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cubik. Cubo de Rubik (1985)(Monser)(es).dsk" size="737280" crc="c7e8df0e" sha1="387f0ec64dcdd5ef310c32f331beafa0d9233e32" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="de31a500">
+		<description>Cubit (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cubit (1986)(Mr. Micro).dsk" size="737280" crc="de31a500" sha1="94b6cb02f13f860aa1066651ca4905f9f3c21d0b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b058bf4e">
+		<description>Cubit (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cubit (1986)(Mr. Micro)[a].dsk" size="737280" crc="b058bf4e" sha1="0bda7b6fcf4f03f1fffc67f2c869af101cb193e0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4ad16aeb">
+		<description>Cubos (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cubos Malucos (1987)(Valle Paiva)(pt).dsk" size="737280" crc="4ad16aeb" sha1="0108e2d19661c99781cb605c57199c4c55ed4637" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ccf70bfb">
+		<description>Curro Jimenez (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Curro Jimenez (1989)(Zigurat Software)(es).dsk" size="737280" crc="ccf70bfb" sha1="0fc0fb8e0207ea48b500cf9f49cd66f4a86920fc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6980a434">
+		<description>Curro Jimenez (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Curro Jimenez (1989)(Zigurat Software)(es)[a].dsk" size="737280" crc="6980a434" sha1="b8343e1ce0875a011dff42a99d5d4433949b6118" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b1ebe889">
+		<description>Cyberbig (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cyberbig (1989)(Animagic).dsk" size="737280" crc="b1ebe889" sha1="1fe7907b50715812887900e854dd720c353ba404" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="434c0b06">
+		<description>Cyberbig (cas2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cyberbig (1989)(Animagic)[a].dsk" size="737280" crc="434c0b06" sha1="354f832a56a3d000b7b66337b5a0ec697dd23509" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f7aedab7">
+		<description>Cyberun (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cyberun (1985)(Ultimate Play The Game).dsk" size="737280" crc="f7aedab7" sha1="87438de1fc2f18873c37ba4339bfb91cce0198cf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f1cc3982">
+		<description>Cyclon (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="Cyclon (19xx)(-).dsk" size="737280" crc="f1cc3982" sha1="93ac11001e459ac8a5396d97fb67fdc6b14edd00" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="0ad039b4">
 		<description>D-Day (crt2dsk conversion)</description>
