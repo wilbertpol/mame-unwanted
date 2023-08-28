@@ -7,6 +7,19 @@ license:CC0-1.0
 
 	<!-- to sort, too new, separated tools, etc -->
 
+	<!-- Goes into lalaland at the title screen. Bad dump? -->
+	<software name="agendapr" supported="no">
+		<description>Agenda Perpetua (Spain)</description>
+		<year>19??</year>
+		<publisher>Philips Spain</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<!-- According to generation-msx this was released on a single sided floppy -->
+				<rom name="agenda perpetua (1986)(philips)(es).dsk" size="737280" crc="c14c5b1a" sha1="72d2e2c7d26bb57f1d0c767d65bda0bba305df33" status="baddump"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="6812ea01">
 		<description>A.R. Crazysoft Compilation (unsure if it is a real release</description>
  		<year>19??</year>
