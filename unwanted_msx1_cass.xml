@@ -1,0 +1,802 @@
+<?xml version="1.0"?>
+<!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
+<!--
+license:CC0-1.0
+-->
+
+<softwarelist name="unwanted_msx1_cass" description="MSX1 cassettes - hacks, cracks, conversions, etc">
+
+	<!-- to sort, too new, separated tools, etc -->
+ 
+	<!-- too new -->
+
+	<software name="fced5cdd">
+		<description>The Storekeeper</description>
+ 		<year>2021</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="28032">
+				<rom name="Transball (2016)(Santi Ontanon)[RUN'CAS-'].cas" size="28032" crc="fced5cdd" sha1="1aa91ce217c082c21985c30c215a72d8cc0576c1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="torreosc">
+		<description>Torreoscura (English, does not start)</description>
+		<year>2020</year>
+		<publisher>Bieno Marti &amp; Pedro Fernández</publisher>
+		<info name="usage" value="Load with RUN&quot;CAS:&quot;"/>
+		<part name="cass1" interface="msx_cass">
+			<feature name="part_id" value="Part 1"/>
+			<dataarea name="cass" size="44625">
+				<rom name="torreoscura - bieno marti (part 1, english).cas" size="44625" crc="fe3f8f0f" sha1="27a2313579d7bc438abb6d49fad5159ec6323453"/>
+			</dataarea>
+		</part>
+		<part name="cass2" interface="msx_cass">
+			<feature name="part_id" value="Part 2"/>
+			<dataarea name="cass" size="38226">
+				<rom name="torreoscura - bieno marti (part 2, english).cas" size="38226" crc="1599ee7d" sha1="ca1e1afb3d651d24b6505f038314aeee557a46b5"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="trapox">
+		<description>Trapox (does not start)</description>
+		<year>2021</year>
+		<publisher>GameCast Entertainment</publisher>
+		<info name="usage" value="Load with RUN&quot;CAS:&quot;"/>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="28650">
+				<rom name="trapox - gamecast entertainment.cas" size="28650" crc="fe41ead1" sha1="b1398f3da2549d0edc37c5a3e07c39b849a4d283"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="msxgame8">
+		<description>MSX Games Vol 08 - Wrestling (Spain) (software does not start)</description>
+		<year>1987</year>
+		<publisher>Grupo de Trabajo Software</publisher>
+		<info name="usage" value="Load with CLOAD + RUN"/>
+
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="15874">
+				<rom name="msx games - issue 08 - wrestling - grupo de trabajo software.cas" size="15874" crc="82230a42" sha1="6f663886d8d9a1c8f0d58ea6a296e2dfa57e9dee"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- hacks, cracks, conversions -->
+
+	<software name="03a461cd">
+		<description>PAC-01 (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="PAC-01 - Arcs (2021).cas" size="33685" crc="03a461cd" sha1="84aca48686d66979df4fbfaec255b374b1b87a26" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b41bd930">
+		<description>Pippo La Scopa Ficcanaso (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="14479">
+				<rom name="Pippo La Scopa Ficcanaso (2021)(Gamecast).CAS" size="14479" crc="b41bd930" sha1="00fa6fd0c2e6e1a73434a11526ef3ae5ffab1650" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="80041f79">
+		<description>Puzzybox (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="29320">
+				<rom name="Puzzybox (2021)(Gamecast).cas" size="29320" crc="80041f79" sha1="23c7acd12d5d978d523d0505b78d2cfaa60b6d6a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1238b8da">
+		<description>PWND 3 (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="16891">
+				<rom name="Pwnd 3 (2019) (Metal Soft) (v1.1) [BLOAD'CAS-',R].cas" size="16891" crc="1238b8da" sha1="d76a21ffdade8df30e2872013c6506127aa20444" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="07057133">
+		<description>Quartet (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Quartet (2019) (Ilkke and bitsofbas) (v1.1) [BLOAD'CAS-',R].cas" size="33685" crc="07057133" sha1="c0872fad13cfee1a922f0a19f31a9a3c4d10db18" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="18c70441">
+		<description>Quartet (crt2cas conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Quartet (2019) (Ilkke and bitsofbas) [BLOAD'CAS-',R].cas" size="33685" crc="18c70441" sha1="3cc6ff2bb428f68d928a1f4c1583c7667272e3dd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b6358d53">
+		<description>River Chase (prefer wav version)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="17463">
+				<rom name="River Chase (1984)(Soft Pro International)(JP)(en)[!][CLOAD + RUN][v0.8.5b].cas" size="17463" crc="b6358d53" sha1="d70cce876199af4ec79b1018b535ae900762aa2a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b4b41cc0">
+		<description>River Chase (prefer wav version 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="17473">
+				<rom name="River Chase (Soft Pro International) [v0.8.5b fixed] [CLOAD + RUN].cas" size="17473" crc="b4b41cc0" sha1="ab76710152febb4624ccd6afcd243db6511da4bb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dd39c85e">
+		<description>Route Finding (extracted from Tape Login MSX Game Book)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="18630">
+				<rom name="Route Finding (1985)(Login Soft)[CLOAD+RUN].cas" size="18630" crc="dd39c85e" sha1="b935696c47b139c72e6a5a0a1f6f99abe54be79f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7a9e2f94">
+		<description>Ruptus (prefer wav version)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="12711">
+				<rom name="Ruptus (2021)(Inufuto).cas" size="12711" crc="7a9e2f94" sha1="eee214ef849d0910dfca805818c96d98167e1a62" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b75bd035">
+		<description>Tape Login MSX Game Book (extracted, missing speech)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="106159">
+				<rom name="Tape Login MSX Game Book (1985)(Login Soft)(Full Side A).cas" size="106159" crc="b75bd035" sha1="5d7fd38a7b35975fc7261f9bad20eeaba5fdf29e" />
+			</dataarea>
+		</part>
+		<part name="cass2" interface="msx_cass">
+			<dataarea name="cass" size="101110">
+				<rom name="Tape Login MSX Game Book (1985)(Login Soft)(Full Side B).cas" size="101110" crc="9bb00ee3" sha1="e626c5a493a6728865cc20a773a07941514bfb4e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="56df4fe6">
+		<description>Saint Dragon (side b, baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="129783">
+				<rom name="Saint Dragon (1990)(Dro Soft)(Side B)[b][RUN'CAS-'].cas" size="129783" crc="56df4fe6" sha1="c3279d08b3c4897effe492cd84e348ae08eb4f58" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cscrbbl">
+		<description>Computer Scrabble (Europe, does not work)</description>
+		<year>1986</year>
+		<publisher>Leisure Genius</publisher>
+		<info name="usage" value="Load with RUN&quot;CAS:&quot;"/>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="57151">
+				<rom name="computer scrabble - leisure genius.cas" size="57151" crc="5a31a39b" sha1="00fe335a68a1f0a1465bb0d195dfacd111b15aa1"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="616648d9">
+		<description>Skate Dragon (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="21300">
+				<rom name="Skate Dragon (1986)(Idealogic)(es)[b][BLOAD'CAS-',R].cas" size="21300" crc="616648d9" sha1="fce1963e812149e0a8deaf8402cf1c1975a4adb7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="88a1ab82">
+		<description>Silicon Dreams II (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="42417">
+				<rom name="Silicon Dreams II - Return to Eden (1984)(Level 9 Computing)[b][BLOAD'CAS-',R].cas" size="42417" crc="88a1ab82" sha1="e15b1572f665a6ef0e6f9f823a4544fd8bb31daf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="44b7c336">
+		<description>Silicon Dreams II (underdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="42417">
+				<rom name="Silicon Dreams II - Return to Eden (1984)(Level 9 Computing)[BLOAD'CAS-',R].cas" size="42417" crc="44b7c336" sha1="c6a0ce19d24948d93f8468ad052878ae58022f9f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="73f264a1">
+		<description>Slime Center (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Slime Center (2014)(N.I.)[BLOAD'CAS-',R].cas" size="33685" crc="73f264a1" sha1="faf158d294c16ba3b3ee43fb0a9f5300492d37cc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="16fd3eaa">
+		<description>Squash (extracted from King Size compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="2802">
+				<rom name="Squash 1986 (Robtek Software) [CLOAD + RUN].cas" size="2802" crc="16fd3eaa" sha1="9524bffedf365cf94bdcf87d626fc0ac4d3d1849" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="97647d0b">
+		<description>Star Fighter (Battleship Clapton II hack)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="16136">
+				<rom name="Super Boy I [BLOAD'CAS-',R].cas" size="16136" crc="97647d0b" sha1="a0ab540788173fbb9514420397abd44aeb224a42" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b4eeb8ef">
+		<description>Star Runner (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="28387">
+				<rom name="Super Boy I [BLOAD'CAS-',R].cas" size="28387" crc="b4eeb8ef" sha1="5760e828e88204d61a47131055b4fbb1c0b2430e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ab02898b">
+		<description>Super Boy I (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Super Boy I [BLOAD'CAS-',R].cas" size="33685" crc="ab02898b" sha1="f9b7c6ddf43a5e959243c5d4b0690d6400579cce" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8fd4e3e4">
+		<description>Super Boy II (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Super Boy II [BLOAD'CAS-',R].cas" size="33685" crc="8fd4e3e4" sha1="836e9b78641a4de1a4beebac5330b3ff13c4c58d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="05743817">
+		<description>Super Difficult Theseus (extracted from Login 1985-02)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="16087">
+				<rom name="Super Difficult Theseus (1985)(Login Soft)[BLOAD'CAS-',R].cas" size="16087" crc="05743817" sha1="04a486dc32ca26cdcf7f20d3cef54e9872526f08" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="958f13a6">
+		<description>Super Ilevan (lst2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="22950">
+				<rom name="Super Ilevan (POPCOM 1987-04).cas" size="22950" crc="958f13a6" sha1="59fbc7132548680ca974d7bcb89cc7b3ab654d80" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="966b68de">
+		<description>Aliantantor (extracted from Super MSX N.22)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="46495">
+				<rom name="Aliantantor dump di Andrea bendoni.cas" size="46495" crc="966b68de" sha1="69924241c3935a505087816a4deb9412edd67033" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9a41819e">
+		<description>Super Racer (crt2cas or lst2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="21772">
+				<rom name="Super Racer (1985)(Login Soft)[BLOAD'CAS-',R or BLOAD'CAS-'+CLOAD+RUN].cas" size="21772" crc="9a41819e" sha1="66cdeda807121c2667fb12aa5690abbc78dfed05" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b0886fe7">
+		<description>Tales of Popolon (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33709">
+				<rom name="Tales of Popolon (2017)[BLOAD'CAS-',R].cas" size="33709" crc="b0886fe7" sha1="3503dcb26c5067cf81d91e4fcf5dec5cebd2e5ce" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6d911856">
+		<description>Tales of Popolon v1.2 English (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Tales Of Popolon (v1.2)(2017)(EN)[BLOAD'CAS-',R].cas" size="33685" crc="6d911856" sha1="5b5e99b676ddd7fb467ac51a36484b83f9ec3e5f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="03b9f2ec">
+		<description>Tales of Popolon v1.2 Spanish (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Tales Of Popolon (v1.2)(2017)(ES)[BLOAD'CAS-',R].cas" size="33685" crc="03b9f2ec" sha1="ba4355b651a630103f2f19b0de0ed43316486f55" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a416925e">
+		<description>Tales of Popolon v1.3 English (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Tales Of Popolon (v1.3)(2017)(EN)[BLOAD'CAS-',R].cas" size="33685" crc="a416925e" sha1="9ec096d46fc29a076c45e35ead79886ad39186e3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fbe36758">
+		<description>Tales of Popolon v1.3 Spanish (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Tales Of Popolon (v1.3)(2017)(ES)[BLOAD'CAS-',R].cas" size="33685" crc="fbe36758" sha1="2faf615a2126ee0484861871fecf9287815bf545" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b65b1c2e">
+		<description>Tank (level 2 fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="21713">
+				<rom name="Tank.cas" size="21713" crc="b65b1c2e" sha1="13fb4e662f54294ec7bf985e748dd53d29e84e42" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c3afec7c">
+		<description>Tank (metadata)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="222">
+				<rom name="Tank.cas" size="222" crc="c3afec7c" sha1="f1051a2164da697aae9b19e638e8f6fdf25e6815" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="625baf2b">
+		<description>Terrahawks (dsk2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="57999">
+				<rom name="Terrahawks (2020) (Anemotionalfish) [BLOAD'CAS-',R].cas" size="57999" crc="625baf2b" sha1="019c2109aab5210ee23becbf34876f0a345c05cf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f77fb84c">
+		<description>The Growing Pains of Adrian Mole (separate part 1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="57999">
+				<rom name="The Growing Pains Of Adrian Mole - Part 1 (1987) (Level 9 Computing)[RUN'CAS-',R].cas" size="57999" crc="f77fb84c" sha1="f3fd0484d4ef1beb13cf8516eeb4ee06801417cc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="db7c174a">
+		<description>The Growing Pains of Adrian Mole (separate part 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="57999">
+				<rom name="The Growing Pains Of Adrian Mole - Part 2 (1987) (Level 9 Computing)[RUN'CAS-',R].cas" size="57999" crc="db7c174a" sha1="d464ecc90110f63cd80722cdc88c6fa4a49a9b17" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="65bd81f4">
+		<description>The Growing Pains of Adrian Mole (separate part 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="57999">
+				<rom name="The Growing Pains Of Adrian Mole - Part 3 (1987) (Level 9 Computing)[RUN'CAS-',R].cas" size="57999" crc="65bd81f4" sha1="965dacc8816a3d63704bd22774ae109cd65291e6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0ec63d64">
+		<description>The Growing Pains of Adrian Mole (separate part 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="57999">
+				<rom name="The Growing Pains Of Adrian Mole - Part 4 (1987) (Level 9 Computing)[RUN'CAS-',R].cas" size="57999" crc="0ec63d64" sha1="a6051f9cd428d6c71e2decc9b811ec906fe0baad" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8274015d">
+		<description>The Queen's Footsteps (hacked file-hunter)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="75310">
+				<rom name="The Queens Footsteps Part 1 (2020)(Davide Bucci)[BLOAD'CAS-',R].cas" size="75310" crc="8274015d" sha1="1120d85e386c567b0670dc18b7dd1e113c2ce626" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c8eb0f53">
+		<description>The Queen's Footsteps (separate part 1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="30308">
+				<rom name="The Queens Footsteps Part 1 (2020)(Davide Bucci)[BLOAD'CAS-',R].cas" size="30308" crc="c8eb0f53" sha1="0a2954cdbe0dc6924f27c74060f06308693b95d3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c9f24452">
+		<description>The Queen's Footsteps (separate part 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="30573">
+				<rom name="The Queens Footsteps Part 2 (2020)(Davide Bucci)[BLOAD'CAS-',R].cas" size="30573" crc="c9f24452" sha1="0800a7b58fc32114f68cebb8817d986fe59baf8b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ba583936">
+		<description>The Queen's Footsteps (separate part 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="30965">
+				<rom name="The Queens Footsteps Part 3 (2020)(Davide Bucci)[BLOAD'CAS-',R].cas" size="30965" crc="ba583936" sha1="e4ea344743cd36c331f23c37d26d6858276374d2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="99624e08">
+		<description>Track and Field 1 (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="16857">
+				<rom name="TrackAndField1[BLOAD'CAS-',R].cas" size="16857" crc="99624e08" sha1="da12741aeb2042bbb2311edfbcc674b5e3f7a43c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="14188a50">
+		<description>Track and Field 2 (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="16857">
+				<rom name="TrackAndField2[BLOAD'CAS-',R].cas" size="16857" crc="14188a50" sha1="c76558b140fbac3d688a5babf9c4182f312f3ee1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4b472775">
+		<description>Transball (does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33838">
+				<rom name="Transball (2016)(Santi Ontanon)[RUN'CAS-'].cas" size="33838" crc="4b472775" sha1="835bc98cf84f0bfa0021266be3cb58628be7694d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="af5b4274">
+		<description>Transball-en (does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33838">
+				<rom name="transball-en [Bload'cas-',r].cas" size="33838" crc="af5b4274" sha1="5d4ad020223fe353e1546c18c7b6540963f469e7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="98db512b">
+		<description>Twinlight (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Twinlight (2019) (Retrosouls) [BLOAD'CAS-',R].cas" size="33685" crc="98db512b" sha1="9efbd8f0a19c7f582f94e17cf43825dfaf12460c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9dab9fe0">
+		<description>Uchi Mata (fixed, does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="50777">
+				<rom name="Uchi Mata (1987)(Martech Games)[Fixed][CLOAD + RUN].cas" size="50777" crc="9dab9fe0" sha1="507f7d56c8574fcfe3c83638e151c5fb4bedba8a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="428b8c6c">
+		<description>Uchi Mata (does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="48904">
+				<rom name="UchiMata[+3][NR].cas" size="48904" crc="428b8c6c" sha1="604965ba31d18eea37bc4914a83a2e941cc76a3e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e2ee8fe9">
+		<description>Vilzam (listing conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="27942">
+				<rom name="Vilzam - Cosmic Struggle (1985) (Yuichi Toyama).cas" size="27942" crc="e2ee8fe9" sha1="f6d4d504871f32b7aecd3a4bea3b5a8315ae3e6d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="719be7af">
+		<description>Vilzam (listing conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="27942">
+				<rom name="Vilzam - Cosmic Struggle (1985) (Yuichi Toyama)(en).CAS" size="27942" crc="719be7af" sha1="9426bf62e8f998755bacd4c817ce7025d01c4396" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b2e2483b">
+		<description>Virus LQP-79 (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="50469">
+				<rom name="Virus LQP-79 (2018) (Pentacour) [BLOAD'CAS-',R].cas" size="50469" crc="b2e2483b" sha1="980a487053406a39b8191356554009fbada4b70c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="88b2cf83">
+		<description>X-Racing v1.0 (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="50469">
+				<rom name="X-Racing (2019)(Brain Games)(v1.0)[BLOAD'CAS-',R].cas" size="50469" crc="88b2cf83" sha1="61aaa5896bb0fd573031b7dfc44a3654c2251cf1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9a2b43c0">
+		<description>X-Racing v1.0.1 (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="50469">
+				<rom name="X-Racing (2019)(Brain Games)(v1.0.1)[BLOAD'CAS-',R].cas" size="50469" crc="9a2b43c0" sha1="dde494c29d3e5b973531680ca1eca7ffbfc9d87e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="090f6c34">
+		<description>X-Racing v1.0.2 (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="50469">
+				<rom name="X-Racing (2019)(Brain Games)(v1.0.2)[BLOAD'CAS-',R].cas" size="50469" crc="090f6c34" sha1="e78e841625293cb803a8bcc6befdb7b7060fb9dc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a4ddab94">
+		<description>X-Racing v1.0.4 (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="50469">
+				<rom name="X-Racing (2019)(Brain Games)(v1.0.4)[BLOAD'CAS-',R].cas" size="50469" crc="a4ddab94" sha1="3dacfd8825d672688d49d8bee0c31c02f937c728" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="09fe35cc">
+		<description>X-Spelunker (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="X-Spellunker (2017)[BLOAD'CAS-',R].cas" size="33685" crc="09fe35cc" sha1="e5d812990c985ab6c907bb5f99ae556d8b624365" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="199dab71">
+		<description>X-Spelunker v1.4.2 (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="X-Spelunker (2017)(Brain Games)(v1.4.2)[BLOAD'CAS-',R].cas" size="33685" crc="199dab71" sha1="defff449c462db5adc0f0192a44d77ab0581680b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="30a99a2d">
+		<description>Xyzolog (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="29478">
+				<rom name="Xyxolog. Xyzolog (1985)(Electric Software)[b][BLOAD'CAS-',R].cas" size="29478" crc="30a99a2d" sha1="9e6d1af81581f4790ce1f149642eb71934d39554" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bbca7e5c">
+		<description>Xyzolog (baddump 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="29478">
+				<rom name="Xyxolog. Xyzolog (1985)(Electric Software)[b2][BLOAD'CAS-',R].cas" size="29478" crc="bbca7e5c" sha1="0f0a72f5a45de84975732162402127d2a391c5e1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0b5302b8">
+		<description>Yazzie (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Yazzie (2019) (Retrosouls) [BLOAD'CAS-',R].cas" size="33685" crc="0b5302b8" sha1="d6bb7bda995a78ca4f0c58986af757ff3d8774cd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="976dde28">
+		<description>Yazzie MSX Remix (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33806">
+				<rom name="Yazzie MSX Remix (2020) (Retrosouls) [BLOAD'CAS-',R].cas" size="33806" crc="976dde28" sha1="e77d30144a7b6755852b50e7f8c1846efc4442ae" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dc72a1b5">
+		<description>Yie Ar Kung Fu (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="16880">
+				<rom name="Yie Ar Kung Fu [BLOAD'CAS-',R].cas" size="16880" crc="dc72a1b5" sha1="861458b0428bd917dc7f10c82ac12d5221dc198e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b8a08324">
+		<description>Yie Ar Kung Fu II (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Yie Ar Kung Fu II[BLOAD'CAS-',R].cas" size="33685" crc="b8a08324" sha1="b6b481fed807979be407c48b9b59e9cf19f034d2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e45e3327">
+		<description>Zalbar 2784 (converted from listing in MSX Game Book page 145)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="16230">
+				<rom name="Zalbar 2784 (1985)(Login Soft)[BLOAD'CAS-',R].cas" size="16230" crc="e45e3327" sha1="9d2a7b8bce99478069054e7895bf16237d4a24e5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="53a72919">
+		<description>Zombie Calavera Prologue (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Zombie Calavera Prologue (2021) (conv Nanochess) [BLOAD'CAS-',R].cas" size="33685" crc="53a72919" sha1="589bef05d69a1c70c23f8d2f8273c6e25752248f" />
+			</dataarea>
+		</part>
+	</software>
+
+</softwarelist>
