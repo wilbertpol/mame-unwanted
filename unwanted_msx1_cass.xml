@@ -8,8 +8,37 @@ license:CC0-1.0
 
 	<!-- to sort, too new, separated tools, etc -->
  
-	<!-- too new -->
+	<!-- The DOOR-M program does not load. -->
+	<software name="miyukimm" supported="no">
+		<description>Miyuki Memorial (Japan)</description>
+		<year>1984</year>
+		<publisher>Kitty Records</publisher>
+		<notes>This set was released on 2 LPs. There are 2 programs on LP1 starting from around 39 - 40 minutes.</notes>
+		<info name="serial" value="38MS 0056/57"/>
+		<info name="usage" value="Load with CLOAD&quot;MITYUKI&quot; + RUN or CLOAD&quot;DOOR-M&quot; + RUN."/>
+		<part name="lp1" interface="msx_cass">
+			<feature name="part_id" value="LP 1"/>
+			<dataarea name="cass" size="477222552">
+				<!-- Converted from mp3 to wav. -->
+				<rom name="miyuki memorial - kitty records (lp1).wav" size="477222552" crc="bb654110" sha1="335232fa3c6a0074d657b3220bb2ed7827ce3786" status="baddump"/>
+			</dataarea>
+			<dataarea name="mp3" size="21643198">
+				<rom name="miyuki memorial - kitty records (lp1).mp3" size="21643198" crc="2ce7e7c3" sha1="ea99ecd8ac0e49ce4bb318b0001cbc9a4eae633a" />
+			</dataarea>
+		</part>
+		<part name="lp2" interface="msx_cass">
+			<feature name="part_id" value="LP 2"/>
+			<dataarea name="cass" size="477813912">
+				<!-- Converted from mp3 to wav. -->
+				<rom name="miyuki memorial - kitty records (lp2).wav" size="477813912" crc="36fe6bb1" sha1="7da2961357a4704f5a88b721ace91ca3fe061d5b" status="baddump"/>
+			</dataarea>
+			<dataarea name="mp3" size="21670156">
+				<rom name="miyuki memorial - kitty records (lp2).mp3" size="21670156" crc="1a17e0b7" sha1="73c9226adfa33ccaa7c27b5593923b20720205f5" />
+			</dataarea>
+		</part>
+	</software>
 
+	<!-- too new -->
 	<software name="fced5cdd">
 		<description>The Storekeeper</description>
  		<year>2021</year>
@@ -66,6 +95,405 @@ license:CC0-1.0
 	</software>
 
 	<!-- hacks, cracks, conversions -->
+
+	<software name="109800c4">
+		<description>Labylinth (extracted from Tape Login MSX Game Book)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="26050">
+				<rom name="Labylinth (1985)(Login Soft)[CLEAR 100,&amp;he6ff+BLOAD'CAS-'+CLOAD+RUN].cas" size="26050" crc="109800c4" sha1="85e6b9029dc915c26bd44d162a600e5ec8168ad0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="lesflicsb">
+		<description>Les Flics (Europe, does not start)</description>
+		<year>1985</year>
+		<publisher>PSS</publisher>
+		<info name="serial" value="047"/>
+		<info name="usage" value="Load with BLOAD&quot;CAS:&quot;,R."/>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="16673">
+				<rom name="les flics - pss.cas" size="16673" crc="82da40d7" sha1="f50a48ecba1f5a95d7bc618583214511d9dc7341"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8b345043">
+		<description>Lift (prefer wav version)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="8172">
+				<rom name="Lift (2021)(Inufuto).cas" size="8172" crc="8b345043" sha1="a8d4b23b5df0d96886511eedee19063788a179fc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0f84203a">
+		<description>Linez v1.0 (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Linez (2018) [Wim Dewijngaert] [BLOAD'CAS-',R].cas" size="33685" crc="0f84203a" sha1="d29df48d49323e8d9dab5ff3baf330ba9c14c84c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b79007a4">
+		<description>Linez v1.1 (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Linez (2018) [Wim Dewijngaert] [fixed] [BLOAD'CAS-',R].cas" size="33685" crc="b79007a4" sha1="e682e770907fcd76c8af43a6749c566d5b1c45dd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="73e40551">
+		<description>Lizard Willy (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="45270">
+				<rom name="Lizard Willy [BLOAD'CAS-',R].cas" size="45270" crc="73e40551" sha1="b0ae218825219b1c5c5a7e51b24586ba7a257089" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8abb1bb5">
+		<description>Lunar Ball (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Lunar Ball [BLOAD'CAS-',r].cas" size="33685" crc="8abb1bb5" sha1="1aa34264c8bb499aea6d8127909b059d35ff1cfd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c2d82fca">
+		<description>Magical Tower Adventure (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Magic Tower Adventure (2017)[Timmy] [BLOAD'CAS-',R].cas" size="33685" crc="c2d82fca" sha1="ad0801cbc0372280cffe928f835668e3cccfe0e4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="393f9628">
+		<description>Magical Computer Music (L5, extracted from CD)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="5159">
+				<rom name="Magical Computer Music L5 Demo (1985)(CBS &amp; Sony)[CLOAD].cas" size="5159" crc="393f9628" sha1="54d0e0185d63deeea308403487555a65fcf6e730" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7f4d2c03">
+		<description>Magical Computer Music (TCM, extracted from CD)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="5159">
+				<rom name="Magical Computer Music TCM Data For Yamaha SFG-01+YRM-15[BLOAD'CAS-',R].cas" size="5159" crc="7f4d2c03" sha1="b6278d4380d5677e6b65fcb9e36fd5015570d0ad" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2e449471">
+		<description>Magical Computer Music (THR, extracted from CD)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="1250">
+				<rom name="Magical Computer Music THR Data For Yamaha SFG-01+YRM-15[BLOAD'CAS-',R].cas" size="1250" crc="2e449471" sha1="da8feb21ec1dcbed78e3da5cf3df17846da92b81" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b5285e7f">
+		<description>Mazogs (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Mazogs (2017)[BLOAD'CAS-',R].cas" size="33685" crc="b5285e7f" sha1="2c6eb2f4a11f2f81c17acd32c72edd579ad90798" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="00fce85c">
+		<description>Mazy (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="6897">
+				<rom name="Mazy (2021)(Inufuto).cas" size="6897" crc="00fce85c" sha1="0e7194febef804a459ee6d6ad3a072c34888f773" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="memorycd">
+		<description>Memory (Netherlands) (does not work)</description>
+		<year>1985</year>
+		<publisher>C.D. Systems</publisher>
+		<info name="usage" value="Load with BLOAD&quot;CAS:&quot;,R."/>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="27323">
+				<rom name="memory - c.d. systems.cas" size="27323" crc="f08dc600" sha1="9e09be50cfb207549e0f178ac043e999ee4665db"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c0e41b83">
+		<description>Micky-Lucky (lst2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="26478">
+				<rom name="Micky-Lucky (Unknown, 198x).cas" size="26478" crc="c0e41b83" sha1="f296572d10c1bc03dbe4b056f0380d75a3b81d3b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9374674f">
+		<description>Micro Iligks (extracted from Tape Login MSX Game Book)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="16518">
+				<rom name="Micro Iligks (1985)(Login Soft)[CLOAD+BLOAD'CAS-'+RUN].cas" size="16518" crc="9374674f" sha1="5745a96cca03105e7cc4175521cbf118592ab03f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f93d2eab">
+		<description>Miyuki Memorial (extracted from lp1 1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="6622">
+				<rom name="Miyuki Memorial Doors (1984)(Kitty Records)[CLOAD + RUN].cas" size="6622" crc="f93d2eab" sha1="ca5180f9d7ff48ac0a3752ff0b4bb34c2f48298e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f5de1e66">
+		<description>Miyuki Memorial (extracted from lp1 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="22638">
+				<rom name="Miyuki Memorial Graphics &amp; Doors (1984)(Kitty Records)[CLOAD + RUN].cas" size="22638" crc="f5de1e66" sha1="40e04c779f5c6d25e869cd22e44d03eb79e3380f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aadf8eac">
+		<description>Miyuki Memorial (extracted from lp1 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="16017">
+				<rom name="Miyuki Memorial Graphics (1984)(Kitty Records)[CLOAD + RUN].cas" size="16017" crc="aadf8eac" sha1="27c3be9a2e1d7ce93ea6d04e531c7656db767960" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2ce7e7c3">
+		<description>Miyuki Memorial (LP1, prefer wav/lossless)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="21643198">
+				<rom name="Miyuki Memorial LP 1.mp3" size="21643198" crc="2ce7e7c3" sha1="ea99ecd8ac0e49ce4bb318b0001cbc9a4eae633a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1a17e0b7">
+		<description>Miyuki Memorial (LP2, prefer wav/lossless)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="21670156">
+				<rom name="Miyuki Memorial LP 2.mp3" size="21670156" crc="1a17e0b7" sha1="73c9226adfa33ccaa7c27b5593923b20720205f5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0722e013">
+		<description>Miyuki Memorial (pdf with listing)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="4664248">
+				<rom name="MsxMagazine198409-MiyukiGraphicsDoors.pdf" size="4664248" crc="0722e013" sha1="f874105af66b905711b1fb88a3431f889269e8de" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f27fefdb">
+		<description>Mocky (extracted from Tape Login MSX Game Book)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="16622">
+				<rom name="Mocky (1985)(Login Soft)[CLOAD+BLOAD'CAS-'+RUN].cas" size="16622" crc="f27fefdb" sha1="1d3b29532f5b0ddbd95379672da502b5ee89254a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bba2db20">
+		<description>Motkonqe (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Motkonqe (2017) (N.I.)[BLOAD'CAS-',R].cas" size="33685" crc="bba2db20" sha1="b37386e55705b5016ec198c8bff55e437530dff8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d3113f28">
+		<description>Mr. Wong's Loopy Laundry (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="14791">
+				<rom name="Mr. Wong's Loopy Laundry (1984)(Artic Computing)[b][BLOAD'CAS-',R].cas" size="14791" crc="d3113f28" sha1="c714dec8ad7c2decbf0e51abc22478c60e102af9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e1aa60f0">
+		<description>Mr. Wong's Loopy Laundry (baddump 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="14791">
+				<rom name="Mr. Wong's Loopy Laundry (1984)(Artic Computing)[b2][BLOAD'CAS-',R].cas" size="14791" crc="e1aa60f0" sha1="4d9e3cca6802f108b8fc8e0035426062f7dd4a6f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c9b429fd">
+		<description>Blagger (extracted from MSXtra)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33134">
+				<rom name="MSXtra - Blagger (1986)[Alligata][RUN'CAS-'].cas" size="33134" crc="c9b429fd" sha1="f9bca3741db8eca8186a233c335e9fc510cb57ac" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ca1b2074">
+		<description>Disc Warrior (extracted from MSXtra)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="53358">
+				<rom name="MSXtra - Disc Warrior (1986)[Alligata][RUN'CAS-'].cas" size="53358" crc="ca1b2074" sha1="8a68746b10bb3e96f8247c596dc681b6a5becc51" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="68760271">
+		<description>Neuras (prefer wav version)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="8803">
+				<rom name="Neuras (2021)(Inufuto).cas" size="8803" crc="68760271" sha1="a9e28f0c9537a623d1bef7fcbf54701223882190" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2f819997">
+		<description>Nohzdyve (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="8688">
+				<rom name="Nohzdyve (2019) (Giovanni Nunes Matt Wescott)[BLOAD'CAS-',R].cas" size="8688" crc="2f819997" sha1="0a55839fcfb19fc8bfdce8a2567c374a3cdbbe5d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0d609472">
+		<description>North &amp; South (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="60950">
+				<rom name="North &amp; South (1991)(Infogrames)(M3)(Side B)[b][RUN'CAS-'].cas" size="60950" crc="0d609472" sha1="5cd29e7aaa48e0d5c8ce548e10a16788a049153f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5733cc5c">
+		<description>North Sea Helicopter (prefer wav version)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="62720">
+				<rom name="North Sea Helicopter (1987)(Aackosoft)[RUN'CAS-'].cas" size="62720" crc="5733cc5c" sha1="d062be70d6a4179577414a5e3cf20be61c664053" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4de809b9">
+		<description>North Sea Helicopter (prefer wav version 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="61544">
+				<rom name="North Sea Helicopter (Aackosoft, 1985).cas" size="61544" crc="4de809b9" sha1="7fdefeb0b745449f22412089b138134437789df1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="463e4d87">
+		<description>Oceano (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Oregon Trail  (2020) (Cobinee and Jitursan) [BLOAD'CAS-',R].cas" size="33685" crc="463e4d87" sha1="ce71e10239faf5fd6ba97867ce065218f183bfe0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ed8ce5cc">
+		<description>Oh Shit! (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="32195">
+				<rom name="Oregon Trail  (2020) (Cobinee and Jitursan) [BLOAD'CAS-',R].cas" size="32195" crc="ed8ce5cc" sha1="f9fe72ab1acd24d6e1142711b596387289deee3f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="237c0e63">
+		<description>Oregon Trail (crt2cas conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="33685">
+				<rom name="Oregon Trail  (2020) (Cobinee and Jitursan) [BLOAD'CAS-',R].cas" size="33685" crc="237c0e63" sha1="8cab2da5968bea34e5dde068bf4050f0269d4add" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="03a461cd">
 		<description>PAC-01 (crt2cas conversion)</description>
