@@ -1717,6 +1717,17 @@ license:CC0-1.0
 
 <!-- The rest of the list -->
 
+	<software name="e9f235c8">
+		<description>Shout Match (hacked Sammi)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<rom name="Shougi Sinan 2 - Pony Canyon (1988) [2968].rom" size="0x8000" crc="e9f235c8" sha1="2d1f8f790cbddd060855ae9a3a94a17aa309eaa4" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="a6e02c26">
 		<description>10th Frame (cas2crt conversion)</description>
  		<year>19??</year>
