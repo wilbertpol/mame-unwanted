@@ -5,6 +5,100 @@ license:CC0-1.0
 -->
 <softwarelist name="unwanted_msx2_flop" description="MSX2 disk images - hacks, cracks, conversions, etc">
 
+	<!-- To Sort -->
+
+	<software name="bc2c844c">
+		<description>Wings Demo (reports not enough free memory even after CTRL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Wings Demo (2005)(Infinite)(Disk 1 of 2).dsk" size="737280" crc="bc2c844c" sha1="6d89d2ad297f001e6411a3c64281a833d4159a59" />
+				<rom name="Wings Demo (2005)(Infinite)(Disk 2 of 2).dsk" size="737280" crc="693c46e7" sha1="ffd38118fe94fa5c38f5fe699008824ceff3498d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cd566a9d">
+		<description>X Mas Quarrel (unknown when/where)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="X Mas Quarrel (19xx)(Titansoft).dsk" size="737280" crc="cd566a9d" sha1="56a3cfabfaeffa314a5b5bae45696860ebaab210" />
+				<rom name="X Mas Quarrel (19xx)(Titansoft)[a].dsk" size="737280" crc="0583f05e" sha1="ed7a4411269498a627ca8728f024b4c3414e8096" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="506775e1">
+		<description>Xak II (check changes for real alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(ja)(Disk 2 of 6)(Game Disk 1)[a4].dsk" size="737280" crc="506775e1" sha1="db1aa533f808bdec374dee335a7f98b8bbe1fcfa" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bae59362">
+		<description>ZZZ-UNK-KANA</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="ZZZ-UNK-KANA.dsk" size="737280" crc="bae59362" sha1="abdd39895f561da8a1fca37be68314effcd14fce" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1da1e70b">
+		<description>ZZZ-UNK-LOGIN</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="ZZZ-UNK-LOGIN.dsk" size="737280" crc="1da1e70b" sha1="5e2eca4ff609cd5211b9998b26480f356d9d8f61" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="592333d5">
+		<description>ZZZ-UNK-RYUZI1</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="ZZZ-UNK-RYUZI1.dsk" size="737280" crc="592333d5" sha1="c2ea5c3ef38361e0f1aa39b89a60ea85bda84a46" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ab86e8f8">
+		<description>ZZZ-UNK-SUPER BASEBALL 2[DISK 2 OF 4]</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="ZZZ-UNK-SUPER BASEBALL 2[DISK 2 OF 4].dsk" size="737280" crc="ab86e8f8" sha1="2484834219acc6359f9f06c0813f95fc4464d8ea" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="73011385">
+		<description>ZZZ-UNK-ULTIMA IV[DISK 2]</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="ZZZ-UNK-ULTIMA IV[DISK 2].dsk" size="737280" crc="73011385" sha1="124ba6ce7acb62c4e63a3d8aa5f2d72085288d40" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Hacks, Cracks, Translations, etc -->
+
 	<software name="1942">
  		<description>1942 (Japan, disk conversion)</description>
  		<year>19??</year>
@@ -1831,6 +1925,259 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="553d71e2">
+		<description>Valis - The Fantasm Soldier (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Valis - The Fantasm Soldier (1986)(Telenet Japan).dsk" size="737280" crc="553d71e2" sha1="4f9976b70b36645bce3164cdf6872c63abdf71c5" />
+				<rom name="Valis - The Fantasm Soldier (1986)(Telenet Japan)[a].dsk" size="737280" crc="bb197472" sha1="699a6654d0aee5ea45eee2385c8bbfff3c1e9027" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="54301301">
+		<description>Valis - The Fantasm Soldier II (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(ja)(Disk 1 of 4)[b].dsk" size="737280" crc="54301301" sha1="22f4ef51a68218bd5799d183d35c5b5e884c155f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="38b89a58">
+		<description>Valis - The Fantasm Soldier II (trained)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(ja)(Disk 1 of 4)[t].dsk" size="737280" crc="38b89a58" sha1="8df1518af54ae91d54b2039e750d212d970ced90" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c4546aa0">
+		<description>Valis - The Fantasm Soldier II (alt? save games?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(ja)(Disk 2 of 4)[a2].dsk" size="737280" crc="c4546aa0" sha1="e82e8a843a17c1c051d862b278816281076e9e97" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5cda1b5d">
+		<description>Valis - The Fantasm Soldier II (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(en)(Disk 1 of 4).dsk" size="737280" crc="5cda1b5d" sha1="f876effc6eebec063bad3417ff0fc190d5746bb9" />
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(en)(Disk 2 of 4).dsk" size="737280" crc="b3b023b8" sha1="43c12ee91407255e4f69c3d9195df3e778532d0c" />
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(en)(Disk 3 of 4).dsk" size="737280" crc="4450ec27" sha1="4d30e9c23ebc14f65c7583ff1103ef343054b353" />
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(en)(Disk 4 of 4).dsk" size="737280" crc="9950cedd" sha1="c1cc16c542caaec1cee8bd050d9bfdcd2bb71bb8" />
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(en)(Disk 1 of 4)[FRS Patched].dsk" size="737280" crc="9eb4f6cc" sha1="25febae8df869f0ab135d9b16645b6050272b615" />
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(en)(Disk 2 of 4)[FRS Patched].dsk" size="737280" crc="4e7ea0e1" sha1="b48c92e2df5c52ee2090666ab4cb736628effd67" />
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(en)(Disk 3 of 4)[FRS Patched].dsk" size="737280" crc="fdbf0c72" sha1="1c2033e5b5a29007a4f2ae4f5201efce667725e5" />
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(en)(Disk 4 of 4)[FRS Patched].dsk" size="737280" crc="544bf933" sha1="f8c9c5c2f32052d4227e2082904dd0e8a8c71df2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ee9051c6">
+		<description>Valis - The Fantasm Soldier II (hacked frs)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(ja)(Disk 1 of 4) (frs).dsk" size="737280" crc="ee9051c6" sha1="24c9652ed7b82c938b20ee47255bffe722c1e0ee" />
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(ja)(Disk 2 of 4) (frs).dsk" size="737280" crc="940416ab" sha1="f0951d3898a3b262d24aa595bd0b3c894884ace6" />
+				<rom name="Valis - The Fantasm Soldier II (1989)(Telenet Japan)(ja)(Disk 4 of 4) (frs).dsk" size="737280" crc="dcf7a7ff" sha1="f0fa4e3748a6fd756d213b57e666c7f8da155770" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2da76a0d">
+		<description>Vaxol (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Vaxol (1987)(Heart Soft)[b].dsk" size="737280" crc="2da76a0d" sha1="da88e1fc2f163141f215719f0fdeadd2dc08c941" />
+				<rom name="Vaxol (1987)(Heart Soft)[b2].dsk" size="737280" crc="ad5af13b" sha1="c0cc165b673f939722e266c3c33ace1cfabf61b8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="11d39eea">
+		<description>Vectron (extracted from compilation)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Vectron (1989)(Parallax)[a1].dsk" size="737280" crc="11d39eea" sha1="2079621d00f031fd3530c31a160a5e501d5ec77c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e79a2c24">
+		<description>Vectron (extracted from compilation 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Vectron (1989)(Parallax).dsk" size="737280" crc="e79a2c24" sha1="dcc2e551c0017e81e275c4d3d01e21d644dd9eb4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7207ff0a">
+		<description>Vectron (extracted from compilation 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Vectron (1989)(Parallax)[a].dsk" size="737280" crc="7207ff0a" sha1="7456e64aeae5c7e5efe74665a9c79d5ede3fd17d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d7104994">
+		<description>Vectron (extracted from compilation 4)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Vectron (1989)(Parallax)[a2].dsk" size="737280" crc="d7104994" sha1="c74a87995aa7031a9e2c316c2370daa90913dfcd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eeeaa63a">
+		<description>VS Rotation (created with DiskMgr1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="vsrotation.dsk" size="737280" crc="eeeaa63a" sha1="a7f2449a091e57220155ca8589cfc54b48e85c40" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fe18baa0">
+		<description>War in Middle Earth (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="War in Middle Earth [T-En by Robsy v1.0].dsk" size="737280" crc="fe18baa0" sha1="dc0190c5f981221d6ff6ec36450a329d60e364fb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6198d406">
+		<description>Wast Year Iron Maiden (does not work)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Wast Year Iron Maiden (1989)(Unicorn).dsk" size="737280" crc="6198d406" sha1="1e4a358cbfd36783176d1e406ba9ed4fb78fc45f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8cf9d1eb">
+		<description>Wellen (created with NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Wellen (1997)(Frieve).dsk" size="737280" crc="8cf9d1eb" sha1="4aa17d3de47166087b90d95897414b568e639dd8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d7aab190">
+		<description>Wellen (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Wellen (1997)(Frieve)[a].dsk" size="737280" crc="d7aab190" sha1="062a80cfa28d43273949f2c806a09f92b96ceb54" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d819bddf">
+		<description>What's Michael (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="What's Michael (1989)(Micro Cabin)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="d819bddf" sha1="0779c6d1d386c227f10a00644c11fb4a80210189" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5a658459">
+		<description>Wing Man Special (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Wing Man Special (1988)(Enix)(ja)(Disk 1 of 2)[Fixed GFX by PAC).dsk" size="737280" crc="5a658459" sha1="74aa2f6deac852f3217e98ecec092f2cf3e7f606" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c6c26489">
+		<description>Winglancer (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Winglancer (2002)(Zap)[v1.4].dsk" size="737280" crc="c6c26489" sha1="7bcb60156e5a847cf2010805d6c566e16eed6c20" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5c2d390d">
+		<description>Wings of Arugisu (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Wings of Arugisu [T-En by Django].dsk" size="737280" crc="5c2d390d" sha1="03afa2372c44a5e4e56b25d213ff0f574459d9a2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="998f31fd">
+		<description>Wiz Kids (alt?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Wiz Kids (1991)(Emutsu No Tomo)(jp).dsk" size="737280" crc="998f31fd" sha1="0b4647928a08493ab950788b759fdc038cb56492" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="be4ebf93">
+		<description>Wizardry Scenarion 3 (user disk)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Wizardry - Legacy of Llylgamyn - The Third Scenario (1990)(Sir-Tech)(ja)(User Disk).dsk" size="737280" crc="be4ebf93" sha1="ce9612195e2d8581d21643dca476640b36b9311c" />
+			</dataarea>
+		</part>
+	</software>
+
  	<software name="woodypoc">
  		<description>Woody Poco (Japan, disk conversion)</description>
  		<year>19??</year>
@@ -1853,6 +2200,154 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="1471dfc2">
+		<description>Word Up (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Word Up (1988)(FSS).dsk" size="737280" crc="1471dfc2" sha1="48b3cc176662c17af591b91981cac853a49da976" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ef4d19cb">
+		<description>Word Up (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Word Up (1988)(FSS)[a].dsk" size="737280" crc="ef4d19cb" sha1="603d0a515bd9f545eeb5b85d5ba5e40a3ee0af5c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e457d0fb">
+		<description>X-Tazy (unfinished/not released)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="X-Tazy Intro Demo (20xx) (Abyss).DSK" size="737280" crc="e457d0fb" sha1="0ade56034bc9c1cf3d2c698a8f50be7bab714b6f" />
+				<rom name="X-Tazy Level 1 (20xx) (Abyss).DSK" size="737280" crc="d490e9f4" sha1="2225054e7a393c18e8978be5b597ea95337cfdb5" />
+				<rom name="X-tazy Level 2 (20xx) (Abyss).DSK" size="737280" crc="5df8f563" sha1="a8e61250eb409e85317a73ed6e8f5a2998ef1024" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c13dc9d7">
+		<description>Xak (hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Xak - The Art of Visual Stage v2 (1989)(Micro Cabin)(ja)(Disk 2 of 3)(Game Disk 1).dsk" size="737280" crc="c13dc9d7" sha1="5ba7e50091104b0025c243c749cfab48e1e9e62c" />
+				<rom name="Xak - The Art of Visual Stage v2 (1989)(Micro Cabin)(ja)(Disk 3 of 3)(Game Disk 2).dsk" size="737280" crc="444ad667" sha1="de52dbba0fb5a4c729bef8f19e43f5df01efe0dc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="35f434eb">
+		<description>Xak (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Xak - The Art of Visual Stage (1989)(Micro Cabin)(en)(Disk 1 of 3)(Opening Disk).dsk" size="737280" crc="35f434eb" sha1="b2303f80a1f49d81fa74cd04df43455927f8b2b3" />
+				<rom name="Xak - The Art of Visual Stage (1989)(Micro Cabin)(en)(Disk 2 of 3)(Game Disk 1).dsk" size="737280" crc="cea2e15f" sha1="bfab93c55a04adf8e49d211f26b189e5b6eeac2d" />
+				<rom name="Xak - The Art of Visual Stage (1989)(Micro Cabin)(en)(Disk 3 of 3)(Game Disk 2).dsk" size="737280" crc="7071d288" sha1="a52cb8e05863a7b0892b54ee5ed98c489a954d6b" />
+				<rom name="Xak - The Art of Visual Stage (1989)(Micro Cabin)(en)(User Disk).dsk" size="737280" crc="1265575f" sha1="4e5f36168f348fe20551daad97766f8511dfd0cd" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="237342b8">
+		<description>Xak II (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(en)(Disk 1 of 6)(Opening Disk).dsk" size="737280" crc="6536b2e6" sha1="677f5989b53b72564d0ab8d5ee1bfb8f35d4f3d8" />
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(en)(Disk 2 of 6)(Game Disk 1).dsk" size="737280" crc="03b33132" sha1="4afbe7a103a1a1956ce653762be9b532e7aabc5f" />
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(en)(Disk 3 of 6)(Game Disk 2).dsk" size="737280" crc="416a4d2c" sha1="de969546243efd6aa3aaca53151cce653574be80" />
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(en)(Disk 4 of 6)(Game Disk 3).dsk" size="737280" crc="3c463922" sha1="a680c86a2b6bf8890655a50528dda3da98fd0bc8" />
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(en)(Disk 5 of 6)(Game Disk 4).dsk" size="737280" crc="40c7e431" sha1="c9962d96e6b3f9e0d4311bd7a9d65743b5e84e2b" />
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(Disk 6 of 6)(User Disk).dsk" size="737280" crc="237342b8" sha1="a6eb716d16e6f87b97bfc43bb5f9f0055d4b3a43" />
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(Disk 1 of 6)(Opening Disk).dsk" size="737280" crc="26dd219e" sha1="e726fef048762edf063a94bd9b87dceab3a573e9" />
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(Disk 2 of 6)(Game Disk 1).dsk" size="737280" crc="a277ad41" sha1="bc69766267fac88aa57d81d2ab3693cf7f97fc41" />
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(Disk 2 of 6)(Game Disk 1)[a].dsk" size="737280" crc="6e0782bb" sha1="ba4932fef71b80984a8aec76a5b7084585101071" />
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(Disk 3 of 6)(Game Disk 2).dsk" size="737280" crc="1b9136ca" sha1="f6d75146ba111c815f09bf74823300cbbe78840c" />
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(Disk 4 of 6)(Game Disk 3).dsk" size="737280" crc="aa066998" sha1="703245751a739d43054135a7bdb22f8e2410f0e1" />
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(Disk 5 of 6)(Game Disk 4).dsk" size="737280" crc="70df2431" sha1="a48b4c031a057eba5ac1bc45ae549fecebdeba60" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="80563bd6">
+		<description>Xak II (cracked SMA)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(ja)(Disk 1 of 6)(Opening Disk)[cr SMA].dsk" size="737280" crc="80563bd6" sha1="7ef2409a6ed5bab5a8706892c60c46dea911fa4d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ee35403d">
+		<description>Xak II (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Xak II - The Rising of the Red Moon (1990)(Micro Cabin)(ja)(Disk 2 of 6)(Game Disk 1)[b].dsk" size="737280" crc="ee35403d" sha1="c523c4902ea3fed69a52a99754f0a6509458f924" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5677a222">
+		<description>Xak III - The Tower of Gazzel (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Xak III - The Tower of Gazzel (1991)(Micro Cabin)(en)(Disk 1 of 4)(Opening Disk).dsk" size="737280" crc="1227a3a2" sha1="8f5a13d679d2c5cc0bbb0aeaf55468b1f1fe5f28" />
+				<rom name="Xak III - The Tower of Gazzel (1991)(Micro Cabin)(en)(Disk 2 of 4)(Cabin Times).dsk" size="737280" crc="9dd095bc" sha1="602549f7be4621c78f4eb05d71e9b67e8b9447f4" />
+				<rom name="Xak III - The Tower of Gazzel (1991)(Micro Cabin)(en)(Disk 3 of 4)(Game Disk 1).dsk" size="737280" crc="3441ceb8" sha1="d55f91f09441f66abd9ba8f24c7301242c6cb2f0" />
+				<rom name="Xak III - The Tower of Gazzel (1991)(Micro Cabin)(en)(Disk 4 of 4)(Game Disk 2).dsk" size="737280" crc="5677a222" sha1="ef9a7746ffad24ebf48863a272a999effbf0a28d" />
+				<rom name="Xak III - The Tower of Gazzel (1991)(Micro Cabin)(Disk 1 of 4)(Opening Disk)[a].dsk" size="737280" crc="f07d1ef0" sha1="9cf6e2f5871fec8d95f5fa5751a83b1788faa95c" />
+				<rom name="Xak III - The Tower of Gazzel (1991)(Micro Cabin)(Disk 2 of 4)(Cabin Times)[a].dsk" size="737280" crc="231c2d86" sha1="38022c889dd081437638f88782c90263e4c9d2dc" />
+				<rom name="Xak III - The Tower of Gazzel (1991)(Micro Cabin)(Disk 3 of 4)(Game Disk 1)[a].dsk" size="737280" crc="7738635e" sha1="570819396c461bd40d9dbbdb18a46952ff940a86" />
+				<rom name="Xak III - The Tower of Gazzel (1991)(Micro Cabin)(Disk 4 of 4)(Game Disk 2)[a].dsk" size="737280" crc="0cd6d85d" sha1="d8275b8ebfb855d84560d61b778a561ad49b7899" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0d427edd">
+		<description>Xak III - The Tower of Gazzel (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Xak III - The Tower of Gazzel (1991)(Micro Cabin)(Disk 1 of 4)(Opening Disk).dsk" size="737280" crc="405160c0" sha1="06042ce12d2b4c16357ea6385335c232698d02d1" />
+				<rom name="Xak III - The Tower of Gazzel (1991)(Micro Cabin)(Disk 2 of 4)(Cabin Times).dsk" size="737280" crc="4437d318" sha1="6daeaaf7afc74a09ceb51adc39ac9390c18bd456" />
+				<rom name="Xak III - The Tower of Gazzel (1991)(Micro Cabin)(Disk 3 of 4)(Game Disk 1).dsk" size="737280" crc="1006eb21" sha1="e20de4cddb47c22c1e2446877ed88cee53d19557" />
+				<rom name="Xak III - The Tower of Gazzel (1991)(Micro Cabin)(Disk 4 of 4)(Game Disk 2).dsk" size="737280" crc="0d427edd" sha1="418425b63d5924309d580488002c881b9b174a21" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="df72d567">
+		<description>Xak III - The Tower of Gazzel (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Xak III - The Tower of Gazzel (1991)(Micro Cabin)(ja)(Disk 3 of 4)(Game Disk 1)[b].dsk" size="737280" crc="df72d567" sha1="99f2d345f1d72d9850e4d854f7b626ced80ce6ec" />
+			</dataarea>
+		</part>
+	</software>
+
  	<software name="xevious">
  		<description>Xevious - Fardraut Saga (Japan, disk conversion)</description>
  		<year>19??</year>
@@ -1874,6 +2369,199 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="2f6c618f">
+		<description>Xevious (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Xevious - Fardraut Saga + Contra. Gryzor (1989)(Namcot - Konami)[cr SMA][b].dsk" size="737280" crc="2f6c618f" sha1="5e3a7c8f318284398a343a9e722df94d0612cd18" />
+				<rom name="Xevious - Fardraut Saga + Contra. Gryzor (1989)(Namcot - Konami)[cr SMA][b2].dsk" size="737280" crc="187db52e" sha1="283cfcdeb864d2d296c5271c9b6471171db2b9d7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="86cba982">
+		<description>Zukkoke Yajikita (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="XYZ (1987)(Hal).dsk" size="737280" crc="86cba982" sha1="75f0df99c300f3087b3ab714901d4546698cc60d" />
+				<rom name="XYZ (1987)(Hal)[a].dsk" size="737280" crc="aac2aaa7" sha1="1aef780e6e2a6e0d370c033a308d08f4831e8689" />
+				<rom name="XYZ (1987)(Hal)[a2].dsk" size="737280" crc="15e8ae0f" sha1="76569e5ded440faec0b1cf0924a65349b65a9bec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b3382a5d">
+		<description>XZR (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="XZR (1988)(Telenet Japan)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="b3382a5d" sha1="b43d35793ccdc0022349c5264e559ff943805315" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bb0482bd">
+		<description>XZR II (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="XZR II (1988)(Telenet Japan)(en)(Disk 1 of 2).DSK" size="737280" crc="bb0482bd" sha1="0d82652247bbfca902db22a6f366672700b14b52" />
+				<rom name="XZR II (1988)(Telenet Japan)(en)(Disk 2 of 2).DSK" size="737280" crc="71371649" sha1="13777e8495ba903e9e25e3e98a59de19669c8766" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9eca46cc">
+		<description>XZR II (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="XZR II (1988)(Telenet Japan)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="9eca46cc" sha1="ce4aa793172675ff34806d5195b454402b1d0a6d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="40651bf6">
+		<description>Yaksa (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Yaksa (1987)(Wolfteam)(ja)[b].dsk" size="737280" crc="40651bf6" sha1="41b24645aac5bfc4212652adbe5355419cf124fb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bce72d24">
+		<description>Yoshida Konzern (user games)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Yoshida Konzern - Gladius [T-En by MSX Translations v1.0].dsk" size="737280" crc="bce72d24" sha1="8645b4675af2306c6aed9b524f5f05611c972990" />
+				<rom name="Yoshida Konzern - Lubeck [T-En by MSX Translations v1.0].dsk" size="737280" crc="1c3dda21" sha1="6f5fdb2911587ddd73748329428a9e311dbe03ec" />
+				<rom name="Yoshida Konzern - Might and Magic 2 - Shot to another World [T-En by MSX Translations v1.0].dsk" size="737280" crc="a86d1b17" sha1="54337408d46715fd683e4f4653f093d03a322deb" />
+				<rom name="Yoshida Konzern - Shooting Game Construction Tool [T-En by Takamichi Suzukawa, Tsunami &amp; Max Iwamoto v0.5.0].dsk" size="737280" crc="1fe293d4" sha1="2ade247f55507746606a8bce892013304bd02d7e" />
+				<rom name="Yoshida Konzern - Turtle Mania (demo) [T-En by MSX Translations v1.0].dsk" size="737280" crc="629f6d4f" sha1="ca775c2163eb02c19c4a0d9d0c99c01ac7979748" />
+				<rom name="Yoshida Konzern. Game Editor 2 - Demo Game 1 (1990)(MSX Magazine)(ja).dsk" size="737280" crc="d57b77cd" sha1="d7e5a3a07ec46bb4d7953358e4835c1e5f6d383a" />
+				<rom name="Yoshida Konzern. Game Editor 2 - Demo Game 2 (1990)(MSX Magazine)(ja).dsk" size="737280" crc="394913d8" sha1="28b18049228f35e4ff90eb310c59183a184125aa" />
+				<rom name="Yoshida Konzern. Game Editor 2 - Demo Game 3 (1990)(MSX Magazine)(ja).dsk" size="737280" crc="763f041f" sha1="587245beafe79aaeac2fc5ac7671297862cda6ec" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="be6df55e">
+		<description>Yoshida Koumuten Data Library (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Yoshida Komouten Data Library vol1 (en).dsk" size="737280" crc="be6df55e" sha1="8517fd688f7c05d78a2cd7ac450231ec9e8bc28f" />
+				<rom name="Yoshida Komouten Data Library vol2 (en).dsk" size="737280" crc="6693df3f" sha1="fe514cb1a78a92be1c28003febf843d7c8b067f2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e2038589">
+		<description>Yoshida Koumuten (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Yoshida Koumuten original 1 (en).dsk" size="737280" crc="e2038589" sha1="3b0182985e372207190909dc9379433f0c801b54" />
+				<rom name="Yoshida Builder - Final Potential [T-En 1.0 by 232 &amp; BiFi].dsk" size="737280" crc="e8193318" sha1="054805c9190722c0c9702f81fca1597ad4494410" />
+				<rom name="Yoshida Builder - Saladerman [T-En 1.0 by 232 &amp; BiFi].dsk" size="737280" crc="68b8c4e0" sha1="cb4ec9e5fd40eef408af9f584d1616dbde01867f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="92c88d64">
+		<description>Youma Kourin (cracked SMA)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Youma Kourin (1989)(Nippon Dexter)(ja)[cr SMA].dsk" size="737280" crc="92c88d64" sha1="3f3d720c6b1f864c8e341c7527dbb166fc77bb68" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d862ecdb">
+		<description>Ys III - Wanderers from Ys (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Ys III - Wanderers from Ys (Disk 1) [T-En by Oasis 1.0 + Fixes by 232].dsk" size="737280" crc="d862ecdb" sha1="0027cd7da6e596e98aec87adcc83fc26f0b8643d" />
+				<rom name="Ys III - Wanderers from Ys (Disk 2) [T-En by Oasis 1.0 + Fixes by 232].dsk" size="737280" crc="c61f22d7" sha1="fec512d16a0b310011b87bff25db3e5a0ce865b2" />
+				<rom name="Ys III - Wanderers from Ys (Disk 3) [T-En by Oasis 1.0 + Fixes by 232].dsk" size="737280" crc="b22d772a" sha1="ec563cd505a31e6f0db72fbd76af06ed8d1c434a" />
+				<rom name="Ys III - Wanderers from Ys (Disk 4) [T-En by Oasis 1.0 + Fixes by 232].dsk" size="737280" crc="e057aa25" sha1="df25ab51b55839e627f0acc1d626cfb028309324" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dfa81c26">
+		<description>Yume Pro RPG Gratitude Edition (saved data?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Yume Pro RPG Gratitude Edition (1994)(Syntax)(jp)[a].dsk" size="737280" crc="dfa81c26" sha1="b54da8f9a8a7bd7f1db344b62d9c44820cb52e24" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b55f8602">
+		<description>Yume Pro RPG Gratitude Edition (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Yume Pro RPG Gratitude Edition (1994)(Syntax)(jp)[b].dsk" size="737280" crc="b55f8602" sha1="903166c3e11d7b9464f26ccd78fe812266207ccc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="034ae3a7">
+		<description>Yumeji (fixed and cracked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Yumeji (1992)(Fairytale)(Disk 1 o f 3)[Fixed &amp; Cracked].dsk" size="737280" crc="0eb2fef6" sha1="a16af7666e4262b51152b759db9a640d8722284f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a64f6f78">
+		<description>Yuurei Kun (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Yuurei Kun 2. Mr Ghost 2 (1989)(System Sacom)[a].dsk" size="737280" crc="a64f6f78" sha1="5923fbedb5a41b499f17fd4c60f3c2b0993a296a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c00ffefd">
+		<description>Yuurei Kun (extracted from Disc Station)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Yuureikun - Mr Ghost (Disc Station Edition)(1989)(System Sacom).dsk" size="737280" crc="c00ffefd" sha1="a91a5938cdb2a1cec673a228501610bdade10e34" />
+			</dataarea>
+		</part>
+	</software>
 
  	<software name="yuurei">
  		<description>Yuurei-kun (Japan, disk conversion)</description>
@@ -1907,6 +2595,50 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="d5efc4c0">
+		<description>Z80 Turbo Pascal v3.3f (created with RuMSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="741376">
+				<rom name="Z80 Turbo Pascal v3.3f (1999)(MSX Computer Club Enschede)[o].dsk" size="741376" crc="d5efc4c0" sha1="fd534dd1f09dbf3248d570894b4714846e90ef23" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="51cae829">
+		<description>Zanac (hacked, disk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Zanac Metalica v2 (1988)(Pony Canyon).dsk" size="737280" crc="51cae829" sha1="a3e36f81dcba0c21d8e2c5760cd8cfca1add7ab1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="985e2a43">
+		<description>Zanac (hacked, disk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Zanac Metalica v2 (1988)(Pony Canyon)[a].dsk" size="737280" crc="985e2a43" sha1="b27ddabb775dc19d33ce225dd10721d32580682a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ee7712e3">
+		<description>Zanac-Ex (hacked MSX-Audio, disk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Zanac-Ex (1986)(Compile)(MSX-Audio Version).DSK" size="737280" crc="ee7712e3" sha1="f39130f12b1a806e66bd388a97673af776266477" />
+			</dataarea>
+		</part>
+	</software>
 
  	<software name="zanacex">
  		<description>Zanac EX (Japan, disk conversion)</description>
@@ -1973,5 +2705,60 @@ license:CC0-1.0
 			</dataarea>
  		</part>
  	</software>
+
+	<software name="2fe42c5e">
+		<description>Zoo (hacked file-hunter)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Zoo (uk) Radarsoft 1997.dsk" size="737280" crc="2fe42c5e" sha1="528288874f2daeaba956258285d2e055a5468523" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1b32f468">
+		<description>Zoto (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Zoto (1987)(Scorpionsoft)(nl)[a].dsk" size="737280" crc="1b32f468" sha1="5e84eb1f30ea25b24cfd4f11e5aa200a745cd760" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7f4142fd">
+		<description>Zoto (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Zoto (1987)(Scorpionsoft)(nl)[a2].dsk" size="737280" crc="7f4142fd" sha1="f10246697a86f176b59c1c9a00f619b39d25a779" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f93dd538">
+		<description>Zowazo World (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Zowazo World. Zaworzo Robot Construction (1989)(MSX Magazine)[b].dsk" size="737280" crc="f93dd538" sha1="e0c69e109d3cd1acc767d9b1d458a137467e1f48" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a97924bd">
+		<description>Zowazo World (with save)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Zowazo World. Zaworzo Robot Construction + The Flintstones (1989)(MSX Magazine - Grandslam Entertainments)(GB).dsk" size="737280" crc="a97924bd" sha1="c57b72ee076b07b4879d432d4123bf2fe13f8b1d" />
+			</dataarea>
+		</part>
+	</software>
 
 </softwarelist>
