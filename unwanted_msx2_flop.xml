@@ -7,6 +7,217 @@ license:CC0-1.0
 
 	<!-- To Sort -->
 
+	<software name="b282069f">
+		<description>The Tenor (demo) (unknown who)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tenor, The (demo) (1989)(-).dsk" size="737280" crc="b282069f" sha1="b6d2c464a151a57ca540b9c8a2874ab984bee629" />
+				<rom name="Tenor, The (demo) (1989)(-)[a].dsk" size="737280" crc="48670387" sha1="2cbcae15b0b02c96837975ac6f3a28c5f3cf07c9" />
+				<rom name="Tenor, The (demo) (1989)(-)[a2].dsk" size="737280" crc="a1f8300b" sha1="7234f5df9f891ea492a29835849f44f409b476ae" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dda25871">
+		<description>Test Driver (no title screen)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Test Driver (1988)(Charada).dsk" size="737280" crc="dda25871" sha1="f6694ba50ed9eaf33e90eed3426796022579313b" />
+				<rom name="Test Driver (1988)(Charada)[a].dsk" size="737280" crc="dd9aac41" sha1="65282bffd0bbe6205c62d3ccac20608c78156408" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="tetris2">
+		<description>Tetris II (gives syntax error; protection?)</description>
+		<year>1999</year>
+		<publisher>R.A.M.</publisher>
+		<info name="usage" value="Requires MSX-DOS2."/>
+		<part name="flop1" interface="floppy_3_5">
+			<feature name="part_id" value="Disk 1"/>
+			<dataarea name="flop1" size="737280">
+				<rom name="tetris ii - r.a.m. (disk 1).dsk" size="737280" crc="d9be927a" sha1="17fedd818f3a443349d946d9154c21ba36acb0df"/>
+			</dataarea>
+		</part>
+		<part name="flop2" interface="floppy_3_5">
+			<feature name="part_id" value="Disk 2"/>
+			<dataarea name="flop1" size="737280">
+				<rom name="tetris ii - r.a.m. (disk 2).dsk" size="737280" crc="755c22a3" sha1="f8506987d6b847d4f6118c0eccfbac33273b9296"/>
+			</dataarea>
+		</part>
+		<part name="flop3" interface="floppy_3_5">
+			<feature name="part_id" value="Disk 3"/>
+			<dataarea name="flop1" size="737280">
+				<rom name="tetris ii - r.a.m. (disk 3).dsk" size="737280" crc="1ac7fff7" sha1="5d832392f8a2321a320dc0e4a187215b21ddad7f"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="162a5872">
+		<description>Tetrix (unknown who, when, where)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tetrix (19xx)(-)(es).dsk" size="737280" crc="162a5872" sha1="7678d0ccf7a135e0a2d47d38210abe2eaadb1a16" />
+				<rom name="Tetrix (19xx)(-)(es)[a].dsk" size="737280" crc="bd61d6bd" sha1="71834206351f98b5290da380a3966fb9e41935eb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fa37c4fb">
+		<description>The Incredible Micro Mirror Men (instable, needs 256KB mapper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="The Incredible Micro Mirror Men (Lemmings) (1996)(NOP).dsk" size="737280" crc="fa37c4fb" sha1="a6c09d9ed2b3f8cc160fd9c5bfaf567ce4a37fa0" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="21b227f9">
+		<description>The Incredible Micro Mirror Men (instable, needs 512KB mapper)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="The Incredible Micro Mirror Men (Lemmings) - rebooted_20200812 (1996)(NOP).dsk" size="737280" crc="21b227f9" sha1="9ddd59234f24d0bc933ec6f68d499220d98b8d7c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9bcbd5e9">
+		<description>The Legend of Zelda v1.3 (XBasic2 demo)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="The Legend of Zelda (MSXosaure, 2011).dsk" size="737280" crc="9bcbd5e9" sha1="63411ff746a4d0660b3796225f35cb6c0f71633f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8ff192e6">
+		<description>Tir-nan-og (alt, looks cleaner)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tir-nan-og (1990)(System Soft)(ja)(Disk 2 of 3)[a2].dsk" size="737280" crc="8ff192e6" sha1="f14a0c79e4059a19c0ec531a7c1c9997aae2f46c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7ef6bfac">
+		<description>Touwtrekken (unknown when, real release??)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Touwtrekken - Tug-of-War (19xx)(Smeekes)(nl).dsk" size="737280" crc="7ef6bfac" sha1="42ca41bd624c7139b65dd076be71e3b65b3b54fe" />
+				<rom name="Touwtrekken - Tug-of-War (19xx)(Smeekes)(nl)[a].dsk" size="737280" crc="e66ff567" sha1="b58c53c3aeb639792b7f9f29398cda176905d7ed" />
+				<rom name="Touwtrekken - Tug-of-War (19xx)(Smeekes)(nl)[a2].dsk" size="737280" crc="92a63a4c" sha1="e66e6e9323a71ef09abe8e34241742d01718e8da" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="20286861">
+		<description>Triathlon James Bond 007 (real release??)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Triathlon James Bond 007 (1987)(Philips)(nl).dsk" size="737280" crc="20286861" sha1="9d4c6c58e1b26227704d2f18e1a7cfb9a3fd1cc3" />
+				<rom name="Triathlon James Bond 007 (1987)(Philips)(nl)[a].dsk" size="737280" crc="b2ef3fc0" sha1="e87133333f74cd41c0a57cd0afbf9d55543d771f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="92b0b2ed">
+		<description>Twilight Zone III (cannot start a game)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Twilight Zone III (1989)(Great) (Disk 1 of 3).dsk" size="737280" crc="92b0b2ed" sha1="3568d6d7fead9c8fba435bea43aea47cfd0c60a2" />
+				<rom name="Twilight Zone III (1989)(Great) (Disk 2 of 3).dsk" size="737280" crc="cd79b674" sha1="54dd646d037d3241bc22dd1dc4c06396a2854534" />
+				<rom name="Twilight Zone III (1989)(Great) (Disk 3 of 3).dsk" size="737280" crc="9cda0d3e" sha1="b1b9adad844099b34c8aa6262c4591212093b511" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="055994ff">
+		<description>Ultra Sonic Waves Demo (does not start)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Ultra Sonic Waves Demo (1999)(TeddyWarez).dsk" size="737280" crc="055994ff" sha1="ed586f5d582d127b9675fda1a50cf1038d0ebc05" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="90a9376c">
+		<description>Universal Megarom Copy (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Universal Megarom Copy (1988)(SMA).dsk" size="737280" crc="90a9376c" sha1="91babeb397f3e33a857e1c8212e57829c53b5ee1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6b03845f">
+		<description>Uwasa (unknown who/when/where)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Uwasa (19xx)(-).dsk" size="737280" crc="6b03845f" sha1="d36cedd9fca10a554d90564b9dd8fcc0e054a37b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9f965f9b">
+		<description>Uxsis Second Demo (unknown when/where)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Uxsis (19xx)(-).dsk" size="737280" crc="9f965f9b" sha1="ed418dd92571c991a9f93712fcc778a6af24173b" />
+				<rom name="Uxsis (19xx)(-)[a].dsk" size="737280" crc="7215a32a" sha1="76e7b34f7dbaafdc5e4333b5884b2c008436e559" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="506a759b">
+		<description>UZIX v1.0.5 (to investigate)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="UZIX v1.0.5 (19xx)(Adriano Cunha)(beta).dsk" size="737280" crc="506a759b" sha1="1937cad24b682749539d97619635a47ddbed41c2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b90606bf">
+		<description>UZIX v2.0.0 (to investigate)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="UZIX v2.0.0 (2001)(Adriano Cunha).dsk" size="737280" crc="b90606bf" sha1="1cabc66d36581434c34c6406525d9ba7104c8f27" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="bc2c844c">
 		<description>Wings Demo (reports not enough free memory even after CTRL)</description>
  		<year>19??</year>
@@ -1837,6 +2048,250 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="b0db20ca">
+		<description>T.D.F. (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="T.D.F. - Terrestrial Defense Force [T-En by Django].dsk" size="737280" crc="b0db20ca" sha1="7ecd9b49a3d48925bf7f46f4a24ccacb77049a53"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a041fe43">
+		<description>Tako and Ika (extracted from MSX Fan Disk)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tako and Ika (1992)(Ofuko).dsk" size="737280" crc="a041fe43" sha1="abbc9350f49c9ccd92841860225c00fe9b95c00e"/>
+				<rom name="Tako and Ika (1992)(Ofuko)[a].dsk" size="737280" crc="26eac7b0" sha1="d3d10fc5e09fa2c33a9aa7d5c66379bca95af71a"/>
+				<rom name="Tako and Ika (1992)(Ofuko)[en].dsk" size="737280" crc="73591a54" sha1="cea256af594e08a1fc8764b9aa10b355f4415866"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d16692da">
+		<description>Takoika (unknown who, when, where, unfinished?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Takoika (19xx)(-).dsk" size="737280" crc="d16692da" sha1="0d51450231735c031d97c61e8448bcbd88b345bd"/>
+				<rom name="Takoika (19xx)(-)[a].dsk" size="737280" crc="2ce8737e" sha1="275a8d6ea7f4aec651eb7936b5ce713bd01f0fb1"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="42136ca3">
+		<description>Tashiro Masashi (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tashiro Masashi no Princess ga Ippai. What Many Princess (1989)(Sony)(en).dsk" size="737280" crc="42136ca3" sha1="a344d94e39f49d817a486d0c9df696613dfd57f6"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="173065e6">
+		<description>Teddy's in Action (does not start)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Teddy's in Action Demo v1.2 (1998)(TeddyWarez)[SCC].dsk" size="737280" crc="173065e6" sha1="3c70c4729239e8e24b9eef8c8d04a2e7028a893f"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="74cc4060">
+		<description>Tempo Typen (hacked? double sided disk)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tempo Typen (1986)(Radarsoft)(nl).dsk" size="737280" crc="74cc4060" sha1="fea513529d801b8183b429cd272845655cb19faf"/>
+				<rom name="Tempo Typen (1986)(Radarsoft)(nl)[a2].dsk" size="737280" crc="c8f8f22f" sha1="8d257c16f2a82ca9b7b29e9cdd4999234b9ac71f"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c0b3f90b">
+		<description>Tempo Typing (hacked? Contains MSX game names including titles released in 1988 and later)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tempo Typing English (1986)(Radarsoft).dsk" size="368640" crc="c0b3f90b" sha1="5e62e13fbb41010e2ec3814057b8d54946c3c2c6"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8bbb6cad">
+		<description>Tenkyuhai Special (contains additional files)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tenkyuhai Special - Tougen no Utage (1989)(Panther Software)(ja).dsk" size="737280" crc="8bbb6cad" sha1="bb1d616b53ee9576bbf839c6589c5932873ab85f"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c68fe606">
+		<description>Testament (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Testament (1988)(Basho House)(Disk 1 of 2)(en).dsk" size="737280" crc="c68fe606" sha1="d6b4088548851716b8ecb23f497da692dc531139"/>
+				<rom name="Testament (1988)(Basho House)(Disk 2 of 2)(en).dsk" size="737280" crc="1d9e1bda" sha1="5145e87ed25c4da6c703c0b9c9fc1091f3a1e20e"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="992c1c20">
+		<description>Tetris Disney (not starting automatically/not finished)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tetris Disney (1990)(MiChi).dsk" size="737280" crc="992c1c20" sha1="c2148282f498445fbeeb6bc535b5eadda33f3220"/>
+				<rom name="Tetris Disney (1990)(MiChi)[a].dsk" size="737280" crc="ba05b775" sha1="197330e7ade43579d3a452ead384bfa257afd095"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1b277614">
+		<description>Tetris (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tetris (1988)(BPS)[b].dsk" size="737280" crc="99fce08a" sha1="ddf590d0582e07077e711b7f0d7e7a34357ceaf6"/>
+				<rom name="Tetris v2 (1988)(BPS)[b].dsk" size="737280" crc="1b277614" sha1="de0c57f8b0fa491fb0cff58506db0b964bc000b7"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="139a356b">
+		<description>The Fighting Sailor Fuku (trained)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="The Fighting Sailor Fuku (1990)(Cocktail Soft)(ja)(Trainer)(Disk 1 of 3).dsk" size="737280" crc="139a356b" sha1="edb3caf92585c71d237c044d39839bfea201eded"/>
+				<rom name="The Fighting Sailor Fuku (1990)(Cocktail Soft)(ja)(Trainer)(Disk 2 of 3).dsk" size="737280" crc="35712486" sha1="5347138ce2d7018f3e16c3c3590e0cb8c4a0c1b5"/>
+				<rom name="The Fighting Sailor Fuku (1990)(Cocktail Soft)(ja)(Trainer)(Disk 3 of 3).dsk" size="737280" crc="0e088ad9" sha1="dc17c9d595e282c74951de168a0bb213d6e869f0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1f3e6402">
+		<description>The King of Super Dynamite Fighter Street (invalid disk size)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="The King of Super Dynamite Fighters Street 95.dsk" size="716800" crc="1f3e6402" sha1="58db623709f28d9f4f1f433db11f7f7c0a050941"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d7752da5">
+		<description>The Legend of Shonan (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="The Legend Of Shonan (1990)(Cross Media Soft)(en)(Game Disk).dsk" size="737280" crc="d7752da5" sha1="fb55559dd68cbbc62bf4af4d5a5b102a92db5ca0"/>
+				<rom name="The Legend Of Shonan (1990)(Cross Media Soft)(en)(User Disk).dsk" size="737280" crc="72c32d11" sha1="02bad68a75b3ec9ba019f744d4120708223e65c8"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6212f27d">
+		<description>Tile Golf (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tile Golf (1990)(Nagi-P Soft).dsk" size="737280" crc="6212f27d" sha1="84d1bf110622164f9d5a3c15c4db67e1552165ee"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4897c5fd">
+		<description>Timer Ball (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Timer Ball (1990)(Ascat).dsk" size="737280" crc="4897c5fd" sha1="0838b7c620337a9fc528d4b91e2f98d937f89379"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7615082f">
+		<description>Tir-nan-og (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tir-nan-og (1990)(System Soft)(en)(Disk 1 of 3).DSK" size="737280" crc="7615082f" sha1="78f86d5be0dd2f700295486f0f595ed1f1f832e2"/>
+				<rom name="Tir-nan-og (1990)(System Soft)(en)(Disk 2 of 3).DSK" size="737280" crc="bd388225" sha1="a5f55fd0f2c13d64f5a808466cf8ed8242aefec5"/>
+				<rom name="Tir-nan-og (1990)(System Soft)(en)(Disk 3 of 3).DSK" size="737280" crc="43ed21cd" sha1="c3cd897fcfa904b651aa7cdfdd6e01cbe23cd6bd"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="83f746e1">
+		<description>Tir-nan-og (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tir-nan-og (1990)(System Soft)(ja)(Disk 1 of 3)[b].ds" size="737280" crc="83f746e1" sha1="c846f7bf72d3a11ccb650ae3a592c089802749fe"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bc8d4e09">
+		<description>Tokkae Jigsaw (extracted from MSX-FAN disk #16/Tower of Cabin)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tokkae Jigsaw (Arrange Version).dsk" size="737280" crc="43656827" sha1="e21a83f163793f73fc15cad1d742d59978eca1f9"/>
+				<rom name="Tokkae Zigsaw (19xx)(Micro Cabin)[needs MSX-DOS].dsk" size="737280" crc="bc8d4e09" sha1="d758f1f384a70d3c79bbf9becee1ae09c9495dd1"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="73d91893">
+		<description>Tominaga Koukou Tantei-Bu (contains savegame)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tominaga Koukou Tanteibu (Tominaga High School Detective Club) (1993)(Team Plankton)(jp)[MSX2].dsk" size="737280" crc="73d91893" sha1="1456d15ff8ca209281cbf39d838496ea83804a17"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dfbc65f6">
+		<description>Topografie Wereld (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Topografie Wereld (1986)(Philips)(nl)[b].dsk" size="737280" crc="dfbc65f6" sha1="a1acdfbbd41f5c6b209ce86416980805f1abc037"/>
+			</dataarea>
+		</part>
+	</software>
+
  	<software name="topzip">
  		<description>Topple Zip (Japan, disk conversion)</description>
  		<year>19??</year>
@@ -1847,6 +2302,83 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="2946eea8">
+		<description>Topple Zip (crt2dsk conversion 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Topple Zip (1987)(Bothtec)[b].dsk" size="737280" crc="2946eea8" sha1="51f688ba1be3fd9b8b57bc04618a76be128810b8"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="53402797">
+		<description>Topple Zip (crt2dsk conversion 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Topple Zip (1987)(Bothtec)[cr Cobra Cracks].dsk" size="737280" crc="53402797" sha1="4e3f79e3346b468a7d415f4fce7c09411c19df7e"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2801b89b">
+		<description>Total Parodius Demo (does not autostart, not a real release?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Total Parodius (demo) (19xx)(Gemilis Art).dsk" size="737280" crc="2801b89b" sha1="fde61fab6235077710f35c42ea21ca2da648914a"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="147755fa">
+		<description>Toushin Doshi (savegame?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Toushin Doshi. Toshin City (1990)(Alice Soft)(ja)(Disk 8 of 8)[a2].dsk" size="737280" crc="147755fa" sha1="43e2254b8cf2688fedff13eb6e69da00002237ee"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="26083c63">
+		<description>Las Tres Luces de Glaurung (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tres Luces de Glaurung, Las (1986)(Erbe Software)(es).dsk" size="737280" crc="26083c63" sha1="cfebdd25801e2c77b19ef5f1c2e66a5e5702529a"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6a16f5a6">
+		<description>Trivial Pursuit - Aanvulling Jaareditie 1995 (alt)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="368640">
+				<rom name="Trivial Pursuit (1995)(Ixion)(nl)(Aanvulling Jaareditie 1995)[a].DSK" size="368640" crc="6a16f5a6" sha1="9dbe7f76c686bf28164643cb1b22fb4282fdf036"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="65ce78c7">
+		<description>Trouble Partners (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Trouble Partners - The Great Imperial Capital Operation [T-En by Django].dsk" size="737280" crc="65ce78c7" sha1="692821e846ced13329e7f0a0e08f13da0440b1f1"/>
+			</dataarea>
+		</part>
+	</software>
 
  	<software name="sanpei2">
  		<description>Tsuri Kichi Sanpei - Tsuri Sennin Hen (Japan, disk conversion)</description>
@@ -1891,6 +2423,230 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="6d4149b6">
+		<description>Tunez Demo 2 (broken SCC detection)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Tunez Demo 2 - Asterix Edition (2000)(TeddyWarez)[SCC].dsk" size="737280" crc="6d4149b6" sha1="cb22e729a71717f21a1ac2592825e48ea4113df8" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="47a9dc64">
+		<description>Turikichi Sampei (cracked Dalak Soft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Turikichi Sampei Turisennin-Hen. Fishing Freak (1989)(Victor)(ja)[cr Dalak Soft].dsk" size="737280" crc="47a9dc64" sha1="a0d674c000e16e8986c4dc9c48eb09ee7e935799" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9a9dc137">
+		<description>Ultima IV (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Ultima IV - Quest of the Avatar (1987)(Pony Canyon)(en)(Disk 1 of 3).dsk" size="737280" crc="9a9dc137" sha1="8613dde3c6fe37e551d59b24fe783887de116507" />
+				<rom name="Ultima IV - Quest of the Avatar (1987)(Pony Canyon)(en)(Disk 2 of 3).dsk" size="737280" crc="db7aff0f" sha1="cc38e51dc43ef95e48b5e947f881b83d51b84904" />
+				<rom name="Ultima IV - Quest of the Avatar (1987)(Pony Canyon)(en)(Disk 3 of 3).dsk" size="737280" crc="a1c9269a" sha1="e0df74fae17b5ded6e7cb6bd7701d75a399490b6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b5fddcc9">
+		<description>Ultima IV (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Ultima IV - Quest of the Avatar (1987)(Pony Canyon)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="b5fddcc9" sha1="b8b7d752e10345d1b9a532d03bf2d323f6c83b5d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eb3a1121">
+		<description>Undeadline (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Undeadline (1989)(T&amp;E Soft)[b].dsk" size="737280" crc="eb3a1121" sha1="09871508c6bc745ff5dc192ca29622da9823b3b9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9ce046ec">
+		<description>Undeadline (trained)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Undeadline (1989)(T&amp;E Soft)[t].dsk" size="737280" crc="9ce046ec" sha1="7ac6de3934dd761dd4e3027c4cefacca70d5fa7e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9252ff9a">
+		<description>Undeadline (fixed R800)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Undeadline (T&amp;ESoft)(R800Fix).dsk" size="737280" crc="9252ff9a" sha1="253f229427dcdb435f5ba3b7f4f9afcc765890ac" />
+				<rom name="Undeadline (1989)(T&amp;ESoft)(R800Fix)(en).dsk" size="737280" crc="3c46e7f3" sha1="46e4c3641c87e96117bd1b5cb4451002041575b1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="574c0e8c">
+		<description>Unipakket Onderwijs - Algemeen (hacked Deltasoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Unipakket Basis Onderwijs - Algemeen &amp; Rekenen (1988)(RORO Software)(nl).DSK" size="737280" crc="574c0e8c" sha1="b9e3268ead8c5762662915a72a0e6820563e2b9d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ba56179a">
+		<description>Unipakket Onderwijs - Kleuter Onderbouw (hacked Deltasoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Unipakket Basis Onderwijs - Kleuter Onderbouw 1 &amp; 2 (1988)(RORO Software)(nl).DSK" size="737280" crc="ba56179a" sha1="ce74792351cf900035be16d0873975a315a19f76" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c9acf9b0">
+		<description>Unipakket Onderwijs - Nederlandse Taal (hacked Deltasoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Unipakket Basis Onderwijs - Nederlandse Taal Deel 1 &amp; 2 (1988)(RORO Software)(nl).DSK" size="737280" crc="c9acf9b0" sha1="694be6448d5952a2f3ced75c6ff9810a91621094" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="60700a7a">
+		<description>Unipakket Onderwijs - Rekenen (hacked Deltasoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Unipakket Basis Onderwijs - Rekenen Deel 1 &amp; 2 (1988)(RORO Software)(nl).DSK" size="737280" crc="60700a7a" sha1="1eefff1aa43c946660fcf1b08272d6d712f20652" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d2a739ca">
+		<description>Unipakket Onderwijs - Wereld Verkenning (hacked Deltasoft)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Unipakket Basis Onderwijs - Wereld Verkenning Deel 1 &amp; 2 (1988)(RORO Software)(nl).DSK" size="737280" crc="d2a739ca" sha1="08fa07f652646591290f26eb498f9af3d6d96ce9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cb54b94f">
+		<description>Universal Megarom Copy (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Universal Megarom Copy (1988)(SMA)[a].dsk" size="737280" crc="cb54b94f" sha1="eb2e9b40d62290f4dc4ca323edcc7ba128f7b50d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b7b804a7">
+		<description>Urabyoshi (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Urabyoshi (19xx)(Masashi Tanaka)(ja).dsk" size="737280" crc="b7b804a7" sha1="65d9294a5a47586b5eddfee4160d42d2c9c20f99" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="526f18ab">
+		<description>Uranai Sensation (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Uranai Sensation. Fortune Teller (1988)(Konami)(ja)[b].dsk" size="737280" crc="526f18ab" sha1="2069009ced3390f6e1943d4d68c75bef8142c82d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="87f4456e">
+		<description>Urotsuki Doji (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Urotsuki Doji (1990)(Fairytale)(ja)(Disk 1 of 4)[b].dsk" size="737280" crc="87f4456e" sha1="3af615c8818fac170bd23ebd2709b36d59b04274" />
+				<rom name="Urotsuki Doji (1990)(Fairytale)(ja)(Disk 1 of 4)[b2].dsk" size="737280" crc="29179160" sha1="2ccd65b135977c49ec125e63b131b481822a9881" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d6f5fd5a">
+		<description>Urusei Yatsura (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Urusei Yatsura - Koi no Survival Birthday (1987)(Micro Cabin)(ja)[b].dsk" size="737280" crc="d6f5fd5a" sha1="97c9da502e896fd889da39e3083a69ec9ed81172" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1bfb9d05">
+		<description>Usa Jong - Babi in the World (extracted from Disk Station 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Usa Jong. Babi in the World (1989)(Compile)(ja).dsk" size="737280" crc="1bfb9d05" sha1="31ff538a2d772fcb0f24e8fa50bb3fa5911f4bfe" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e897f2f9">
+		<description>Usa Jong - Babi in the World (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Usa Jong. Babi in the World (1989)(Compile)(en).DSK" size="737280" crc="e897f2f9" sha1="7ade3440ffe7ae22e569c8714e8658556d85cd29" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b8b49757">
+		<description>Usa Jong - Babi in the World (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Usa Jong. Babi in the World (1989)(Compile)(ja)[a].dsk" size="737280" crc="b8b49757" sha1="df058494ae5719c838be5ce5a12b66507dc694c4" />
+			</dataarea>
+		</part>
+	</software>
 
  	<software name="usas">
  		<description>Usas (Japan, disk conversion)</description>
