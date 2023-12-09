@@ -7,6 +7,134 @@ license:CC0-1.0
 
 	<!-- To Sort -->
 
+	<software name="87d489d7">
+		<description>Sette e Mezzo House (unknown who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Sette e Mezzo House (19xx)(-)(it).dsk" size="737280" crc="87d489d7" sha1="f42a4050c122251cc55de30618ad77f4101dfcd8" />
+				<rom name="Sette e Mezzo House (19xx)(-)(it)[a].dsk" size="737280" crc="17ffab9d" sha1="3dd8833f0a80764e3e5e0f949e10643aa6b61d8f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fe67e788">
+		<description>Sexy Academy (worth to add this?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Sexy Academy (19xx)(L.M.).dsk" size="737280" crc="fe67e788" sha1="899112f40e15e08eef98f6c9ad99fa96f63920dc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bc547113">
+		<description>Sexy Pictures Puzzel (worth to add this?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Sexy Pictures Puzzel (1987)(Pussy)(nl).dsk" size="737280" crc="dd684bf9" sha1="2f772985d7703c879d51286366d42d46399f4702" />
+				<rom name="Sexy Pictures Puzzel (1987)(Pussy)(nl)[a].dsk" size="737280" crc="bc547113" sha1="48f97610340d7a375a61cf9329f8a64636af0885" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7e62dde1">
+		<description>Shoot Them Up (unknown who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Shoot Them Up (19xx)(-)(fr).dsk" size="737280" crc="31f96483" sha1="4ce3abdb9c7e6063d36ada79d9a27b33d3185f2b" />
+				<rom name="Shoot Them Up (19xx)(-)(fr)[a].dsk" size="737280" crc="7e62dde1" sha1="15dc2c14b7f574ecf6faf4e9257cebe554871c8a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="36b8a1f8">
+		<description>Shut the Box (unknown who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Shut the Box (19xx)(-)(fr).dsk" size="737280" crc="ccaad7fe" sha1="cf9eace0bd71d5db795464de427d06f39b29fabe" />
+				<rom name="Shut the Box (19xx)(-)(fr)[a].dsk" size="737280" crc="36b8a1f8" sha1="a976461a63de68c55267bd25e783cb3af09cbe1f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cc091da6">
+		<description>Space Force (unknown who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Space Force (19xx)(-).dsk" size="737280" crc="bbbf330c" sha1="68bcc9239b1b39907e953e65fb4dc40badebb7ff" />
+				<rom name="Space Force (19xx)(-)[a].dsk" size="737280" crc="cc091da6" sha1="3603f5a993e13a0f51669358b24ef5bb2848765a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8a772be4">
+		<description>Sphere 2 (unknown who and when, only displays a single picture)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Sphere 2 Demo (19xx)(-)(es).dsk" size="737280" crc="8a772be4" sha1="180763242f8400f1a7744ad434c30745a43d3e74" />
+				<rom name="Sphere 2 Demo (19xx)(-)(es)[a].dsk" size="737280" crc="1897ea27" sha1="1ee6a21aa81624fb4e33708932cc647045561cf5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="548536a8">
+		<description>Startling Shot W (unknown who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Startling Shot W ver 4.12(1997)(Unofficial Performance).dsk" size="737280" crc="548536a8" sha1="53874cf26b9e05bee101d32fcb245b387cb588c4" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5d60f5e5">
+		<description>Street Fighter (unknown who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Street Fighter (xxxx)(Pard).dsk" size="737280" crc="5d60f5e5" sha1="18310473d74cb1565bd6af0a49cc0a395752b959" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="cf13c177">
+		<description>Super Deformed YabYum (too new)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Deformed YabYum (2022)(Future Disk).dsk" size="737280" crc="cf13c177" sha1="bfcbde8833e691498dbc531279bd6331822b5775" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="survroom">
+		<description>Survival Rooms (too new)</description>
+		<year>2021</year>
+		<publisher>Juan Morales</publisher>
+		<info name="usage" value="Loading takes a long time."/>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="survival rooms - juan morales.dsk" size="737280" crc="423f8585" sha1="08baed3074970f4b8a1f63d1e343784a37945067"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="b282069f">
 		<description>The Tenor (demo) (unknown who)</description>
  		<year>19??</year>
@@ -1751,6 +1879,134 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="326c0651">
+		<description>Sa-Zi-Ri (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Sa-Zi-Ri. Saziri (1988)(Telenet Japan)(en)[Translation by Django].dsk" size="737280" crc="326c0651" sha1="7973308836c90c71ed24261a7c6eff94124ac709"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a806042a">
+		<description>Salas Freehand (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Salas Freehand v1.3 (19xx)(MSX Link International)[mouse].dsk" size="737280" crc="a806042a" sha1="ef0b8da682b9d432df86e0a188877ee8092cf061"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="249df000">
+		<description>Salas Freehand (created using DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Salas Freehand v1.3 (19xx)(MSX Link International)[a][mouse].dsk" size="737280" crc="249df000" sha1="6a3cf957d310c37890e58067d5bbe8d27da06bbc"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c3d770fb">
+		<description>Samurai King Megason Z (extracted from Disc Station Special 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Samurai King Megason Z (1989)(Compile).dsk" size="737280" crc="c3d770fb" sha1="f0a720a0fb0219f0d40ae9cb663ee62f9e08aa8e"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9285455b">
+		<description>Sangokushi (contain savegames)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Sangokushi. Romance of Three Kingdoms (1986)(Koei)(ja)(Disk 1 of 2)(Game Disk)[a].dsk" size="737280" crc="968a0609" sha1="90b989794fa40b9c985197c80302b818402a9eff"/>
+				<rom name="Sangokushi. Romance of Three Kingdoms (1986)(Koei)(ja)(Disk 1 of 2)(Game Disk)[a2].dsk" size="737280" crc="9285455b" sha1="c805924468bc5b3a58945bf49b6d6123022be634"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1dc31bc8">
+		<description>Sangokushi (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Sangokushi 2. Romance of Three Kingdoms 2 (1990)(Koei)(ja)(Disk 1 of 3)[b].dsk" size="737280" crc="4e4a4368" sha1="6ba4b2c8034601b1f9885155a90b530b3a7c4485"/>
+				<rom name="Sangokushi 2. Romance of Three Kingdoms 2 (1990)(Koei)(ja)(Disk 2 of 3)[b].dsk" size="737280" crc="28a9cc59" sha1="53bad3cbd50780e8ef371f3885bf088e1f08b95a"/>
+				<rom name="Sangokushi. Romance of Three Kingdoms (1986)(Koei)(ja)(Disk 1 of 2)(Game Disk)[b].dsk" size="737280" crc="7f5fe044" sha1="19ffbb372f8709e5ddd459830cbb81f9cc928b0b"/>
+				<rom name="Sangokushi. Romance of Three Kingdoms v2 (1986)(Koei)(ja)(Disk 1 of 2)(Game Disk)[b].dsk" size="737280" crc="33f8b9b2" sha1="c438f61d864cb740050ae9b31ab34ad446ebf6ea"/>
+				<rom name="Sangokushi. Romance of Three Kingdoms v3 (1986)(Koei)(ja)(Disk 1 of 2)(Game Disk)[b].dsk" size="737280" crc="1dc31bc8" sha1="fd3bca952ee4f42524f393ec2dc978a444a59743"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e1611738">
+		<description>Saurus Lunch (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Saurus Lunch Vol. 0 (1989)(Bit2)(ja)(Disk 1 of 2)[b][mouse].dsk" size="737280" crc="7f726520" sha1="1bf87f02fbf6ef7cc31907d095a208e0a6ab016e"/>
+				<rom name="Saurus Lunch Vol. 0 (1989)(Bit2)(ja)(Disk 2 of 2)[b][mouse].dsk" size="737280" crc="e1611738" sha1="96dd18be5ff714784cec45ceac26670cf486838a"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4fe102eb">
+		<description>SCC MUSIXX Music Loader (created with MSXEMUL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="SCC MUSIXX Music Loader v1.02b (1991)(Gamesoft)(pre-release)[a][SCC].dsk" size="737280" crc="4fe102eb" sha1="07a909606e12695f9f9112426c086c7f444347c4"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d2f95729">
+		<description>Schwarzschild (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Schwarzschild (1989)(Kogado)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="1ca983ad" sha1="0f2ad54461b265d8f01bb1596673668dc8512955"/>
+				<rom name="Schwarzschild II (1990)(Kogado)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="d2f95729" sha1="43125c093ba9f35b45ce274cb2787b6b49b4fa8d"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1595792e">
+		<description>Scrabble Triton (created in NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Scrabble Triton (1991)(Osaka Soft).dsk" size="737280" crc="1595792e" sha1="af18aeecec6d64cf7da9430356a7cb316f300f77"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="89f3e4bc">
+		<description>Scrabble Triton (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Scrabble Triton (1991)(Osaka Soft)[a2].dsk" size="737280" crc="89f3e4bc" sha1="23ad9957eae78f8abbdfb568ed08cff130312b32"/>
+			</dataarea>
+		</part>
+	</software>
+
  	<software name="scramble">
  		<description>Scramble Formation (Japan, disk conversion)</description>
  		<year>19??</year>
@@ -1772,6 +2028,28 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="fd085c13">
+		<description>SD Gundam (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="SD Gundam - Gachapon Senshi 2 - Capsule Senki [T-En by Django v1.0].dsk" size="737280" crc="fd085c13" sha1="d0850856a2097fe42a8c05b38e185319eb58b8d0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="47d6950c">
+		<description>SD Gundam (cracked The Boss)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="SD Gundam - Gachapon Senshi 2. Capsule Senki 2 (1990)(Banpresto)[cr The Boss].dsk" size="737280" crc="47d6950c" sha1="482dde64d32106697ceac5677a5f9a775ce784d1"/>
+			</dataarea>
+		</part>
+	</software>
 
  	<software name="seikima2">
  		<description>Seikima II Special - Akuma no Gyakushuu (Japan, disk conversion)</description>
@@ -1817,16 +2095,383 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="7e36b69d">
+		<description>Seilane (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Seilane (1988)(Micro Cabin)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="7e36b69d" sha1="73106449f726b5f1fbe3c16d778dafef3874fd06"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0234476f">
+		<description>Senno Knife's Demon Girl Mansion (alt?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Senno Knife's Demon Girl Mansion (1988)(I-cell)(jp)[a].dsk" size="737280" crc="0234476f" sha1="6cea76f3a6e6c2fc664eec84d8abc2532edb383b"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="65795012">
+		<description>Sex Bomb Bunny Demo (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Sex Bomb Bunny (demo) (2000)(Matra)(pt)[needs MSX-DOS].dsk" size="737280" crc="65795012" sha1="3aca0c3c86130ed9464b5889af3bc7d578a620c6"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="13cfb98f">
+		<description>Sex Bomb Bunny (copied?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Sex Bomb Bunny - Matra (1999).dsk" size="737280" crc="13cfb98f" sha1="7c8807533fa68560049632011e0e88794e737029"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6304dfbc">
+		<description>Shadow Hero 2 (alt?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Shadow Hero 2 (1993)(Syntax)[a3].dsk" size="737280" crc="6304dfbc" sha1="63fd4bb920a934916db2d6cd1bc76db4b191c873"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fc19f527">
+		<description>Shadow Hero 2 (MSX_04 in boot sector)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Shadow Hero 2 (1993)(Syntax)[a2].dsk" size="737280" crc="fc19f527" sha1="70921c55eee31a47c0ed845ebe91aae8d1a8d8b0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="37b22eb6">
+		<description>Shadow Hero 2 (created by NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Shadow Hero 2 (1993)(Syntax).dsk" size="737280" crc="37b22eb6" sha1="b1990c7846f6bd44943f1380ce78a67c62a81871"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="02ceafd6">
+		<description>Shanghai 2 (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Shanghai II (1989)(System Soft)[b].dsk" size="737280" crc="02ceafd6" sha1="681c1025eb54b79c51b7687800cf9ea755c897f6"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dcde28c2">
+		<description>Shenan Dragon (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Shenan Dragon (1990)(Technopolis Soft)(en){Translated by Django].dsk" size="737280" crc="dcde28c2" sha1="e6337227f7f47d19264d83517979e6713f008e8d"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e1fd72a4">
+		<description>Shenan Dragon (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Shenan Dragon (1990)(Technopolis Soft)(ja)(Disk 1 of 2)[Fixed].dsk" size="737280" crc="e1fd72a4" sha1="879874b50a3162f0a98dae9e1b6ee9298c182a24"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6f4ff28b">
+		<description>Shin Ku Gyoku Den (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Shin Ku Gyoku Den. New Legendly Nine Gems (1988)(Tecno Soft)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="6f4ff28b" sha1="152409ffe91fdceb8bec6da9f9a9502148690c44"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b9ec5ff1">
+		<description>War of the Dead Part 2 (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Shiryou Sensen 2. War of the Dead 2 (1990)(Victor)(en)(Disk 1 of 2).dsk" size="737280" crc="04279301" sha1="a35d6a181962b7cdb786999feae9a5028018cbf8"/>
+				<rom name="Shiryou Sensen 2. War of the Dead 2 (1990)(Victor)(en)(Disk 2 of 2).dsk" size="737280" crc="b9ec5ff1" sha1="0c082fb9927103df285166a3b6d7883bdc16763f"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d6d23660">
+		<description>War of the Dead Part 2 (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Shiryou Sensen 2. War of the Dead 2 (1990)(Victor)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="d6d23660" sha1="bd1ba0368772d9c94daf40f1a273c4362cf48e40"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dbbd9284">
+		<description>Siege (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Siege (1991)(Nagi-P Soft).dsk" size="737280" crc="dbbd9284" sha1="49ef0dd73497946278e45031a3eeaed6bb2c5692"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="442cf39a">
+		<description>Sil Game (overdump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Sil Game (19xx)(-)(Disk 1 of 2)[o].dsk" size="741376" crc="1504402b" sha1="74c6137528c66a420a7620ebd291a00fda610085"/>
+				<rom name="Sil Game (19xx)(-)(Disk 2 of 2)[o].dsk" size="741376" crc="442cf39a" sha1="758bd6e6ad4dabad9255f98ea884f1c1d7c7a1d1"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="08ce6cfe">
+		<description>Silviana (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Silviana [T-En by MIJET v20091213].dsk" size="737280" crc="08ce6cfe" sha1="a101ec2517316004e420f21c954599f47f791ef9"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f7b43f7f">
+		<description>Singular Stone (hacked file-hunter)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Singular Stone v1.03 - Tohji Murakata (2020)[DOS2 - R800 Version).dsk" size="737280" crc="f7b43f7f" sha1="32a4e85d2a692e144996f38436e6d1e3b0bac5d6"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c1e7dd8f">
+		<description>Slime World (created with fMSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="368640">
+				<rom name="Slime World (1996)(Frieve)(ja).dsk" size="368640" crc="c1e7dd8f" sha1="89d46f225c454971d677ae004cf2aaa92957a342"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5a7becd6">
+		<description>Snakes &amp; Ladders (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Snakes &amp; Ladders (1988)(FSS).dsk" size="737280" crc="5a7becd6" sha1="5e3ca77958a08b27f5122b1279d0d6056be280ba"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="24c2c65f">
+		<description>Snakes &amp; Ladders (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Snakes &amp; Ladders (1988)(FSS)[a].dsk" size="737280" crc="24c2c65f" sha1="46946addec2407ac719db06a00c55995897ec02d"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4aa5c54d">
+		<description>Snatcher (hacked Oasis)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Snatcher (1988)(Konami)(Disk 1 of 3)[h Oasis][SCC+].dsk" size="737280" crc="4aa5c54d" sha1="4a3784c173b300d7e64d7ae8c6291a08aeeb175c"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="beeac3b3">
+		<description>Snatcher (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Snatcher (1988)(Konami)(en)(Data Disk).dsk" size="737280" crc="c2422cca" sha1="434c8b2e222b78ef8266cc4fd87686aa0df6750f"/>
+				<rom name="Snatcher (1988)(Konami)(en)(Disk 1 of 3).dsk" size="737280" crc="beeac3b3" sha1="419fd17d6475888aa69f272c1b409f90360c05b4"/>
+				<rom name="Snatcher (1988)(Konami)(en)(Disk 2 of 3).dsk" size="737280" crc="4e342d75" sha1="c05c285c132f6c66bfe79f2db9e510d45638a714"/>
+				<rom name="Snatcher (1988)(Konami)(en)(Disk 3 of 3).dsk" size="737280" crc="c4349c57" sha1="0f599c65f6d0384d5877cc8fccb1b50b274c802d"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6907522f">
+		<description>Snatcher (hacked SCC)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Snatcher (1988)(Konami)(ja)(Disk 1 of 3)[a2][SCC].dsk" size="737280" crc="75848a82" sha1="30fec248e6329493cec21a1258101f565fd20996"/>
+				<rom name="Snatcher (1988)(Konami)(ja)(Disk 1 of 3)[a][SCC].dsk" size="737280" crc="d1a8bc30" sha1="0e42f56dcc575dcce06a02667ab5dee7a6a569e6"/>
+				<rom name="Snatcher (1988)(Konami)(ja)(Disk 1 of 3)[SCC].dsk" size="737280" crc="b8989634" sha1="fc08624f1a85f44e333f13304069def6889b4898"/>
+				<rom name="Snatcher (1988)(Konami)(ja)(Disk 2 of 3)[a][SCC].dsk" size="737280" crc="8dd115c9" sha1="2de915e5a71575d97ce3ddbad8e551a4de29aaea"/>
+				<rom name="Snatcher (1988)(Konami)(ja)(Disk 2 of 3)[SCC].dsk" size="737280" crc="6907522f" sha1="30c7fe07d320abb281ba5d473d853bfa7785248b"/>
+				<rom name="Snatcher (1988)(Konami)(ja)(Disk 3 of 3)[SCC].dsk" size="737280" crc="f5864e1b" sha1="c088e3e1b0d771c42b1c474c064be146afc6564e"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="66099c97">
+		<description>Sofia (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Sofia (1988)(Radio Wave).dsk" size="737280" crc="a1ed05bb" sha1="2044a049e306a34d15f89a456ba3983aae6ae0ef"/>
+				<rom name="Sofia (1988)(Radio Wave)[a].dsk" size="737280" crc="66099c97" sha1="f079bb2c9489a18908801c6af545a3c26cf83840"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="eec13372">
+		<description>Soldier of Fisla (extracted from Randar 3)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Soldier of Fisla (1990)(Compile)(ja).dsk" size="737280" crc="5dd100cd" sha1="9e558953e5b4dcf5a087c80da00cde7818248815"/>
+				<rom name="Soldier of Fisla (1990)(Compile)(ja)[a].dsk" size="737280" crc="eec13372" sha1="244eba4e998040a01e61ec814f5ec56ee374ab32"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d9b55d46">
+		<description>Solitaire Royale (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Solitaire Royale (1988)(Game Arts)(ja)[b].dsk" size="737280" crc="d9b55d46" sha1="2679001e379185abd5489c838c7d32a26625c17f"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8c2ce7e6">
+		<description>Solitaire Royale (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Solitaire Royale [T-En by Django].dsk" size="737280" crc="8c2ce7e6" sha1="e32c8d720a5634b6b7de05e516c5bc48eb47d8c5"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="62103a0b">
+		<description>Sorcerian Race (does not start automatically, unknown who when where)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Sorcerian Race (19xx)(-)(ja).dsk" size="737280" crc="62103a0b" sha1="e03d67244cad9da9131e38e6343efa8e98a87876"/>
+			</dataarea>
+		</part>
+	</software>
+
  	<software name="spmanbow">
  		<description>Space Manbow (Japan, disk conversion)</description>
  		<year>19??</year>
  		<publisher>&lt;cart2disk hack&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+ 				<rom name="Space Manbow (1989)(Konami)[cr Stop Game].dsk" size="737280" crc="e86bdc1d" sha1="fce4f8128f723d3a677cab22b8134f64271efd51"/>
  				<rom name="space manbow (1989)(konami)(jp).dsk" size="737280" crc="82fa4eed" sha1="2845ec98eb2697b4ad1e11f22aafed0ecce93e4c"/>
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="5021ad73">
+		<description>Speed Game (created with NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Speed Game (1989)(Soft House).dsk" size="737280" crc="5021ad73" sha1="ce89c8c51dc02a93c40bc34d9e19d37eabc99b56"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="88c5d5c0">
+		<description>Spiel Börse (created with DSKTOOL or does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Spieel Borse (1987)(Peter Rohr)(de).dsk" size="737280" crc="a75139fb" sha1="80435664e2ec19cf374d88c9c21769c8c0418de4"/>
+				<rom name="Spiel Borse (1987)(-)(nl).dsk" size="737280" crc="250ec5d8" sha1="34e8a7b4ee44492f09ec12aac52d6d08316fd123"/>
+				<rom name="Spiel Borse (1987)(-)(nl)[a].dsk" size="737280" crc="88c5d5c0" sha1="99a5f0de020cf93a7dddd4cb75d223411ee0c7c6"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dab1b13f">
+		<description>Le Squelette (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Squelette, Le (1987)(Forum Micros)(es).dsk" size="737280" crc="dab1b13f" sha1="20389f98321edd33731e5b356bc72256863f3d14"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e5c3a3ad">
+		<description>Le Squelette (does not auto start)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Squelette, Le (1987)(Forum Micros)(es)[a].dsk" size="737280" crc="e5c3a3ad" sha1="06441755a92ea3fa0fe6a3125f78fe2cbe017bc1"/>
+			</dataarea>
+		</part>
+	</software>
 
  	<software name="starvirg">
  		<description>Star Virgin (Japan, disk conversion)</description>
@@ -1861,6 +2506,45 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="3e11f838">
+		<description>Starship Rendezvous (alt?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Starship Rendezvous (1988)(Scaptrust)(ja)(Disk 2 of 2)[a3].dsk" size="737280" crc="b521f89c" sha1="373b20f7e5076485d2a57d62fb4da9400f8d0358"/>
+				<rom name="Starship Rendezvous (1988)(Scaptrust)(ja)(Disk 2 of 2)[a4].dsk" size="737280" crc="3e11f838" sha1="59d5051436e5f8b341b7e59b0f5b6e1c108b6ad2"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="712b9dbf">
+		<description>Starship Rendezvous (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Starship Rendezvous (1988)(Scaptrust)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="712b9dbf" sha1="f6adb2dfbbeb933750a71e9841e233b632b7bf7d"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="df19ed79">
+		<description>Starship Rendezvous (trained)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Starship Rendezvous (1988)(Scaptrust)(ja)(Disk 1 of 2)[t Cyber].dsk" size="737280" crc="71cbb337" sha1="bf1b8ccd5a6273e7b89ae20a5f32ca55c33269a5"/>
+				<rom name="Starship Rendezvous (1988)(Scaptrust)(ja)(Disk 1 of 2)[t Last Armageddon].dsk" size="737280" crc="6a6a3a28" sha1="5edb7a8dc8cd889ac8286e2e73cfdd5f68607d6c"/>
+				<rom name="Starship Rendezvous (1988)(Scaptrust)(ja)(Disk 2 of 2)[t Last Armageddon].dsk" size="737280" crc="88b68fa5" sha1="ae755b537f2f92170e377c82383007551cdbd740"/>
+				<rom name="Starship Rendezvous (1988)(Scaptrust)(ja)(Disk 2 of 2)[t].dsk" size="737280" crc="42dacf95" sha1="ca64762a27726fe50e16b1e29c210c6c1cadef3f"/>
+				<rom name="Starship Rendezvous (1988)(Scaptrust)(ja)(Disk 2 of 2)[t][a].dsk" size="737280" crc="790d6652" sha1="95a7fa8d809e8a976b985a738952442679ae1dbb"/>
+				<rom name="Starship Rendezvous - UNcensored +6 Trainer v0.10 (1988)(Scaptrust)(ja)(Disk 1 of 2).DSK" size="737280" crc="df19ed79" sha1="da664e4e96309e6dfcf0760f0d74bac7a88ca08b"/>
+			</dataarea>
+		</part>
+	</software>
+
  	<software name="stramars">
  		<description>Strategic Mars (Japan, disk conversion)</description>
  		<year>19??</year>
@@ -1893,6 +2577,233 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="1fd3c526">
+		<description>Strategic Mars (cracked SMA)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Strategic Mars (1988)(dB-Soft)[cr SMA].dsk" size="737280" crc="1fd3c526" sha1="392a18423069b9ecb8a3e97cd71448275ad7f9ba"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="29eeeb1e">
+		<description>Street Snatch (does not auto start)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Street Snatch (1994)(Future Disk)[a].dsk" size="737280" crc="29eeeb1e" sha1="b9a41e21a75e85fe527bd0f9d90ae693ad510fc2"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="009f8bf4">
+		<description>Suikoden (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Suikoden - Tenmei no Chikai. Bandit Kings of Ancient China (1989)(Koei)(ja)[b].dsk" size="737280" crc="009f8bf4" sha1="25b1af6a14522a184773ab5878681579b12bf3e5"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0d7d2219">
+		<description>Sum the Missile Human (does not auto start)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Sum the Missile Human (1989)(Sum Soft)(ja)[a].dsk" size="737280" crc="0d7d2219" sha1="52faee45c611c3399897e7ccf963de1102f7688c"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bdeb6e2e">
+		<description>Super Boy 2 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Boy II (1989)(Zemina).dsk" size="737280" crc="bdeb6e2e" sha1="611899dcb3f1a5269a84fad97e01f2a56027bae4"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4c6c2abc">
+		<description>Super Boy 3 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Boy III (1991)(Zemina).dsk" size="737280" crc="3e2f467f" sha1="bed52a0d24563e2b1837f3ef99f65d88dc4ff0d9"/>
+				<rom name="Super Boy III (1991)(Zemina)[a].dsk" size="737280" crc="4c6c2abc" sha1="d36b3081c1815c06a729ea05fbe35a6d3cd06841"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3651f13f">
+		<description>Super Cooks (contains save games)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Cooks (1989)(Compile)(ja).dsk" size="737280" crc="3651f13f" sha1="32229235366d7467724ebdca219115b438a1899c"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d3601167">
+		<description>Super Daisenryaku (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Daisenryaku (1988)(en)(System Soft).dsk" size="737280" crc="d3601167" sha1="c69a5917e935e34cd7187699900d8b96d5ff5132"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ce184463">
+		<description>Super Deform Snatcher (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Deform Snatcher (1990)(Konami)(ja)(Disk 1 of 3)[b][SCC+].dsk" size="737280" crc="ce184463" sha1="031cdb68bd9e240255dc7f373eabe5c2497f3024"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9551e798">
+		<description>Super Deform Snatcher (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Deform Snatcher (1990)(Konami)(ja)(Disk 1 of 3).dsk" size="737280" crc="9551e798" sha1="1f22ff8c56c8d3a22348aaeb73294ea0ce4a6b6e"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(ja)(Disk 3 of 3).dsk" size="737280" crc="549427cb" sha1="50ececa5f3da73591bf03034ea59c6b7349789e6"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="17c7a12f">
+		<description>Super Deform Snatcher (hacked Thevma)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Deform Snatcher (1990)(Konami)(Disk 1 of 3)[h Thevma][SCC].dsk" size="737280" crc="6f0990df" sha1="ab30a21ae60f7f5ff2a7383ac69b2073ed55e891"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(Disk 2 of 3)[h Thevma][SCC].dsk" size="737280" crc="f48df666" sha1="18235cb9cb540775c22a07a2c4e8ba1e3658e06e"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(Disk 3 of 3)[h Thevma][SCC].dsk" size="737280" crc="17c7a12f" sha1="41bf97c03088a169747ea195e89fb33696c6a001"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f2baae52">
+		<description>Super Deform Snatcher (cracked StarCracks)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Deform Snatcher (1990)(Konami)(Disk 1 of 3)[cr StarCracks][SCC].dsk" size="737280" crc="0bf73fe0" sha1="dec7f2195ab948cf39401cb2104d625b451161e5"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(Disk 2 of 3)[cr StarCracks][SCC].dsk" size="737280" crc="1afec5f2" sha1="31d6a743347ed05fb256e975c1d9d36947b2fa61"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(Disk 3 of 3)[cr StarCracks][SCC].dsk" size="737280" crc="856c44c2" sha1="b2112f51c5bdb2b97a348437458a5ff9e3b98f0c"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(ja)(Disk 1 of 3)[cr StarCracks][SCC].dsk" size="737280" crc="c6577f8e" sha1="72eb604676bc37d2f0b78c3b1f725fc0e9a6e374"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(ja)(Disk 1 of 3)[cr StarCracks][SCC][a].dsk" size="737280" crc="350ea2f5" sha1="61d4be0b36466e0e40a6d6af25ae422d2fdb9b70"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(ja)(Disk 1 of 3)[cr StarCracks][SCC][a2].dsk" size="737280" crc="09a030b5" sha1="3fe3cb265a52d5a1a79679c82b6bc3b239ba2f5f"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(ja)(Disk 2 of 3)[cr StarCracks][SCC].dsk" size="737280" crc="29c95aa8" sha1="780213b3694095c79bd318ce9ff1e957ddbf51c4"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(ja)(Disk 3 of 3)[cr StarCracks][SCC].dsk" size="737280" crc="f2baae52" sha1="f44ca555908314d8d6ee655ff0755c501e0129f2"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(ja)(Disk 3 of 3)[cr StarCracks][a][SCC].dsk" size="737280" crc="e19795cc" sha1="e6b026a8b61aa853450615ffcaa561770028a2ff"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b22cda74">
+		<description>Super Deform Snatcher (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Deform Snatcher (1990)(Konami)(Disk 1 of 3).dsk" size="737280" crc="83dbe06f" sha1="8134d72f38380c5ff4d01a693096cb2a52fdfbf7"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(Disk 1 of 3)[a].dsk" size="737280" crc="e0adb6b6" sha1="6c4635c71eba558f918aa69fb4612aa53a391ce2"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(Disk 1 of 3)[SCC+].dsk" size="737280" crc="a9633544" sha1="b7b8b50fe05d446741cd39918dbc2577787a48cb"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(Disk 3 of 3)[SCC+].dsk" size="737280" crc="08dc0cbe" sha1="2ee581e84d4086f04109db0dc191b3150cc9238f"/>
+				<rom name="Super Deform Snatcher (En)(1990)(Konami)(Disk 1 of 3).dsk" size="737280" crc="21f57597" sha1="3e38912c5dcc7f634f99ea3bbb4669a784e3fcb2"/>
+				<rom name="Super Deform Snatcher (En)(1990)(Konami)(Disk 2 of 3).dsk" size="737280" crc="4e4aaa7d" sha1="231153e21cb8d36c3e4a8f2c01b74d6442e8db63"/>
+				<rom name="Super Deform Snatcher (En)(1990)(Konami)(Disk 3 of 3).dsk" size="737280" crc="51d1199a" sha1="3383a02b01d04f88ff707b878c9b75c76dbd873b"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_Disk_1.dsk" size="737280" crc="1b3d3c89" sha1="9d12c20f71c4049f8a8b65cc4f13fd7b54affadc"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_Disk_1_-_FS-A1FM.dsk" size="737280" crc="f2bb0609" sha1="df4595e8d16722e49bfacdf2abd855363b936cd8"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_Disk_2.dsk" size="737280" crc="ac407e31" sha1="4983041e918acd599e65c70de3101011c43b059a"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_Disk_3.dsk" size="737280" crc="f626f02e" sha1="0c4c993758e69a8f8fd79fbc4eef4cecdc156f32"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_Disk_3_-_Survival_World_Open.dsk" size="737280" crc="78d82278" sha1="815ce00d94630db9cc732afa01aa8ef1f7f8bc61"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_SD_Snatcher_Sound_Cartridge_Disk_1.dsk" size="737280" crc="434a99ad" sha1="3237bd1be450e9db924c57e5f2d94e60f528ff04"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_SD_Snatcher_Sound_Cartridge_Disk_1_-_FS-A1FM_Patch.dsk" size="737280" crc="aacca32d" sha1="ecc8eb5ebeb077dcd27144ec85a629a4d0d25611"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_SD_Snatcher_Sound_Cartridge_Disk_2.dsk" size="737280" crc="ac407e31" sha1="4983041e918acd599e65c70de3101011c43b059a"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_SD_Snatcher_Sound_Cartridge_Disk_3.dsk" size="737280" crc="3e3f9e3d" sha1="7696c422b8e282ed5ff8af3e8175edbcdd2ca0f8"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_SD_Snatcher_Sound_Cartridge_Disk_3_-_Survival_World_Open.dsk" size="737280" crc="b0c14c6b" sha1="be34ce0306e7b888f9d92ff705810f4395f3ff6a"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_Snatcher_Sound_Cartridge_Disk_1.dsk" size="737280" crc="b01dde0a" sha1="9b993980842497ffbd2b64d968f08e0f809497a0"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_Snatcher_Sound_Cartridge_Disk_1_-_FS-A1FM.dsk" size="737280" crc="599be48a" sha1="27b2fd1d23543335224649d22f0eadfd903a8375"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_Snatcher_Sound_Cartridge_Disk_2.dsk" size="737280" crc="ac407e31" sha1="4983041e918acd599e65c70de3101011c43b059a"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_Snatcher_Sound_Cartridge_Disk_3.dsk" size="737280" crc="3cd20822" sha1="52b70c0fe6c7cdfd457960a6fef3e2c2480fe5c5"/>
+				<rom name="Super_Deform_Snatcher_Eng_Melancholia_Snatcher_Sound_Cartridge_Disk_3_-_Survival_World_Open.dsk" size="737280" crc="b22cda74" sha1="063b71906586e23646b08beac1cab4a6c3445015"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e4f48c7e">
+		<description>Super Deform Snatcher (translated Spanish)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Deform Snatcher (1990)(Konami)(Disk 1 of 3)[tr es J. &amp; M. Pazos][SCC+].dsk" size="737280" crc="4f2014e6" sha1="c31d2a7ac9077ae3884498d591dafd0fb30c5b12"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(Disk 2 of 3)[tr es J. &amp; M. Pazos][SCC+].dsk" size="737280" crc="4279d997" sha1="1381e0e9b76dcaf5ec678b45cab5024f0fc4f143"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(Disk 3 of 3)[tr es J. &amp; M. Pazos][SCC+].dsk" size="737280" crc="e4f48c7e" sha1="8f1f03e941694955ff002b433fff4e2fcd29eab4"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="86d32e1e">
+		<description>Super Deform Snatcher (save disk)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Deform Snatcher (1990)(Konami)(ja)(Save Disk).dsk" size="737280" crc="594e4fb6" sha1="15932bdfe0e85277d82ccc6d6c3f3fdbfa29eff3"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(Save Disk).dsk" size="737280" crc="425ce018" sha1="0c0086541895f592efde525abc52e6b832551c06"/>
+				<rom name="Super Deform Snatcher (1990)(Konami)(Save Disk)[a].dsk" size="737280" crc="0771beeb" sha1="4cd66ebc4b78d93acea2ce7c37555995751f5848"/>
+				<rom name="Super Deform Snatcher - Melancholia (Konami)(1990)(en) (UserDisk).DSK" size="737280" crc="86d32e1e" sha1="ceb1d6f49122dacd3e0208a7e7a54dedf91adeb5"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5ef4b4e7">
+		<description>Super Deform Snatcher (patch)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Deform Snatcher - Bonus Stage Disk (19xx)(-)(nl).dsk" size="737280" crc="071481e1" sha1="fca55c2859b26c61c53ba90e475dcee55fa744ee"/>
+				<rom name="Super Deform Snatcher - Cheater v1.0 (1991)(-).dsk" size="737280" crc="228ede91" sha1="4559fd8072bf86f9d52fd5aff9032131bc12e407"/>
+				<rom name="Super Deform Snatcher - Patch Disk v2.2 (1994)(Thevma).dsk" size="737280" crc="5ef4b4e7" sha1="accd3e16bc316c34147eb7613c45b959bdf26e00"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="428c56d3">
+		<description>Super Laydock (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Super Laydock - Mission Striker (1987)(T&amp;E Soft)[b].dsk" size="737280" crc="428c56d3" sha1="0b948d1b20f4a31bb266a53e6d3df76f5b34d272"/>
+			</dataarea>
+		</part>
+	</software>
 
  	<software name="srambosp">
  		<description>Super Rambo Special (Japan, disk conversion)</description>
@@ -2003,6 +2914,50 @@ license:CC0-1.0
  			</dataarea>
  		</part>
  	</software>
+
+	<software name="ca8b50c4">
+		<description>Super Cooks (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="SuperCooks[Disk1-Program][English][File-Hunter.com].dsk" size="737280" crc="ca8b50c4" sha1="907218fbdbd43c079c7d92cad3ddcadee219ef0e"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b3d52732">
+		<description>Superstars of Wrestling (has bugs when winning)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Superstars of Wrestling (1992)(Enigma-Soft).dsk" size="737280" crc="b3d52732" sha1="35edddc7102b44476f4e25b58566b0ab09795dac"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ed45eab6">
+		<description>Survivor (cas2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Survivor (1987)(Topo Soft)(es).dsk" size="737280" crc="ed45eab6" sha1="8625dbeba5b55ad0772bf04721ebf42135ffc5bc"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="940e1b91">
+		<description>Synth Saurus 2.0 (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Synth Saurus v2.0 (1989)(Bit2)[b].dsk" size="737280" crc="940e1b91" sha1="a678774304da83a4a3bcda0b9bfbf1b55afe8c52"/>
+			</dataarea>
+		</part>
+	</software>
 
  	<software name="asteka2">
  		<description>Taiyou no Shinden - Asteka II (Japan, disk conversion)</description>
@@ -3461,6 +4416,28 @@ license:CC0-1.0
 			</dataarea>
  		</part>
  	</software>
+
+	<software name="e25e4fe6">
+		<description>Zoo (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Zoo (1987)(Philips)(nl)[a].dsk" size="737280" crc="e25e4fe6" sha1="4564cd0bf4b67a6fdc7aaf782d62c6eb13944d0f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="132c0be7">
+		<description>Zoo (hacked 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Zoo (1987)(Philips)(nl)[a2].dsk" size="737280" crc="132c0be7" sha1="993cbd040da1354fa0085bc0880f7bd52a0319ce" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="2fe42c5e">
 		<description>Zoo (hacked file-hunter)</description>
