@@ -7,6 +7,131 @@ license:CC0-1.0
 
 	<!-- To Sort -->
 
+	<software name="89ec2619">
+		<description>Othello - Reversi (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Othello Reversie (1989) (MSX Gids &amp; Samosoft).DSK" size="737280" crc="89ec2619" sha1="7d26aefd66e0bdde997d2eb5b6e3f2a27d465466" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3571ec0e">
+		<description>Partition Changer for Sunrise ATA-IDE (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Partition Changer for Sunrise ATA-IDE v5.0 (2000)(JDS)[needs MSX-DOS].dsk" size="737280" crc="3571ec0e" sha1="fd691e4b93d4120eeb7a0e12bff2d7024c31b210" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b7420bf1">
+		<description>PCX Viewer (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="PCX Viewer v1.0 (1997)(Ricardo Bittencourt)[needs MSX-DOS].dsk" size="737280" crc="b7420bf1" sha1="2fe7a68c9a184ecffde0c402d85fc66f0d861f42" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3125e82f">
+		<description>Pencil (unknown who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Pencil (19xx)(-)[mouse].dsk" size="737280" crc="3125e82f" sha1="8f557e4bb3af5cd257016fbeb1981c0e0d85c57a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Does not start -->
+	<software name="pensions">
+		<description>Pension Story: Hana no Kiyosato (Japan)</description>
+		<year>1989</year>
+		<publisher>Panther Software</publisher>
+		<info name="alt_title" value="ペンションストーリー 花の清里"/>
+		<info name="gtin" value="4988698010043"/>
+		<part name="flop1" interface="floppy_3_5">
+			<feature name="part_id" value="Disk A"/>
+			<dataarea name="flop" size="737280">
+				<rom name="pension story - hana no kiyosato - panther software (disk a).dsk" size="737280" crc="c71df1ef" sha1="c8221279aeefd87e5538de3f53b2ccf9fc4cd1af"/>
+			</dataarea>
+		</part>
+		<part name="flop2" interface="floppy_3_5">
+			<feature name="part_id" value="Disk B"/>
+			<dataarea name="flop" size="737280">
+				<rom name="pension story - hana no kiyosato - panther software (disk b).dsk" size="737280" crc="32b28cbd" sha1="d4aed291e672cb37892ae3f0412b793d5bdf42a3"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e89abc63">
+		<description>Qix (unknown who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Qix (19xx)(-).dsk" size="737280" crc="e89abc63" sha1="a0a31ab93ce63138de4c6f80d31de7fc79b1c319" />
+				<rom name="Qix (19xx)(-)[a].dsk" size="737280" crc="b9fb391a" sha1="dd0955522dd704322f6933ce92a8d29bd477898b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="604ee60d">
+		<description>Quiz Master (unknown who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Quiz Master (19xx)(-)(ja).dsk" size="737280" crc="604ee60d" sha1="63acb0dea30d1f1b747969ff806f116fa1389500" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="97bbc7b6">
+		<description>Rite of the Druid (too new)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Rite Of The Druid (2020)(Sunteam).DSK" size="737280" crc="97bbc7b6" sha1="26615716599c0fffbe84a46bce2ff1b18de117b1" />
+				<rom name="Rite Of The Druid (2022)(Sunteam &amp; @uto_dev).DSK" size="737280" crc="97bbc7b6" sha1="26615716599c0fffbe84a46bce2ff1b18de117b1" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6c5057c0">
+		<description>RaiRai (unknown who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="RaiRai (19xx)(-).dsk" size="737280" crc="6c5057c0" sha1="f93a5275b6f76e316e4088cf04b2f29a533b0a8e" />
+				<rom name="RaiRai (19xx)(-)[a].dsk" size="737280" crc="283743f9" sha1="c7377613e75404797cc6582fee1823015c2d3549" />
+				<rom name="RaiRai (19xx)(-)[needs MSX-DOS].dsk" size="737280" crc="c8a72b93" sha1="47c90411e254fdb1bcdd30b02e72823be06b2dcf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="819b8f19">
+		<description>RAM-Disk (unknown who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="RAM-Disk (19xx)(-).dsk" size="737280" crc="819b8f19" sha1="e8c0e2cc54cb71c6e3e6cc6e11b144d02f9f5177" />
+				<rom name="RAM-Disk (19xx)(-)[a].dsk" size="737280" crc="20eda2cf" sha1="d27f22c69ecc7a131d947a8ac776165b72fe275f" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="87d489d7">
 		<description>Sette e Mezzo House (unknown who and when)</description>
  		<year>19??</year>
@@ -467,6 +592,17 @@ license:CC0-1.0
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
  				<rom name="acrojet (1988)(system soft)(jp).dsk" size="737280" crc="735b09bc" sha1="2d1639acf305ac34394b9fd3147f1df827f2faa2"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="f83ff971">
+ 		<description>Adventure TcOOL (incomplete?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="perfect triangle - msx magazine.dsk" size="737280" crc="f83ff971" sha1="d37b0d60608c3527d1e693b34b3401a46ac34a02"/>
  			</dataarea>
  		</part>
  	</software>
@@ -1615,6 +1751,17 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="36e6e32d">
+ 		<description>Ogiss (extracted from MSX Dsk Communication 91-01, translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="ogiss[File-Hunter.com].dsk" size="737280" crc="36e6e32d" sha1="0fcbc5ab3e19b549926cde08d48ca3658621e361"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="ogre">
  		<description>Ogre (Japan, disk conversion)</description>
  		<year>19??</year>
@@ -1703,46 +1850,237 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="13a53309">
+ 		<description>Pac-Mania (NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Pac-Mania (1988)(Grandslam Entertainments).dsk" size="737280" crc="13a53309" sha1="8a62f143c837185edce4c3796180ffa8f2755cff"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="5885a554">
+ 		<description>Paccy (NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Paccy (1993)(Gbsoft).dsk" size="737280" crc="5885a554" sha1="5b5475faff9d3dec1b3545e29a68abf9f7013c60"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b931438f">
+ 		<description>Pacman (no autostart/NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Pacman (1993)(Egega).dsk" size="737280" crc="b931438f" sha1="a185c3e97201b897bba4e9edb06aed5f393d08cb"/>
+ 				<rom name="Pacman (1993)(Egega)[a].dsk" size="737280" crc="0047ff13" sha1="e1eda80e4f5b597f31050a007c3c7b81087d579e"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="c9710edb">
+ 		<description>Parodius (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Parodius - Tako Saves Earth (1988)(Konami)(ja)[t Martos][SCC].dsk" size="737280" crc="c9710edb" sha1="5fd9f036a0c8a668896626ba22b9852d3d99bb5c"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="302e8244">
+ 		<description>Passagers du Vent (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Wind.dsk" size="737280" crc="302e8244" sha1="a54ae5d9e9dc7fdd5bd218cd09483fea14d41a8b"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="910c5023">
+ 		<description>Patagoras (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Patagoras - Los Gases (1986)(Philips)(es)[a].dsk" size="737280" crc="910c5023" sha1="0ab40db88c8fc6ad6f49ae26ce041c5df858a007"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="d096e53d">
+ 		<description>Patagoras (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Patagoras - Los Gases (1986)(Philips)(es).dsk" size="737280" crc="d096e53d" sha1="1698ade9532cf15c241249b8ab2ebe0ef6b0cb8b"/>
+ 				<rom name="Patagoras - Los Gases (1986)(Philips)(es)[a2].dsk" size="737280" crc="31ae90b4" sha1="b634b7dad25c006c6f60a9dfb13fb986c722d329"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="cc996a35">
+ 		<description>Peacock King (fixed)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Peacock King - Kujakuo (Pony Canyon) (1988) (FIXED).dsk" size="737280" crc="cc996a35" sha1="747d56dce4427a0ff41e6bbd97979aa4a83cfa8f"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="penguin">
- 		<description>Penguin-kun Wars 2 (Japan, disk conversion)</description>
+ 		<description>Penguin-kun Wars 2 (Japan, crt2dsk conversion)</description>
  		<year>19??</year>
  		<publisher>&lt;cart2disk hack&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="368640">
  				<rom name="penguin kun wars 2 (1988)(ascii)(jp).dsk" size="368640" crc="0b868c7f" sha1="217f90d2f401658f5e1d9bff77323894f727f287"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="penguina">
- 		<description>Penguin-kun Wars 2 (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="penguin kun wars 2 (1988)(ascii)(jp)[a].dsk" size="737280" crc="e3cf8993" sha1="af0b625e6b1d1f3b9ef944c60a16c8e3df550b49"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="penguinb">
- 		<description>Penguin-kun Wars 2 (Japan, alt 2, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="368640">
  				<rom name="penguin kun wars 2 (1988)(ascii)(jp)[a2].dsk" size="368640" crc="f0b7a257" sha1="36ea3cbef4feef663bf4ec34d1ab5a7306412f46"/>
+ 				<rom name="penguin kun wars 2 (1988)(ascii)(jp)[a3].dsk" size="737280" crc="3b88cf8e" sha1="88f32335f22d398fc3a5ce807cc7fcb7198b3845"/>
+ 				<rom name="Penguin Wars 2 (1988)(Ascii)(ja)[cr SMA].dsk" size="737280" crc="9f4e473f" sha1="f391ec244e513304db525bf8f4abb34084c758a4"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="penguinc">
- 		<description>Penguin-kun Wars 2 (Japan, alt 3, disk conversion)</description>
+ 	<software name="71221bb4">
+ 		<description>Perry Mason (created with DiskMgr1)</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
- 				<rom name="penguin kun wars 2 (1988)(ascii)(jp)[a3].dsk" size="737280" crc="3b88cf8e" sha1="88f32335f22d398fc3a5ce807cc7fcb7198b3845"/>
+ 				<rom name="Perry Mason (1986)(Idealogic)(es)(Disk 1 of 2).dsk" size="737280" crc="71221bb4" sha1="748c32c9980884f4fd2c51c4ede9daa085e38f7c"/>
+ 				<rom name="Perry Mason (1986)(Idealogic)(es)(Disk 2 of 2)[a].dsk" size="737280" crc="1e2363ea" sha1="d9354da8c3d892cfa11b3649531177396762c360"/>
+				<!-- Does not auto start; what is on this disk? -->
+ 				<rom name="Perry Mason (1986)(Idealogic)(es)(Disk 2 of 2).dsk" size="737280" crc="a947d175" sha1="33d382644c94e9e79b6950afcced61496857d217"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="eb942e2e">
+ 		<description>Perry Mason (cracked G.VDB)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Perry Mason (1986)(Idealogic)(es)(Disk 1 of 2)[cr G.VDB].dsk" size="737280" crc="eb942e2e" sha1="f3bd88d00e2b6a4564d8ba2a44bbaeaf049e5591"/>
+ 				<rom name="Perry Mason (1986)(Idealogic)(es)(Disk 1 of 2)[cr G.VDB][a].dsk" size="737280" crc="d85c9d10" sha1="605f1328df5431f2da8a488905c3aebebdc227cf"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="8d16427b">
+ 		<description>Phantasie (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Phantasie (1988)(Bothtec)(en).DSK" size="737280" crc="8d16427b" sha1="27f5778e142140ec3cb6a8e68ff5c190abb960e5"/>
+ 				<rom name="Phantasie II - Story of Ferronrah (1988)(Bothtec)(en).dsk" size="737280" crc="e9f7bc9f" sha1="9fa5bc20663213ee8a3a5a90e9638d78cd7c2ffa"/>
+ 				<rom name="Phantasie IV - The Birth of Heroes [T-En by Django].dsk" size="737280" crc="0dfcb757" sha1="8c023e8e924d2e91e4da33336f2753c8bd28331c"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="2b8d7534">
+ 		<description>Pias (cracked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Pias - Torn Sexual Spring (1991)(Birdy software)(ja)(Disk 1 of 2)[Fixed &amp; Cracked).dsk" size="737280" crc="2b8d7534" sha1="160d83b9652ffff9b40f174c7a1965d9ce0faaca"/>
+ 				<rom name="Pias - Torn Sexual Spring (1991)(Birdy software)(ja)(Disk 2 of 2)[Fixed &amp; Cracked).dsk" size="737280" crc="627db361" sha1="997b63c03e3765217c2d6de2c512e36d9e32e883"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="59163c27">
+ 		<description>Playboy - Alles wat mannen boeit (hangs when you press S)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Playboy - Alles Wat Mannen Boeit (1987)(Powersoft)(nl).dsk" size="737280" crc="59163c27" sha1="abd425e10188262695fd89e46d10e4d5e8fd8861"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="a4364579">
+ 		<description>Playboy - Alles wat mannen boeit (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Playboy - Alles Wat Mannen Boeit (1987)(Powersoft)(nl)[a].dsk" size="737280" crc="a4364579" sha1="2e8a44b46f6c2f757520f513b8a09700674728a4"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="07e115de">
+ 		<description>Playhouse Strippoker (extracted from Games Collection 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Playhouse Strippoker (1989)(Eurosoft).dsk" size="737280" crc="07e115de" sha1="409adaf99420c2dd14cc422c2823624552ab3b6d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="06e8164d">
+ 		<description>Pleasure Hearts (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Pleasure Hearts (1999)(M-Kai)(en).dsk" size="737280" crc="06e8164d" sha1="e36f783d2688b529b37e3872bdda56ca125621d9"/>
+ 				<rom name="Pleasure Hearts V1.01 (1999)(M-Kai)(en).dsk" size="737280" crc="16f60a3e" sha1="d2f6260947e5d305f349fca35665673a02f9dcfb"/>
+ 				<rom name="Pleasure Hearts V1.02 (1999)(M-Kai)(en).dsk" size="737280" crc="d4933b9e" sha1="34c3d5e81fe22b408f58e04656bde041f18fdb6f"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="04f4a430">
+ 		<description>Polemos (only displays a title)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Polemos (1988)(Masaki Suenaga).dsk" size="737280" crc="04f4a430" sha1="862f5aefb26c249e092780f6dcf8137e93fb7a95"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="87e937c2">
+ 		<description>Poyopoyo Life (created with DiskMgr1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="poyopoyolife1.dsk" size="737280" crc="87e937c2" sha1="a0ac1e0174df5d60d9a320c84de4698d8830053d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e0594ed2">
+ 		<description>Poyopoyo Life 2 (created with DiskMgr1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="poyopoyolife2.dsk" size="737280" crc="e0594ed2" sha1="7039a47545da06080d5a80c6085f2beeec28c331"/>
  			</dataarea>
  		</part>
  	</software>
@@ -1802,38 +2140,342 @@ license:CC0-1.0
  		</part>
  	</software>
 
- 	<software name="projcta2">
- 		<description>Project A2 (Japan, disk conversion)</description>
+ 	<software name="1da7b4ca">
+ 		<description>Princess Maker (translated English)</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+ 				<rom name="Princess Maker (1992)(Micro Cabin)(en)(Disk 1 of 7).dsk" size="737280" crc="1da7b4ca" sha1="475fd7261c660a0fb22bc2ac6d8f13623e9decb5"/>
+ 				<rom name="Princess Maker (1992)(Micro Cabin)(en)(Disk 2 of 7).dsk" size="737280" crc="2490a3db" sha1="ba38317ab8d0f21b52bb800ef7cdef569720a1d0"/>
+ 				<rom name="Princess Maker (1992)(Micro Cabin)(en)(Disk 3 of 7).dsk" size="737280" crc="dc691b46" sha1="c6a5e12078494d4f281fc122c3bc1845e95baf41"/>
+ 				<rom name="Princess Maker (1992)(Micro Cabin)(en)(Disk 4 of 7).dsk" size="737280" crc="b92f2fb2" sha1="a50503623b9040ff727092a880fcf3ee319d0a98"/>
+ 				<rom name="Princess Maker (1992)(Micro Cabin)(en)(Disk 5 of 7).dsk" size="737280" crc="766d43e6" sha1="bf40d2404849e41e0084e950e5c36cb5b5cdd254"/>
+ 				<rom name="Princess Maker (1992)(Micro Cabin)(en)(Disk 6 of 7).dsk" size="737280" crc="3ab55228" sha1="dfb2a415da453164f4eafd619e534aeadc0b022e"/>
+ 				<rom name="Princess Maker (1992)(Micro Cabin)(en)(Disk 7 of 7).dsk" size="737280" crc="2d2670a3" sha1="e96973c3fc72e2f0be22543623cbf3869a3a578e"/>
+ 				<rom name="Princess Maker (1992)(Micro Cabin)(en)(User Disk).dsk" size="737280" crc="d4dffc4a" sha1="1fba0527b764c70f566ec8a22960bbaaf0cc2b67"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="60cee313">
+ 		<description>Princess Maker (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Princess Maker (1992)(Micro Cabin)(Disk 3 of 7).dsk" size="737280" crc="7835967c" sha1="eab5c3d8a73f095890703d15d8c1d892531c0d43"/>
+ 				<rom name="Princess Maker (1992)(Micro Cabin)(ja)(Disk 1 of 7)[b].dsk" size="737280" crc="5e012986" sha1="98345d929b617aac510d4cff5e80d110aa5b6927"/>
+ 				<rom name="Princess Maker v2 (1992)(Micro Cabin)(ja)(Disk 1 of 7)[b].dsk" size="737280" crc="60cee313" sha1="f189b459b867af5642f7a7d7df02bd5a5ccd4957"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="98024c28">
+ 		<description>Project A2 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Project A2 (1987)(Zemina).dsk" size="737280" crc="ffd396a0" sha1="11e40be21023adc6565c0c2876e47b860eb1e5e2"/>
  				<rom name="project a2 (1987)(pony canyon)(jp).dsk" size="737280" crc="98024c28" sha1="5fa17dc18af7fd68446d2874098fa48c979fff06"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="projcta2a">
- 		<description>Project A2 (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="project a2 (1987)(pony canyon)(jp)[a].dsk" size="737280" crc="cddd207d" sha1="8353bd99e155f0ed75db2ba78f2e383e3f63bc6d"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="projcta2b">
- 		<description>Project A2 (Japan, alt 2, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="project a2 (1987)(pony canyon)(jp)[a2].dsk" size="737280" crc="9af093d1" sha1="e32e583d7b6ccc4074f5677b2831a7184dad85cb"/>
  			</dataarea>
  		</part>
  	</software>
+
+ 	<software name="9b1313f1">
+ 		<description>Protracker (hacked file-hunter)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="ProTracker[File-Hunter.com].dsk" size="737280" crc="9b1313f1" sha1="a3f37b24cb46d2bd87705a4a923722c746f22297"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e152375d">
+ 		<description>Psycho World (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Psycho World (1988)(Hertz)(ja)[b].dsk" size="737280" crc="e152375d" sha1="2795928e70ce28431d46ed30a4da64bd73114a6c"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="7763e9a4">
+ 		<description>Psycho World (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+ 				<rom name="Psycho World [T-En by FRS v.1.0].dsk" size="737280" crc="7763e9a4" sha1="4464d998b11b43eb39b14ea68438770c4413f4f0"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="e41d0370">
+		<description>Pumpkin Adventure (extraced from a zip, contains file_id.diz/self created image)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- no$msx -->
+				<rom name="Pumpkin Adventure (1992)(Umax)[a].dsk" size="737280" crc="e41d0370" sha1="d697124c321770b45900c4b7c430279109ab24ca"/>
+				<!-- file_id.diz -->
+				<rom name="Pumpkin Adventure (1992)(Umax)[a2].dsk" size="737280" crc="4b9cc6c0" sha1="219e632f414875411760ed9bd9017388090b89d1"/>
+				<rom name="Pumpkin Adventure (1992)(Umax).dsk" size="737280" crc="d4670e1a" sha1="3249c64ed97219ffc7401ed278deccedf33a8cfc"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b4df9583">
+		<description>Pumpkin Adventure 2 (hacked/copied)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Pumpkin Adventure II - The Keeper Of The Seven Keys (1993)(Umax)(Disk 1 of 4).dsk" size="737280" crc="356c33a5" sha1="4ce84defe760ebb65980b4c9098ad91e3b885628"/>
+				<rom name="Pumpkin Adventure II - The Keeper Of The Seven Keys (1993)(Umax)(Disk 2 of 4)[a].dsk" size="737280" crc="aa7afed2" sha1="409f7e65f416e7b2076873a297ce62b588d1a4b2"/>
+				<rom name="Pumpkin Adventure II - The Keeper Of The Seven Keys (1993)(Umax)(Disk 3 of 4)[a].dsk" size="737280" crc="cd7dcd38" sha1="28f1a4aa4f928de947183b64726411c103f19dc5"/>
+				<rom name="Pumpkin Adventure II - The Keeper Of The Seven Keys (1993)(Umax)(Disk 4 of 4)[a].dsk" size="737280" crc="b4df9583" sha1="f9e07d2f4a250e0c8aaf26485731ea511a86301d"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2838d7aa">
+		<description>Pumpkin Adventure 3 (alt? boots through basic)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Pumpkin Adventure III - Hunt For The Unknown (1995)(Umax)(Disk 1 of 4)[a].dsk" size="737280" crc="2838d7aa" sha1="2c56573b31d04e257aaa395ba4701116029fc444"/>
+				<rom name="Pumpkin Adventure III - Hunt For The Unknown (1995)(Umax)(Disk 2 of 4)[a].dsk" size="737280" crc="4ec53dfd" sha1="91615d5d9a65a9dd1d6274a5a12331cf42188d26"/>
+				<rom name="Pumpkin Adventure III - Hunt For The Unknown (1995)(Umax)(Disk 3 of 4)[a].dsk" size="737280" crc="bfaab77b" sha1="dd587b079ded7c2d16994feea403436734966f7b"/>
+				<rom name="Pumpkin Adventure III - Hunt For The Unknown (1995)(Umax)(Disk 4 of 4)[a].dsk" size="737280" crc="575a3273" sha1="fe8b3c3a40b668e9e3d640a8af3f060c04598fda"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="29d5c5ff">
+		<description>Pumpkin Adventure 3 (fixed for FS-A1F)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Pumpkin Adventure III - Hunt For The Unknown (1995)(Umax)(Disk 1 of 4)[Panasonic FS-A1F 128KByte Fix].DSK" size="737280" crc="29d5c5ff" sha1="fdda03c893d5cddc606d1598f6fb5c7704c70542"/>
+				<rom name="Pumpkin Adventure III - Hunt For The Unknown (1995)(Umax)(Disk 2 of 4)[Panasonic FS-A1F 128KByte Fix].DSK" size="737280" crc="cca5f57c" sha1="9db0cbc336189cb4dba83379cff9fcd7244172f2"/>
+				<rom name="Pumpkin Adventure III - Hunt For The Unknown (1995)(Umax)(Disk 3 of 4)[Panasonic FS-A1F 128KByte Fix].DSK" size="737280" crc="329288f6" sha1="88ef9b2c35a25808661c53d315d4d2e84ca7ff75"/>
+				<rom name="Pumpkin Adventure III - Hunt For The Unknown (1995)(Umax)(Disk 4 of 4)[Panasonic FS-A1F 128KByte Fix].DSK" size="737280" crc="f0b5ce02" sha1="cc469b4b428f7befc769fc6cfd52d5e78d1611e3"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3bbdcc37">
+		<description>Puyo Puyo (contains savegame)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Puyo Puyo (1991)(Compile)[a].dsk" size="737280" crc="01dd4460" sha1="2aa78778bd77c4cb26f93ec5359693ceadc527a0"/>
+				<rom name="Puyo Puyo (1991)(Compile)[a2].dsk" size="737280" crc="111ce73d" sha1="e4e53ad306bdac080783a9a433d5d055ccac18b2"/>
+				<rom name="Puyo Puyo (1991)(Compile)[a3].dsk" size="737280" crc="3bbdcc37" sha1="d5772c0e9c7c091d04ac312457836d4ad0d6c8c6"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1471b7af">
+		<description>Puyo Puyo (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Puyo Puyo (en) (1991) (Compile).dsk" size="737280" crc="1471b7af" sha1="da9d5f1a843959d0b991ade42cf5c413c6a1804f"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b5a519cb">
+		<description>Puzzle (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Puzzle (1987)(Robinsonsoft)(nl).dsk" size="737280" crc="b5a519cb" sha1="bab5c1209403f3fb712e4fb871cc097f4973dae6"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="08590918">
+		<description>Puzzle 9.64 (save game)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Puzzle 9.64 (1995)(Asajie CLUB)[a].dsk" size="737280" crc="08590918" sha1="060ead6beb517858afaca015001a5e5c0c32691f"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="62d1b9ff">
+		<description>Quarth (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Quarth (1990)(Konami)[cr SMA].dsk" size="737280" crc="62d1b9ff" sha1="2825924e5e9a22f24da6df69c535c08f6c128d3f"/>
+				<rom name="Quarth (1990)(Konami)[cr SMA][a].dsk" size="737280" crc="3db2b74b" sha1="c61ffea953396d27db3d07bf4c44815fe73317a8"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="29a03ed9">
+		<description>Quadromania (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Quadromania (1987)(Obisoft).dsk" size="737280" crc="29a03ed9" sha1="2719dec1088266590d57740a12be85258ecb818c"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="981441ee">
+		<description>Quibus (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Quibus (19xx)(-)[b].dsk" size="737280" crc="981441ee" sha1="27582ad8a3792f2ce604574962bc8889c6da1bcf"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="557a177f">
+		<description>Quinch (different levels, hacked?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Quinch (30 new fields) (1993(MCEV)j.dsk" size="737280" crc="557a177f" sha1="27123c18fb71f0edde020efb7ebc906a2a643c41"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="537ddb2e">
+		<description>R-Type (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="R-Type (1988)(Irem).dsk" size="737280" crc="537ddb2e" sha1="505c22f2b1be9334a1d6407b3ab49de698eb37c0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a99e52f6">
+		<description>Rallye du Savoir (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Rallye du Savoir, Le (1987)(Forum Micros)(fr)[a].dsk" size="737280" crc="a99e52f6" sha1="484778aa43ccc72eb3e77a5b2c4114d36f097df0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="855ed760">
+		<description>Rallye du Savoir (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Rallye du Savoir, Le (1987)(Forum Micros)(fr).dsk" size="737280" crc="855ed760" sha1="5355cd11d4293fee68b690621e395de58c181a9a"/>
+				<rom name="Rallye du Savoir, Le (1987)(Forum Micros)(fr)[a2].dsk" size="737280" crc="18580670" sha1="a75d63c4dc1c024c624e7d051db166ec31f7e4f9"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9f1650d0">
+		<description>Rance (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Rance (1989)(Alice Soft)(ja)(Disk 1 of 4)[b].dsk" size="737280" crc="9f1650d0" sha1="fee62275c9f3f7a509bffba9faa77911085920e1"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4baea838">
+		<description>Randar (extracted from disk station special 1)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Randar (1989)(Compile)(ja).dsk" size="737280" crc="4baea838" sha1="f01ea5b68a82ec06435520055c2f57562b66f053"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6c420933">
+		<description>Randar (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Randar 1 (1989) (Compile Sargon)(en).dsk" size="737280" crc="6c420933" sha1="fb03f5c21fcae4208324b489e9bc8a912d3b50dd"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f00c0edf">
+		<description>Randar II (hacked)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Randar II - Revenge of Death (1989)(Compile)(ja).dsk" size="737280" crc="f00c0edf" sha1="f6f4e861dc050ee833582a4bc1e52271b0405581"/>
+				<rom name="Randar II - Revenge of Death (1989)(Compile)(ja)[a].dsk" size="737280" crc="a94e0389" sha1="b06f7bfd747493ae16aa8c3f186bc68707f868c1"/>
+				<rom name="Randar II - Revenge of Death (1989)(Compile)(ja)[a2].dsk" size="737280" crc="2ff4deef" sha1="bb6083643277d38c76eda5744cb93e3779306b14"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="443d4043">
+		<description>Randar II (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Randar II - Revenge of Death (1989)(Compile Sargon)(en).dsk" size="737280" crc="38443b9b" sha1="d3391a3f012d2b9331d806e3d6ab93948b670220"/>
+				<rom name="Randar II - Revenge of Death (1989)(Compile Sargon)(en)[a].dsk" size="737280" crc="eb2587dc" sha1="61f57fdd81a5eceee2c97e2c59d790009cebd843"/>
+				<rom name="Randar II - Revenge of Death (1989)(Compile Sargon)(en)[Fixed v1.1].dsk" size="737280" crc="3bbaf162" sha1="3e30d3a995ea0e5b4c9745e6bb7b095fbf61409b"/>
+				<rom name="Randar II - Revenge of Death (1989)(Compile Sargon)(en)[Fixed].dsk" size="737280" crc="443d4043" sha1="709d1bbfa9ad3dfbf03cffb405c964015d3186b1"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d4bca580">
+		<description>Randar III (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Randar III - Adventure of Randar (1990)(Compile)(en)(Disk 1 of 3).dsk" size="737280" crc="d4bca580" sha1="030b87858d6adcd469828e6e7c58a112e1a00985"/>
+				<rom name="Randar III - Adventure of Randar (1990)(Compile)(en)(Disk 2 of 3).DSK" size="737280" crc="e336d537" sha1="954ef4665a184897032adfbe9705672c15aa23c2"/>
+				<rom name="Randar III - Adventure of Randar (1990)(Compile)(en)(Disk 3 of 3).dsk" size="737280" crc="8c257c7b" sha1="12ed027caa8046351a2e21c4cd67335b3d081ac2"/>
+				<rom name="Randar 3 [T-En by Django] (Disk 1).dsk" size="737280" crc="07d4bcee" sha1="a67b3487c5d3897ae6cb08bdbe44e21d61f44ea2"/>
+				<rom name="Randar 3 [T-En by Django] (Disk 2).dsk" size="737280" crc="27fc0866" sha1="55d74ac99766a51da40e6b8f9d50db91e4e579d9"/>
+				<rom name="Randar 3 [T-En by Django] (Disk 3).dsk" size="737280" crc="950aaebc" sha1="f68a7a12206581a2d910392ff8db3652d61fb664"/>
+				<rom name="Randar 3 [T-En by Django] (Disk 4).dsk" size="737280" crc="a5e7be84" sha1="3b11ff5c8f50593a37be37f586263864cf70364d"/>
+			</dataarea>
+		</part>
+	</software>
 
  	<software name="rastan">
  		<description>Rastan Saga (Japan, disk conversion)</description>
@@ -1857,6 +2499,236 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="836df20f">
+		<description>Ray Gun (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Ray Gun (1991)(Elf)(ja)(Disk 4 of 6)[b].dsk" size="737280" crc="1c4112c6" sha1="0f63e22231a40e3feb98dc8d728846aa572c51ef"/>
+				<rom name="Ray Gun (1991)(Elf)(ja)(Disk 6 of 6)[b].dsk" size="737280" crc="836df20f" sha1="a504e53a340509aadde9f131ab512f45edc086dc"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5c661c84">
+		<description>Ray Gun Image Loader (hacked up stuff)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Ray Gun - Image Loader v1.0 (1992)(Danilo Danisi)(Disk 1 of 3)(Start Disk).dsk" size="737280" crc="5c661c84" sha1="705bf0c76944111cb6e13f01955de2d014b82d06"/>
+				<rom name="Ray Gun - Image Loader v1.0 (1992)(Danilo Danisi)(Disk 2 of 3)(Images Disk).dsk" size="737280" crc="8019f8d0" sha1="caa2cd7bfbde7f002606e688d19634481ebdf130"/>
+				<rom name="Ray Gun - Image Loader v1.0 Demo (1992)(Danilo Danisi).dsk" size="737280" crc="a13171c2" sha1="4d102f8e814b5a601b518a7a5eef8722b745ceae"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9981041f">
+		<description>Record of Lodoss War (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Record of Lodoss War (1989)(Humming Bird Soft)(en - partial)(Disk 1 of 5)(Opening Disk).DSK" size="737280" crc="4dbf053a" sha1="f4d67fcd9945272df5c446aa58ff1006d130ac46"/>
+				<rom name="Record of Lodoss War (1989)(Humming Bird Soft)(en - partial)(Disk 2 of 5)(Game Disk 1).dsk" size="737280" crc="d98b726a" sha1="77abfcfb402d4f581977de1185da65a3b4f3ce39"/>
+				<rom name="Record of Lodoss War (1989)(Humming Bird Soft)(en - partial)(Disk 3 of 5)(Game Disk 2).dsk" size="737280" crc="dc119636" sha1="511ece6dae3db88d47b8b31c631c7086ed515e47"/>
+				<rom name="Record of Lodoss War (1989)(Humming Bird Soft)(en - partial)(Disk 4 of 5)(Game Disk 3).dsk" size="737280" crc="8e40c619" sha1="454f2e8ed41a88f73d6c3456d1adb3ba09c90b91"/>
+				<rom name="Record of Lodoss War (1989)(Humming Bird Soft)(en - partial)(Disk 5 of 5)(User Disk - Continue).dsk" size="737280" crc="1a98bd1b" sha1="f4cdb59fcdbfad6804ec9bac43fab65581b3240f"/>
+				<rom name="Record of Lodoss War (1989)(Humming Bird Soft)(en - partial)(Disk 5 of 5)(User Disk - Start).dsk" size="737280" crc="9981041f" sha1="15408fa08223f2138e5f59b5d4522c6b23c4691c"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d65496af">
+		<description>Record of Lodoss War Pack (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Record of Lodoss War Pack (1990)(Humming Bird Soft)(ja)[b].dsk" size="737280" crc="d65496af" sha1="a4f5d98552fddfb711d30a6c2e666a755d68c158"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7d21da93">
+		<description>Red Lights of Amsterdam (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Red Lights of Amsterdam (1986)(Eaglesoft)[b].dsk" size="737280" crc="7d21da93" sha1="b083655087387d21b4e06540c54803c97ba52aa6"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="90257304">
+		<description>Red Lights of Amsterdam (hacked Fony)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Red Lights of Amsterdam [UK].dsk" size="737280" crc="90257304" sha1="24392851a37feef89a4212c9169064e9f2b6e659"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="20df5056">
+		<description>Relics (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Relics (1986)(Bothtec)[cr Fun Soft].dsk" size="737280" crc="20df5056" sha1="b38cd675bab76f6c736c29b743cf2570c34cd135"/>
+				<rom name="Relics (1986)(Bothtec)[cr Fun Soft][a].dsk" size="737280" crc="58b34f9d" sha1="f2333eb2d7c31a55c6472283e1b6d0d0d1846117"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dafdbc13">
+		<description>Replicart (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Replicart (1987)(Sony)[cr Fun Soft].dsk" size="737280" crc="dafdbc13" sha1="5ce37d3903802b37238fa3e5950b7bcc6d6ffeb7"/>
+				<rom name="Replicart (1987)(Sony)[cr Fun Soft][a].dsk" size="737280" crc="35726403" sha1="46b61b16e10b67afd518571970f702340d0b4212"/>
+				<rom name="Replicart (1987)(Sony)[cr Fun Soft][a2].dsk" size="737280" crc="d9c67821" sha1="4e901a6264179ef6a78b70981c990a442e44b746"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bcf593d1">
+		<description>Respiration, La (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Respiration, La (1987)(Forum Micros)(es)[a].dsk" size="737280" crc="bcf593d1" sha1="76c5c0b7cddcc44e239996f0e9cbd9b4fff45dbd"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2c5f0f12">
+		<description>Respiration, La (created with DSKTOOL)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Respiration, La (1987)(Forum Micros)(es).dsk" size="737280" crc="2c5f0f12" sha1="53d4ecdcc3f38c6d882a2319edefb3010ba2ed38"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1f954656">
+		<description>Return of Ishtar (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Return of Ishtar, The (1988)(Namcot)[cr SMA].dsk" size="737280" crc="1f954656" sha1="7481a6ac1e6aed9dadf64aba0cf1657ea4db7975"/>
+				<rom name="Return of Ishtar, The (1988)(Namcot)[cr SMA][a].dsk" size="737280" crc="9e42959b" sha1="9c954f9e54e44ea0288574d411244471486a5aa0"/>
+				<rom name="Return of Ishtar, The (1988)(Namcot)[cr SMA][a2].dsk" size="737280" crc="e3ef9feb" sha1="f0e9fa7990ecf88fd18a61431c9859978a28197a"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d33c1a55">
+		<description>Reviver (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Reviver (1987)(Arsys)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="d33c1a55" sha1="7df0cac97af24eafdb9e8c94547c168c1bdfe329"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="903dfefb">
+		<description>Rick &amp; Mick's Adventure (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Rick &amp; Mick's Adventure (1987)(Humming Bird Soft)(ja)[cr SMA].dsk" size="737280" crc="903dfefb" sha1="6f0b690ff1383fea26e05d3a535f0543a4f09083"/>
+				<rom name="Rick &amp; Mick's Adventure (1987)(Humming Bird Soft)(ja)[cr SMA][a].dsk" size="737280" crc="ccee0acc" sha1="25accba3f15225208cb4dc5c6d3893cd9bb85f7d"/>
+				<rom name="Rick &amp; Mick's Adventure (1987)(Humming Bird Soft)(ja)[cr SMA][a2].dsk" size="737280" crc="321ae4d1" sha1="d7a52550be744bc6b727b53cde8ecf661386f952"/>
+				<rom name="Rick &amp; Mick's Adventure (1987)(Humming Bird Soft)(ja)[cr SMA][a3].dsk" size="737280" crc="a4c9107d" sha1="4dffa45760e05bbb1a4691b98fd14158d5f8a95e"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2098e6c3">
+		<description>Rick Dangerous (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Rick Dangerous (1992)(Paragon Productions)[b].dsk" size="737280" crc="2098e6c3" sha1="5815b8097b1c7fc44eac6014c7b3f95cb06db6dd"/>
+				<rom name="Rick Dangerous (1992)(Paragon Productions)[b2].dsk" size="737280" crc="962eb2a8" sha1="9f3c578267b90a5b0c7b083cfde18a9672e02295"/>
+				<rom name="Rick Dangerous (1992)(Paragon Productions)[b3].dsk" size="737280" crc="1b4f9df1" sha1="b45fe9323b21487126de853eb2e3cf19a4866f5c"/>
+				<rom name="Rick Dangerous (1992)(Paragon Productions)[b4].dsk" size="737280" crc="cf0c8465" sha1="1d371938b2977403cd3c001bf335221f83389977"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8f805bc6">
+		<description>Risiko U.S.A. (does not start automatically)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Risiko U.S.A. (1989)(IFI)(es)[a].dsk" size="737280" crc="8f805bc6" sha1="415da36b3f15bfcf4c24e3131e029940d44cf298"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="41a73731">
+		<description>Risiko U.S.A. (created with NO$MSX)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Risiko U.S.A. (1989)(IFI)(es).dsk" size="737280" crc="41a73731" sha1="30dafb6955b0c637d2198550c7c0d50333741bf6"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7ac6569b">
+		<description>Robo Crush (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Robo Crush (1990)(System Soft)(en)(Disk 1 of 2).DSK" size="737280" crc="7ac6569b" sha1="02939840c6c639a58fe2c798b23ae705a828ccfe"/>
+				<rom name="Robo Crush (1990)(System Soft)(en)(Disk 2 of 2).DSK" size="737280" crc="c58fe139" sha1="a271cc0171d5858bdf3b61b951f01441383ce1ef"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ee18a221">
+		<description>Robo Crush (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Robo Crush (1990)(System Soft)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="ee18a221" sha1="23defa494806b9e290923a958a161e2ad8a6d931"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e35f014d">
+		<description>Robo Wres 2001 (crt2dsk conversion)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Robowres 2001 (1988)(Zemina).dsk" size="737280" crc="e35f014d" sha1="0e0205f1ebf96afde8c1a13d5cf894a416e08edf"/>
+				<rom name="Robowres 2001 (1988)(Zemina)[a].dsk" size="737280" crc="ba93457e" sha1="f87996c17a3846a07a35b1767644f954920096e0"/>
+			</dataarea>
+		</part>
+	</software>
+
  	<software name="romancia">
  		<description>Romancia (Japan, disk conversion)</description>
  		<year>19??</year>
@@ -1879,6 +2751,116 @@ license:CC0-1.0
  		</part>
  	</software>
 
+	<software name="efdcb116">
+		<description>Royal Blood (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Royal Blood. Gemfire (1991)(Koei)(ja)(Disk 1 of 3)[b].dsk" size="737280" crc="efdcb116" sha1="7b8503cf1c536744915a246f12f2bf65645a9172"/>
+				<rom name="Royal Blood. Gemfire (1991)(Koei)(ja)(Disk 2 of 3)[b].dsk" size="737280" crc="91a32104" sha1="d8e72a88e048617116ae9d6248f47919d31f32d1"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0fa26c7d">
+		<description>Rune Master (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Rune Master (en) (1989) (Compile).dsk" size="737280" crc="0fa26c7d" sha1="98e78192ad8f23dfefb5f4a1c17303638cee75b4"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="402908cf">
+		<description>Rune Master (translated)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="" size="737280" crc="402908cf" sha1="bd8124385d089e5318d38cfcc5abaf3f3fb78149"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="53b57e39">
+		<description>Rune Master 2 (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Rune Master II (1990)(Compile).dsk" size="737280" crc="4876f3e8" sha1="7d6cbade94b372a5946ec90af9d70754e7c02360"/>
+				<rom name="Rune Master 2 (en) (1990) (Compile).dsk" size="737280" crc="53b57e39" sha1="70a210983d9d23f8f306d5b809b554cb05956592"/>
+				<rom name="Rune Master II (1990)(compile)(en)(no CPU).dsk" size="737280" crc="03bd8b77" sha1="976fbc237c7470a4a02fb7fac1111331d886491c"/>
+				<rom name="disc station deluxe - issue 01 - rune master ii (1990)(compile)(jp).dsk" size="737280" crc="d5e2ebd8" sha1="21cdf4a02309b02e3b78b3f620180117e41241df"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="58292b9b">
+		<description>Rune Master 3 (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Rune Master 3 (en) (1991) ( Compile) (Disk 1 of 3).dsk" size="737280" crc="58292b9b" sha1="1a3318b91e0ab7e8aabf5d68f43de13ff46cebf2"/>
+				<rom name="Rune Master 3 (en) (1991) ( Compile) (Disk 2 of 3).dsk" size="737280" crc="29f36685" sha1="282d55a68e328bf89093f2dc078e4c552c42af1a"/>
+				<rom name="Rune Master 3 (en) (1991) ( Compile) (Disk 3 of 3).dsk" size="737280" crc="f647b6a8" sha1="35362b2ec256c549d35a625690ecd0a460b8cd61"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="4e5c272d">
+		<description>Rune Worth (translated English)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Rune Worth - The Young Noble of a Wire-Puller (1990)(T&amp;E Soft)(en)(Disk 1 of 4)(Start Disk).dsk" size="737280" crc="4e5c272d" sha1="5b7404a444d3063cb318acb51b0aae009042c78a"/>
+				<rom name="Rune Worth - The Young Noble of a Wire-Puller (1990)(T&amp;E Soft)(en)(Disk 2 of 4)(Game Disk A).DSK" size="737280" crc="77daee2b" sha1="ac7c3a35f5e613361605be53348cbcdb672edc9e"/>
+				<rom name="Rune Worth - The Young Noble of a Wire-Puller (1990)(T&amp;E Soft)(en)(Disk 3 of 4)(Game Disk B).dsk" size="737280" crc="4ef0a1fd" sha1="b7215ae8c7c11fd8d7a49f5c34a05f395e1808b8"/>
+				<rom name="Rune Worth - The Young Noble of a Wire-Puller (1990)(T&amp;E Soft)(en)(Disk 4 of 4)(User Disk).dsk" size="737280" crc="462ca636" sha1="2888efe0bd18164db4cb4d01fb507233fa76d55d"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="84c39a78">
+		<description>Running Dragon (extracted from Games Collection 2)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Running Dragon (1989)(Eurosoft).dsk" size="737280" crc="7c12c65b" sha1="ba27de18373b5c5383e8b6d7c6c04041047ef90e"/>
+				<rom name="Running Dragon (1989)(Eurosoft)[a].dsk" size="737280" crc="aac68a16" sha1="7609ba21ce539bb9b3a576c0a5354bf56350a25c"/>
+				<rom name="Running Dragon (1989)(Eurosoft)[a2].dsk" size="737280" crc="84c39a78" sha1="e7e065aee3777d76b6c9f791f5666f1da0a1b052"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="45669a28">
+		<description>Ryukyu (baddump)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Ryukyu (1989)(Ascii)[b].dsk" size="737280" crc="45669a28" sha1="a5430eeb34377d4984f5b289691dae2a977245e7"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="52b56922">
+		<description>R-System 3.2 (baddump? Multiple '_ErrSec_' strings)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="R-SYSTEM 3.2 (1996)(Syntax)(jp)[a].dsk" size="737280" crc="52b56922" sha1="ed8b5f29dd25f29f250d18aeba9e064054cb7d47"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="326c0651">
 		<description>Sa-Zi-Ri (translated English)</description>
  		<year>19??</year>
@@ -1886,6 +2868,22 @@ license:CC0-1.0
  		<part name="flop" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
 				<rom name="Sa-Zi-Ri. Saziri (1988)(Telenet Japan)(en)[Translation by Django].dsk" size="737280" crc="326c0651" sha1="7973308836c90c71ed24261a7c6eff94124ac709"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e1196cf7">
+		<description>Sailor Fuku Senshi Feris (dsk version)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="FERISA.DSK" size="737280" crc="9aa76af6" sha1="b1585b135574900f0f209c015c90d875e4b7cf58"/>
+				<rom name="FERISB.DSK" size="737280" crc="438473c8" sha1="eeaaa334e77aece74958e4da8dac43af4bc8fd33"/>
+				<rom name="FERISC.DSK" size="737280" crc="e1196cf7" sha1="814ac5cef29e4cacdc748b720f56b91dbb8ee34a"/>
+				<rom name="The Fighting Sailor Fuku (1990)(Cocktail Soft)(ja)(Disk 1 of 3).dsk" size="737280" crc="4ec25130" sha1="c229ae13f091178efff5e13cc42bce3f3ef53bdf"/>
+				<rom name="The Fighting Sailor Fuku (1990)(Cocktail Soft)(ja)(Disk 2 of 3).dsk" size="737280" crc="438473c8" sha1="eeaaa334e77aece74958e4da8dac43af4bc8fd33"/>
+				<rom name="The Fighting Sailor Fuku (1990)(Cocktail Soft)(ja)(Disk 3 of 3).dsk" size="737280" crc="e1196cf7" sha1="814ac5cef29e4cacdc748b720f56b91dbb8ee34a"/>
 			</dataarea>
 		</part>
 	</software>
@@ -2652,6 +3650,7 @@ license:CC0-1.0
  		<part name="flop" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
 				<rom name="Super Cooks (1989)(Compile)(ja).dsk" size="737280" crc="3651f13f" sha1="32229235366d7467724ebdca219115b438a1899c"/>
+				<rom name="Super Cooks (1989)(Compile)(ja)[a].dsk" size="737280" crc="ee07e557" sha1="0df862324ab023f06543191df1500eaaa6f83927"/>
 			</dataarea>
 		</part>
 	</software>
