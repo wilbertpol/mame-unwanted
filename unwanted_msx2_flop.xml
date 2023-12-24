@@ -5,6 +5,18 @@ license:CC0-1.0
 -->
 <softwarelist name="unwanted_msx2_flop" description="MSX2 disk images - hacks, cracks, conversions, etc">
 
+	<software name="a1ef5c89">
+		<description>MSX2 Word Processor (in PR, remove when merged)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Panasonic FS-SR021 MSX2 Word Processor (1988)(Matsushita Electric Industrial).dsk" size="737280" crc="a1ef5c89" sha1="f47f225b75784bb4d2ee533fa8fb57d9525c0029" />
+			</dataarea>
+		</part>
+	</software>
+
+
 	<!-- To Sort -->
 
 	<software name="89ec2619">
@@ -1674,79 +1686,211 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="ec0f5f68">
+ 		<description>Music Demo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- keeps rebooting -->
+ 				<rom name="Music Demo (19xx)(JLSA Soft)(nl).dsk" size="737280" crc="ec0f5f68" sha1="574c3b66ab900ce3e30c11913995782b3440ee29"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="a4e20a29">
+ 		<description>Nagi-P Soft Games</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+ 				<rom name="Nagi-P Soft Games (1991)(Nagi-P Soft).dsk" size="737280" crc="a4e20a29" sha1="de7a3db7c3b25a94c6a6f57711bb7cfb0bf940d7"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="869cf937">
+ 		<description>Navitune</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated English -->
+ 				<rom name="Navitune (1989)(Kogado)(en)(Disk 1 of 2).dsk" size="737280" crc="5e227851" sha1="6d866a709ea44f5856fff8f659621754de415fdf"/>
+ 				<rom name="Navitune (1989)(Kogado)(en)(Disk 2 of 2).DSK" size="737280" crc="f1200d68" sha1="9332ddc6054d0d84b9047805144ee89e0b5d8157"/>
+				<!-- baddump -->
+ 				<rom name="Navitune (1989)(Kogado)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="869cf937" sha1="6ee5d622775a861b9153a22329b341beb23bb179"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="nekkejud">
  		<description>Nekketsu Juudou (Japan, disk conversion)</description>
  		<year>19??</year>
  		<publisher>&lt;cart2disk hack&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="nekketsu judo (1989)(pony canyon)(jp).dsk" size="737280" crc="46d20436" sha1="76ae05d5fe8eed5c72ee989bf19f24677e148864"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="nekkejuda">
- 		<description>Nekketsu Juudou (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="368640">
  				<rom name="nekketsu judo (1989)(pony canyon)(jp)[a].dsk" size="368640" crc="e3083e74" sha1="2a3adea1e31c949b6fe6974173668e9cb38eaf04"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="nekkejudb">
- 		<description>Nekketsu Juudou (Japan, alt 2, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="nekketsu judo (1989)(pony canyon)(jp)[a2].dsk" size="737280" crc="c761b48c" sha1="10d32d99b06dbe5780011a6e1c0c846be307d889"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="nekkejudc">
- 		<description>Nekketsu Juudou (Japan, alt 3, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="nekketsu judo (1989)(pony canyon)(jp)[a3].dsk" size="737280" crc="8394609e" sha1="847409929b7a3377022bb74cf5a9475daeec6485"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="ninjakun">
- 		<description>Ninja-kun - Ashura no Shou (Japan, disk conversion)</description>
+ 	<software name="32c233b1">
+ 		<description>New Adam &amp; Eve</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- does not seem to be original -->
+ 				<rom name="New Adam &amp; Eve (1985)(Sony).dsk" size="737280" crc="32c233b1" sha1="31e2c0b9cfafe425d888fa3c4aadc47737a99be1"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="f79eef70">
+ 		<description>Nightmare on Elmstreet 4</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- keeps rebooting -->
+ 				<rom name="Nightmare on Elmstreet 4 (19xx)(Unicorn).dsk" size="737280" crc="f79eef70" sha1="8019a9497b97d13c8961e90a751e9e2bf641a1b4"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="dc9933db">
+ 		<description>Ninja-kun - Ashura no Shou</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="ninja kun - ashura no sho (1987)(hal laboratory)(jp).dsk" size="737280" crc="dc9933db" sha1="a06c936b067b367626565549568c8256199ecf74"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="ninjakuna">
- 		<description>Ninja-kun - Ashura no Shou (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="ninja kun - ashura no sho (1987)(hal laboratory)(jp)[a].dsk" size="737280" crc="45620b7d" sha1="5478b7f5f5010163e5834931c92545711eb7e940"/>
+ 				<rom name="ninja kun - ashura no sho (1987)(hal laboratory)(jp)[a2].dsk" size="737280" crc="e1296fc6" sha1="64fa5b49b4b68f56d92d9500eb3dec317486f195"/>
+ 				<rom name="Ninja Kun - Ashura no Sho (1987)(Hal)[t].dsk" size="737280" crc="2f3f0818" sha1="0e09a1b9989bbccd72debbe75740cfe07acde154"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="ninjakunb">
- 		<description>Ninja-kun - Ashura no Shou (Japan, alt 2, disk conversion)</description>
+ 	<software name="6206df57">
+ 		<description>No Fuss Level Editor</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
- 				<rom name="ninja kun - ashura no sho (1987)(hal laboratory)(jp)[a2].dsk" size="737280" crc="e1296fc6" sha1="64fa5b49b4b68f56d92d9500eb3dec317486f195"/>
+				<!-- Just an editor used while creating the original game. -->
+ 				<rom name="No Fuss - levels.dsk" size="737280" crc="6206df57" sha1="676679de589a55d2e5ed8ec95aa11829040481fa"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="155c5b5f">
+ 		<description>Nobunaga no Yabou 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+ 				<rom name="Nobunaga no Yabou 2 - Sengoku Gunyuu Den (1989)(Koei)(ja)[b].dsk" size="737280" crc="155c5b5f" sha1="57a2b100b06507199efa2a2176f214f5470bdb01"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="2f2e8f7c">
+ 		<description>Nobunaga no Yabou 3</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+ 				<rom name="Nobunaga no Yabou 3 - Bushou Fuuun Roku (1991)(Koei)(ja)(Disk 2 of 2)[b].dsk" size="737280" crc="2f2e8f7c" sha1="cfb3b70404307399a5ab99de19748733eefbfe4e"/>
+				<!-- alt? -->
+ 				<rom name="Nobunaga no Yabou 3 - Bushou Fuuun Roku (1991)(Koei)(ja)(Disk 2 of 2)[a2].dsk" size="737280" crc="c7c1bd2f" sha1="bb1b1b15a03ffa9f9a40c6ab2f8d85e82dcdd09b"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b825b737">
+ 		<description>Norton Utilities</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- no$msx -->
+ 				<rom name="Norton Utilities v3.20 (1989)(Peter Norton).dsk" size="737280" crc="b825b737" sha1="7fd4ed30779c64893399b249497378282b0e7504"/>
+				<!-- does not start automatically -->
+ 				<rom name="Norton Utilities v3.20 (1989)(Peter Norton)[a].dsk" size="737280" crc="8e2934c6" sha1="140e6fd0bcde4106fdbc12b8a2ec55f2339693b2"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="6ce00134">
+ 		<description>Nueve Principes en Amber</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cracked -->
+ 				<rom name="Nueve Principes en Amber (1986)(Idealogic)(es)(Disk 1 of 3)[cr Joan Angel].dsk" size="737280" crc="e4f24a0c" sha1="41c53a2b2cc30aebf8da8a1689b05e465ae2d3ea"/>
+ 				<rom name="Nueve Principes en Amber (1986)(Idealogic)(es)(Disk 2 of 3).dsk" size="737280" crc="3288373b" sha1="704c87bc4f889ca4933f69dff6a15fb3bc6aefe9"/>
+ 				<rom name="Nueve Principes en Amber (1986)(Idealogic)(es)(Disk 3 of 3).dsk" size="737280" crc="a5003c9e" sha1="d6805804cd2c893b1593aa35f49b9e50489d6891"/>
+				<!-- Baddump -->
+ 				<rom name="Nueve Principes en Amber (1986)(Idealogic)(es)(Disk 1 of 3)[b2].dsk" size="737280" crc="6ce00134" sha1="616bfd7608003a557d25fd5eabd60b16c14414b9"/>
+ 				<rom name="Nueve Principes en Amber (1986)(Idealogic)(es)(Disk 1 of 3)[b].dsk" size="737280" crc="c0415d90" sha1="f6b40469a38724e2af0682d3cd88fc11222a14ac"/>
+ 				<rom name="Nueve Principes en Amber (1986)(Idealogic)(es)(Disk 2 of 3)[b2].dsk" size="737280" crc="0b3de95b" sha1="71e75d4f1a0fe2f7c445b142f632f0249321bcf9"/>
+ 				<rom name="Nueve Principes en Amber (1986)(Idealogic)(es)(Disk 2 of 3)[b].dsk" size="737280" crc="e7cd0230" sha1="c57a85debf6550a4accc78afb05cf5a07527e691"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="6efa0bac">
+ 		<description>Nukenin Densutse</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- Baddump -->
+ 				<rom name="Nukenin Densetsu. The Caller from Darkness (1988)(Brain Grey)(ja)(Disk 1 of 4)[b].dsk" size="737280" crc="6efa0bac" sha1="7e80a74f81603cb8bbdf61563aadfb3471857abd"/>
+ 				<rom name="Nukenin Densetsu. The Caller from Darkness (1988)(Brain Grey)(ja)(Disk 2 of 4)[b].dsk" size="737280" crc="23883b2f" sha1="ee5459d051a0ecfae0a31b4bd9f910fe5108f39b"/>
+ 				<rom name="Nukenin Densetsu. The Caller from Darkness (1988)(Brain Grey)(ja)(Disk 3 of 4)[b].dsk" size="737280" crc="ee4bec2f" sha1="ce7d61ce89075f7fe7ca710f4e072b7ecf5c24b8"/>
+ 				<rom name="Nukenin Densetsu. The Caller from Darkness (1988)(Brain Grey)(ja)(Disk 4 of 4)[b].dsk" size="737280" crc="e9509bc2" sha1="4ec832e7d009668ae591c20ca43a41353a6ee0e7"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="764fbc25">
+ 		<description>Nyancle Racing</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- Translated English -->
+ 				<rom name="Nyancle Racing (1988)(Bit2)(en).dsk" size="737280" crc="764fbc25" sha1="4898a70bbc66af927db689007531e3ce7684ac92"/>
+				<!-- Baddump -->
+ 				<rom name="Nyancle Racing (1988)(Bit2)(ja)[b].dsk" size="737280" crc="4ff8b046" sha1="ab449d1a8e87146c8d5ca6be842707c6f371ee53"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="d913c0a6">
+ 		<description>Nyanpi</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- Savegames -->
+				<rom name="disc station deluxe - issue 03 - nyanpi. cats puzzle (1990)(compile)(jp).dsk" size="737280" crc="6b48be16" sha1="7418b10985cec301af362a9f3f82ac528f569824"/>
+ 				<rom name="Nyanpi. Cats Puzzle (1989)(Compile)(ja)[a].dsk" size="737280" crc="8b564258" sha1="2bb155f8a0b7a0569d1323f8cc8b197e30508497"/>
+				<!-- Translated English -->
+ 				<rom name="Nyanpi. Cats Puzzle (1989)(Compile)(en)(a).dsk" size="737280" crc="c869f660" sha1="144005b90f55a8b2ad257468f65a7c7cd7e4b401"/>
+ 				<rom name="Nyanpi. Cats Puzzle (1989)(Compile)(en).dsk" size="737280" crc="d913c0a6" sha1="1753c42bb02abcfa75dd51a3556b3515f36cd099"/>
  			</dataarea>
  		</part>
  	</software>
@@ -2219,7 +2363,7 @@ license:CC0-1.0
  	</software>
 
 	<software name="e41d0370">
-		<description>Pumpkin Adventure (extraced from a zip, contains file_id.diz/self created image)</description>
+		<description>Pumpkin Adventure (extracted from a zip, contains file_id.diz/self created image)</description>
  		<year>19??</year>
  		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop" interface="floppy_3_5">
