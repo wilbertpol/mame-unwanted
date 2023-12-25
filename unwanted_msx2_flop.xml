@@ -5,19 +5,29 @@ license:CC0-1.0
 -->
 <softwarelist name="unwanted_msx2_flop" description="MSX2 disk images - hacks, cracks, conversions, etc">
 
-	<software name="a1ef5c89">
-		<description>MSX2 Word Processor (in PR, remove when merged)</description>
+	<!-- To Sort -->
+
+	<software name="87a6c298">
+		<description>Mega Disk Copier &amp; Sector Editor (unclear who and when)</description>
  		<year>19??</year>
  		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
-				<rom name="Panasonic FS-SR021 MSX2 Word Processor (1988)(Matsushita Electric Industrial).dsk" size="737280" crc="a1ef5c89" sha1="f47f225b75784bb4d2ee533fa8fb57d9525c0029" />
+				<rom name="Mega Disk Copier &amp; Sector Editor (19xx)(-).dsk" size="737280" crc="87a6c298" sha1="5c92fe0e445520fa5cb50fd5337c7bc1fde2ff5a" />
 			</dataarea>
 		</part>
 	</software>
 
-
-	<!-- To Sort -->
+	<software name="81160fa4">
+		<description>Midas OS (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Midas OS (19xx)(-).dsk" size="737280" crc="81160fa4" sha1="322843433f670776173c8e375fe6769786e2b870" />
+			</dataarea>
+		</part>
+	</software>
 
 	<software name="89ec2619">
 		<description>Othello - Reversi (unclear who and when)</description>
@@ -1345,6 +1355,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="7d49c692">
+ 		<description>Gunjin Shougi</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- savegame -->
+ 				<rom name="Mattix (19xx)(Pack In Video).dsk" size="737280" crc="7d49c692" sha1="41a8e3bf5fb402c53e238ade988eaa2d814b96b2"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="hainomaj">
  		<description>Hai no Majutsushi (Japan, disk conversion)</description>
  		<year>19??</year>
@@ -1609,6 +1631,104 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="eb609de7">
+ 		<description>M.U.L.E.</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="M.U.L.E. (1988)(BPS)(ja)[b].dsk" size="737280" crc="eb609de7" sha1="afdde9152742c34799a1f22174cc128a5a46a4cf"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b13fa515">
+ 		<description>Madonna no Yamaku</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOl -->
+				<rom name="madonna yamaku. tempation of the madonna (1988)(dot plan)(jp).dsk" size="737280" crc="f40896c5" sha1="433ec7f98a663910812e8ce67c2a0488c47d277a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b13fa515">
+ 		<description>Madou Monogatari 1-2-3</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+ 				<rom name="Madou Monogatari 1-2-3 (1990)(Compile)(en)(Disk 1 of 2).DSK" size="737280" crc="b13fa515" sha1="7c871d8131bae5d5a52bb7966e4032966158713e"/>
+ 				<rom name="Madou Monogatari 1-2-3 (1990)(Compile)(en)(Disk 2 of 2).DSK" size="737280" crc="5e865c5c" sha1="12670c96c0490cf61e0dc48b1b1143869cad2e41"/>
+				<!-- alts? -->
+ 				<rom name="Madou Monogatari 1-2-3 (1990)(Compile)(ja)(Disk 2 of 5)[a2].dsk" size="737280" crc="cd35c4f8" sha1="e5032b09dd9604029d0261d3becd15311ed2f126"/>
+ 				<rom name="Madou Monogatari 1-2-3 (1990)(Compile)(ja)(Disk 2 of 5)[a3].dsk" size="737280" crc="37ba1723" sha1="4252c1570079dc1117a4e53a33e8968a471a9113"/>
+ 				<rom name="Madou Monogatari 1-2-3 (1990)(Compile)(ja)(Disk 2 of 5)[a4].dsk" size="737280" crc="769a5795" sha1="b703805e04adfa1c2d4553796a90edbcbddcf48b"/>
+ 				<rom name="Madou Monogatari 1-2-3 (1990)(Compile)(ja)(Shopdisk).DSK" size="737280" crc="37893b70" sha1="76ffa78223ad7d2014e0b9c8bf4410aec665995c"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="7b118557">
+ 		<description>Madoushi Lulba</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- extracted from disc station deluxe 2 -->
+ 				<rom name="Madoushi Lulba (1990)(Compile)(ja).dsk" size="737280" crc="7b118557" sha1="2f6dad7a173f436e4fdb1e6bceb3365c4eb152bd"/>
+ 				<rom name="Madoushi Lulba (1990)(Compile)(ja)[a].dsk" size="737280" crc="1f6df8a6" sha1="e3d0929169800e85fa639ebca7aad6c9d1bfb302"/>
+				<!-- translated -->
+ 				<rom name="Madoushi Lulba (1990)(Compile)(en).DSK" size="737280" crc="22042674" sha1="6253236d86a93456147ad0f76fa4ea56f3d0e8d8"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="d04262e0">
+ 		<description>Magnum Kiki Ippatsu: 1931</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+ 				<rom name="Magunam. Kiki Ippatsu. Magnum Prohibition 1931 (1988)(Toshiba-EMI).dsk" size="737280" crc="d04262e0" sha1="49ff0fd21cc86b1c314f4d6a1feedd75298d1eb8"/>
+ 				<rom name="Magunam. Kiki Ippatsu. Magnum Prohibition 1931 (1988)(Toshiba-EMI)[a].dsk" size="737280" crc="6ee4a8a8" sha1="36aceb03157f4e1bb65adc54bbb84ffa9a04bcaf"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="1899cdf6">
+ 		<description>El Mago de Oz</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cracked -->
+ 				<rom name="Mago de Oz, El (1986)(Idealogic)(es)(Disk 1 of 2)[cr Joan Angel].dsk" size="737280" crc="1899cdf6" sha1="e2d3c1de09b00eb07b489a20e6ca7fd217c83680"/>
+				<!-- not sure whether part of release -->
+ 				<rom name="Mago de Oz, El (1986)(Idealogic)(es)(Disk 2 of 2).dsk" size="737280" crc="84712ad6" sha1="5d9750d25289ac356fdb7d70231d9bed76bedf21"/>
+ 				<rom name="Mago de Oz, El (1986)(Idealogic)(es)(Disk 2 of 2)[a].dsk" size="737280" crc="1ae3a5ea" sha1="8be1500e20c2d68ad9749b78b95a9637a9ca112f"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e354a9c4">
+ 		<description>Maison Ikkoku</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+ 				<rom name="Maison Ikkoku (1987)(Micro Cabin)(ja)[b].dsk" size="737280" crc="56b6d13c" sha1="06a0500ff32884a206dbae15d48c6a4236796751"/>
+ 				<rom name="Maison Ikkoku - Kanketsuhen (1988)(Micro Cabin)(ja)[b].dsk" size="737280" crc="e354a9c4" sha1="ba0553d80b5b35d3aca5a7989ea81bf80426c5e7"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="malayahi">
  		<description>Malaya no Hihou (Japan, disk conversion)</description>
  		<year>19??</year>
@@ -1631,35 +1751,264 @@ license:CC0-1.0
  		</part>
  	</software>
 
- 	<software name="mgear">
+ 	<software name="4c77c329">
+ 		<description>La Mansion de Pinosverdes</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="Mansion de Pinosverdes, La (1991)(MA Software)(es).dsk" size="737280" crc="4c77c329" sha1="6d9503c6ac8872f784aa1e7da916b8b56d7629b0"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="95c90685">
+ 		<description>Marble Choco Let</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="Marble Choco Let (1994)(-).dsk" size="737280" crc="95c90685" sha1="6e75a043c203bd962763617203d0562ff9135da3"/>
+				<!-- does not start automatically -->
+ 				<rom name="Marble Choco Let (1994)(-)[a].dsk" size="737280" crc="1317085a" sha1="926aa61552364b0a29709de89e60ad642528ab5e"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="83e449df">
+ 		<description>Marble World</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="Marble World (1989)(Peter Jess).dsk" size="737280" crc="83e449df" sha1="673cbfcd0981783044f5ccf47494956e79d140d0"/>
+				<!-- DiskMgr1 -->
+ 				<rom name="Marble World (1989)(Peter Jess)[a].dsk" size="737280" crc="261351a4" sha1="8b13b50b51977aaf88bcabd437d40660c8317f59"/>
+				<!-- FILE_ID.DIZ -->
+ 				<rom name="Marble World (1989)(Peter Jess)[a3].dsk" size="737280" crc="8fc0a9b6" sha1="dcdd73b4d275d4122edf3b239cce7e79d21241ff"/>
+				<!-- does not start automatically -->
+ 				<rom name="Marble World (1989)(Peter Jess)[a2].dsk" size="737280" crc="5285bfbc" sha1="abde12fc563258b03f40938a077b7d436c9c50b0"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="8434803e">
+ 		<description>Marchen</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="Marchen (1991)(Yashushi).dsk" size="737280" crc="8434803e" sha1="4c3e2642ef55668dd955ddec93f11cedcbeadb53"/>
+				<!-- does not start automatically -->
+ 				<rom name="Marchen (1991)(Yashushi)[a].dsk" size="737280" crc="1c70f3ea" sha1="ff73ee2b99edddd1249374971a9ef128a53e0ec2"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="07948e0d">
+ 		<description>Marslander</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- 2dd version -->
+ 				<rom name="Marslander (2021)(Murilo Carmello)(pt).dsk" size="737280" crc="07948e0d" sha1="dfc8247e1428ebfa9d6932927e3554d35b4f71a6"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="15938c6a">
+ 		<description>Mashou Denki</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated English -->
+ 				<rom name="Mashō Denki La'Valeur (1990)(Kogado Studio)(en)(Disk 1 of 2).dsk" size="737280" crc="15938c6a" sha1="8a0accbf39a008edf550e77d3d1cc3deee5df9bd"/>
+ 				<rom name="Mashō Denki La'Valeur (1990)(Kogado Studio)(en)(Disk 2 of 2).dsk" size="737280" crc="e5b6d79a" sha1="d95984d4c93629e2ed02e8399ad454666f0460cf"/>
+ 				<rom name="Mashō Denki La'Valeur (1990)(Kogado Studio)(en)DATA - Disc.dsk" size="737280" crc="649e8898" sha1="47cda81941b3d6906683e5eb9a5027e663ad411d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="91cc296a">
+ 		<description>Master of Monsters</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated English -->
+ 				<rom name="Master of Monsters (1989)(System Soft)(en)(Disk 1 of 2).dsk" size="737280" crc="91cc296a" sha1="e80ec1603dabf32cc9aff12db21b106c41cd88c3"/>
+ 				<rom name="Master of Monsters (1989)(System Soft)(en)(Disk 2 of 2).dsk" size="737280" crc="b537bb84" sha1="fa197cc55b73e346f2206487084b278c70eabe9c"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="0e5371ef">
+ 		<description>Matrix</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="Matrix v1.0 (1993)(BCN)[a].dsk" size="737280" crc="0e5371ef" sha1="eb22fce81f644ce1bdff40fb8a3b80f6f9068f8f"/>
+				<!-- does not work? -->
+ 				<rom name="Matrix v1.0 (1993)(BCN).dsk" size="737280" crc="c539f078" sha1="2d528e6d2f00669ff8992691ba3ee1978ed46b25"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="0be45c66">
+ 		<description>Maze</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated English -->
+ 				<rom name="Maze [T-En by BiFi v1.0.0].dsk" size="737280" crc="0be45c66" sha1="045d15b27086cf68079922d68bd6b329a069bc13"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="95305f6a">
+ 		<description>Megaz Monkeydo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- extracted from disk station -->
+ 				<rom name="Megaz Monkey Do (1989)(Compile)(ja).dsk" size="737280" crc="95305f6a" sha1="60e21103f9f0986268e74124749b8497074e3bb7"/>
+ 				<rom name="Megaz Monkey Do (1989)(Compile)(ja)[a].dsk" size="737280" crc="626c8804" sha1="35c48ad56032de0c2850ed9620487c869bec4945"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="2a438a03">
+ 		<description>MemMan</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- not original releases -->
+ 				<rom name="Memman v2.0 (1991)(MSX Software Team)[needs MSX-DOS].dsk" size="737280" crc="2a438a03" sha1="b5372cfcd864ac69cc0f1d87b854add60d57d862"/>
+ 				<rom name="Memman v2.42 (1992)(MSX Software Team).dsk" size="737280" crc="073b6917" sha1="dbb9fb57e7d8e3087280ab94c3aad8067af5db36"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b4f2c508">
  		<description>Metal Gear (Japan, disk conversion)</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="metal gear (1987)(konami)(jp).dsk" size="737280" crc="b4f2c508" sha1="1b93eb10a6098de7da392c0b5cc0fbf37defb178"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="mgeara">
- 		<description>Metal Gear (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="metal gear (1987)(konami)(jp)[a].dsk" size="737280" crc="b35886f9" sha1="3b20bf7c872e28fa760602d25ab36852e81e5319"/>
+ 				<rom name="metal gear (1987)(konami)(jp)[a2].dsk" size="737280" crc="a66e4832" sha1="9f3826fb9acbd10853af89cac6fdb71ea817d4b5"/>
+ 				<rom name="Metal Gear (1987)(Konami)(es)[t][b].dsk" size="737280" crc="a892fcfe" sha1="a4782ae39fad32f34f56c2cbb5e55a9b451ccba9"/>
+ 				<rom name="Metal Gear (1987)(Konami)[cr SMA].dsk" size="737280" crc="57645092" sha1="23eafe1e6cdb98496604e2e4a1f5ef7c757128b7"/>
+ 				<rom name="Metal Gear (1987)(Konami)[save on disk].dsk" size="737280" crc="909acb19" sha1="d36720447bbdd73049f3c877600182836e3a814f"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="mgearb">
- 		<description>Metal Gear (Japan, alt 2, disk conversion)</description>
+ 	<software name="70fe414e">
+ 		<description>Metal Gear 2</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
- 				<rom name="metal gear (1987)(konami)(jp)[a2].dsk" size="737280" crc="a66e4832" sha1="9f3826fb9acbd10853af89cac6fdb71ea817d4b5"/>
+				<!-- crt2dsk conversion -->
+ 				<rom name="Metal Gear 2 - Solid Snake (1990)(Konami)(ja)[cr Martos].dsk" size="737280" crc="3dabc8c8" sha1="90c687899d112528da0f53643e80d0307353d472"/>
+ 				<rom name="Metal Gear 2 - Solid Snake v1.1 (1990)(Konami)(es)[SCC].dsk" size="737280" crc="be2589f7" sha1="91882ffc94d6742e2d8fd4d54ddc9655372a4a0d"/>
+ 				<rom name="Metal Gear 2 - Solid Snake v1.1 (1990)(Konami)[SCC].dsk" size="737280" crc="bd038824" sha1="c019f3cc328248b7ef549ca938993c48e75ca895"/>
+ 				<rom name="Metal Gear 2 - Solid Snake v2.1 (1990)(Konami)[a][SCC].dsk" size="737280" crc="f6d43707" sha1="d069cc79c64a53e4474d316523fd9cdce9718aec"/>
+ 				<rom name="Metal Gear 2 - Solid Snake v2.1 (1990)(Konami)[SCC].dsk" size="737280" crc="70fe414e" sha1="00a320922c1a5087cc7febacae6a12ec4ae26ebc"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e904550f">
+ 		<description>Meteorite Kiss</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="Meteorite Kiss (2000)(Suzumizaki's Factory)[a].dsk" size="737280" crc="e904550f" sha1="e4b67c8ec42488fb55603fcd04596c9b7f5bc704"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e70a2762">
+ 		<description>Michelangelo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="368640">
+				<!-- hacked file-hunter -->
+ 				<rom name="Michelango (1987) (Rittor Music MCS).dsk" size="368640" crc="e70a2762" sha1="5ca3ddf048189a52f811c789a7e5cccbc9c3ac92"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="884c0ac1">
+ 		<description>Mine-Sveiper</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="Mine-Sveiper (1993)(Norhtwind)(no).dsk" size="737280" crc="884c0ac1" sha1="a710783af92dd241e13eb21966da911ca4abdea9"/>
+				<!-- does not start automatically -->
+ 				<rom name="Mine-Sveiper (1993)(Norhtwind)(no)[a].dsk" size="737280" crc="e6425b65" sha1="88f0b67908f1efbc66de3efc52102e15f46e092d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="dc7bc9be">
+ 		<description>Mirai</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+ 				<rom name="Mirai. Future (1987)(Xain).dsk" size="737280" crc="dc7bc9be" sha1="5e5435fa6b715cc75c13f9cea223c586fe00e680"/>
+ 				<rom name="Mirai. Future (1987)(Xain)[a].dsk" size="737280" crc="618a069a" sha1="41fd6e52aeced7acbde0ce2680f707d3a26c219d"/>
+ 				<rom name="Mirai 2. Future 2 (1987)(Xain).dsk" size="737280" crc="74c49c9d" sha1="8dfdd066c98300dd19ed7d941b07426f6a85baf7"/>
+ 				<rom name="Mirai 2. Future 2 (1987)(Xain)[a].dsk" size="737280" crc="0f7f880e" sha1="1cd7f64a1bd0bad2039eddf9a3582a9846c34e18"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="13b468cd">
+ 		<description>Mission A</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="Mission A (1989)(Lamant)[a].dsk" size="737280" crc="13b468cd" sha1="dbfe64e698199858bdf6ebd3702ae39cdede1795"/>
+				<!-- does not start automatically -->
+ 				<rom name="Mission A (1989)(Lamant).dsk" size="737280" crc="17d1bfca" sha1="e850a5c3791a9dfe013a9d21daea5c71c92644a8"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="97cf0350">
+ 		<description>Mitsume ga Tooru</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+ 				<rom name="Mitsume ga Tooru. The Three-Eyed One Comes Here (1989)(Natsume)(ja)[needs 128k].dsk" size="737280" crc="97cf0350" sha1="f4aca91714f872d39c85f3df55364aa2c249d824"/>
+ 				<rom name="Mitsume ga Tooru. The Three-Eyed One Comes Here (1989)(Natsume)(ja)[a][needs 128k].dsk" size="737280" crc="32f8fbea" sha1="bce66b3acb6d7fb36e52091d90cbc9d2a634c31e"/>
  			</dataarea>
  		</part>
  	</software>
@@ -1667,21 +2016,139 @@ license:CC0-1.0
  	<software name="monmonmo">
  		<description>Mon Mon Monster (Japan, disk conversion)</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="mon mon monster (1989)(hot-b)(jp).dsk" size="737280" crc="476b8a6e" sha1="d490705292709cf7071c7053f730fe9ba392ae8e"/>
+ 				<rom name="mon mon monster (1989)(hot-b)(jp)[a].dsk" size="737280" crc="303118ed" sha1="4ba94b020e6714c780aa50f575d836b01745f02a"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="monmonmoa">
- 		<description>Mon Mon Monster (Japan, alt, disk conversion)</description>
+ 	<software name="341440b4">
+ 		<description>Monimoni Theatre</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
- 				<rom name="mon mon monster (1989)(hot-b)(jp)[a].dsk" size="737280" crc="303118ed" sha1="4ba94b020e6714c780aa50f575d836b01745f02a"/>
+				<!-- touched by Windows? -->
+ 				<rom name="Monogatari Megami Tensei. Digital Devil Story (1987)(Telenet Japan)(ja)[a].dsk" size="737280" crc="341440b4" sha1="9f7ba7142e710c0f9d58e70d991f842f87b4608a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="2df548e1">
+ 		<description>Monogatari Megami Tensei</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+ 				<rom name="Monogatari Megami Tensei. Digital Devil Story (1987)(Telenet Japan)(ja).dsk" size="737280" crc="2df548e1" sha1="370a8fa4f4474399d799e8e37df7386306176b3b"/>
+ 				<rom name="Monogatari Megami Tensei. Digital Devil Story (1987)(Telenet Japan)(ja)[a].dsk" size="737280" crc="3703362e" sha1="dc8d471a0e7c52d280466bab18c2e3e63d932644"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b237452e">
+ 		<description>Moon Landing</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="Moon Landing (1988)(-).dsk" size="737280" crc="b237452e" sha1="b386d7f718bd5dae5cc5eb201f2ec57f01498acf"/>
+				<!-- does not start automatically -->
+ 				<rom name="Moon Landing (1988)(-)[a].dsk" size="737280" crc="e6e7a39e" sha1="4ff3bb31677ec2e149d5f2845f8f616adb4913ca"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="335df137">
+ 		<description>Morboy</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+ 				<rom name="Morboy (Sea Battle)(1989)(Robotland)(ru).dsk" size="737280" crc="335df137" sha1="265e46f61db3380c8b716c097af636e4b19cfffd"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="18452d94">
+ 		<description>Mouse Games</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="Mouse Games (1988)(Compile)(ja)[mouse].dsk" size="737280" crc="18452d94" sha1="4d0f933e1a5be725abea8598a007df095151d7c0"/>
+				<!-- does not start automatically -->
+ 				<rom name="Mouse Games (1988)(Compile)(ja)[a][mouse].dsk" size="737280" crc="bf4c4bf5" sha1="89ef2eae7604903937ad4d205afefce678be1e2d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="9c0be450">
+ 		<description>Moving Squares</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- extracted from Games Collection 2 -->
+ 				<rom name="Moving Squares (1989)(Eurosoft).dsk" size="737280" crc="9c0be450" sha1="866510a9ac12fb02e58e6df3a3a58dbf14839b2d"/>
+ 				<rom name="Moving Squares (1989)(Eurosoft)[a].dsk" size="737280" crc="4baddce1" sha1="be32f9d8a9b64b6d43f8cdf57b84a2cce18b75a6"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="30481e21">
+ 		<description>MSX Freeware Collection 3</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- partial -->
+ 				<rom name="MSX Freeware Collection 3 - Making Love (1993)(Ascat)[Partial].dsk" size="737280" crc="30481e21" sha1="b094c104bce8af242386e632daa9381f8d2c447b"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="c3bb0a39">
+ 		<description>MSX Hot Numbers</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- has extra file / long file name? -->
+ 				<rom name="MSX Hot Numbers (2002)(Paxanga Soft)(Disk 1 of 2).dsk" size="737280" crc="c3bb0a39" sha1="e0b20422019f297f4471a11d97614bb412070d23"/>
+ 				<rom name="MSX Hot Numbers (2002)(Paxanga Soft)(Disk 1 of 2).dsk" size="737280" crc="513b81e9" sha1="a845cc723c1c20d8be985a1cc041e86437510056"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="498604dc">
+ 		<description>MSX Spring</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cracked -->
+ 				<rom name="MSX Spring (1989)(MSX Magazine)(ja)[cr Megazone].dsk" size="737280" crc="498604dc" sha1="ae0ded7cfceb205eff5072ca8391663e49bfec94"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="a2d41e4a">
+ 		<description>MSX-DOS v2.20 w/MegaRAM support</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked for megaram support? -->
+ 				<rom name="MSX-DOS v2.20 (1988)(Microsoft)[needs MegaRAM 128k].dsk" size="737280" crc="a2d41e4a" sha1="19638b3da921c77bfc2d82ca3af373ce7c6b5349"/>
  			</dataarea>
  		</part>
  	</software>
@@ -1694,6 +2161,19 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- keeps rebooting -->
  				<rom name="Music Demo (19xx)(JLSA Soft)(nl).dsk" size="737280" crc="ec0f5f68" sha1="574c3b66ab900ce3e30c11913995782b3440ee29"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="ff51e050">
+ 		<description>Musica?</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- unknown who and when -->
+ 				<rom name="MSX MuSIC Editor (19xx)(Mitsubishi Electronics).dsk" size="737280" crc="ff51e050" sha1="7881405d0aad8a8bed1b7d97a9dd505038f878c3"/>
+ 				<rom name="MSX MuSIC Editor (19xx)(Mitsubishi Electronics)[a].dsk" size="737280" crc="718ce638" sha1="9d282fdb346dfbf45c06824d726c1e3f9e6a8d25"/>
  			</dataarea>
  		</part>
  	</software>
