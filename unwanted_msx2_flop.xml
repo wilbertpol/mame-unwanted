@@ -7,6 +7,88 @@ license:CC0-1.0
 
 	<!-- To Sort -->
 
+	<software name="ae013044">
+		<description>Jolt  Demo (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Jolt Demo (19xx)(-).dsk" size="737280" crc="ae013044" sha1="72d531ceda1eceead27db7cec7fa016c352d02d6" />
+				<rom name="Jolt Demo (19xx)(-)[a].dsk" size="737280" crc="206cafe4" sha1="407f3bc006889ee4e6916fe29a92fdd13352ce26" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e9d42109">
+		<description>Dynamic Publisher: Kaarten + Teksten (unclear how released)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Kaarten - Teksten (1996) (Studio P.Tol)(Dynamic  Publisher).DS" size="737280" crc="e9d42109" sha1="9e880fd3ba2dad963643a8c15107213a8707fa08" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d13b912b">
+		<!-- かなしきうんめい -->
+		<description>Kanashiki Unmei (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Kanashiki Unmei (19xx) (Fanname1501)(jp).dsk" size="737280" crc="d13b912b" sha1="c0e9f6dd9f7782ca858eb31b0e606a8da74f9b42" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e9dd9428">
+		<description>The Key (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Key, The (19xx)(-).dsk" size="737280" crc="e9dd9428" sha1="20ea66765c1f06a3d8d232e5de737c4d7fe3ad78" />
+				<rom name="Key, The (19xx)(-)[a].dsk" size="737280" crc="652c062e" sha1="954ff4d47e17a60d0405d59eb11d4e86e7c0e751" />
+				<rom name="Key, The (19xx)(Drack Soft).dsk" size="737280" crc="da7e53e7" sha1="c36dede6062a5e7cc93f0ff49a7aa0865aa2052c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="90d61455">
+		<description>Leauty (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Leauty (19xx)(-).dsk" size="737280" crc="90d61455" sha1="d38549d272c012677e700d466038e3e1d40848f5" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ca83f382">
+		<description>Load ROM (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Load ROM v1.0 (19xx)(-).dsk" size="737280" crc="ca83f382" sha1="9d04b29dc23029efc95d311c4187ba95ddc78daf" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="05936b0e">
+		<description>Luk (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Luk (19xx)(-).dsk" size="737280" crc="05936b0e" sha1="e1ec04e860a734a35170c0431f1623577658bf1f" />
+				<rom name="Luk (19xx)(-)[a].dsk" size="737280" crc="de723120" sha1="7cdbf66dd99d71aef7519402f0958740ea033049" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="87a6c298">
 		<description>Mega Disk Copier &amp; Sector Editor (unclear who and when)</description>
  		<year>19??</year>
@@ -1627,6 +1709,471 @@ license:CC0-1.0
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
  				<rom name="makaijima - higemaru (1987)(capcom)(jp)[a].dsk" size="737280" crc="97f74ae8" sha1="822761f98ea8a99aa42161450548d875e1806c15"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="45fa3213">
+ 		<description>Kami no Machi</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- alts?? some file contents are different but timestamps are the same -->
+				<rom name="Kami no Machi (1990)(Panther Software)(ja)(Disk 2 of 5)[a].dsk" size="737280" crc="f6c83de9" sha1="a4f9c8ed89b67c0fd0a8e79251659cac5aec7f46"/>
+				<rom name="Kami no Machi (1990)(Panther Software)(ja)(Disk 5 of 5)[a].dsk" size="737280" crc="1cc44d69" sha1="42c629074084a96603fc3e7b80fd14ebee90a96a"/>
+				<!-- cracked -->
+				<rom name="Kami no Machi (1990)(Panther Software)(ja)(Disk 1 of 5)[cr SMA].dsk" size="737280" crc="45fa3213" sha1="6f453feb6615b9d41e3c6fbcfb3f38841b0d2410"/>
+				<rom name="Kami no Machi (1990)(Panther Software)(ja)(Disk 1 of 5)[cr SMA][a].dsk" size="737280" crc="485e9316" sha1="4da5b3731fb941ece6f9b1f5c3f346a74f8b2c00"/>
+				<!-- baddump -->
+				<rom name="Kami no Machi (1990)(Panther Software)(ja)(Disk 1 of 5)[b].dsk" size="737280" crc="605e9617" sha1="2eb969cb5b5ddbbda52f1b54b060ace7a3676e72"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="0d024576">
+ 		<description>Keinsei II</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- just a text scroll? -->
+				<rom name="Keinsei II - The Revenge of MSX (1989)(Nikos Software)(it).dsk" size="737280" crc="0d024576" sha1="4b90e45c93c7cf3364fd7a10a7c8534e3ad52a7b"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="a9c8fad2">
+ 		<description>King Kong 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+				<rom name="King Kong 2 (1986)(Konami)[t].dsk" size="737280" crc="a9c8fad2" sha1="98d0d4e69ac08685835864dcfc6cc292d245a8e7"/>
+				<rom name="King Kong 2 (1986)(Konami)[t][a].dsk" size="737280" crc="865259cb" sha1="8b5d88674b537c8bb7c5be192c09d7b2031441aa"/>
+				<rom name="King Kong 2 (1986)(Konami)[t][tr fr].dsk" size="737280" crc="e1a9274e" sha1="691572257c3cd6aa503e7f5dc0729d953307ae08"/>
+				<rom name="King Kong 2 (1986)(Konami)[t][tr fr][a].dsk" size="737280" crc="2f1e3963" sha1="ccca3dd09fa837ed06baf98bef0fa2bcde893ba4"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="885dc37c">
+ 		<description>Kioku</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- not a real full dsk release? -->
+				<rom name="Kioku. The Lost Memories - The Strongest Fandam's RPG (1993)(-)(ja).dsk" size="737280" crc="885dc37c" sha1="e21eb0253c9f0b1090beb3fd2734848943c71699"/>
+				<rom name="Kioku. The Lost Memories - The Strongest Fandam's RPG (1993)(-)(ja)[a].dsk" size="737280" crc="4b75f49a" sha1="3e688302192ba46d882e5194b3a6f06e2674971d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="f70c0e5a">
+ 		<description>Knightmare Gold</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- not a real full dsk release -->
+				<rom name="Knightmare Gold 2.0 (2006)(Amusement Factory).dsk" size="737280" crc="f70c0e5a" sha1="bbfd47a2b3707ee5ae53e527f994f60b726d6b61"/>
+				<rom name="Knightmare Gold 3.0 (2008)(Amusement Factory).dsk" size="737280" crc="d57ba84c" sha1="cb19443b43577bdc3e7499a79e4dada392d5a324"/>
+				<rom name="Knightmare Gold 3.0 - Trained (2008)(Amusement Factory).dsk" size="737280" crc="4858ee3f" sha1="7fd9aa03b5c60b693ceb2dd361985d1c39983244"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="aaea37d5">
+ 		<description>Knightmare III - Shalom</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+				<rom name="Knightmare III - Shalom (1987)(Konami)(ja).dsk" size="737280" crc="aaea37d5" sha1="5f53214d75372965c6f19772329faa04d09f1522"/>
+				<rom name="Knightmare III - Shalom (1987)(Konami)(ja)[cr Sigma].dsk" size="737280" crc="a03719d7" sha1="09cb29f95d700ba678a7c3b121d767f630159629"/>
+				<rom name="Knightmare III - Shalom (1987)(Konami)(ja)[cr Sigma][a].dsk" size="737280" crc="a9b2fc49" sha1="ab9924437946a81572b554020abf6ec17dc6e6a6"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="96a82d93">
+ 		<description>Tanigawa Kouji no Shougi Shinan 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+				<rom name="Koji Tanigawa's Shougi Shinan II (1988)(Pony Canyon)(ja).dsk" size="737280" crc="96a82d93" sha1="99dbf00c263e80251c7c942e25100f68e515d0bd"/>
+				<rom name="Koji Tanigawa's Shougi Shinan II (1988)(Pony Canyon)(ja)[a].dsk" size="737280" crc="17c71ad5" sha1="0cb56db5cbdc44a08ac017ca2902fc68af2ef1d5"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="82b9e821">
+ 		<description>Koroshi no Dress 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="Koroshi no Dress 2. Dress of Murder 2 (1990)(Fairytale)(ja)[b].dsk" size="737280" crc="82b9e821" sha1="d172589e74f58374ebebedfb617d048c5b8e8809"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e662c754">
+ 		<description>KPI Ball</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- not released as a floppy image -->
+				<rom name="KPI-Ball (Boh-ken - 2000).dsk" size="737280" crc="e662c754" sha1="b0b6547876f46533709d7564a788184092e70244"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="d8658163">
+ 		<description>KPI Ball Promo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not work -->
+				<rom name="KPI Ball Promo (xxxx)(Cybertouch).DSK" size="737280" crc="d8658163" sha1="2f28765c54215da8b9dfc3279feee7ec772bb63e"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="708e0fca">
+ 		<description>Ku Gyoku Den</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated English -->
+				<rom name="Ku Gyoku Den. Legendly Nine Gems (1987)(Tecno Soft)(en).dsk" size="737280" crc="708e0fca" sha1="b480e0aa91bf20208ad7d87c3b74a53d7a4801e4"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e2f5096b">
+ 		<description>Kubikiri Yakata</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- alts? -->
+				<rom name="Kubikiri Yakata - Sachan Ghyan (1989)(Bit2)(ja)(Disk 3 of 5)[a2][mouse].dsk" size="737280" crc="e2f5096b" sha1="a7eb6969b86c2e42aa41461fd7b895f859896215"/>
+				<rom name="Kubikiri Yakata - Sachan Ghyan (1989)(Bit2)(ja)(Disk 4 of 5)[a2][mouse].dsk" size="737280" crc="55ad0148" sha1="8454fa3b2496b2bee4e29f4e492518694e3b9c64"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="f12670c0">
+ 		<description>L'Affaire</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+				<rom name="L'Affaire (1986)(Infogrames)(DE).dsk" size="737280" crc="f12670c0" sha1="275b77547780b5ae7e5481883ba930277c2d352d"/>
+				<!-- Cracked -->
+				<rom name="L'Affaire (IT)(1986)(Infogrames).dsk" size="737280" crc="cfdd50dd" sha1="781ce571f3932e2da36f158755e339114787d768"/>
+				<rom name="L'Affaire (JP)(1987)(Pack-In-Video).dsk" size="737280" crc="ee7dd24f" sha1="9fd0a98e8da9d9b0a0cf8e5814aa076292b63912"/>
+				<!-- DiskMgr1 -->
+				<rom name="L'Affaire Fr.dsk" size="737280" crc="d0c1de23" sha1="a4e7568ebb1c421bae584d94b6c2c9f292fa26d3"/>
+				<rom name="L'Affaire NL.dsk" size="737280" crc="eef4ab0a" sha1="b7d3da070be94e210ed9f4d5f7b0bfbd35b47a16"/>
+				<!-- FILE_ID.DIZ -->
+				<rom name="L'Affaire Esp.DSK" size="737280" crc="1c0415f8" sha1="61164b3a9bea83e7516b21de1d6da55d834b5c31"/>
+				<!-- hacked file-hunter -->
+				<rom name="Affaire(uk).dsk" size="368640" crc="73a28836" sha1="05373b43d2b8119dc68e73b32c6b703cb1c4ed5d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="643c36b1">
+ 		<description>L'Empereur</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- fixed -->
+				<rom name="L'Empereur (Koei) (1990) (Disk 1 of 2)(Fixed).dsk" size="737280" crc="643c36b1" sha1="5fb4bc2a7f51bd39323f45a1eebc4972ccd8830e"/>
+				<rom name="L'Empereur (Koei) (1990) (Disk 2 of 2)(Fixed).dsk" size="737280" crc="d2eea0c2" sha1="6b0cfd942dbfc4c266100bb47633cbffcbba2b13"/>
+				<rom name="L'Empereur (Koei) (1990) (Userdisk)(Fixed).dsk" size="737280" crc="14bd6765" sha1="9d7a65be7b84ecc8ae829a2e94ffc71373c72914"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="514e2f30">
+ 		<description>La Abadia del Crimen</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cas2dsk conversion -->
+				<rom name="La Abadia Del Crimen (En)[Manuel Pazos)(2002).dsk" size="737280" crc="514e2f30" sha1="419c8326e5a316a2eedb98b539d75c82b8dc1cdd"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="0d7d2542">
+ 		<description>La Valeur</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baaddump -->
+				<rom name="La'Valeur (1989)(Kogado)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="0d7d2542" sha1="e8c82337be550a6a88ed97eac2155e56c4ad4c4a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="83697c22">
+ 		<description>Laser Squad</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated Italian -->
+				<rom name="Laser Squad (1988)(Blade Software)[tr it Hydra Soft].dsk" size="737280" crc="83697c22" sha1="21a28fc115755782a7ae7a5e54c25726839ead60"/>
+				<rom name="Laser Squad (1988)(Blade Software)[tr it Hydra Soft][a].dsk" size="737280" crc="c6a5993a" sha1="6b88c7bdabed5819ee1d55b70ceed257ddf74cd3"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="6d4f35db">
+ 		<description>Lasp Demo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start -->
+				<rom name="Lasp Demo (1988)(Lasp).dsk" size="737280" crc="6d4f35db" sha1="02be96449d573fb6cedb5edf9103070252e91485"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="4ee7c306">
+ 		<description>Last Armageddon</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="Last Armageddon (1988)(Brain Grey)(ja)(Disk 2 of 5)[b].dsk" size="737280" crc="4ee7c306" sha1="eca28aa4d5ebf7930211daadc4bc81f41553b585"/>
+				<!-- savegame -->
+				<rom name="Last Armageddon (1988)(Brain Grey)(ja)(Disk 2 of 5)[a3].dsk" size="737280" crc="fc5eb4ef" sha1="4a8211fae2ff91f190d90bc9c08b3794ba1548b5"/>
+				<rom name="last armageddon (1988)(brain grey)(jp)(disk 2 of 5)[a].dsk" size="737280" crc="954b5247" sha1="aca0f7242eb2b871039e55c69a24e803f947f8da"/>
+				<rom name="last armageddon (1988)(brain grey)(jp)(disk 3 of 5)[a].dsk" size="737280" crc="ab6e861b" sha1="f9d3c5f506ee67028b72ff66c06275637f26c0c8"/>
+				<rom name="last armageddon (1988)(brain grey)(jp)(disk 4 of 5)[a].dsk" size="737280" crc="0ce5c8e6" sha1="b6a9bc7f2cf0df190570ca7704ddf036f2b2d5a4"/>
+				<rom name="last armageddon (1988)(brain grey)(jp)(disk 5 of 5)[a].dsk" size="737280" crc="90c9a5df" sha1="a9696eb46239e95916dff9b76cc742418543b768"/>
+				<rom name="last armageddon (1988)(brain grey)(jp)(disk 2 of 5)[a2].dsk" size="737280" crc="d0d95d89" sha1="73527da88a62cc54ba03ee8f64c09b2c43fee33a"/>
+				<rom name="last armageddon (1988)(brain grey)(jp)(disk 3 of 5)[a2].dsk" size="737280" crc="d3e27e04" sha1="bd376bb38f0453a3646963429f7470d412676232"/>
+				<rom name="last armageddon (1988)(brain grey)(jp)(disk 4 of 5)[a2].dsk" size="737280" crc="a0332e38" sha1="a2ecc60fb542a84c93efe2746550bb0062c46b81"/>
+				<rom name="last armageddon (1988)(brain grey)(jp)(disk 5 of 5)[a2].dsk" size="737280" crc="4bde63e6" sha1="80e1e430f9a57881a0a1ebc19cafb81875798dbb"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b07377ad">
+ 		<description>Last Darumadedon</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+				<rom name="Last Darumadedon (1989)(Sum Soft)(ja).dsk" size="737280" crc="b07377ad" sha1="555be0be4634835cb0a0d917d4dc84bcb72e4485"/>
+				<!-- does not start automatically -->
+				<rom name="Last Darumadedon (1989)(Sum Soft)(ja)[a].dsk" size="737280" crc="2a7a2cfb" sha1="e3262fbcdf40d60866c9477f4b9dae02bd153c0a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="25f5e97c">
+ 		<description>Laydock</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- contains save data -->
+				<rom name="LLaydock (1986)(T&amp;E Soft)Japanese release).dsk" size="368640" crc="25f5e97c" sha1="910e72c17c3c8b8170156a200221b229d4a47a5e"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="321b685a">
+ 		<description>Leather Skirts</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="Leather Skirts (1987)(Methodic Solutions)[b].dsk" size="737280" crc="321b685a" sha1="d2340919fe95ba0ca3c9778c4ba8a8ceba93648b"/>
+				<!-- hacked? -->
+				<rom name="Leather Skirts (1987)(Methodic Solutions)(Bernie Sanders Version).dsk" size="737280" crc="fde9f936" sha1="1c66986a6e07d427ef60172a7f868c0b92a2f535"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="da9992a5">
+ 		<description>Legendly Knight</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start -->
+				<rom name="Legendly Knight (1988)(Topia).dsk" size="737280" crc="da9992a5" sha1="5fc2494834126cf4b59804610726732535d693ea"/>
+				<rom name="Legendly Knight (1988)(Topia)[a].dsk" size="737280" crc="902743be" sha1="d236647c33d7cbfbff36eb97d2bfbb092623ecf0"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="f67207cb">
+ 		<description>Lenam - Sword of Legend</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="Lenam - Sword of Legend (1989)(Hertz)(ja)(Disk 1 of 4)[cr SMA][b].dsk" size="737280" crc="f67207cb" sha1="986c5448b3abb51b18e57293f9f2f52423603f8c"/>
+				<rom name="Lenam - Sword of Legend (1989)(Hertz)(ja)(Disk 1 of 4)[b].dsk" size="737280" crc="bd20de64" sha1="549d49263c53dc9cb9484f4327e3248f61bee5b2"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e10ab3d6">
+ 		<description>Leprechaun</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated English -->
+				<rom name="Leprechaun (1995)(Triple Soft)(en).dsk" size="737280" crc="e10ab3d6" sha1="3b5ce41f182686517fec91abde08ca183f0f7db7"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="7fea1d36">
+ 		<description>Lilo - La Conquista de la Fama</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- empty disk -->
+				<rom name="lilo la conquista de la fama (1993)(kai magazine)(sp)[2 disks].dsk" size="737280" crc="7fea1d36" sha1="abf006f8946209262d07ff6b3dfa6b9960e9012b"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="f0b94e96">
+ 		<description>Logi-Bal</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Logi-Bal (1993)(MSX Club Enschede).dsk" size="737280" crc="f0b94e96" sha1="22c6bf22dc7b9316156d36201d1203007f64b177"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="74ebbfea">
+ 		<description>Logic Blob</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+				<rom name="Logic Blob (1996)(Eternal Interactive)[a].dsk" size="737280" crc="74ebbfea" sha1="1ddd9115a18a3cca9b071a49b17ce13a5106f1c5"/>
+				<!-- does not start automatically -->
+				<rom name="Logic Blob (1996)(Eternal Interactive).dsk" size="737280" crc="f2c3afa3" sha1="5282dbfb8cbe94440eeb3b546c20c756e8b0dfeb"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="0373a287">
+ 		<description>Logos Man</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- small difference in backup fat -->
+				<rom name="Logos Man (1997) (MO Soft).dsk" size="737280" crc="0373a287" sha1="440cd18c22951a6552ba79f3bad7648c2c95fc0a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="7cbfa129">
+ 		<description>Lola</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOl -->
+				<rom name="Lola (1989)(BCN)[a].dsk" size="737280" crc="01b28b1a" sha1="895ec3d3038542410e2cc1192d1f01f91af68470"/>
+				<!-- does not start automatically -->
+				<rom name="Lola (1989)(BCN).dsk" size="737280" crc="7cbfa129" sha1="a60d44419963fd9a70b7a1e4d9b222e0b57c09ba"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="dd5a0ef7">
+ 		<description>The Lost World</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- fixed -->
+				<rom name="Lost World (1998)(Umax) (Disk 1 of 4)(Fixed for MSX2).dsk" size="737280" crc="dd5a0ef7" sha1="8eb8082a752a1a349c0798fa7aeac0cb9fc2d644"/>
+				<!-- hacked/fixed? -->
+				<rom name="Lost World (1998)(Umax) (Disk 1 of 4)(FM-Pac).DSK" size="737280" crc="fbb12920" sha1="0dd8025773405490bd17ca87a417c06e67d13ac9"/>
+				<rom name="Lost World (1998)(Umax) (Disk 2 of 4)(FM-Pac).DSK" size="737280" crc="44ab821c" sha1="a08efb2e5c3f6c458d036e9b828e3482d7264842"/>
+				<rom name="Lost World (1998)(Umax) (Disk 3 of 4)(FM-Pac).DSK" size="737280" crc="efbabc60" sha1="c6e15f23cb7756c1e27d311911685e3229e85d44"/>
+				<rom name="Lost World (1998)(Umax) (Disk 4 of 4)(FM-Pac).DSK" size="737280" crc="6ad20065" sha1="9f7587a3436e72154be200e542af4beb52834ade"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="884ca1e8">
+ 		<description>Lulba</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- extracted from disc station 1 -->
+				<rom name="Lulba (1988)(Compile)(ja).dsk" size="737280" crc="884ca1e8" sha1="a2202fbbafa9df33d31b951e007244c72e53d99c"/>
+				<rom name="Lulba (1988)(Compile)(en).dsk" size="737280" crc="598952d2" sha1="ef2bcec1ea260d3dde60dd4fb8e7cbda8db2ba0e"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="487badea">
+ 		<description>Lulba 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- extracted from disc station 2 -->
+				<rom name="Lulba 2 (1988)(Compile)(ja).dsk" size="737280" crc="487badea" sha1="dd12d82b8e4d58fbb685aef473055b4efa180582"/>
+				<rom name="Lulba 2 (1988)(Compile)(ja)(Fixed Dr Wh0).dsk" size="737280" crc="d69762c4" sha1="04e92c905637dbec2cf4f402e69903fef03a66c1"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="c2f3d149">
+ 		<description>Lulba 3</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- extracted from disc station 4 -->
+				<rom name="Lulba 3 (1989)(Compile)(ja).dsk" size="737280" crc="c2f3d149" sha1="798c20cd18715577a90c3d13603cb8e457c0b154"/>
+				<rom name="Lulba 3 (1989)(Compile)(ja)[a].dsk" size="737280" crc="038493b6" sha1="02b7fc6803e72a4a8c8b2ed50c633a9956bca622"/>
  			</dataarea>
  		</part>
  	</software>
