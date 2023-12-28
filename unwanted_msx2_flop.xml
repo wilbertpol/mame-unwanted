@@ -7,6 +7,17 @@ license:CC0-1.0
 
 	<!-- To Sort -->
 
+	<software name="eae2f252">
+		<description>Jajanbo (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Jajanbo (19xx)(-).dsk" size="737280" crc="eae2f252" sha1="7a408df63f8d91fdb0363b7e038b755caf2b1488" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="ae013044">
 		<description>Jolt  Demo (unclear who and when)</description>
  		<year>19??</year>
@@ -1709,6 +1720,136 @@ license:CC0-1.0
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
  				<rom name="makaijima - higemaru (1987)(capcom)(jp)[a].dsk" size="737280" crc="97f74ae8" sha1="822761f98ea8a99aa42161450548d875e1806c15"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="84cf29a9">
+ 		<description>J.B. Harold 3</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="J.B. Harold 3 - D.C. Connection (1989)(Riverhill Soft)(ja)(Disk 1 of 3)[b2][mouse].dsk" size="737280" crc="84cf29a9" sha1="a5a1d0105f07ce56358e0835ba9e18ca73ccb9da"/>
+				<rom name="J.B. Harold 3 - D.C. Connection (1989)(Riverhill Soft)(ja)(Disk 1 of 3)[b][mouse].dsk" size="737280" crc="6a7ef32a" sha1="de589af814673c43a74b45aaddc54f6d7f418747"/>
+				<rom name="J.B. Harold 3 - D.C. Connection (1989)(Riverhill Soft)(ja)(Disk 2 of 3)[b][mouse].dsk" size="737280" crc="b8bb4adb" sha1="77277b25fa88f5e6b8fecc43dcf326acba443cbf"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="8d45911d">
+ 		<description>Jack Nicklaus Golf</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="Jack Nicklaus Golf (1990)(Victor)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="8d45911d" sha1="1017cd995927756fb698402bf7c425f9cde457ae"/>
+				<rom name="Jack Nicklaus Golf (1990)(Victor)(ja)(Disk 1 of 2)[b2].dsk" size="737280" crc="6418152a" sha1="338f01b53df42cd9003a8dd97516b8ed312eb38a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="306030ee">
+ 		<description>Jagur 5</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+				<rom name="Jagur (1987)(Hudson Soft)(ja).dsk" size="737280" crc="306030ee" sha1="0285208600a62d3bbaefbaf2a4d4c47d5893f44b"/>
+				<rom name="Jagur (1987)(Hudson Soft)(ja)[a].dsk" size="737280" crc="a3792ca0" sha1="25b501e9ec4c7f89282471f64ee511c5c3709c2d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e6d1ab53">
+ 		<description>Jesus</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="Jesus (1987)(Enix)(ja)(Disk 1 of 3)[b].dsk" size="737280" crc="e6d1ab53" sha1="0d65385b3fac3487fe70019465729fa4b7fa734e"/>
+				<rom name="Jesus (1987)(Enix)(ja)(Disk 1 of 3)[o][b].dsk" size="737280" crc="9e7e0783" sha1="1c6190de2166f3a938aa059dce4246b17e237cc4"/>
+				<rom name="Jesus (1987)(Enix)(ja)(Disk 3 of 3)[o][b].dsk" size="737280" crc="1af8fc1c" sha1="3f62317c6a2cf778fc4f8bbc5a23eea48d71613d"/>
+				<!-- save game -->
+				<rom name="Jesus (1987)(Enix)(ja)(Disk 1 of 3)[a][save on disk].dsk" size="737280" crc="c699b86f" sha1="c19ddbff9a96d75c246d28a1267786819fc320ef"/>
+				<rom name="Jesus (1987)(Enix)(ja)(Disk 1 of 3)[save on disk].dsk" size="737280" crc="b0db0455" sha1="ad82a7b43cdc3e01396061ce2cba1df0d1cc0329"/>
+				<!-- weird empty sector-->
+				<rom name="Jesus (1987)(Enix)(ja)(Disk 2 of 3)[a].dsk" size="737280" crc="e0909eb3" sha1="33b83334674d8649cd02bb26d092df738e571518"/>
+				<rom name="Jesus (1987)(Enix)(ja)(Disk 3 of 3)[a].dsk" size="737280" crc="fa399d2e" sha1="fd961df3a740462df7651a5b62f0b3678c6bc601"/>
+				<!-- alt? -->
+				<rom name="Jesus (1987)(Enix)(ja)(Disk 2 of 3)[a2].dsk" size="737280" crc="9dde708a" sha1="e3c203f020e678c36cfe8544a350f81fb5b52366"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="ae43c13c">
+ 		<description>Jikuu no Hanayome</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="Jikuu no Hanayome. Time Lady. Heroic Fantasy (1989)(Kogado)(ja)(Disk 1 of 2)(Opening Disk)[b].dsk" size="737280" crc="ae43c13c" sha1="0e8093fb2538b83ab773c7d541f2b670fe350122"/>
+				<rom name="Jikuu no Hanayome. Time Lady. Heroic Fantasy (1989)(Kogado)(ja)(Disk 2 of 2)(Game Disk)[b].dsk" size="737280" crc="876be390" sha1="5bf6add7baea70b20070dad6c5d1ecc111fd323a"/>
+				<!-- trained -->
+				<rom name="Jikuu no Hanayome. Time Lady. Heroic Fantasy (1989)(Kogado)(ja)(Disk 2 of 2)(Game Disk)[t].dsk" size="737280" crc="506cf320" sha1="7d3edbd352902c32e85e755a1154dfcbc58b5826"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="d846351d">
+ 		<description>Join 4</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+				<rom name="Join 4 (1995)(Victor Raposo).dsk" size="737280" crc="d846351d" sha1="d09e99dd0540bd0a4dbf3ccc932a0e31e5548e68"/>
+				<!-- does not start automatically -->
+				<rom name="Join 4 (1995)(Victor Raposo)[a].dsk" size="737280" crc="35d79e8e" sha1="46a1a2960c72a68b01d1fc8377016f91db4e9f5b"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="dd4d32e2">
+ 		<description>Joker</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="Joker (1988)(Birdy Soft)(ja)(Disk 1 of 3)[b].dsk" size="737280" crc="dd4d32e2" sha1="630128558f32bdbf1b653f01d908ff2d0a11f21d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="097dfa5f">
+ 		<description>Joker II</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="Joker II (1989)(Birdy Soft)(ja)(Disk 1 of 4)[b].dsk" size="737280" crc="097dfa5f" sha1="9f44b68785e337b4806ad0b0eb0385902236c9e9"/>
+				<rom name="Joker II (1989)(Birdy Soft)(ja)(Disk 2 of 4)[b].dsk" size="737280" crc="7673a2d5" sha1="bec930e25c0eb9ed867b93bed79ee55913e84d96"/>
+				<rom name="Joker II (1989)(Birdy Soft)(ja)(Disk 3 of 4)[b].dsk" size="737280" crc="964a7261" sha1="769d6076f1aeb208e50146e62a323458b427595e"/>
+				<rom name="Joker II (1989)(Birdy Soft)(ja)(Disk 4 of 4)[b].dsk" size="737280" crc="1a550b2d" sha1="0b4149670e6b062a6127147caea857e01ed7e03f"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="c8638bc2">
+ 		<description>Jumper</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Jumper (1991)(Nagi-P Soft)(ja).dsk" size="737280" crc="c8638bc2" sha1="b1d257bc1b4bf6e68648006317e7527717b0d98e"/>
  			</dataarea>
  		</part>
  	</software>
