@@ -7,6 +7,18 @@ license:CC0-1.0
 
 	<!-- To Sort -->
 
+	<software name="09c54b96">
+		<description>Energy Crash (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Energy Crash (19xx)(-).dsk" size="737280" crc="09c54b96" sha1="e0a70ae296260045447bb56a617c9ab197507f28" />
+				<rom name="Energy Crash (19xx)(-)[a].dsk" size="737280" crc="94fc347d" sha1="801840674e15c2b4e331f1cef1cd387dd403860f" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="fb1a7afb">
 		<description>The Havoc (feels unfinished?)</description>
  		<year>19??</year>
@@ -1185,6 +1197,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="310c64a9">
+ 		<description>Dungeon Wanderer</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+ 				<rom name="Dungeon Wanderer (1992)(TM)(en).dsk" size="737280" crc="310c64a9" sha1="608edbc71bb7d7ec27a1e9a076e520aa768ba76f"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="dynabowl">
  		<description>Dynamite Bowl (Japan, disk conversion)</description>
  		<year>19??</year>
@@ -1218,167 +1242,528 @@ license:CC0-1.0
  		</part>
  	</software>
 
- 	<software name="elthlead">
- 		<description>Elthlead (Japan, disk conversion)</description>
+ 	<software name="469654b0">
+ 		<description>Dynamic Publisher</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
- 				<rom name="elslid. erenubu. eagle war (1988)(ncs)(jp)[needs megaram 128k].dsk" size="737280" crc="cb21e9ab" sha1="0f8dee39b60b5eafae93b752a3e54da4a9773ddb"/>
+				<!-- hacked -->
+ 				<rom name="DynamicPublisher[File-Hunter.com].dsk" size="737280" crc="469654b0" sha1="7467465ca6e9319ae1c183c626d007718e0c5aee"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="elthleada">
- 		<description>Elthlead (Japan, alt, disk conversion)</description>
+ 	<software name="ef88d5e9">
+ 		<description>E.A.S.E.</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+ 				<rom name="E.A.S.E.[File-Hunter.com].dsk" size="737280" crc="ef88d5e9" sha1="c02656672b9baec64beb7c0e943202490016771f"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="12cc5f36">
+ 		<description>Eggbert</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+ 				<rom name="Eggbert (1994)(Fony)[V9990 Version).dsk" size="737280" crc="12cc5f36" sha1="8827357f265b5a8f9f67b72c9114d535995586a9"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="45ecd81c">
+ 		<description>Eggerland Mystery 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+ 				<rom name="Eggerland Mystery 2. Meikyushinwa (1986)(Hal)[needs 512k].dsk" size="737280" crc="45ecd81c" sha1="ade926e8429fb19ad714e07ef22c8ce3fb44ee02"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="2c70b109">
+ 		<description>Eindeloos</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+ 				<rom name="Eindeloos (1986)(Radarsoft)(nl)[b].dsk" size="737280" crc="2c70b109" sha1="59354ea6d165711df254934aa82f656672a50a28"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="cb21e9ab">
+ 		<description>Elthlead</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+ 				<rom name="elslid. erenubu. eagle war (1988)(ncs)(jp)[needs megaram 128k].dsk" size="737280" crc="cb21e9ab" sha1="0f8dee39b60b5eafae93b752a3e54da4a9773ddb"/>
  				<rom name="elslid. erenubu. eagle war (1988)(ncs)(jp)[a][needs megaram 128k].dsk" size="737280" crc="d159b0f3" sha1="df4618ce4d9aaf3b06384731b84ea51956687096"/>
+ 				<rom name="Elslid. Erenubu. Eagle War (1988)(NCS)[cr SMA].dsk" size="737280" crc="35a0bd22" sha1="faa411318201b5166c44c0b583c49cd6168585d3"/>
+ 				<rom name="Elslid. Erenubu. Eagle War (1988)(NCS)[cr SMA][a].dsk" size="737280" crc="4e557842" sha1="a37a9c1be77d69978db992ef602959c2d048a859"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="7c5c2cf0">
+ 		<description>Emerald Dragon</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated english -->
+ 				<rom name="Emerald Dragon (1990)(Glodia)(en(User Disk)(v24092021)).dsk" size="737280" crc="7c5c2cf0" sha1="574d468ad44b3068b8de8576d4cd04c5afc065d9"/>
+ 				<rom name="Emerald Dragon (1990)(Glodia)(EN)(Disk 2 of 5)(Visual Disk B)(v24092021).dsk" size="737280" crc="4192e1fc" sha1="ca104068d35c8a3dd5417bfc06f56fe03762e8a0"/>
+ 				<rom name="Emerald Dragon (1990)(Glodia)(en)(Disk 3 of 5)(Opening Disk)(v24092021).dsk" size="737280" crc="7107b252" sha1="22b56063f8a5e1297bfb62f40211df540e06bc9e"/>
+ 				<rom name="Emerald Dragon (1990)(Glodia)(en)(Disk 4 of 5)(Game Disk)(v24092021).dsk" size="737280" crc="0389eb0c" sha1="7c661769799fe40c7c1f9828e674f5a8cfb6dbe4"/>
+				<!-- translated spanish -->
+ 				<rom name="Emerald Dragon (1990)(Glodia)(ES)(Disk 1 of 5)(Visual Disk A).dsk" size="737280" crc="622b4b47" sha1="58084ecc99c1253f264554461cce52393ada7689"/>
+ 				<rom name="Emerald Dragon (1990)(Glodia)(ES)(Disk 2 of 5)(Visual Disk B).dsk" size="737280" crc="12e09024" sha1="f0665b2f0257e0c045bed8e87882f869f2bfa6e3"/>
+ 				<rom name="Emerald Dragon (1990)(Glodia)(ES)(Disk 3 of 5)(Opening Disk).dsk" size="737280" crc="9269692f" sha1="c70a9967dc10a14ac56c7fb674a0a6ab6d11cd9e"/>
+ 				<rom name="Emerald Dragon (1990)(Glodia)(ES)(Disk 4 of 5)(Game Disk).dsk" size="737280" crc="74c4dc47" sha1="17258269d579ef6fd17463e6f1d547edf0343e91"/>
+ 				<rom name="Emerald Dragon (1990)(Glodia)(ES)(Disk 5 of 5)(Ending Disk).dsk" size="737280" crc="be995707" sha1="09a5005f1dd53a986f86ac72b8739a5a75236072"/>
+				<!-- bad dump -->
+ 				<rom name="Emerald Dragon (1990)(Glodia)(ja)(Disk 1 of 5)(Visual Disk A)[b].dsk" size="737280" crc="7968d1b7" sha1="0ef31aecdbfd2e0d963a007b29aef39ff6006f02"/>
+ 				<rom name="Emerald Dragon (1990)(Glodia)(ja)(Disk 2 of 5)(Visual Disk B)[b].dsk" size="737280" crc="08703d73" sha1="8e0940e7981818fc95f0712d4ca62d7cd4345b1a"/>
+				<!-- last $100 bytes are swapped. bad dump? -->
+ 				<rom name="Emerald Dragon (1990)(Glodia)(ja)(Disk 4 of 5)(Game Disk)[a2].dsk" size="737280" crc="7c89734a" sha1="d4f146f00014dba53737bbd1734f0cd89acfa76f"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="aeb4af55">
+ 		<description>Encuentro Usuarios MSX</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crashes -->
+				<rom name="Encuentro Usuarios MSX (1992)(Nexus-Barcelona)(es).dsk" size="737280" crc="aeb4af55" sha1="291b8381a479b63ef8eba553e50135675ba0f33b"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="22cfaf1a">
+ 		<description>Estland Campaign</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+ 				<rom name="Estland Campaing (1991)(Medo)(en)(Disk 1 of 2)(Demo Disk).DSK" size="737280" crc="22cfaf1a" sha1="b40a95304e6109a338a779230213c40a7304bf43"/>
+ 				<rom name="Estland Campaing (1991)(Medo)(en)(Disk 2 of 2)(Game Disk).DSK" size="737280" crc="995613e0" sha1="b54d4defe7b6978a46e586426cc33f760ccf8703"/>
+				<!-- has deleted file -->
+ 				<rom name="Estland Campaing (1991)(Medo)(ja)(Disk 2 of 2)(Game Disk)[a2].dsk" size="737280" crc="d9980151" sha1="0bee78b5b9caa1b697a1ea284bc946316e8ef3e6"/>
+				<!-- save data -->
+				<rom name="estland campaing (1991)(medo)(jp)(disk 2 of 2)(game disk)[a].dsk" size="737280" crc="2fae80b2" sha1="8faf0539870d9b745c79a76b45391f27097a6dc9"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="d43423cf">
+ 		<description>Europe Sensen</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+ 				<rom name="Europa Sensen. Europe War. Battle Front Europe (1992)(Koei)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="d43423cf" sha1="86abd35fcda1f8e914b90949faedbdb930be9436"/>
+				<!-- cracked -->
+ 				<rom name="Europa Sensen. Europe War. Battle Front Europe (1992)(Koei)(ja)(Disk 1 of 2)[cr Metam].dsk" size="737280" crc="80093ab2" sha1="9208fa7428d2a16257c4826e50cfd6da6ff333b3"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="fcbf867c">
+ 		<description>Even</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- file after 1994 -->
+ 				<rom name="Even (1994)(Frieve)(ja).dsk" size="737280" crc="fcbf867c" sha1="6496128e88ab505c9da6b463eb69eedcefc25ed0"/>
+ 				<rom name="Even (1994)(Frieve)(ja)[a].dsk" size="737280" crc="1e895d4c" sha1="da5e20387ee4322d55fa6a8378bbe25e946402a2"/>
+				<!-- DiskMgr1 -->
+ 				<rom name="Even (1993)(Freive)(ja)(MSX Fan Edition).dsk" size="737280" crc="c736ccd6" sha1="6abe02303bd83d439b2544485e7975300c92dae5"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="9cbf362f">
+ 		<description>F-Zeru Ex</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- self extracted from PMA -->
+ 				<rom name="F-Zeru Ex (1991)(Madou Yochien)[a].dsk" size="737280" crc="9cbf362f" sha1="afee2c4c8de960a09387e4179eee311e15f7cca8"/>
+				<!-- DiskMgr1 -->
+ 				<rom name="F-Zeru Ex (Madou Yochien, 1991)[a].dsk" size="737280" crc="ced45bb2" sha1="bd6de638d6b2c68e6511745a779f6e2bd9b8bee9"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="53e56dcf">
+ 		<description>F1 Travel Journal</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+ 				<rom name="F1 Travel Journal [T-En by Django].dsk" size="737280" crc="53e56dcf" sha1="264e4d5d65d43dcd3ee073ef8aab00c9dffd48a4"/>
+				<!-- hacked -->
+ 				<rom name="F1 Douchuuki (1988)(Namcot)(ja)[cr Tortuga].dsk" size="737280" crc="460bd15a" sha1="a328be358b82a1669dfcad2bcca88d8f9ca96c5a"/>
+ 				<rom name="F1 Douchuuki (1990)(Namcot)(ja)[cr Tortuga][a].dsk" size="737280" crc="090a250e" sha1="ea478ec97424b5a8e896f8ec5464129788629ac1"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="4cddbc57">
+ 		<description>The Fac Demo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- keeps rebooting -->
+ 				<rom name="Fac Demo, The (1988)(Gizmo).dsk" size="737280" crc="4cddbc57" sha1="d5100d13927a5f01ea7fcb8875e228770e1eccc9"/>
  			</dataarea>
  		</part>
  	</software>
 
  	<software name="famiparo">
- 		<description>Famicle Parodic (Japan, disk conversion)</description>
+ 		<description>Famicle Parodic</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="famicle parodic (1988)(bit2)(jp).dsk" size="737280" crc="0245f7a5" sha1="e94841d7783de50e068f4855979bb056645350cc"/>
  			</dataarea>
  		</part>
  	</software>
 
  	<software name="famibill">
- 		<description>Family Billiards (Japan, disk conversion)</description>
+ 		<description>Family Billiards</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="family billiards (1987)(pack in video)(jp).dsk" size="737280" crc="1be9c10e" sha1="c036c51dbd81ad907c18db63b28af9f8e19acb80"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="famibillb">
- 		<description>Family Billiards (Japan, alt 2, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="family billiards (1987)(pack in video)(jp)[a2].dsk" size="737280" crc="02bbcdd5" sha1="20e8fe3bed5ee7d9d6042ce9999ceaa808f46b85"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="famibilla">
- 		<description>Family Billiards (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="family billiards (1987)(pack in video)(jp)[a].dsk" size="737280" crc="151fa608" sha1="ae02eb194040fb456170cb10f860a193d8c0b593"/>
  			</dataarea>
  		</part>
  	</software>
 
+ 	<software name="5600e6e6">
+ 		<description>Famicle Parodic</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+ 				<rom name="Famicle Parodic (1989)(Bit2)(ja)[cr Martos][t SMA].dsk" size="737280" crc="3401d6e1" sha1="bdeb8870acc554fa0e55f644e507fffc1e90989b"/>
+ 				<rom name="Famicle Parodic (1989)(Bit2)(ja)[cr Martos][t SMA][a].dsk" size="737280" crc="5600e6e6" sha1="d034032b31e5caa90bcb2ca1fa5376eb380e586d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="cb94b67e">
+ 		<description>Famicle Parodic 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+ 				<rom name="Famicle Parodic 2 (1988)(Bit2)(Disk 1 of 2)[cr The Boss].dsk" size="737280" crc="0aaabc8e" sha1="8a08b1503d5896f355f226f269ab2cd9a63bdcb6"/>
+ 				<rom name="Famicle Parodic 2 (1988)(Bit2)(Disk 2 of 2)[cr The Boss].dsk" size="737280" crc="3bf5385b" sha1="6ff2ab28de52748cdda99cdcdbec7db329d0b029"/>
+				<!-- baddump -->
+ 				<rom name="Famicle Parodic 2 (1988)(Bit2)(Disk 1 of 2)[b].dsk" size="737280" crc="63f91153" sha1="845bfe77b4becda4164f73767b83f85b81043a3a"/>
+ 				<rom name="Famicle Parodic 2 (1988)(Bit2)(Disk 2 of 2)[b].dsk" size="737280" crc="21ecef56" sha1="46b9276effc8bc6d683488519539f3c461bb45d0"/>
+ 				<rom name="Famicle Parodic 2 (1988)(Bit2)(Disk 2 of 2)[cr The Boss][b].dsk" size="737280" crc="cb94b67e" sha1="623c304a5f5e55a14fa0050cdbeec4e63bded915"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="famiboxi">
- 		<description>Family Boxing (Japan, disk conversion)</description>
+ 		<description>Family Boxing</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="family boxing (1988)(sony)(jp).dsk" size="737280" crc="dc04b9da" sha1="b25e72df31e85e5878c2c65846ae8e80bd8960e5"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="famiboxia">
- 		<description>Family Boxing (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="family boxing (1988)(sony)(jp)[a].dsk" size="737280" crc="863acc3f" sha1="9dfb360ab99c9df49efe830d3da9fac2756158c2"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="famiboxib">
- 		<description>Family Boxing (Japan, alt 2, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="family boxing (1988)(sony)(jp)[a2].dsk" size="737280" crc="99ed1aec" sha1="6608a0f331a79c6e00334865531d98653aa6f36a"/>
+ 				<rom name="Family Boxing (1988)(Sony)[cr MCI].dsk" size="737280" crc="7bdcf731" sha1="8e8bf534704f8796d0b1a8ff30506efb961f2480"/>
  			</dataarea>
  		</part>
  	</software>
 
  	<software name="fantzon2">
- 		<description>Fantasy Zone II - The Tears of Opa-Opa (Japan, disk conversion)</description>
+ 		<description>Fantasy Zone II - The Tears of Opa-Opa</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="fantasy zone ii - the tears of opa-opa (1987)(pony canyon)(jp).dsk" size="737280" crc="dc6b042e" sha1="1db4d1d2b7801ad35970d6dc024af78d276721e9"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="fantzon2a">
- 		<description>Fantasy Zone II - The Tears of Opa-Opa (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="fantasy zone ii - the tears of opa-opa (1987)(pony canyon)(jp)[a].dsk" size="737280" crc="12d142f2" sha1="de673da6d1cf522ddca766826c0bec3c2a8014a9"/>
  			</dataarea>
  		</part>
  	</software>
 
+ 	<software name="f4ee78f4">
+ 		<description>Fastcopy v3.0</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- NO$MSX -->
+ 				<rom name="Fastcopy v3.0 (1991)(XelaSoft).dsk" size="737280" crc="f4ee78f4" sha1="e0b9f9f55e2f3a7b87f494a09bd2964927478573"/>
+				<!-- hacked? should be 1dd -->
+ 				<rom name="Fastcopy v3.0 (1991)(XelaSoft)[a].dsk" size="737280" crc="6f644632" sha1="fbe70821c08bbad12e65581470a1ca62c3d63b04"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="a84bf179">
+ 		<description>Feedback</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+				<rom name="Feedback (1988)(Tecno Soft)(en).dsk" size="737280" crc="d096deb5" sha1="527f5f0cfbce879d1866536e76879c4d79cdabb4"/>
+				<rom name="Feedback (1988)(Tecno Soft)(en)(TurboFix).dsk" size="737280" crc="e8d1f15e" sha1="ad48ce97f83bd6ff97b392ce6b69f44d6d950604"/>
+				<!-- baddump -->
+				<rom name="Feedback (1988)(Tecno Soft)(ja)[b].dsk" size="737280" crc="db0339f6" sha1="e45647e6c51f6aceceb71aad9f154270e8fa9aae"/>
+				<rom name="Feedback v2 (1988)(Tecno Soft)(ja)[b].dsk" size="737280" crc="a84bf179" sha1="83b0290632120abcc776ac70feb563028489cf3a"/>
+				<!-- alt or hack? -->
+				<rom name="Feedback v2 (1988)(Tecno Soft)(ja).dsk" size="737280" crc="c805c189" sha1="b8960a5a7dacddbf68aeff0efd31442f7661006c"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="4c9f2a41">
+ 		<description>Fighter's Ragnarok</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+				<rom name="Fighter's Ragnar_k (1998)(Delta-Z)(Fony)(en)(tr).dsk" size="737280" crc="4c9f2a41" sha1="90456e6dde24a61c560a868a62b9b938cce5b162"/>
+				<rom name="Fighter's Ragnarök (1998)(Delta-Z)(Fony)(en).DSK" size="737280" crc="aa841589" sha1="c9b2f13d2b677ec315b9a93234b6270d315d6146"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="26bfbbb7">
+ 		<description>Final Countdown</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+				<rom name="Final Countdown (1988)(Methodic Solutions)[cr Eloy Roman].dsk" size="737280" crc="26bfbbb7" sha1="051c50b3bfe52f34c0b8a74bc1f38357bee228f0"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="0b5708f4">
+ 		<description>Final Fantasy</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="Final Fantasy (1989)(Micro Cabin)(ja)(Disk 1 of 2)(Game Disk)[b].dsk" size="737280" crc="0b5708f4" sha1="535c58e163c02f9d4a926c2f89d29ae34c6dfc34"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="565521d0">
+ 		<description>Final Potential</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+				<rom name="Final Potential (1990)(MSX Magazine)(en).dsk" size="737280" crc="565521d0" sha1="9e9ddf4d124facd7c67b08bcd57c81b8b6819fff"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="d720c5f0">
+ 		<description>Final Zone Wolf</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion  -->
+				<rom name="Final Zone Wolf (1986)(Telenet Japan)(ja).dsk" size="737280" crc="d720c5f0" sha1="5baeea737bde68ab4d1519648019cf91283b7ee4"/>
+				<rom name="Final Zone Wolf (1986)(Telenet Japan)(ja)[a].dsk" size="737280" crc="a87b34b8" sha1="0c0ddff2ce24756b27f51fe39f021b2f5c314c5e"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="3cc8095c">
+ 		<description>Fire Ball</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+				<rom name="Fire Ball (1988)(Humming Bird Soft)[cr SMA].dsk" size="737280" crc="3cc8095c" sha1="aaf28370e7aee70c08879bc5893aaac33eeee04a"/>
+				<rom name="Fire Ball (1988)(Humming Bird Soft)[cr SMA][a].dsk" size="737280" crc="f0bd117c" sha1="5053c167358a30a979fd938d6d7bad1e5298dc6e"/>
+				<rom name="Fire Ball (1988)(Humming Bird Soft)[h Tridentum].dsk" size="737280" crc="ad82278f" sha1="aa3e270de15e767c6183c014012aea3d144d8f68"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="9fe5ded9">
+ 		<description>Fire Hawk - Thexder II</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+				<rom name="Fire Hawk - Thexder The Second Contact [T-En by FRS v.1.4] [HDD].dsk" size="737280" crc="9fe5ded9" sha1="87805323b1e5baab933b2996d6176473a9ff3ddd"/>
+				<rom name="Fire Hawk - Thexder II (1989)(Game Arts)(en)(Disk 1 of 2).DSK" size="737280" crc="2b913eaf" sha1="6c7807e7299bb3d4786b51be74d47d2eb63a546b"/>
+				<rom name="Fire Hawk - Thexder II (1989)(Game Arts)(en)(Disk 2 of 2).DSK" size="737280" crc="f589053e" sha1="0750dff8727b3355bca9e6768bfa09715066d780"/>
+				<!-- baddump -->
+				<rom name="Fire Hawk - Thexder II (1989)(Game Arts)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="aaeb88a5" sha1="614f389365c44654448aa8a1cc0b5e8cfcefdef2"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="2407ba88">
+ 		<description>Flat Marsh</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- alt -->
+ 				<rom name="FM 1-2-3 (1994)(Gigamix)(ja).dsk" size="737280" crc="2407ba88" sha1="b6d0b692b265a104db48f48071c99afab2027292"/>
+ 				<rom name="FM 4 (1995)(Gigamix)(ja).dsk" size="737280" crc="dae23b2c" sha1="99b3063b2d6f46f480b5cccbd19ca6379fe596dd"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="fleetco2">
- 		<description>Fleet Commander II (Japan, disk conversion)</description>
+ 		<description>Fleet Commander II</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="fleet commander ii (1990)(ascii)(jp).dsk" size="737280" crc="81be1717" sha1="b6ff134aeae8dbdaef7b98812f469ac19aabde06"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="fleetco2a">
- 		<description>Fleet Commander II (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="fleet commander ii (1990)(ascii)(jp)[a].dsk" size="737280" crc="c18b5a3d" sha1="f459e278541d3fdfb008534cf084ca638c2b66b6"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="fleetco2b">
- 		<description>Fleet Commander II (Japan, alt 2, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="fleet commander ii (1990)(ascii)(jp)[a2].dsk" size="737280" crc="cc245e21" sha1="45912d6f339d7d42365e0ffa365a0d4df577b6ed"/>
+ 				<rom name="fleet commander ii (1990)(ascii)(jp)[a3].dsk" size="737280" crc="e7ac77e2" sha1="a41467cda5c14f6fa3e5acb81efab89e2dc88845"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="fleetco2c">
- 		<description>Fleet Commander II (Japan, alt 3, disk conversion)</description>
+ 	<software name="3c204642">
+ 		<description>Flower Garden</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
- 				<rom name="fleet commander ii (1990)(ascii)(jp)[a3].dsk" size="737280" crc="e7ac77e2" sha1="a41467cda5c14f6fa3e5acb81efab89e2dc88845"/>
+				<!-- does not start automatically -->
+				<rom name="Flower Garden (Miyako Tako, 19xx).dsk" size="737280" crc="3c204642" sha1="354a89af387180948185eb3c9ffd04df26642094"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="a885d7e7">
+ 		<description>Fony's Demo Disk 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DiskMgr1 -->
+				<rom name="Fony's Demo Disk 2 (1992)(Fony)(pre-release).dsk" size="737280" crc="a885d7e7" sha1="098678d3a609568f726e3fddea1778a99ee07290"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="bb20cc1d">
+ 		<description>Fray - In Magical Adventure</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(ja)(Disk 1 of 4)(Opening Disk 0)[b].dsk" size="737280" crc="6f27c284" sha1="7a12f683831f39a024816f97b6e07d16152c7c58"/>
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(ja)(Disk 2 of 4)(Opening Disk 1)[b].dsk" size="737280" crc="7160ec30" sha1="b93f130f71fe839bdde7c77c29b4861ab09e9239"/>
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(ja)(Disk 3 of 4)(Game Disk 0)[b].dsk" size="737280" crc="670cfe3e" sha1="46df66a005599f0d7c91a593d080c915c8d91eed"/>
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(ja)(Disk 4 of 4)(Game Disk 1)[b].dsk" size="737280" crc="bb20cc1d" sha1="71f4222ef44a10a450eb7fe4e31438f7b4251fdf"/>
+				<!-- translated -->
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(en)(Disk 1 of 4).dsk" size="737280" crc="735f01c2" sha1="a0bd6d35c89fbf5edc438fac72b626c1f7d5983e"/>
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(en)(Disk 2 of 4).dsk" size="737280" crc="34bca240" sha1="0adcfca1ade6ce66ea3ad655f949d9940d181cad"/>
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(en)(Disk 3 of 4).dsk" size="737280" crc="a7047634" sha1="c6bdfbc94c460f8964985d61285bfd1e559bbcb3"/>
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(en)(Disk 4 of 4).dsk" size="737280" crc="c7d675e6" sha1="ea55d4feea9c1e45cc63ffb1b4f0aeb551acdbf3"/>
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(Disk 1 of 4)(Opening Disk 0)[tr it MSX Club].dsk" size="737280" crc="af615904" sha1="d709e9c51c1789a1fe528ac28651d61f1b42e4f4"/>
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(Disk 3 of 4)(Game Disk 0)[tr it MSX Club].dsk" size="737280" crc="c217073e" sha1="83a879b1b396027d367bde5d5adf1859e6e10580"/>
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(Disk 4 of 4)(Game Disk 1)[tr it MSX Club].dsk" size="737280" crc="9a3f65d2" sha1="044fe8e4577993da6bc7969ac26840f6c6ca58ac"/>
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(Disk 1 of 4)(Opening Disk 0).dsk" size="737280" crc="ef42b52f" sha1="152492bbe74c98945b5f228349fdb71cf11faa1b"/>
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(Disk 3 of 4)(Game Disk 0).dsk" size="737280" crc="11476e64" sha1="bab5320b3e875a0155887cae83af71de57247768"/>
+				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(Disk 4 of 4)(Game Disk 1).dsk" size="737280" crc="7f836431" sha1="831147c711ec54fc98db290598220f521f897791"/>
+				<!-- alt? -->
+ 				<rom name="Fray - In Magical Adventure (1990)(Micro Cabin)(ja)(Disk 4 of 4)(Game Disk 1)[a3].dsk" size="737280" crc="5c7be1ef" sha1="ef123deda670bdaa347d5ab42f727f8a136ada1a"/>
+			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="47e301fc">
+ 		<description>Freddy Hardest in South Manhattan</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cas2dsk conversion -->
+				<rom name="Freddy Hardest in South Manhattan (1989)(Dinamic Software)(es).dsk" size="737280" crc="47e301fc" sha1="c9fd9094c3d1d8517dc73d496ff0627f5f44977a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="6e8e958b">
+ 		<description>Fruta Prohibida</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- NO$MSX -->
+				<rom name="Fruta Prohibida (1988)(-)(fr)[a].dsk" size="737280" crc="6e8e958b" sha1="2f5a910793026a11b26bb01265b876c476d6db02"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="bfd35f5d">
+ 		<description>Fun-Demo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+ 				<rom name="Fun-Demo (1991)(First Class Software)(nl).dsk" size="737280" crc="bfd35f5d" sha1="9a6e8279e954cb1c258f17e4d8fee5e569cd9532"/>
+				<!-- NO$MSX -->
+				<rom name="Fun-Demo (1991)(First Class Software)(nl)[a].dsk" size="737280" crc="835821fa" sha1="c36ed3a0bb465741c79513aa8198a1a462735617"/>
  			</dataarea>
  		</part>
  	</software>
