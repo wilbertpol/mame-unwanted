@@ -1175,24 +1175,607 @@ license:CC0-1.0
  		</part>
  	</software>
 
- 	<software name="dslayer4">
- 		<description>Dragon Slayer IV - Drasle Family (Japan, disk conversion)</description>
+ 	<software name="e4107ee4">
+ 		<description>Cybernoid</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="368640">
- 				<rom name="dragon slayer 4 - drasle family (1987)(falcom)(jp).dsk" size="368640" crc="c02d493a" sha1="c98bbe6e898b0af672596e1f52f92cad642cefae"/>
+ 			<dataarea name="flop" size="737280">
+				<!-- not released as a dsk -->
+				<rom name="Cybernoid - The Fighting Machine (2021)(Kod).dsk" size="737280" crc="e4107ee4" sha1="049f78aa2e4f973248b9e819a87f88b2564e428e"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="dslayer4a">
- 		<description>Dragon Slayer IV - Drasle Family (Japan, alt, disk conversion)</description>
+ 	<software name="006faf7d">
+ 		<description>Da Vinci</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Da Vinci (1989)(Popcom Soft)[b].dsk" size="737280" crc="006faf7d" sha1="d8c5bee4bbd8dea36c3a5ea90ad1f97e04768707"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="f5741df4">
+ 		<description>Daikoubai Jidai</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Daikoukai Jidai. Uncharted Waters (1990)(Koei)(ja)(Disk 2 of 2)[b].dsk" size="737280" crc="f5741df4" sha1="141a9cd7de2ed4ffb49dfbd38ffdabbacd4e5895"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b99e8bae">
+ 		<description>Daisenryaku II Campaign Version</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Daisenryaku II - Campaign Version. Risk II (1992)(Micro Cabin)(Disk 1 of 2)(System Disk)[b].dsk" size="737280" crc="99f0c635" sha1="8f8e58ee7d4da27c44db76f5e53873888a1ecafe"/>
+				<rom name="Daisenryaku II - Campaign Version. Risk II (1992)(Micro Cabin)(Disk 2 of 2)(Data Disk)[b].dsk" size="737280" crc="75992916" sha1="ec0abbb0925171caf4303332208f173ddb4d0941"/>
+				<rom name="Daisenryaku II - Campaign Version. Risk II (1992)(Micro Cabin)(ja)(Disk 1 of 2)(System Disk)[b2].dsk" size="737280" crc="b99e8bae" sha1="eb7ff7bcfb2ee3dbd544138b47c832f4802d4824"/>
+				<rom name="Daisenryaku II - Campaign Version. Risk II (1992)(Micro Cabin)(ja)(Disk 1 of 2)(System Disk)[b].dsk" size="737280" crc="1dac2006" sha1="87f9ea50e6a718f0b35a93afbae29a9933d0249f"/>
+				<rom name="Daisenryaku II - Campaign Version. Risk II v2 (1992)(Micro Cabin)(ja)(Disk 1 of 2)(System Disk)[b].dsk" size="737280" crc="0844439f" sha1="453710d80726e72f2895eea80ff76d5e07a86ebb"/>
+				<!-- translated -->
+				<rom name="Daisenryaku II - Campaign Version. Risk II (1992)(Micro Cabin)(Disk 1 of 2)(System Disk).dsk" size="737280" crc="89965fcc" sha1="f3acd477ec6ab087c3e2ff910694c1e9193d1bdd"/>
+				<rom name="Daisenryaku II - Campaign Version. Risk II (1992)(Micro Cabin)(Disk 2 of 2)(Data Disk).dsk" size="737280" crc="d2c65c30" sha1="cc7093f95b85a3b997d15d53ecc62f6256af5979"/>
+				<rom name="Daisenryaku II - Campaign Version. Risk II (1992)(Micro Cabin)(Disk 1 of 2)(System Disk)[a].dsk" size="737280" crc="76bf48a8" sha1="29ab8cd212ba5263b6ef8f3370ea0445c30a96de"/>
+				<rom name="Daisenryaku II - Campaign Version. Risk II (1992)(Micro Cabin)(Disk 2 of 2)(Data Disk)[a].dsk" size="737280" crc="5dfe28ee" sha1="f5a2ff66c1e9501077d2b7fa9675ad2c9fc68413"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="6c8cdce0">
+ 		<description>Daisenryaku Map Collection</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+				<rom name="Daisenryaku Map Collection (1988)(Micro Cabin)(en).dsk" size="737280" crc="6c8cdce0" sha1="31bb879b1130558876bb193c15c1f88e6b430df8"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="21dc3087">
+ 		<description>Daisenryaku Risk</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+				<rom name="Daisenryaku. Risk (1987)(Micro Cabin)(en)(Alternative Logo).dsk" size="737280" crc="21dc3087" sha1="52e007a61434d92c6f2662f9fa1c3d0be95ed271"/>
+				<rom name="Daisenryaku. Risk (1987)(Micro Cabin)(en).dsk" size="737280" crc="8e76c64e" sha1="7d8160a1b0dc93dde9d572fc35d1911b53e7fc58"/>
+				<rom name="Daisenryaku. Risk (1987)(nl)(Micro Cabin).DSK" size="737280" crc="32dea979" sha1="3df11158c2e8a9308811b4db8bcbcf6dd8a9512a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="bce30044">
+ 		<description>Daiva Story 4</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+				<rom name="Daiva Story 4 - Asura's Bloodfeud (1987)(T&amp;E Soft).dsk" size="737280" crc="bce30044" sha1="8a772f4be8258746655b9502df0d0e08a15279ea"/>
+				<rom name="Daiva Story 4 - Asura's Bloodfeud (1987)(T&amp;E Soft)[a2].dsk" size="737280" crc="a4af31f2" sha1="805d2d7e924604414bbebcda74d4e94701a24b38"/>
+				<rom name="Daiva Story 4 - Asura's Bloodfeud (1987)(T&amp;E Soft)[a3].dsk" size="737280" crc="baa5aac0" sha1="6cb98bee374f2b7a33b04b6cf78945594b80c76c"/>
+				<rom name="Daiva Story 4 - Asura's Bloodfeud (1987)(T&amp;E Soft)[a].dsk" size="737280" crc="f6007ab5" sha1="e717247b6558f1d7cd450cef138af736811fe45d"/>
+				<!-- translated -->
+				<rom name="Daiva 4-5 (1987)(T&amp;ESoft Sargon)(en).dsk" size="737280" crc="515c6ac6" sha1="5448048de00fb62a11dbfcb237de2e42ca3f8211"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="3a1e50a2">
+ 		<description>Dammen</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- protected -->
+				<rom name="Dammen MSX (1989) (MSX Gids &amp; Samosoft).DSK" size="737280" crc="3a1e50a2" sha1="1ea4338fef15568754986e1cc8b5864522d26489"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="40f096a3">
+ 		<description>Dancing Mai</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Dancing Mai (1991)(Fairytale)(ja)(Disk 1 of 4)[b].dsk" size="737280" crc="40f096a3" sha1="59c61f0aed736500fe878fdbfde5b619306017b5"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="cd0517dc">
+ 		<description>Dante Excellent Works Cross Kingdom</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- save -->
+				<rom name="Dante Excellent Works Cross Kingdom Takeru (1991)(Disk Magazine)(ja).dsk" size="737280" crc="cd0517dc" sha1="ffb28b1573762542441020b2bbc5a5ff1bd35fe2"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="f8990bcf">
+ 		<description>Dark Dungeon</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- how to start? only title screen? -->
+				<rom name="Dark Dungeon (1992)(Umipi)(jp).dsk" size="737280" crc="f8990bcf" sha1="bb26307247a60a6d368438e3c306e5f30379c65c"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="a1c0a8c0">
+ 		<description>Dark Sider</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+				<rom name="Dark Sider (19xx)(City Factory).dsk" size="737280" crc="a1c0a8c0" sha1="89147bb1d7d5e36a4943a7391339fac5ebec2efd"/>
+				<!-- does not start automatically -->
+				<rom name="Dark Sider (19xx)(City Factory)[a].dsk" size="737280" crc="b667ae76" sha1="4e8661aaa736786dc074d1ebc380d29565888160"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="d7e1d104">
+ 		<description>Dead of the Brain</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+				<rom name="Dead of the Brain - Day of the Living Dead (1992)(Fairytale)(en)(Disk 1 of 3)(Fixed).dsk" size="737280" crc="d7e1d104" sha1="605217e4aca8812dbc86af06e6c1b3f79a70b3db"/>
+				<rom name="Dead of the Brain - Day of the Living Dead (1992)(Fairytale)(en)(Disk 1 of 3).dsk" size="737280" crc="d7e1d104" sha1="605217e4aca8812dbc86af06e6c1b3f79a70b3db"/>
+				<rom name="Dead of the Brain - Day of the Living Dead (1992)(Fairytale)(en)(Disk 2 of 3)(Fixed).dsk" size="737280" crc="30697cea" sha1="b9d3eca819516851d7519fcfc0c0db9d75aae2d7"/>
+				<rom name="Dead of the Brain - Day of the Living Dead (1992)(Fairytale)(en)(Disk 2 of 3).dsk" size="737280" crc="30697cea" sha1="b9d3eca819516851d7519fcfc0c0db9d75aae2d7"/>
+				<rom name="Dead of the Brain - Day of the Living Dead (1992)(Fairytale)(en)(Disk 3 of 3)(Fixed).dsk" size="737280" crc="4e656efd" sha1="c05bbd395423fc3a12c166f2479cc630a4b12d75"/>
+				<rom name="Dead of the Brain - Day of the Living Dead (1992)(Fairytale)(en)(Disk 3 of 3).dsk" size="737280" crc="4e656efd" sha1="c05bbd395423fc3a12c166f2479cc630a4b12d75"/>
+				<rom name="Dead of the Brain - Day of the Living Dead (1992)(Fairytale)(es)(Disk 1 of 3).dsk" size="737280" crc="06512bf2" sha1="0075da44ca7f6d1e4d797f2722c832fa74ff4e2e"/>
+				<rom name="Dead of the Brain - Day of the Living Dead (1992)(Fairytale)(es)(Disk 2 of 3).dsk" size="737280" crc="2ed2aaff" sha1="87e75f95957f18d0b905db05ba02e0cf36236d70"/>
+				<rom name="Dead of the Brain - Day of the Living Dead (1992)(Fairytale)(es)(Disk 3 of 3).dsk" size="737280" crc="7b391457" sha1="7df46c2a906f6003145302306eac398914056b21"/>
+				<!-- bad dump -->
+				<rom name="Dead of the Brain - Day of the Living Dead (1992)(Fairytale)(ja)(Disk 1 of 3)[b].dsk" size="737280" crc="95bf0a5a" sha1="8426f680072ed26a42674f56086722ed28938cda"/>
+				<!-- patched -->
+				<rom name="Dead of the Brain - Day of the Living Dead (1992)(Fairytale)(JP)(Disk 1 of 3) patched OK.dsk" size="737280" crc="495a3b2d" sha1="ff02589849758dc2776248322d28b4576fcbb552"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="07052977">
+ 		<description>Deep Forest</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+				<rom name="Deep Forest (1987)(Xain)(ja)[a4].dsk" size="737280" crc="07052977" sha1="ef9346d59c4cc70d7bcf0f6b56df2b381fe2934e"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="57905c68">
+ 		<description>Defcon</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- extracted from Games Collection -->
+				<rom name="Defcon (1989)(Eurosoft).dsk" size="737280" crc="57905c68" sha1="8444b1d055fe203621a643ae8c99ed9341c75b21"/>
+				<rom name="Defcon (1989)(Eurosoft)[a].dsk" size="737280" crc="7c17d78c" sha1="18d888f168ea52580f181f6d67ea7f694dfd7bf1"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="818c5851">
+ 		<description>Delta Force</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- saves? -->
+				<rom name="Delta Force (1990)(MSX Club Magazine)(nl)[a].dsk" size="737280" crc="818c5851" sha1="a4d7fab4d2258bda1ecfc3d84a45523e82bec9bc"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="23254edc">
+ 		<description>Demo Digitalizaciones</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- NO$MSX -->
+				<rom name="Demo Digitalizaciones (1987)(Majara Soft)(es)[a].dsk" size="737280" crc="23254edc" sha1="278b23302c30c0a7dc52c97b109764559397fb16"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="2756654c">
+ 		<description>Demon's Killer</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- simple basic? game -->
+				<rom name="Demon's Killer (19xx)(New Line Soft)(fr).dsk" size="737280" crc="2756654c" sha1="27075bf18db804dcd22bc38b15a499f8cfbd8fef"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="1ee50047">
+ 		<description>Demonia</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Demonia V1.2.dsk" size="737280" crc="1ee50047" sha1="b4d2a4943e243016144934399dbae04915696462"/>
+				<rom name="_Demonia V1.2.dsk" size="1314" crc="5b5b61cf" sha1="3115e1057b2b909bcf5e7d85672c8047dd3778d4"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e881b8a7">
+ 		<description>Detective Story</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+				<rom name="detective story - timmy soft.dsk" size="368640" crc="e881b8a7" sha1="c168549430360fff5a0c09dfda77edc63b629a6a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="29484624">
+ 		<description>Diable de Laplace</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+ 				<rom name="Diable De Laplace (1989)(Humming Bird Soft)(en)(Game Disk).DSK" size="737280" crc="29484624" sha1="beae1887bf1acdf7bd942c9145c3df9eac82e1b8"/>
+ 				<rom name="Diable De Laplace (1989)(Humming Bird Soft)(en)(User Disk).DSK" size="737280" crc="9ff1d552" sha1="8d61623e2672ce280fa33cc243a4195b7b730982"/>
+ 				<rom name="Diable De Laplace (1989)(Humming Bird Soft)(Userdisk).dsk" size="737280" crc="504c4b1f" sha1="1a00167fba9d20ee7a89fb16bed6cc6ca44729a1"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="c4909964">
+ 		<description>Diablo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- fixed -->
+ 				<rom name="Diablo (1991) (ASCII-Broderbund).dsk" size="737280" crc="c4909964" sha1="1783760311705861caf00bf8397823cb1bee40f0"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="0e5e8d8c">
+ 		<description>Dios</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+ 				<rom name="Dios (1989)(Xain)(en)(Disk 1 of 4)(Translation by Django).dsk" size="737280" crc="0e5e8d8c" sha1="3fdaca8e046c3dd1b045be371f30d8ff2e4c26ea"/>
+ 				<rom name="Dios (1989)(Xain)(en)(Disk 2 of 4)(Translation by Django).dsk" size="737280" crc="06dc1227" sha1="68019832d30f38df393700d58752daa5bc8ea90e"/>
+ 				<rom name="Dios (1989)(Xain)(en)(User Disk)(Translation by Django).dsk" size="737280" crc="bb05d0bc" sha1="4a45477338d3168bfb4852e2d1b4aa2a344ecfb8"/>
+				<!-- bad dump-->
+ 				<rom name="Dios (1989)(Xain)(ja)(Disk 2 of 5)[b].dsk" size="737280" crc="495ab2cd" sha1="a7dc9d10d4b7e793aaa193a67825360d61885e97"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b2bc8165">
+ 		<description>Disk Cool 3</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="Diskcoo 3 (1989)(Fabrice)(fr).dsk" size="737280" crc="b2bc8165" sha1="f54ad639fc079b943f9e938e37850c858378758d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="4b38a00c">
+ 		<description>Disk NG 1</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+ 				<rom name="Disk NG 1 (1989)(Namcot)[b].dsk" size="737280" crc="4b38a00c" sha1="a8429cf8242239a2e6700b9a6f6d61e51dc695b8"/>
+				<!-- translated -->
+ 				<rom name="Disk NG 1 (1989)(Namcot)(en).DSK" size="737280" crc="9f5ee635" sha1="2f8d43e529f14559b993c7081163dc77afb4d139"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="3f90e002">
+ 		<description>Dome</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DiskMgr1 -->
+ 				<rom name="Dome (Tilburg '99) (1999)(Paragon Productions).dsk" size="737280" crc="3f90e002" sha1="5c5441506fbf3c4dee050da9bbe82de0ffa7314a"/>
+ 				<rom name="Dome (Beta) (19xx) (Paragon Productions).dsk" size="737280" crc="2045a504" sha1="ba7353918d3fbfd295c6de3df8d18514b60528be"/>
+ 				<rom name="Dome (Alpha1) (19xx) (Paragon Productions).dsk" size="737280" crc="8ff7056d" sha1="aae20351db9021a7a27649a4724e24cac5bafaef"/>
+ 				<rom name="Dome (Alpha3) (19xx) (Paragon Productions).dsk" size="737280" crc="c2123c7f" sha1="ac71e48b7a28d05dc020d912bdb72a0ab792454b"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="9d3980ff">
+ 		<description>The Dome</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+ 				<rom name="Dome, The (1989)(System Sacom)(ja)(Disk 2 of 2)[b].dsk" size="737280" crc="9d3980ff" sha1="5dd4ba2c4a057c97687deb0e9b77b0889d754f95"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="d263dd39">
+ 		<description>Double Task</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- NO$MSX -->
+ 				<rom name="Double Task v1.0 (19xx)(Sergi Martinez).dsk" size="737280" crc="d263dd39" sha1="e23b2ef244108de9461658e7e290f03503a7f5f6"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="4e77ea17">
+ 		<description>DP24</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+ 				<rom name="DP24 v1.1 (1994)(R.B. Soft)(es).dsk" size="737280" crc="4e77ea17" sha1="f708856a26a5a91dc967949fa2919fa55eec684a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e124dd4e">
+ 		<description>Dracula Demo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- just a bunch of silly porn pics -->
+ 				<rom name="Dracula Demo (19xx)(X.M.V.)(es).dsk" size="737280" crc="e124dd4e" sha1="b785eb6bb0fd6520e731e3441b0071f2365bac27"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="ee88a3df">
+ 		<description>Dragon Buster</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+ 				<rom name="Dragon Buster (1987)(Namcot)[t].dsk" size="737280" crc="ee88a3df" sha1="7d7a51b4a7c2dcb5ff2ccb6d68a12e11fbe24b27"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="9bc2b9c0">
+ 		<description>Dragon City X</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+ 				<rom name="Dragon City X (1991)(Fairytale)(ja)(Disk 1 of 4)[b].dsk" size="737280" crc="9bc2b9c0" sha1="803315f3319c2cd79e20b1f6d991580e773250eb"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="08b46f5f">
+ 		<description>Dragon Knight 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- alt? -->
+ 				<rom name="Dragon Knight II (1991)(Elf)(ja)(Disk 4 of 9)[a2].dsk" size="737280" crc="08b46f5f" sha1="65f9e2ffaa265684f3d0ae3e3a873e3503871fed"/>
+ 				<rom name="Dragon Knight II (1991)(Elf)(ja)(Disk 6 of 9)[a2].dsk" size="737280" crc="ef7d35d9" sha1="e63854dc45f929fd80cf90ca48ecab6c613dc8f8"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b637c2c5">
+ 		<description>Dragon Quest 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+ 				<rom name="Dragon Quest II (1988)(Enix)(ja).dsk" size="737280" crc="b637c2c5" sha1="79d41ac8e703446d8aa059832e95301dc220d7e4"/>
+ 				<rom name="Dragon Quest II (1988)(Enix)(ja)[a].dsk" size="737280" crc="b614896e" sha1="4133b5e6b05c025b25eac1e5570f1401d5197314"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="bc794b96">
+ 		<description>Dragon Quiz</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- underdump -->
+ 				<rom name="Dragon Quiz (1991)(Compile)(ja)(Disk 2 of 2)[u].dsk" size="98304" crc="bc794b96" sha1="58e47df871fd4934850a2abf8b0663efedf47e26"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="8d2f6630">
+ 		<description>Dragon Slayer 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+ 				<rom name="Dragon Slayer 2 - Xanadu (1987)(Falcom)(Disk 1 of 2)[a2].dsk" size="737280" crc="8d2f6630" sha1="f18237a4986e829a693f541248ab6859d6f6b1a2"/>
+ 				<rom name="Dragon Slayer 2 - Xanadu (1987)(Falcom)(Disk 1 of 2)[b].dsk" size="737280" crc="ed440fd8" sha1="1b76680eb2463b5b40e5e3ffa02fdaae9e2ea26a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="dslayer4">
+ 		<description>Dragon Slayer IV - Drasle Family</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="368640">
+				<!-- crt2dsk conversion -->
+ 				<rom name="dragon slayer 4 - drasle family (1987)(falcom)(jp).dsk" size="368640" crc="c02d493a" sha1="c98bbe6e898b0af672596e1f52f92cad642cefae"/>
  				<rom name="dragon slayer 4 - drasle family (1987)(falcom)(jp)[a].dsk" size="737280" crc="feabb87b" sha1="fd2011711641bde43bd17416c4103430dc7d79c0"/>
+ 				<rom name="ds4phil.dsk" size="737280" crc="ac675b0d" sha1="a23c3796f8f5737c6b1cc5e07d51e5ad75ac4554"/>
+ 				<rom name="ds4turbo.dsk" size="737280" crc="449a7c69" sha1="ee8b539983ae76e12e555ea37c7f495f90b3bd5a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="547f0604">
+ 		<description>Dragon Slayer 5</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+ 				<rom name="Dragon Slayer 5 - Sorcerian (1987)(Falcom DeltaSoft)(en)(Disk 1 of 5)(Program Disk).dsk" size="737280" crc="547f0604" sha1="8bad424f44a35c4df533211d14575d7cd88e9d28"/>
+ 				<rom name="Dragon Slayer 5 - Sorcerian (1987)(Falcom DeltaSoft)(en)(Disk 2 of 5)(Scenario Disk 1).dsk" size="737280" crc="d7280ce1" sha1="d8bdac5317ece5ae647140ee59c7d8eb85d21c27"/>
+ 				<rom name="Dragon Slayer 5 - Sorcerian (1987)(Falcom DeltaSoft)(en)(Disk 3 of 5)(Scenario Disk 2).dsk" size="737280" crc="27e50c94" sha1="69af7aa378a84bdd788949900bd7db9050ad376f"/>
+ 				<rom name="Dragon Slayer 5 - Sorcerian (1987)(Falcom DeltaSoft)(en)(Disk 4 of 5)(Scenario Disk 3).dsk" size="737280" crc="adcb2ed1" sha1="0650e04f106e3f3b81f1a7a9d8d9868d97ffa30e"/>
+				<!-- trained -->
+ 				<rom name="Dragon Slayer 5 - Sorcerian (1987)(Falcom)(ja)(Disk 1 of 5)(Game Disk)[t].dsk" size="737280" crc="a6ccf483" sha1="0091a96c33cade4a2c2664b843baba65414354d9"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="d9ad79fd">
+ 		<description>Dragon Slayer 6</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+ 				<rom name="Dragon Slayer 6 - The Legend of Heroes (1990)(Falcom)(Disk 1 of 5)(Game Disk).dsk" size="737280" crc="eb942948" sha1="87a4570ab486e87b81016d9ba18040ada41041fa"/>
+ 				<rom name="Dragon Slayer 6 - The Legend of Heroes (1990)(Falcom)(Disk 2 of 5)(Scenario 1 Disk).dsk" size="737280" crc="a61150e1" sha1="86d4e55b0467925c1c49a056b62a3aca16a3a7e4"/>
+ 				<rom name="Dragon Slayer 6 - The Legend of Heroes (1990)(Falcom)(Disk 3 of 5)(Scenario 2 Disk).dsk" size="737280" crc="175e7262" sha1="30a812a98388ed90da1494da00ae19c916081347"/>
+ 				<rom name="Dragon Slayer 6 - The Legend of Heroes (1990)(Falcom)(Disk 4 of 5)(Scenario 3 Disk).dsk" size="737280" crc="fa685a65" sha1="7e5c6172b803d89d7b503f6db8d8fdbf6aef0c54"/>
+ 				<rom name="Dragon Slayer VI - The Legend of Heroes (1990)(Falcom)(en)(Disk 1 of 4).dsk" size="737280" crc="d9ad79fd" sha1="f7a3626a84da4a6e0bc34c03ba1367bf0bfc49bf"/>
+ 				<rom name="Dragon Slayer VI - The Legend of Heroes (1990)(Falcom)(en)(Disk 2 of 4).dsk" size="737280" crc="bacf70ff" sha1="22d21946f358f6f0d539a750e8b916154640b695"/>
+ 				<rom name="Dragon Slayer VI - The Legend of Heroes (1990)(Falcom)(en)(Disk 3 of 4).dsk" size="737280" crc="dc57290f" sha1="990ab134a171c83f3f9d93368e0360091a1eded7"/>
+ 				<rom name="Dragon Slayer VI - The Legend of Heroes (1990)(Falcom)(en)(Disk 4 of 4).dsk" size="737280" crc="828c7b0b" sha1="b755e209d12c4e22dde896003eb16e9225e30a27"/>
+				<!-- cracked -->
+ 				<rom name="Dragon Slayer 6 - The Legend of Heroes (1990)(Falcom)(ja)(Disk 1 of 5)(Game Disk)[cr SMA].dsk" size="737280" crc="e6df8b0a" sha1="3b6ade05b2820fa9f990329812e16d1460b23495"/>
+ 				<rom name="Dragon Slayer 6 - The Legend of Heroes (1990)(Falcom)(ja)(Disk 1 of 5)(Game Disk)[cr SMA][a].dsk" size="737280" crc="f04e1435" sha1="7c9c5d66f5668b227b8214ccb1b84831d5731a3b"/>
+ 				<rom name="Dragon Slayer 6 - The Legend of Heroes (1990)(Falcom)(ja)(Disk 2 of 5)(Scenario 1 Disk)[cr SMA].dsk" size="737280" crc="cf3af8bd" sha1="7b964c6894065ec54c0b905803bde102be1b9590"/>
+ 				<rom name="Dragon Slayer 6 - The Legend of Heroes (1990)(Falcom)(ja)(Disk 3 of 5)(Scenario 2 Disk)[cr SMA].dsk" size="737280" crc="21a5c84f" sha1="d15567063b53a725a54f6c35414ab36cf0c56cf4"/>
+ 				<rom name="Dragon Slayer 6 - The Legend of Heroes (1990)(Falcom)(ja)(Disk 4 of 5)(Scenario 3 Disk)[cr SMA].dsk" size="737280" crc="b3023668" sha1="64a398ed7f6f80e07b9757b9743ddc0dcc8882b6"/>
+				<!-- bad dump? -->
+ 				<rom name="Dragon Slayer 6 - The Legend of Heroes (1990)(Falcom)(ja)(Disk 4 of 5)(Scenario 3 Disk)[a2].dsk" size="737280" crc="078bf8e3" sha1="68066322cb8145a29a9877e97db01433ca32b910"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="83a67437">
+ 		<description>Dragon's Eye Super Shanghai</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+ 				<rom name="Dragon's Eye Super Shanghai (1991)(Hot-B)(English).dsk" size="737280" crc="83a67437" sha1="5dc4e07f800ee613c0226be815b8c0ac0e246575"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="546e011a">
+ 		<description>Dragonworld</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DiskMgr1 -->
+ 				<rom name="Dragon World (1986)(Idealogic)(es)(Disk 1 of 3).dsk" size="737280" crc="546e011a" sha1="1ab5dc3dea856e5e6f0f96a74ac5092e2c0b79a7"/>
+ 				<rom name="Dragon World (1986)(Idealogic)(es)(Disk 2 of 3).dsk" size="737280" crc="8e038348" sha1="b2ba7b2cb642bf9501272fc8ca1fcf494e5b80bb"/>
+ 				<rom name="Dragon World (1986)(Idealogic)(es)(Disk 3 of 3).dsk" size="737280" crc="dd5dbe3d" sha1="30fa30381ebc862201f95fa1baea2fdad34bf675"/>
+				<!-- cracked -->
+ 				<rom name="Dragon World (1986)(Idealogic)(es)(Disk 1 of 3)[cr Jose].dsk" size="737280" crc="04e180ff" sha1="2236d4c0d6f5c5af3d47e724a80d2cdc3a48e7a4"/>
+ 				<rom name="Dragon World (1986)(Idealogic)(es)(Disk 2 of 3)[a].dsk" size="737280" crc="439fc00c" sha1="5a82818034c17d656072e059ead754f711780a91"/>
+ 				<rom name="Dragon World (1986)(Idealogic)(es)(Disk 3 of 3)[a].dsk" size="737280" crc="720b11ab" sha1="a38a2810daac5097ae596517c4f948a72ee6a8bb"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="c4d75046">
+ 		<description>Driver Loader</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- just a bunch of tools and source? -->
+				<rom name="Driver Loader v1.00 (1994)(Erix Maas).dsk" size="737280" crc="c4d75046" sha1="523852ac772466d3c90f0a65ad1b221e5a5ef4ae"/>
+				<rom name="Driver Loader v1.00 (1994)(Erix Maas)[a].dsk" size="737280" crc="9f006d44" sha1="0d8baa72c8dc971d4a01dcfab39e3ba917928768"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="343b0341">
+ 		<description>Druid</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+				<rom name="Druid (1987)(Nippon Dexter)[cr Stop Game].dsk" size="737280" crc="343b0341" sha1="7f3df1112b86baf20de20f0845a3c346ebafdc30"/>
+				<rom name="Druid (1987)(Nippon Dexter)[cr Stop Game][a].dsk" size="737280" crc="fd70838a" sha1="f1c1a02deea3a183f1e0a36dda1e47943b4b6e11"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e5d62a79">
+ 		<description>DuckTales</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- contains extra file -->
+				<rom name="duck tales.dsk" size="737280" crc="e5d62a79" sha1="ce56341e7a0968370e56eb3948061fd9b752c83a"/>
  			</dataarea>
  		</part>
  	</software>
