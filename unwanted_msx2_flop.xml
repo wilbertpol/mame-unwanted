@@ -7,6 +7,41 @@ license:CC0-1.0
 
 	<!-- To Sort -->
 
+	<software name="813d05e6">
+		<description>Beyond - The Gate of Charon (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Beyond - The Gate of Charon (1986)(Short Program Island).dsk" size="737280" crc="813d05e6" sha1="f9e3c3a224086fd7d3694cb6b709457b8ee3a88d" />
+				<rom name="Beyond - The Gate of Charon (1986)(Short Program Island)[a2].dsk" size="737280" crc="731fbd6b" sha1="8262582a5455a49522e455eddefa36763bad836c" />
+				<rom name="Beyond - The Gate of Charon (1986)(Short Program Island)[a].dsk" size="737280" crc="ad717f5d" sha1="88830e803a6cf7a1f0e5893c0de11bcae119df46" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="62377625">
+		<description>Beyond - The Moon of Charon (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Beyond 2 - The Moon of Charon (1986)(Short Program Island).dsk" size="737280" crc="62377625" sha1="9542bd46ae88bad701b79dab8711093d676adf1c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c9b96e16">
+		<description>Blue Rays (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Blue Rays (1990)(MSX Magazine)(jp).dsk" size="737280" crc="c9b96e16" sha1="f8540810b878bf241dce09294fd8e4cc8bda0392" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="cd1c0146">
 		<description>Card - Pairs (unclear who and when)</description>
  		<year>19??</year>
@@ -1121,24 +1156,423 @@ license:CC0-1.0
  		</part>
  	</software>
 
- 	<software name="bublbobl">
- 		<description>Bubble Bobble (Japan, disk conversion)</description>
+ 	<software name="e700b2e2">
+ 		<description>Babel - The New Megablocks</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
- 				<rom name="bubble bobble (1987)(taito)(jp).dsk" size="737280" crc="6258e9ea" sha1="f08e02a62f165614f5dd8108de0f8b58f3b936e2"/>
+				<!-- hacked 50/60Hz selection -->
+				<rom name="Babel - The New Megablocks (1994)(Cabinet).dsk" size="737280" crc="e700b2e2" sha1="01854ee30c6675ea1fb708d3dfa76ce175596d3c"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="bublbobla">
- 		<description>Bubble Bobble (Japan, alt, disk conversion)</description>
+ 	<software name="4667de83">
+ 		<description>Back to the Future</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+				<rom name="Back To The Future - Pony Inc. (1986)(jp)[Fixed].dsk" size="737280" crc="4667de83" sha1="c68847851d67faacec7c954553e8eeeca7d12fb7"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="380d5e62">
+ 		<description>Bad Max</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- other deleted files -->
+				<rom name="Bad Max (19xx)(Transoft)(fr)(Disk 1 of 3).dsk" size="737280" crc="380d5e62" sha1="fcf70b149edb8f9b92714f21d05d3561ea6ab0bc"/>
+				<rom name="Bad Max (19xx)(Transoft)(fr)(Disk 2 of 3).dsk" size="737280" crc="dce74230" sha1="af59ac6670e71308160127aee1e0df939cbbc700"/>
+				<rom name="Bad Max (19xx)(Transoft)(fr)(Disk 3 of 3).dsk" size="737280" crc="36d52efd" sha1="fff1a7eaf0b9ca1e1cc760a23d3185923233be75"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="74dd3be3">
+ 		<description>Balance of Power</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- alt? -->
+				<rom name="Balance Of Power (1988)(Ascii)(JP).dsk" size="737280" crc="74dd3be3" sha1="a99a83d9d78164c0c9fb2b3e4ed60d17c6f84e3d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="72f2f75d">
+ 		<description>Bank Buster</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- extracted from games collection -->
+				<rom name="Bank Buster (1988)(Eurosoft)[needs MSX-DOS].dsk" size="737280" crc="72f2f75d" sha1="345af4dc166f393f739da154401b1bc75b9f7d02"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="ae68aedd">
+ 		<description>Barbarian</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Barbarian (1988)(Ford Perfect).dsk" size="737280" crc="ae68aedd" sha1="ecd12435e2679f3279d39f1f8d552e0295f968d5"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="db9f1ff8">
+ 		<description>Basaro Attacker</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- alt? -->
+				<rom name="Basaro Attacker (1990)(Emutsu No Tomo).dsk" size="737280" crc="db9f1ff8" sha1="e3ee33b373c671ec72cb1e25e278027d1abde731"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="88cff5d7">
+ 		<description>The Bass Demo</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Bass Demo, The (1988)(XelaSoft).dsk" size="737280" crc="88cff5d7" sha1="78bd229043f582ec32ea8c573ad990acbdb219a1"/>
+				<!-- NO$MSX -->
+				<rom name="Bass Demo, The (1988)(XelaSoft)[a].dsk" size="737280" crc="d4f73bc5" sha1="9847d8b7fc8ea20cbceb7b0f6e4ea670cec937a1"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="db501514">
+ 		<description>Bastard</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Bastard (1987)(Xain)[b].dsk" size="737280" crc="db501514" sha1="eb6416a4ae50f96e23f61d9ef3cda771bd1c7914"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="29e07d70">
+ 		<description>Battle Bomber</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Battle Bomber (1996) (BitBoyz).DSK" size="737280" crc="29e07d70" sha1="ed9baa7c20491771440f12630b112ee654c0d569"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b1e35f22">
+ 		<description>Be-Bop Bout</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Be-Bop Bout (1994)(Mar'z Project)[needs MSX-DOS].dsk" size="737280" crc="b1e35f22" sha1="ba43f15e57a5c1374cc6b6104878dd9fe39d739a"/>
+				<!-- bad dump -->
+				<rom name="Be-Bop Bout (1994)(Mar'z Project)[u][b].dsk" size="737280" crc="62141557" sha1="f2cbc383747d989c3fbd661b37c20d3f3be5b012"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="df21aeb6">
+ 		<description>Bedroom Olympics</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+				<rom name="Bedroom Olympics (1987)(Mega Soft)[a].dsk" size="737280" crc="df21aeb6" sha1="c1f56a04a5146545ae376f6f4ed629087ff48fcd"/>
+				<!-- extracted from an archive? -->
+				<rom name="Bedroom Olympics (1987)(Mega Soft)[a2].dsk" size="737280" crc="f397b7eb" sha1="a4fb0c335dbfaff354542e23221824341e0ce84b"/>
+				<!-- hacked? -->
+				<rom name="Bedroom Olympics (1987)(Mega Soft).dsk" size="737280" crc="4c39183f" sha1="34e6360c662f8e3082cdcf74a91ea66ec4732123"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="42f20397">
+ 		<description>Bet Your Life</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- alt? -->
+				<rom name="Bet Your Life (1994)(Hegega)(Disk 1 of 2).dsk" size="737280" crc="42f20397" sha1="fbb8f635cea8be4152c5a0f4f4baeaab3bcaf876"/>
+				<rom name="Bet Your Life (1994)(Hegega)(Disk 2 of 2).dsk" size="737280" crc="f41a99b1" sha1="4df4cb106e736284f20f53eb6175e39ac752b7fd"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="5d6d22b7">
+ 		<description>Bilupani</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start -->
+				<rom name="Bilupani (1990)(N&amp;M Soft).dsk" size="737280" crc="5d6d22b7" sha1="123bec25e9f22d2d3b304daaff7008c27e0c2faf"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e5434795">
+ 		<description>Birdy World</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Birdy World (1992)(Birdy Soft)(ja)(Disk 1 of 3)[b].dsk" size="737280" crc="e5434795" sha1="e53f5d01e7bfa3bf5f7b9ec91365dbba842c0d6d"/>
+				<rom name="Birdy World (1992)(Birdy Soft)(ja)(Disk 3 of 3)[b].dsk" size="737280" crc="68c67cdd" sha1="cea15f5a22eeaced84757d6e92ea2966f5296cd0"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="3d41dd19">
+ 		<description>Bishoujyo Daizukan</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Bishoujyo Daizukan. Girls Library (1992)(Fairytale - Cocktail Soft)(ja)(Disk 1 of 3)[b].dsk" size="737280" crc="3d41dd19" sha1="540bf2d86cd863da4afbd4ff381acc21c8e31a10"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="38cc3641">
+ 		<description>Blade Lords</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+				<rom name="blade lords (1997)(parallax)(nl).dsk" size="737280" crc="38cc3641" sha1="536e7263a6a5b16ff6334fcf05d6e28cc88ffabd"/>
+				<!-- does not start automatically -->
+				<rom name="blade lords (1997)(parallax)(nl)[a].dsk" size="737280" crc="19455c1b" sha1="c0629eb5ae000af783d1e920335bfb9c8ad5a60d"/>
+				<!-- MCCM -->
+				<rom name="blade lords - mccm.dsk" size="737280" crc="42b83efb" sha1="3f37f7238c9c01f0344b60869155c09eab431af0"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="ad55ee01">
+ 		<description>Blaster Burn</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- extracted -->
+				<rom name="Blaster Burn #0.dsk" size="737280" crc="ad55ee01" sha1="033949ed17dd4a24a2c076b74c18f72ad581db1a"/>
+				<rom name="Blaster Burn #1.dsk" size="737280" crc="f9dba98d" sha1="d8e31442febb95b5d6a6539429ec231469a22e87"/>
+				<rom name="Blaster Burn #2.dsk" size="737280" crc="b94f3395" sha1="92da92cb850065a5921d8d0f9b92f4a5a0766e4f"/>
+				<rom name="Blaster Burn #3.dsk" size="737280" crc="29fd99dd" sha1="3e67ff82262816e993aa923e125a43dc11a63ae6"/>
+				<rom name="Blaster Burn #4.dsk" size="737280" crc="1dc07b89" sha1="da878fed36746c39257342b21d0a9686f0c4672e"/>
+				<rom name="Blaster Burn #5.dsk" size="737280" crc="c428705a" sha1="423313eb81144e832568b144ff6a58891757cbb6"/>
+				<rom name="Blaster Burn #6.dsk" size="737280" crc="dad9a506" sha1="c9e256c35b5a26e4f3019e2ff857f74de660a57c"/>
+				<rom name="Blaster Burn #7.dsk" size="737280" crc="994f9599" sha1="0e56783a4421c6b85e94e2d4f45c5a55cfd6dfbe"/>
+				<rom name="Blaster Burn #8.dsk" size="737280" crc="8751989b" sha1="40cc8dce5e5ea3c8d25ab87c42dc28c52b5ba594"/>
+				<rom name="Blaster Burn Preview.dsk" size="737280" crc="6e5702ae" sha1="8ae3bf6177d7db6e6b1d7ad7215c13037d643329"/>
+				<rom name="Blaster Burn Score Trial.dsk" size="737280" crc="6e0eb64a" sha1="c74819beb3c3b054a425f06190799c285e95b53d"/>
+				<rom name="Blaster Burn Sound Gallery #1.dsk" size="737280" crc="844d44d6" sha1="b9919d3fe23b1319935f966bba3a80f0020c3672"/>
+				<rom name="Blaster Burn Sound Gallery #2.dsk" size="737280" crc="338c1b0c" sha1="119c2de1e8820783895591645eb9dfbcb3947635"/>
+				<rom name="Blaster Burn User Disk.dsk" size="737280" crc="49943507" sha1="9b4eeb5c8967bf84f6c7e11be6aa0c8835b6cf66"/>
+				<rom name="Randar Burn.dsk" size="737280" crc="d742c786" sha1="6d55696a538475c36d8b806389d15fbba7327c51"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="56c6d894">
+ 		<description>Blokslag</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start in single player -->
+				<rom name="Blokslag (1995)(MCWF).DSK" size="368640" crc="56c6d894" sha1="c3ee4be9b85579a9ee2ae4f2e9bfa628f2192943"/>
+				<rom name="Blokslag (1995)(MCWF)[a].DSK" size="368640" crc="fdabce0a" sha1="4a8350fc583756cd8c7409dc8cf63920299b4944"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="c9011d2f">
+ 		<description>Bomber Man 2</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DiskMgr1 -->
+				<rom name="Bomber Man 2 Demo (1997)(Paragon Productions).dsk" size="737280" crc="c9011d2f" sha1="3d0ed4962b67bd78c5c8d1fd2e2d02657b98484a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="a515c973">
+ 		<description>Bon Ball</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+				<rom name="Bon Ball (1991)(Kam's Soft)[a].dsk" size="737280" crc="a515c973" sha1="cddcf7ef67ed3e5426dd73db9d36a8309f3e40ae"/>
+				<!-- DiskMgr1 -->
+				<rom name="Bon Ball (1991)(Kam's Soft)[a2].dsk" size="737280" crc="c3c669d7" sha1="8b240822d1992d8b127728f0aa9add7abdb952b3"/>
+				<!-- FILE_ID.DIZ -->
+				<rom name="Bon Ball (1991)(Kam's Soft)[a3].dsk" size="737280" crc="c25a9c19" sha1="79f6da754d4dad85b5ecf1cc44755f29d7ed41bb"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="890f0df1">
+ 		<description>The Boss</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- timestamps indicate extraction from an archive? -->
+				<rom name="Boss, The v1.2 (19xx)(Martos)[SCC].dsk" size="737280" crc="890f0df1" sha1="29b6739cef304eecf9a465addfe9524c4fe3b4cd"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="bouncemn">
+		<description>Bounce Mania</description>
+		<year>2004</year>
+		<publisher>Darkstone</publisher>
+		<!-- Is YELLOW the only password? -->
+		<info name="usage" value="Enter YELLOW for password."/>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<!-- DiskMgr1 -->
+				<rom name="bounce mania - darkstone.dsk" size="737280" crc="fcd1e26d" sha1="445d7e92fc4a6998e7e735f3031e244f3ccdfa13"/>
+			</dataarea>
+		</part>
+	</software>
+
+ 	<software name="f9a3e158">
+ 		<description>Brazil in Worldcup</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start -->
+				<rom name="Brazil In Worldcup (1991)(Kozo Tsuchinaga).dsk" size="737280" crc="f9a3e158" sha1="92f05db61ea713049705652cb1ed00ac5e11df82"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="1cc0fb1c">
+ 		<description>Breaker</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- trained -->
+				<rom name="Breaker (1987)(Philips)[t].dsk" size="737280" crc="1cc0fb1c" sha1="cce7eea1a9da21d42f0075cda7bb5c20f55b5d9c"/>
+				<!-- hacked -->
+				<rom name="Breaker (1989)(Jast)(ja)(clean)(Disk 1 of 2).dsk" size="737280" crc="b47e77ee" sha1="6f1ed75ec490a46fa3dd2a570bdd7376165071a2"/>
+				<rom name="Breaker[File-Hunter.com].dsk" size="737280" crc="01933499" sha1="3efbc99498058eaf9e3fc53074eb4cd53e044bb1"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="9dc7e951">
+ 		<description>Brick Breaker Santa Demo</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+				<rom name="brick breaker santa demo - ebsoft.dsk" size="737280" crc="9dc7e951" sha1="91996a828932d76d943c70eef8b0ac31ae04b2c0"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="39165ba5">
+ 		<description>Brisk</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+ 				<rom name="Brisk (1994)(Triple Soft)(en).dsk" size="737280" crc="39165ba5" sha1="fd3fcb18d8bed2892ffebaab6432f8523e989c80"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="bublbobl">
+ 		<description>Bubble Bobble</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+ 				<rom name="bubble bobble (1987)(taito)(jp).dsk" size="737280" crc="6258e9ea" sha1="f08e02a62f165614f5dd8108de0f8b58f3b936e2"/>
  				<rom name="bubble bobble (1987)(taito)(jp)[a].dsk" size="737280" crc="20500e46" sha1="77f50229ff6200b6a44a85dc058ef9fccc198282"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="5c82b312">
+ 		<description>Bubbles</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- extracted from MCCM Disk Subscription 60 -->
+ 				<rom name="Bubbles (1989)(MGF).dsk" size="737280" crc="5c82b312" sha1="308d3cfdd7dab63d63d7b34c829c9f43209baa5d"/>
+ 				<rom name="Bubbles (1989)(MGF)[a].dsk" size="737280" crc="e783ec9f" sha1="9e5c1a4e559ac99b173d52d1e8169cf6870fe447"/>
+ 				<rom name="Bubbles (1989)(MGF)[a2].dsk" size="737280" crc="874ff9b0" sha1="3accfab7a9bb4354c1578a68c4b2eecc5a7d4382"/>
+ 				<rom name="Bubbles (1989)(MGF)[a3].dsk" size="737280" crc="34fb880a" sha1="211ccd66d2bd83bae66c30f3686fcfdd879ddbc6"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="8ed07bfd">
+ 		<description>Burai II</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+ 				<rom name="Burai II (1992)(Brother Industries)(ja)(Disk 1 of 9)[b].dsk" size="737280" crc="8ed07bfd" sha1="497ed9d6b415886ea4dead39f5705fd6cbab1913"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="737e9010">
+ 		<description>Butaporc</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="Butaporc (1990)(T&amp;E Soft).dsk" size="737280" crc="737e9010" sha1="05d577c1885b55ece08dae4cbdbefb28c050f6af"/>
+				<!-- DiskMgr1 -->
+ 				<rom name="Butaporc (1990)(T&amp;E Soft)[a].dsk" size="737280" crc="bcdd9314" sha1="a317e446ad58c5f8d492b6ee65dc31abe7c6dfc6"/>
+				<!-- does not start automatically -->
+ 				<rom name="Butaporc (1990)(T&amp;E Soft)[a2].dsk" size="737280" crc="2236be9f" sha1="88ebb42c0c22795063be46ab3b26e403bc3a44c9"/>
+ 				<rom name="Bubble Utilize (1992)(Pastel Hope).dsk " size="737280" crc="ff821a9e" sha1="044d95fcad731b5f9218dc257df93e915b70b963"/>
  			</dataarea>
  		</part>
  	</software>
