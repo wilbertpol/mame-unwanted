@@ -7,6 +7,39 @@ license:CC0-1.0
 
 	<!-- To Sort -->
 
+	<software name="4c0c5a65">
+		<description>Adventurer (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Adventurer (19xx)(-)[b].dsk" size="737280" crc="4c0c5a65" sha1="be0d531dd1f7f3271bd75474fe8d6c8446e63ccc" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ea228a08">
+		<description>AEG File Utility (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="AEG File Utility v0.84 (1991)(--).dsk" size="737280" crc="ea228a08" sha1="ca5d7bcee1bae4068b2175dfd43150f052ef40d9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d512fce4">
+		<description>Anoid (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Anoid (19xx)(-).dsk" size="737280" crc="d512fce4" sha1="ee34b329d0a1fac45a74b6b311f47fd480cb01a8" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="813d05e6">
 		<description>Beyond - The Gate of Charon (unclear who and when)</description>
  		<year>19??</year>
@@ -804,24 +837,71 @@ license:CC0-1.0
 
 	<!-- Hacks, Cracks, Translations, etc -->
 
-	<software name="1942">
- 		<description>1942 (Japan, disk conversion)</description>
+ 	<software name="41fcd730">
+ 		<description>11:48 PM</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
- 				<rom name="1942 (1986)(ascii)(jp).dsk" size="737280" crc="b6b173f3" sha1="bdd129c76aa051cf3484119063935f80a30a3443"/>
+				<!-- hacked -->
+ 				<rom name="1148PM Version 4 (1992)(Fantasy Creators)(jp)[TFH Fixed].dsk" size="737280" crc="41fcd730" sha1="b75b4ed9a3efe1a689a018e225595c0328a52091"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="1942a">
- 		<description>1942 (Japan, alt, disk conversion)</description>
+ 	<software name="df3bc300">
+ 		<description>1789 - La Revolution</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- alt? left over bits of asm -->
+ 				<rom name="1789 - La Revolution (19xx)(Legend Software)(fr)(Disk 1 of 3)(Game Disk)[a2].dsk" size="737280" crc="24e3284e" sha1="f04dca08f40970bdc21744d3b1f7add89c94f73a"/>
+				<!-- 2dd -->
+ 				<rom name="1789 - La Revolution (19xx)(Legend Software)(fr)(Disk 1 of 3)(Game Disk).dsk" size="737280" crc="df3bc300" sha1="8cfec8ae525a421879c71f0c235c48b7c64ccafd"/>
+ 				<rom name="1789 - La Revolution (19xx)(Legend Software)(fr)(Disk 2 of 3)(Images 1 Disk).dsk" size="737280" crc="cf3de0ec" sha1="23ea15bb3b10d33851f512ad6256f3da53c179de"/>
+ 				<rom name="1789 - La Revolution (19xx)(Legend Software)(fr)(Disk 2 of 3)(Images 1 Disk)[a2].dsk" size="737280" crc="1c6122fb" sha1="8429cb66bee41ebb59f0593ed91efba9b126bf14"/>
+ 				<rom name="1789 - La Revolution (19xx)(Legend Software)(fr)(Disk 3 of 3)(Images 2 Disk).dsk" size="737280" crc="7448a35d" sha1="3bbd4b58fa8172c3ed18dc227a0c02e83c02fa5a"/>
+ 				<rom name="1789 - La Revolution (19xx)(Legend Software)(fr)(Disk 3 of 3)(Images 2 Disk)[a2].dsk" size="737280" crc="a04f285c" sha1="b1d8909105e3b6c0532b60265b5ea5f9ee2b90b3"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+	<software name="1942">
+ 		<description>1942</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+ 				<rom name="1942 (1986)(ascii)(jp).dsk" size="737280" crc="b6b173f3" sha1="bdd129c76aa051cf3484119063935f80a30a3443"/>
  				<rom name="1942 (1986)(ascii)(jp)[a].dsk" size="737280" crc="ebe26f66" sha1="3058757744f393db865f11e105f6e85bef97ac33"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="58ccc3c1">
+ 		<description>3D Fire</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+ 				<rom name="3D Fire (1987)(Octopus Bros).dsk" size="737280" crc="58ccc3c1" sha1="ffbdfec1c25991fab221c30c645556c90d03e483"/>
+				<!-- DSKTOOL -->
+ 				<rom name="3D Fire (1987)(Octopus Bros)[a].dsk" size="737280" crc="dd6710a9" sha1="69764bfc45c09a2e3d57eb5784edb91a3c997f70"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="3960356c">
+ 		<description>Abunai</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- error during gameplay -->
+ 				<rom name="Abunai (19xx)(Agorm).dsk" size="737280" crc="3960356c" sha1="5148cbf6f76f5e699a9dea1300e93ed86adc24cf"/>
  			</dataarea>
  		</part>
  	</software>
@@ -844,127 +924,343 @@ license:CC0-1.0
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
 				<rom name="perfect triangle - msx magazine.dsk" size="737280" crc="f83ff971" sha1="d37b0d60608c3527d1e693b34b3401a46ac34a02"/>
+				<!-- formatted on other system?/touched by windows? -->
+				<rom name="Adventure Tcool v1.00 (1988)(MSX Magazine)[a].dsk" size="737280" crc="eff8921a" sha1="3e5870df5512bcdaf4583a50831ba832206c98de"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e0c18f6e">
+ 		<description>Aerobic</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+				<rom name="Aerobic (1986)(Philips)(es)[cr Joan Angel].dsk" size="737280" crc="e0c18f6e" sha1="e488f8fdea095a42389dd57b434c009d943dd08a"/>
+				<rom name="Aerobic (1986)(Philips)(es)[cr Joan Angel][a].dsk" size="737280" crc="81ffdff0" sha1="3657faa17f2e43f84aa2028d58097f62adffa1b5"/>
+				<rom name="Aerobic (1986)(Philips)(es)[cr Joan Angel][a2].dsk" size="737280" crc="a0d8ed6c" sha1="c69e3178eb665f9b655a09db32bd05d575972f3a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="a4a08655">
+ 		<description>L'Affaire</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+				<rom name="Affaire, L' (1986)(Infogrames)(es)[needs MSX-DOS].dsk" size="737280" crc="979ee2c8" sha1="fee79ca5e90f0f343f1540bc2e6438042fce646c"/>
+				<rom name="Affaire, L' + Les Passagers du Vent (1986)(Loriciels)(nl)[cr Star Frontiers].dsk" size="737280" crc="a4a08655" sha1="498fc7a4de8741e3c71ac1bd3e82e645fd984dc5"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="ebc6afa6">
+ 		<description>Aguni no Ishi</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Aguni no Ishi. The Stone of Aguni (1989)(Humming Bird Soft)(ja)[b].dsk" size="737280" crc="ebc6afa6" sha1="803a96d5d4aabdfd0aa202dacdd42237c576a913"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="6f4e000a">
+ 		<description>Akin</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- 1 byte different, hacked? -->
+ 				<rom name="Akin (1995)(Parallax)(Disk 1 of 2).dsk" size="737280" crc="6f4e000a" sha1="fac5d8b94300bb04f503076c9f1a3a7575c2eac9"/>
+ 				<rom name="Akin (1995)(Parallax)(Disk 1 of 2)[a].dsk" size="737280" crc="97990f98" sha1="c56a482e8793392747a6df2c33a35d9cd555dad0"/>
+				<!-- hacked -->
+ 				<rom name="Akin (1995)(Parallax)(Disk 2 of 2)[a].dsk" size="737280" crc="b7d0c176" sha1="76ff0eec55f17c6afbeee8d3229759a71cd333c5"/>
+				<!-- does not start automatically -->
+ 				<rom name="Akin 2nd Edition (Parallax) (1999)(Disk 1 of 2)[a].dsk" size="737280" crc="8364bfbb" sha1="707cad1e6477d2be2d9637145b0be04194bc2538"/>
+				<!-- 2nd release? -->
+ 				<rom name="Akin 2nd Edition (Parallax) (1999)(Disk 1 of 2).dsk" size="737280" crc="8bb390fd" sha1="f5b28a1334cc304149387fb3a76fdcd2ddacb74a"/>
+ 				<rom name="Akin 2nd Edition (Parallax) (1999)(Disk 2 of 2).dsk" size="737280" crc="8dbf30fd" sha1="fc99582cb089cb7623b5e561d0e58cfe8bd30563"/>
  			</dataarea>
  		</part>
  	</software>
 
  	<software name="vampkill">
- 		<description>Akumajou Dracula (Japan, disk conversion)</description>
+ 		<description>Akumajou Dracula</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="akumajyo drakyula. vampire killer (1986)(konami)(jp).dsk" size="737280" crc="757b64d3" sha1="23635c7f08c0ea436f3e2602217cd372b77e91d6"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="vampkilla">
- 		<description>Akumajou Dracula (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="akumajyo drakyula. vampire killer (1986)(konami)(jp)[a].dsk" size="737280" crc="e0b9af76" sha1="fb8be8fac9c1813afec1fa81bfe3edeb47a3d725"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="vampkillb">
- 		<description>Akumajou Dracula (Japan, alt 2, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="akumajyo drakyula. vampire killer (1986)(konami)(jp)[a2].dsk" size="737280" crc="f368ca2a" sha1="8c02d728fada6659aac60aa51dc39f5f3a4e17e8"/>
  			</dataarea>
  		</part>
  	</software>
 
  	<software name="aleste">
- 		<description>Aleste (Japan, disk conversion)</description>
+ 		<description>Aleste</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="368640">
+				<!-- crt2dsk conversion -->
  				<rom name="aleste (1988)(compile)(jp).dsk" size="368640" crc="73aed1b4" sha1="655989b36f291d7ad2e8a1bb7711ec32287363c8"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="alestea">
- 		<description>Aleste (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="aleste (1988)(compile)(jp)[a].dsk" size="737280" crc="198067bc" sha1="0cbb87fe43047f78502a7a8906a2f57e00f4288e"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="alesteb">
- 		<description>Aleste (Japan, alt 2, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="aleste (1988)(compile)(jp)[a2].dsk" size="737280" crc="9f8509c5" sha1="6c674a89c84fbf17a2b3d1761d5297ea1fca1510"/>
  			</dataarea>
  		</part>
  	</software>
 
+ 	<software name="027d1c38">
+ 		<description>Aleste 2</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- empty space different -->
+ 				<rom name="Aleste 2 (1989)(Compile)(ja)(Disk 1 of 3)[a3].dsk" size="737280" crc="027d1c38" sha1="6b1c79da36a2df49cb6204b82ac370cd48b436c8"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="32307564">
+ 		<description>Aleste Gaiden</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- extracted from disk station special 4 -->
+ 				<rom name="Aleste Gaiden (1989)(Compile)(ja).dsk" size="737280" crc="32307564" sha1="d8150e889b32275e7dd2b0e42d2a2769c6e57053"/>
+ 				<rom name="Aleste Gaiden (1989)(Compile)(ja)[a].dsk" size="737280" crc="bb3f8cc4" sha1="83d27283a9b52ce0bf134d63bf9dc76c56af6109"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="f92fc973">
+ 		<description>Alice Soft Demo</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+ 				<rom name="Alice Soft Demo (1989)(Alice Soft)(ja)(Disk 1 of 2).dsk" size="737280" crc="f92fc973" sha1="dc002ca6fa7b491dbf46a2e8d91208e0c3bcd32d"/>
+ 				<rom name="Alice Soft Demo (1989)(Alice Soft)(ja)(Disk 1 of 2)[a].dsk" size="737280" crc="1a3b5130" sha1="215263e18ce2b1b8b87f03307ee019d08a3f4ef7"/>
+ 				<rom name="Alice Soft Demo (1989)(Alice Soft)(ja)(Disk 2 of 2).dsk" size="737280" crc="1b85aaec" sha1="2598cabf2ca8544a06f6c7e7fc872f1f282b1e16"/>
+ 				<rom name="Alice Soft Demo (1989)(Alice Soft)(ja)(Disk 2 of 2)[a].dsk" size="737280" crc="280ed362" sha1="9805e91967b6295d38215b61a06f461c811cee73"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="43888df2">
+ 		<description>Amazonas</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump, should be single sided -->
+ 				<rom name="Amazonas (1987)(Idealogic)(es)(Disk 1 of 3).dsk" size="737280" crc="43888df2" sha1="1e9e4aad61772309c8762d07d6075703c7f34a16"/>
+ 				<rom name="Amazonas (1987)(Idealogic)(es)(Disk 1 of 3)[a].dsk" size="737280" crc="4ad38b46" sha1="aa1a2efc5daf121ee2768ac6326d5061cd49f1eb"/>
+ 				<rom name="Amazonas (1987)(Idealogic)(es)(Disk 2 of 3).dsk" size="737280" crc="5fb0301d" sha1="8e29bd891cb6d4588b6b04feb30bf1d966922056"/>
+ 				<rom name="Amazonas (1987)(Idealogic)(es)(Disk 2 of 3)[a].dsk" size="737280" crc="9de24c16" sha1="211c6ef5c4985df0d6e62a07faabd4b556221afa"/>
+ 				<rom name="Amazonas (1987)(Idealogic)(es)(Disk 3 of 3).dsk" size="737280" crc="9d81b22a" sha1="08fff5e3be3115c03fb9d0159d1cfc0bd4ed5dd0"/>
+ 				<rom name="Amazonas (1987)(Idealogic)(es)(Disk 3 of 3)[a].dsk" size="737280" crc="f760a431" sha1="85b8c0ca49f7a0e54b911dab53fdbf002ba7644c"/>
+				<!-- hacked -->
+ 				<rom name="Amazonas (1987)(Idealogic)(es)(Disk 1 of 3)[cr Joan Angel].dsk" size="737280" crc="567ff798" sha1="9aa11bd9965c66232c53ee565fceba5b09848f70"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="amesoccr">
- 		<description>American Soccer (Japan, disk conversion)</description>
+ 		<description>American Soccer</description>
  		<year>19??</year>
  		<publisher>&lt;cart2disk hack&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
  				<rom name="american soccer (1987)(nidecom)(jp).dsk" size="737280" crc="40337ec5" sha1="588fcb55776c803bd64a027a4aee397efec91849"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="amesoccra">
- 		<description>American Soccer (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="american soccer (1987)(nidecom)(jp)[a].dsk" size="737280" crc="2af47f73" sha1="a936aa878376b31a740746d0f615793c0db8ad3f"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="androgyn">
- 		<description>Han Seimei Senki Androgynus (Japan, disk conversion)</description>
+ 	<software name="ca040972">
+ 		<description>American Success</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="368640">
- 				<rom name="andorogynus (1988)(telenet japan)(jp).dsk" size="368640" crc="ce92d6f0" sha1="397042c4a5c04ae7ec30e9e48e6de729958493fa"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="androgyna">
- 		<description>Han Seimei Senki Androgynus (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="368640">
- 				<rom name="andorogynus (1988)(telenet japan)(jp)[a].dsk" size="368640" crc="a5dc1e88" sha1="9a660288089fd1f7c570a6ddf7d936809c34debc"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="androgynb">
- 		<description>Han Seimei Senki Androgynus (Japan, alt 2, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+ 				<rom name="American Success (1989)(Winky Soft)(ja)(Disk 1 of 2)(Game Disk)[b].dsk" size="737280" crc="ca040972" sha1="dbda9e5278b0646a9a85e7ac40a0782c5714c7d0"/>
+				<!-- translated -->
+ 				<rom name="American Success (Disk 1) [T-En by Django].dsk" size="737280" crc="ff6fb346" sha1="aae25ad81f80f2ddf5380c3a65c396745c14a97d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="809c4aa2">
+ 		<description>An Uncle in Brazil</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- fMSXdisk -->
+ 				<rom name="An Uncle in Brazil (1995)(Abyss).dsk" size="737280" crc="809c4aa2" sha1="f50c6961dd819eeb1ae81019e9d981544e9e60d3"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b5659ba3">
+ 		<description>Anatomie de l'homme</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="Anatomie de l'Homme (1987)(Forum Micros)(es).dsk" size="737280" crc="b5659ba3" sha1="1e42aff8700396d3d893c05f00d76116d9f9977b"/>
+				<!-- does not start automatically -->
+ 				<rom name="Anatomie de l'Homme (1987)(Forum Micros)(es)[a].dsk" size="737280" crc="243b2fad" sha1="bc1e1541c1add84f947f8f5149bd361c53427b0f"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="5684d3c9">
+ 		<description>Ancient Ys Vanished II</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated Dutch -->
+ 				<rom name="Ancient Ys Vanished II - The Final Chapter (1988)(Falcom)(nl)(Disk 1 of 2)(Game Disk)(SCC).DSK" size="737280" crc="5684d3c9" sha1="0e1027c943f2d725362ad91624270c6ebb26e3f3"/>
+ 				<rom name="Ancient Ys Vanished II - The Final Chapter (1988)(Falcom)(nl)(Disk 2 of 2)(Data Disk)(SCC).DSK" size="737280" crc="59c3ca00" sha1="9a3b33f55f9c48eee68db945060b19511179b3d7"/>
+ 				<rom name="Ancient Ys Vanished II - The Final Chapter (1988)(Falcom)(nl)(Disk 1 of 2)(Game Disk).DSK" size="737280" crc="7dc041ad" sha1="c46ac43357f400e0d49f8489dddd1494233d3a54"/>
+ 				<rom name="Ancient Ys Vanished II - The Final Chapter (1988)(Falcom)(nl)(Disk 2 of 2)(Data Disk).DSK" size="737280" crc="3b69c236" sha1="8b72a04332716bd5a98ab8a866b2068bee0dac13"/>
+				<!-- translated English -->
+ 				<rom name="Ancient Ys Vanished II - The Final Chapter (1988)(Falcom)(Disk 1 of 2)(Game Disk).dsk" size="737280" crc="a28f0d9e" sha1="cc099603229873011c7eb5729ee0c6c70f5a6f81"/>
+ 				<rom name="Ancient Ys Vanished II - The Final Chapter (1988)(Falcom)(Disk 2 of 2)(Data Disk).dsk" size="737280" crc="ef22c2a8" sha1="ef7e5811ee615d3cbfc685b6d61d607b9a0f486d"/>
+				<!-- translated Spanish -->
+ 				<rom name="Ancient Ys Vanished II - The Final Chapter (1988)(Falcom)(Disk 1 of 2)(Game Disk)[tr es Manuel Pazos].dsk" size="737280" crc="6b18c47a" sha1="71841f8396d6df8d713c3d9caf371a296920cc1a"/>
+ 				<rom name="Ancient Ys Vanished II - The Final Chapter (1988)(Falcom)(Disk 2 of 2)(Data Disk)[tr es Manuel Pazos].dsk" size="737280" crc="859b8b57" sha1="99bd6701f2867628facf517b0cf7f32c872ea092"/>
+				<!-- user data -->
+ 				<rom name="Ancient Ys Vanished II - The Final Chapter (1988)(Falcom)(User Disk).dsk" size="737280" crc="e9b5ac25" sha1="d272094497cec518d0d9dfa6c14b260edf25f209"/>
+				<!-- bad dump -->
+ 				<rom name="Ancient Ys Vanished II - The Final Chapter (1988)(Falcom)(ja)(Disk 1 of 2)(Game Disk)[b].dsk" size="737280" crc="dbe00fa5" sha1="02b1c9386d811ca899e3233871f6b86192e5ad52"/>
+ 				<rom name="Ancient Ys Vanished II - The Final Chapter (1988)(Falcom)(ja)(Disk 2 of 2)(Data Disk)[b].dsk" size="737280" crc="16733730" sha1="d89fe07530933bc69d263be0968ce4a7873d9626"/>
+				<!-- hacked? -->
+ 				<rom name="Ancient Ys Vanished II - The Final Chapter (1988)(Falcom)(ja)(Disk 2 of 2)(Data Disk)[a3].dsk" size="737280" crc="9cb7c022" sha1="a58c1261f3f0719b2751ff352c490b09d2568485"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="d639d526">
+ 		<description>Ancient Ys Vanished III</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- empty space different -->
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 1 of 5)(Game Disk).dsk" size="737280" crc="9c6e61a8" sha1="f7b5aa0db294f6194a93e7db7e54e94721571b00"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 2 of 5)(Data Disk 1).dsk" size="737280" crc="cffb1c38" sha1="639b3a95d98a389b3986d4bd59afaf9171dbc64a"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 3 of 5)(Data Disk 2).dsk" size="737280" crc="8dceb3d2" sha1="55c64d109f5fa479b0a7145102aa197906fbace1"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 4 of 5)(Data Disk 3).dsk" size="737280" crc="e8484fd8" sha1="7e4ceffd3777a90c4e2b5a89d6d3300ae543afaf"/>
+				<!-- hacked? -->
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 3 of 5)(Data Disk 2)[a3].dsk" size="737280" crc="95988b6c" sha1="7b690d0a7689b1ffb00c7731925392ed7a8f403a"/>
+				<!-- translated English -->
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 1 of 5)(Game Disk)[a].dsk" size="737280" crc="b61ea938" sha1="4b840f5bff7dfd42144b5a34d59a410999f953be"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 1 of 5)(Game Disk)[a2].dsk" size="737280" crc="e6cf55ff" sha1="57a9a9f4f03fe6f8d443fc18170a67ee211e0ae6"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 2 of 5)(Data Disk 1)[a].dsk" size="737280" crc="c8660cac" sha1="88b37c66c792938c03b25ba5c2039e29ef23aeda"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 2 of 5)(Data Disk 1)[a2].dsk" size="737280" crc="43bb2642" sha1="f1d6967f4c5b404f5fcdb40ad4f663fdfdc58382"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 3 of 5)(Data Disk 2)[a].dsk" size="737280" crc="bff9e92e" sha1="f9dea2185c54c10e11cc22189c624570bb19a99a"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 3 of 5)(Data Disk 2)[a2].dsk" size="737280" crc="9597f741" sha1="a639f5c6d05a4204e71a4a3437744ae79ee56e75"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 4 of 5)(Data Disk 3)[a].dsk" size="737280" crc="23b61a43" sha1="a2d05b65a5298c75bd57d4456e188085dc4518fc"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 4 of 5)(Data Disk 3)[a2].dsk" size="737280" crc="3e5f3d9b" sha1="75893e8cafe5d6a386c0864d97930304b05f72a9"/>
+				<!-- translated Spanish -->
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 1 of 5)(Game Disk)[tr es Victor Martinez].dsk" size="737280" crc="43c2efc5" sha1="6efdbec948473f1f3e85038e1a4593cd93ec47fc"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 2 of 5)(Data Disk 1)[tr es Victor Martinez].dsk" size="737280" crc="51e09bc2" sha1="d7e048d79579a752860aac3e0134260d6ee7c117"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 3 of 5)(Data Disk 2)[tr es Victor Martinez].dsk" size="737280" crc="97643498" sha1="270389c1fa977beff33e82117b63134cea4875bb"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 4 of 5)(Data Disk 3)[tr es Victor Martinez].dsk" size="737280" crc="5d38b25b" sha1="8507650840a6bd9b530b67d2d0f5412354e1af1c"/>
+				<!-- save data -->
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(ja)(Disk 5 of 5)(User Disk)[a2].dsk" size="737280" crc="d639d526" sha1="900266897d8e5537ee5e9bddf3bb08eaacebbdaf"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 5 of 5)(User Disk)[a].dsk" size="737280" crc="5a01a3a3" sha1="a7ae6a14a4d58e6ae4c5b9ce14b8a2599a28f90c"/>
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 5 of 5)(User Disk).dsk" size="737280" crc="81303a96" sha1="0040e4397ee10d7085e4842b5fed95c6e078bcc3"/>
+ 				<rom name="Ys III User Disk (Easy).dsk" size="737280" crc="95f75435" sha1="2f84537ba6d77ecfd7d0f21aed8feeb1f6599ac5"/>
+ 				<rom name="Ys III User Disk (Hard).dsk" size="737280" crc="e71f1d13" sha1="22e8256d6f911c2cb848aa20e907659e0b7b9b90"/>
+ 				<rom name="Ys III User Disk (Normal).dsk" size="737280" crc="109362a0" sha1="a1947ca0541fc0548c2cf418a74cd9d9b558462b"/>
+				<!-- bad dump -->
+ 				<rom name="Ancient Ys Vanished III - Wanderers from Ys (1989)(Falcom)(Disk 1 of 5)(Game Disk)[b].dsk" size="737280" crc="f3578a3a" sha1="c5ae939e2ad8ab0b07cbc6ce6b9f10b2f6cb9e61"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="androgyn">
+ 		<description>Han Seimei Senki Androgynus</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+ 				<rom name="andorogynus (1988)(telenet japan)(jp).dsk" size="368640" crc="ce92d6f0" sha1="397042c4a5c04ae7ec30e9e48e6de729958493fa"/>
+ 				<rom name="andorogynus (1988)(telenet japan)(jp)[a].dsk" size="368640" crc="a5dc1e88" sha1="9a660288089fd1f7c570a6ddf7d936809c34debc"/>
  				<rom name="andorogynus (1988)(telenet japan)(jp)[a2].dsk" size="737280" crc="c743451b" sha1="45d1f54dfa07d2642047972b972d7bbd831ef28a"/>
+ 				<rom name="Andorogynus (1988)(Telenet Japan)(ja)[t Martos].dsk" size="737280" crc="66f42c55" sha1="32d90309b020d0fb3f1b64fb5991c2816008c5dc"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b6349dec">
+ 		<description>Angelus</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Angelus (1988)(Enix)(ja)(Disk 1 of 3)[b].dsk" size="737280" crc="b6349dec" sha1="bc1ef9058de9475d5d6ff99f49c9088d2ec6e5ab"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="dc5269dd">
+ 		<description>Anger</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- unclear when or whether released -->
+				<rom name="Anger (19xx)(Marx).dsk" size="737280" crc="f6599f1d" sha1="be0bafaaf4b523a1793db5038ceea7df6cd5c90d"/>
+				<rom name="Anger (19xx)(Marx)[a].dsk" size="737280" crc="dc5269dd" sha1="3b44ec7f62191dff282286808d28ea4ef2433e5c"/>
+				<!-- hacked -->
+				<rom name="Anger (19xx)(Marx)[a2].dsk" size="737280" crc="4cbfe100" sha1="d775724917bfc93b328130188989ad39f10e5d8a"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="01c758b4">
+ 		<description>Ankoku Shinwa</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Ankoku Shinwa - Yamato Takeru Densetsu. Dark Myth Climax Takeru Legend (1988)(Tokyo Shoseki)(ja)[b].dsk" size="737280" crc="01c758b4" sha1="5da16a569e32c58aa23c634eca287da313b7dcbe"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="24adce12">
+ 		<description>ARC</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+				<rom name="ARC - Parallax (1990)(Disk 1 of 2)[Cracked by Manual Pazos].dsk" size="737280" crc="24adce12" sha1="c31844dd842876c848935d1ce6ba56850007d1c8"/>
+				<rom name="ARC - Parallax (1990)(Disk 2 of 2)[Cracked by Manual Pazos].dsk" size="737280" crc="7e8e311e" sha1="55383be6e597cbbb02318f9ef6a186437eb41fb0"/>
+				<!-- save data? -->
+				<rom name="ARC - Parallax (1990)(Disk 1 of 2)[Uncracked][a].dsk" size="737280" crc="4aec8edf" sha1="c297284bba8c91ca13af835d86bd244c08bd8817"/>
  			</dataarea>
  		</part>
  	</software>
@@ -980,112 +1276,75 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="545a288c">
+ 		<description>Arcus</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- save data? -->
+				<rom name="Arcus (1988)(Wolfteam)(ja)(Disk 2 of 3)[a3].dsk" size="737280" crc="545a288c" sha1="5e74c169dd28aaa2fe804802b9fc1d9af17e79dd"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="20444007">
+ 		<description>Arcus 2</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Arcus II - Silent Symphony (1989)(Wolfteam)(ja)(Disk 1 of 4)[b].dsk" size="737280" crc="0000377b" sha1="edaf963b25da9ba3ed98e6085eb11f9fe5adde69"/>
+				<!-- save data? -->
+				<rom name="Arcus II - Silent Symphony (1989)(Wolfteam)(ja)(Disk 2 of 4)[a2].dsk" size="737280" crc="20444007" sha1="e7d606e2db84c3fd2563c10da22f738f5ea292a8"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="7957c159">
+ 		<description>Arguis no Tsubasa</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Arguis no Tsubasa (1988)(Kogado)(ja)[b].dsk" size="737280" crc="7957c159" sha1="54975e1f775a6e419c1ca4f1a964263f55ee0c3c"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="arknoid2">
- 		<description>Arkanoid II - Revenge of Doh (Japan, disk conversion)</description>
+ 		<description>Arkanoid II - Revenge of Doh</description>
  		<year>19??</year>
  		<publisher>&lt;cart2disk hack&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="arkanoid ii - revenge of doh (1987)(nidecom)(jp).dsk" size="737280" crc="5a09575a" sha1="f52665fcf1af9e421fbeefdcc8a510fbec15ee53"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="arknoid2a">
- 		<description>Arkanoid II - Revenge of Doh (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="arkanoid ii - revenge of doh (1987)(nidecom)(jp)[a].dsk" size="737280" crc="07f83ab3" sha1="428d37407038f2f6889e7afdaaa2c875c95be8b5"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="arknoid2b">
- 		<description>Arkanoid II - Revenge of Doh (Japan, alt 2, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="arkanoid ii - revenge of doh (1987)(nidecom)(jp)[a2].dsk" size="737280" crc="ce51f7c8" sha1="1375cfd05e17c8f82b35f170ac20723327d42640"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="arknoid2c">
- 		<description>Arkanoid II - Revenge of Doh (Japan, alt 3, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="arkanoid ii - revenge of doh (1987)(nidecom)(jp)[a3].dsk" size="737280" crc="668046ca" sha1="865ee54675c1c901e5472d4f29761c41236ef69f"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="lupin">
- 		<description>Lupin Sansei - Cagliostro no Shiro (Japan, disk conversion)</description>
+ 	<software name="57e26212">
+ 		<description>Arsene Lupin 3rd</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
- 				<rom name="arsene lupin 3rd - cariostoro no siro (1987)(toho)(jp).dsk" size="737280" crc="01defd9b" sha1="06f80ac0f8317e4392052dfa89a13ef32b22dbd7"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="lupina">
- 		<description>Lupin Sansei - Cagliostro no Shiro (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
- 				<rom name="arsene lupin 3rd - cariostoro no siro (1987)(toho)(jp)[a].dsk" size="737280" crc="712f293d" sha1="527583e26b051032699311e13689d9851c653887"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="lupinb">
- 		<description>Lupin Sansei - Cagliostro no Shiro (Japan, alt 2, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
- 				<rom name="arsene lupin 3rd - cariostoro no siro (1987)(toho)(jp)[a2].dsk" size="737280" crc="000a0aef" sha1="4d9d6bf56fd179fb37dd55aa1f2af8bd33e4bcc6"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="lupin2">
- 		<description>Lupin Sansei - Babylon no Ougon Densetsu (Japan, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
- 				<rom name="arsene lupin 3rd 2 - babiron no ougon densetsu (1988)(toho)(jp).dsk" size="737280" crc="3f6f12ac" sha1="c9f547b613fb39f495a71134facfc2e039f80778"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="lupin2a">
- 		<description>Lupin Sansei - Babylon no Ougon Densetsu (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
- 				<rom name="arsene lupin 3rd 2 - babiron no ougon densetsu (1988)(toho)(jp)[a].dsk" size="737280" crc="5dd06991" sha1="6c97a6250b5911ff330e77cd861a603ac1b398a9"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="lupin2b">
- 		<description>Lupin Sansei - Babylon no Ougon Densetsu (Japan, alt 2, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+				<rom name="Arsene Lupin 3rd - Cariostoro no Siro (1987)(Toho)[cr FreeSoft Club].dsk" size="737280" crc="57e26212" sha1="d755ddb53451006926a225ac39f35b210fd53507"/>
+				<rom name="Arsene Lupin 3rd 2 - Babiron no Ougon Densetsu (1988)(Toho)[t].dsk" size="737280" crc="319ea5ca" sha1="641e16914ce623ae4074cb995a1786f8c8da553d"/>
+				<rom name="Arsene Lupin 3rd 2 - Babiron no Ougon Densetsu (1988)(Toho)[t][a].dsk" size="737280" crc="2f8c41a7" sha1="02a9ea0c5e432af760860c0c37e6e2e3676bbbc1"/>
  				<rom name="arsene lupin 3rd 2 - babiron no ougon densetsu (1988)(toho)(jp)[a2].dsk" size="737280" crc="99248a0c" sha1="5ff038fa4ccbe6f8a4081281e83d149e27451b7a"/>
+ 				<rom name="arsene lupin 3rd 2 - babiron no ougon densetsu (1988)(toho)(jp)[a].dsk" size="737280" crc="5dd06991" sha1="6c97a6250b5911ff330e77cd861a603ac1b398a9"/>
+ 				<rom name="arsene lupin 3rd 2 - babiron no ougon densetsu (1988)(toho)(jp).dsk" size="737280" crc="3f6f12ac" sha1="c9f547b613fb39f495a71134facfc2e039f80778"/>
+ 				<rom name="arsene lupin 3rd - cariostoro no siro (1987)(toho)(jp)[a2].dsk" size="737280" crc="000a0aef" sha1="4d9d6bf56fd179fb37dd55aa1f2af8bd33e4bcc6"/>
+ 				<rom name="arsene lupin 3rd - cariostoro no siro (1987)(toho)(jp)[a].dsk" size="737280" crc="712f293d" sha1="527583e26b051032699311e13689d9851c653887"/>
+ 				<rom name="arsene lupin 3rd - cariostoro no siro (1987)(toho)(jp).dsk" size="737280" crc="01defd9b" sha1="06f80ac0f8317e4392052dfa89a13ef32b22dbd7"/>
  			</dataarea>
  		</part>
  	</software>
@@ -1102,56 +1361,91 @@ license:CC0-1.0
  	</software>
 
  	<software name="ashguin2">
- 		<description>Ashguine 2 - Kokuu no Gajou (Japan, disk conversion)</description>
+ 		<description>Ashguine 2 - Kokuu no Gajou</description>
  		<year>19??</year>
  		<publisher>&lt;cart2disk hack&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="ashguine 2 (1987)(panasoft)(jp).dsk" size="737280" crc="f12b0c2d" sha1="7aa28dac34cb5efa7a27fdf3537a8fd9a8f279c4"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="ashguin2a">
- 		<description>Ashguine 2 - Kokuu no Gajou (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="ashguine 2 (1987)(panasoft)(jp)[a].dsk" size="737280" crc="90110b62" sha1="57d1d2cafbb8b48f58ceeb891ec945b27462410c"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="ashguin2b">
- 		<description>Ashguine 2 - Kokuu no Gajou (Japan, alt 2, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="ashguine 2 (1987)(panasoft)(jp)[a2].dsk" size="737280" crc="6c90f12f" sha1="9a79c816aee13d4bae9c3b940e050f5e149184f2"/>
  			</dataarea>
  		</part>
  	</software>
 
  	<software name="ashguin3">
- 		<description>Ashguine - Fukushuu no Honoo (Japan, disk conversion)</description>
+ 		<description>Ashguine - Fukushuu no Honoo</description>
  		<year>19??</year>
  		<publisher>&lt;cart2disk hack&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="ashguine 3 (1987)(panasoft)(jp).dsk" size="737280" crc="522ac141" sha1="7a259aa4bf54753155669bd1c81458f8a6beb1c5"/>
+ 				<rom name="ashguine 3 (1987)(panasoft)(jp)[a].dsk" size="737280" crc="67dab85a" sha1="0816c84bf4c1931bd9f800db09e8e0e3bf3f39a1"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="ashguin3a">
- 		<description>Ashguine - Fukushuu no Honoo (Japan, alt, disk conversion)</description>
+ 	<software name="481105d3">
+ 		<description>Atalanta</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
- 				<rom name="ashguine 3 (1987)(panasoft)(jp)[a].dsk" size="737280" crc="67dab85a" sha1="0816c84bf4c1931bd9f800db09e8e0e3bf3f39a1"/>
+				<!-- does not start automatically -->
+				<rom name="Atalanta (2020)(sfranck72)(en).dsk" size="737280" crc="481105d3" sha1="e0a5872a16cdbc188c05c72571622db5b8786834"/>
+				<rom name="Atalanta (2020)(sfranck72)(fr).dsk" size="737280" crc="d4f3e4a4" sha1="510cba7d49ed8bbc02d8c7199fb1ea9890426720"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="0559134e">
+ 		<description>Aura Battler Dunbine</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated? -->
+				<rom name="Aura Battler Dunbine v1.1 (1991)(Family Soft)(ja)(Disk 1 of 6).dsk" size="737280" crc="0559134e" sha1="d6d3c9af1c68170ca77d1e843c4c9ad5eafc8e05"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="3db213a9">
+ 		<description>The Avenger of Death</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- overdump -->
+				<rom name="Avenger of Death, The (19xx)(System Breaker)[a].dsk" size="737280" crc="3db213a9" sha1="bce4d9bcc4dd9954170a81cd55018a8386c7ff44"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="3d1cd10f">
+ 		<description>Axe - The Real SCC Demo</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- keeps rebooting -->
+				<rom name="Axe - The Real SCC Demo (1989)(BCF)[SCC].dsk" size="737280" crc="3d1cd10f" sha1="74619c280474a5fc0d5e9241efdcfd5caf7e5676"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="83ed2e97">
+ 		<description>Ayayo's Love Affair II</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Ayayo's Love Affair II (1990)(Hard)(ja).dsk" size="737280" crc="75199627" sha1="ea5bfc225f15d341ad87838493ee2802c8e6c47d"/>
+				<!-- NO$MSX -->
+				<rom name="Ayayo's Love (19xx)(Disk Station).dsk" size="737280" crc="83ed2e97" sha1="ba00864836a5571b3abe69973efef7519d4dcc11"/>
  			</dataarea>
  		</part>
  	</software>
