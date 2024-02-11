@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
+<!--
+license:CC0-1.0
+-->
+<softwarelist name="unwanted_msx2p_flop" description="MSX2+ disk images - hacks, cracks, conversions, etc">
+
+<!-- to sort/check -->
+
+	<software name="3d125143">
+		<description>EVA Player (separate tool)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="EVA Player for Sunrise ATA-IDE v0.06 (2000)(Sergio Guerrero)[needs MSX-DOS].dsk" size="737280" crc="3d125143" sha1="b87dafb0bddd3134d3c08cbcd697b954c1870587" />
+			</dataarea>
+		</part>
+	</software>
+
+<!-- ______________________________________________________________________ -->
+
+	<software name="861bcb0f">
+		<description>AV Kuzushi</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- can't find any references to this -->
+				<rom name="AV Kuzushi (1990)(ASCII MSX Magazine).dsk" size="737280" crc="861bcb0f" sha1="93de7c97cf5a5e96ca7b168e43acc73f208d15d6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b05f67a2">
+		<description>F1 Spirit 3D Special</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- save data -->
+				<rom name="f-1 spirit 3d special - panasoft (disk a, alt).dsk" size="737280" crc="b05f67a2" sha1="3fd1c3dacd8fc3b4fc4902ac35296ce30991ac9b"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1e0f573f">
+		<description>Kimagure demo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- can't find any references to a released demo -->
+				<rom name="Kimagure. Orange Road (demo) (1988)(Micro Cabin)(ja).dsk" size="737280" crc="1e0f573f" sha1="3eb33749d0308b5431d04709e1eebd9c6d990718" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="19697513">
+		<description>Kohakuiro no Yuigon</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Kohakuiro no Yuigon. Amber's Will (1988)(Riverhill Soft)(ja)(Disk 1 of 3)[b].dsk" size="737280" crc="19697513" sha1="ebc4ba06ec35108867049185dea6d294b2dab76e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="29e5d4e5">
+		<description>Laydock 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Laydock 2 - Last Attack (1988)(T&amp;E Soft)(Disk 1 of 2)[b].dsk" size="737280" crc="29e5d4e5" sha1="ff1013f6c66b487e1ca0b2f994ef02df43d8b20d" />
+				<rom name="Laydock 2 - Last Attack (1988)(T&amp;E Soft)(Disk 2 of 2)[b].dsk" size="737280" crc="e6aea9a8" sha1="e82116d7b879c500b730d2e8c200ad4bcf4c39c4" />
+				<!-- hacked -->
+				<rom name="Laydock 2 - Last Attack (1988)(T&amp;E Soft)(Enhanced by FRS)(Disk 1 of 2).dsk" size="737280" crc="9ff028d7" sha1="838e61942e871e9ff3c824bd1100cc26ee11bf4f" />
+				<rom name="Laydock 2 - Last Attack (1988)(T&amp;E Soft)(Enhanced by FRS)(Disk 2 of 2).dsk" size="737280" crc="a5135201" sha1="c27fb390a0c3eb702c4252e1dfd0bc5dcfe28140" />
+				<!-- save data -->
+				<rom name="laydock 2 - last attack (1988)(t&amp;e soft)(jp)(disk 1 of 2)[a].dsk" size="737280" crc="1b68b1a9" sha1="db7cf4672f46017b69b02eb175b4a446a948c601"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1e149aa7">
+		<description>Maou no Fukkastsu DX</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Maou no Fukkatsu DX (1993)(Panic Studio)(jp)(Disk 1 of 3)[b].zip" size="737280" crc="1e149aa7" sha1="152b797ff8977af9c59b5cda32f5975a87237bc9" />
+				<rom name="Maou no Fukkatsu DX (1993)(Panic Studio)(jp)(Disk 2 of 3)[b].zip" size="737280" crc="a73146da" sha1="cbb29dc64e9aaad1d514249a984a7a7da31d5179" />
+				<rom name="Maou no Fukkatsu DX (1993)(Panic Studio)(jp)(Disk 3 of 3)[b].zip" size="737280" crc="271f0a22" sha1="255315fdf9a1d489fc7613aa8549f6d2463f15bb" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2922ea45">
+		<description>Mid-garts</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+				<rom name="Middogarutsu. Mid-Garts Dual Side (MSX2+) (1989)(Wolfteam)(ja)(Disk 1 of 6).dsk" size="737280" crc="2922ea45" sha1="bf1a9897ebac5b9f2c982b804742a88897bea429" />
+				<!-- hacked? -->
+				<rom name="Middogarutsu. Mid-Garts Dual Side (MSX2+) (1989)(Wolfteam)(ja)(Disk 2 of 6).dsk" size="737280" crc="03be9797" sha1="3c7f9f37793598e6775de09831639ab6905f4296" />
+				<rom name="Middogarutsu. Mid-Garts Dual Side (MSX2+) (1989)(Wolfteam)(ja)(Disk 5 of 6).dsk" size="737280" crc="25fd0b9c" sha1="05cfd6f648ee44f89155614edf471b5842e580ca" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="b35b30f4">
+		<description>MSX Basic Kun Plus v2.1 Programs (with save)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- just some separate programs, no auto start -->
+				<rom name="MSX BASIC Kun Plus v2.1 Programs (1992)(Ascii)(ja).dsk" size="737280" crc="b35b30f4" sha1="b0ef998d5dac1164b07968facd20919d59f10c6f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="00cf3145">
+		<description>Unmei Destiny (with save)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- with saved data? -->
+				<rom name="Unmei -Destiny- (1995) (Sign House).dsk" size="737280" crc="00cf3145" sha1="5d77ac0ddb786fcb4efb3724c566f0bfdd41794c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ea733f7b">
+		<description>Yoshida Kensetsu</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- save data -->
+				<rom name="yoshida kensetsu. super zelixer (1990)(msx magazine)(jp)[a].dsk" size="737280" crc="ea733f7b" sha1="9eef34210d3ae9988f137cf70730a5a1c57a59ee"/>
+			</dataarea>
+		</part>
+	</software>
+
+</softwarelist>

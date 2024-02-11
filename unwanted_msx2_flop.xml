@@ -7,6 +7,53 @@ license:CC0-1.0
 
 	<!-- To Sort -->
 
+	<software name="de4a0b92">
+		<description>PSG Mixer (too new)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="SOUND_PSG - Renato Murta (2022).dsk" size="737280" crc="de4a0b92" sha1="cc895e290fe2e99b2e4b8545fbb0f675154aac7d" />
+				<rom name="PSG Mixer v0.2 - Renato Murta (2022).dsk" size="737280" crc="726a277a" sha1="a755f9648a42740b73423d7cb529b2ad3ea7cb22" />
+				<rom name="PSG Mixer v0.3 - Renato Murta (2022).dsk" size="737280" crc="be85ac12" sha1="3766ffdbfb9f6e9b9a566ea093ec6c127848df53" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="7de3962d">
+		<description>VieuwMaster (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="ViewMaster_-SamoSoft-.dsk" size="737280" crc="7de3962d" sha1="3940cb5d7e4295c01e10ebd94e1ab969c408bea9" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="fa1d0ca5">
+		<description>vscreen (unclear who and when)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="vscreenkuru.dsk" size="737280" crc="fa1d0ca5" sha1="478a94fe5e7603f33be6758fb9d8f0e9c9299962" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3e68ec30">
+		<description>Worship (cannot find any references)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Worship Program Disk (requires HB-F900).dsk" size="737280" crc="3e68ec30" sha1="094bb011b2008df4acaa5a07fcbb19654e736faf" />
+				<rom name="orship Data Disk.dsk" size="737280" crc="25b227d2" sha1="4b719e44eec3e6595dc4fd9fccd26da91e421250" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="4c0c5a65">
 		<description>Adventurer (unclear who and when)</description>
  		<year>19??</year>
@@ -629,6 +676,18 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="21ff71e8">
+		<description>TinySlotChecker</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- separate tool -->
+				<rom name="TinySlotChecker.dsk" size="737280" crc="21ff71e8" sha1="02dd50febb740dde7435a4e6eb429c530baf5c06" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="8ff192e6">
 		<description>Tir-nan-og (alt, looks cleaner)</description>
  		<year>19??</year>
@@ -636,6 +695,18 @@ license:CC0-1.0
  		<part name="flop" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
 				<rom name="Tir-nan-og (1990)(System Soft)(ja)(Disk 2 of 3)[a2].dsk" size="737280" crc="8ff192e6" sha1="f14a0c79e4059a19c0ec531a7c1c9997aae2f46c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="24c36153">
+		<description>TO-EPROM</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- Cannot find references to this software -->
+				<rom name="TO-EPROM TOEPROM (1988)(MSX Club Gouda).DSK" size="737280" crc="24c36153" sha1="a970d984f65b4942ca8173f750fc7e4089cabc66" />
 			</dataarea>
 		</part>
 	</software>
@@ -653,6 +724,18 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="397cee6d">
+		<description>Tracer</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- how to use? -->
+				<rom name="Tracer (MST).dsk" size="368640" crc="397cee6d" sha1="b18c71a99f7bba181ea1fd53706e4c57c54c5150" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="20286861">
 		<description>Triathlon James Bond 007 (real release??)</description>
  		<year>19??</year>
@@ -661,6 +744,17 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<rom name="Triathlon James Bond 007 (1987)(Philips)(nl).dsk" size="737280" crc="20286861" sha1="9d4c6c58e1b26227704d2f18e1a7cfb9a3fd1cc3" />
 				<rom name="Triathlon James Bond 007 (1987)(Philips)(nl)[a].dsk" size="737280" crc="b2ef3fc0" sha1="e87133333f74cd41c0a57cd0afbf9d55543d771f" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bbe46109">
+		<description>TriloTracker (unknown when and who)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="TriloTracker 0.11.3b.dsk" size="737280" crc="bbe46109" sha1="1dfa1d60a51af7b445b6ba9a43da753378e53198" />
 			</dataarea>
 		</part>
 	</software>
@@ -894,6 +988,32 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="a3d3cb9a">
+ 		<description>60Hz</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- what is this supposed to do? -->
+ 				<rom name="60HzGotek.DSK" size="737280" crc="a3d3cb9a" sha1="277c8569b5e79dcb1c38c98376f1b2414d541041"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="ce50fefb">
+ 		<description>Aapaa MyaaDock</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked/self created; pmext on disk -->
+ 				<rom name="Ahparmyadock. Am-Pah-Mata (1991)(T&amp;E Soft)(ja).dsk" size="737280" crc="ce50fefb" sha1="da41a4da60fd13fb6c59f77239dc16e320c787d9"/>
+				<!-- msx-dos1 and 2 on disk; suspicious -->
+ 				<rom name="Ahparmyadock. Am-Pah-Mata (1991)(T&amp;E Soft)(ja)[a].dsk" size="737280" crc="a585c3f7" sha1="7e79df14151cec05bbd107035351addac49dd70f"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="3960356c">
  		<description>Abunai</description>
  		<year>19??</year>
@@ -953,6 +1073,18 @@ license:CC0-1.0
 				<!-- hacked -->
 				<rom name="Affaire, L' (1986)(Infogrames)(es)[needs MSX-DOS].dsk" size="737280" crc="979ee2c8" sha1="fee79ca5e90f0f343f1540bc2e6438042fce646c"/>
 				<rom name="Affaire, L' + Les Passagers du Vent (1986)(Loriciels)(nl)[cr Star Frontiers].dsk" size="737280" crc="a4a08655" sha1="498fc7a4de8741e3c71ac1bd3e82e645fd984dc5"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="d8f5070c">
+ 		<description>Age8</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cracked -->
+				<rom name="Age8 v1.01 (1995)(MSX Club Enschede)[cr].dsk" size="737280" crc="d8f5070c" sha1="d51593d5d9e38e2557dc54c78519aa813087a423"/>
  			</dataarea>
  		</part>
  	</software>
@@ -1250,6 +1382,58 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="c45cae7b">
+ 		<description>ANMA Red</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cannot use software -->
+				<rom name="ANMA_RED.dsk" size="737280" crc="c45cae7b" sha1="c1dbd423eacbc6dac78adf10432f3f135cda5dac"/>
+				<rom name="CONVERTER.dsk" size="737280" crc="e9ef743f" sha1="d8bf22dcd1dcd543619bff6d3003581492b93208"/>
+				<rom name="v1 Music(1) - Diversen.DSK" size="737280" crc="2c2269e0" sha1="9a7004fe87741b6eb5972a9e9e812320f8741460"/>
+				<rom name="v1 Music(2) - Diversen + No Fuss.DSK" size="737280" crc="939e5031" sha1="285909ebd169d62e2ed745a270b1d8304b4e134c"/>
+				<rom name="v1 Music(3) - No Fuss.DSK" size="737280" crc="99b2bddc" sha1="dfb75ca02efac3a0032ae8bca93e10d3ca994cf8"/>
+				<rom name="v1 Music(4) - No Fuss.DSK" size="737280" crc="184770f7" sha1="4caf1305bdb916fdc2cd728d2c722635f5d05925"/>
+				<rom name="v1 Music(5) - Nosh + Source Of Power.DSK" size="737280" crc="e1633443" sha1="aedfa218c0fa08685a49bf1822cb666e5dc18bd9"/>
+				<rom name="v1 Music(6) - Nosh.DSK" size="737280" crc="ed322f13" sha1="6d557e6cc427bd8b95e218095b40c815fe37ee67"/>
+				<rom name="v1 Music(7) - Nosh.DSK" size="737280" crc="380628d8" sha1="6aee2a1be42ebc51a801113b522d27258bf78fcd"/>
+				<rom name="v2 Music(1) - Frantic.DSK" size="737280" crc="219f56b9" sha1="f38e97d9f70877849e915e17200658541b8ce01a"/>
+				<rom name="v2 Music(2) - Frantic.DSK" size="737280" crc="9319ddd0" sha1="901ba99ee58ba9a2b3704a685bae7efbfe66991e"/>
+				<rom name="v2 Music(3) - Frantic.DSK" size="737280" crc="c3da6062" sha1="d578e7bb121259da4c16d03fc27bd23010067c85"/>
+				<rom name="v2 Music(4) - Troxx.DSK" size="737280" crc="6346b884" sha1="8f91e18be9f2faed6a599ccb9613075d803857fe"/>
+				<rom name="v2 Music(5) - Troxx.DSK" size="737280" crc="89d2a3b2" sha1="6dc969aaf3a679e33a6c84667cebf63792deb286"/>
+				<rom name="v2 Music(6) - Troxx.DSK" size="737280" crc="efd121eb" sha1="76558caed9029647afaed8ce0332ba347b2d2355"/>
+				<rom name="v2 Music(7) - Relax demo.DSK" size="737280" crc="e8de1e4c" sha1="84cfa4393edfd2eddef7a9f80700e733d2a9a834"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="973b2e5c">
+ 		<description>ANSI Editor</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start -->
+				<rom name="ANSI Editor - Meusesoft.dsk" size="737280" crc="973b2e5c" sha1="f72ed2f923df317dcc962d9ce6261a07462e8ca3"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e85aa95f">
+ 		<description>APMK</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- software does not start -->
+				<rom name="APMK Electrodymanics (1989)(Quorom JV)(ru)(Disk 1 of 2).DSK" size="737280" crc="e85aa95f" sha1="6ab3e1941ac335e68f22b4e5d39921af0d74ba47"/>
+				<rom name="APMK Electrodymanics (1989)(Quorom JV)(ru)(Disk 2 of 2).DSK" size="737280" crc="a3214190" sha1="75267dbbaf796856daaec4d76c42f68dc42e94ff"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="24adce12">
  		<description>ARC</description>
  		<year>19??</year>
@@ -1408,6 +1592,13 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- translated? -->
 				<rom name="Aura Battler Dunbine v1.1 (1991)(Family Soft)(ja)(Disk 1 of 6).dsk" size="737280" crc="0559134e" sha1="d6d3c9af1c68170ca77d1e843c4c9ad5eafc8e05"/>
+				<!-- hacked? alt? -->
+				<rom name="Aura Battler Dunbine (1991)(Family Soft)(ja)(Disk 1 of 6).dsk" size="737280" crc="2f53e2e1" sha1="59605c480b3659acc085ac9e24b8f694a66b32ae"/>
+				<rom name="Aura Battler Dunbine (1991)(Family Soft)(ja)(Disk 2 of 6).dsk" size="737280" crc="ca040670" sha1="4e009d44087c02b236bdca7bd2556acd67b9c327"/>
+				<rom name="Aura Battler Dunbine (1991)(Family Soft)(ja)(Disk 3 of 6).dsk" size="737280" crc="ec960265" sha1="8ce82382aa2d89b02d0b77002a2de65a52043cce"/>
+				<rom name="Aura Battler Dunbine (1991)(Family Soft)(ja)(Disk 4 of 6).dsk" size="737280" crc="a7932620" sha1="a0fad56c6ed2318857e8c7afe338405b6c5f2af2"/>
+				<rom name="Aura Battler Dunbine (1991)(Family Soft)(ja)(Disk 5 of 6).dsk" size="737280" crc="121ab743" sha1="e09b058355fb282580eaaaad82377e0bc7444608"/>
+				<rom name="Aura Battler Dunbine (1991)(Family Soft)(ja)(Disk 6 of 6).dsk" size="737280" crc="f9e8dd65" sha1="faedee7fd4427a1b10a4f7dcaea8b84666a9d7ea"/>
  			</dataarea>
  		</part>
  	</software>
@@ -1520,6 +1711,18 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- does not start automatically -->
 				<rom name="Barbarian (1988)(Ford Perfect).dsk" size="737280" crc="ae68aedd" sha1="ecd12435e2679f3279d39f1f8d552e0295f968d5"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="08d28ab3">
+ 		<description>Barcode-Reader</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- unpacked utility, really a PTC release? -->
+				<rom name="Barcode-Reader Software (1998)(PTC)(nl).DSK" size="737280" crc="08d28ab3" sha1="fc71538a225b53c283adfd9137d773df27aad0fb"/>
  			</dataarea>
  		</part>
  	</software>
@@ -1871,6 +2074,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="6f40c3a7">
+ 		<description>C-Tools</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- software does not start -->
+ 				<rom name="C-Tools &amp; Demo (CAIN).dsk" size="737280" crc="6f40c3a7" sha1="5d372eba8f96456fdedd54fa8a7694abe1d680ab"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="7fe45188">
  		<description>CAL 1</description>
  		<year>19??</year>
@@ -1960,6 +2175,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="2d548790">
+ 		<description>Castle Utilities</description>
+ 		<year>19??</year>
+		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- private collection of copy utilities -->
+ 				<rom name="Castle Utillity's (1992)(Castle Software).DSK" size="737280" crc="2d548790" sha1="e7b2377a26f5b66160418bb4aa2d4e134fac6301"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="37d7c554">
  		<description>Os Cavaleiros do Zodiaco</description>
  		<year>19??</year>
@@ -1983,6 +2210,18 @@ license:CC0-1.0
 				<!-- FILE_ID.DIZ -->
  				<rom name="Celcion (1991)(SPC Soft)[a2].dsk" size="737280" crc="2755198f" sha1="f0043bc59ab898fff4dfa8e7da1a9f2f91b69e14"/>
  				<rom name="Celcion (1991)(SPC Soft)[a].dsk" size="737280" crc="c862cb5f" sha1="69535f10da9cb0e12ca01fbe0cc178f77b0c6d30"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="0a3a3be0">
+ 		<description>Chave Mestra</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- Software does not start? -->
+ 				<rom name="chavem.dsk" size="737280" crc="0a3a3be0" sha1="b600051c773a65479443469817901527ffbbeb89"/>
  			</dataarea>
  		</part>
  	</software>
@@ -2224,6 +2463,30 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="de0e57e8">
+ 		<description>Disk copy</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- collection of utilities -->
+				<rom name="COM File Input tool (1990)(--)(jp).DSK" size="737280" crc="de0e57e8" sha1="d602e1f098c29207f4f9549d4205f0c618ea1c67"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="84097acc">
+ 		<description>Copy Floppy</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- collection of utilities -->
+				<rom name="Copy Floppy.dsk" size="737280" crc="84097acc" sha1="3368d1b38daddabde5525a62cfebd9a1203243af"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="ba413e2a">
  		<description>Core Dump Promo</description>
  		<year>19??</year>
@@ -2232,6 +2495,18 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- fMSXdisk -->
 				<rom name="Core Dump Promo 1.2 (Unfinished game) (Parallax) (1997).dsk" size="737280" crc="ba413e2a" sha1="879c2aad524115819c69193cdd8e829fc4c5a6fc"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="bb977223">
+ 		<description>Corso di Inglesa</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start -->
+				<rom name="Corso di Inglese di Marco Galliena.dsk" size="737280" crc="bb977223" sha1="4f5dd0be28a164f208af03af6b05501d8475dcc5"/>
  			</dataarea>
  		</part>
  	</software>
@@ -2625,6 +2900,19 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="9c933471">
+ 		<description>DemoKit Deluxe</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- prefer dmk -->
+				<rom name="Demo Kit Deluxe - New Vision Benelux.dsk" size="737280" crc="9c933471" sha1="a3f0ac27bdb9b6ebe6b5279a24af4e9a6a430b40"/>
+				<rom name="Demo Kit Deluxe - New Vision Benelux CRACKED.dsk" size="737280" crc="acd1d667" sha1="95cb99e392f7ae5b37c0918a702908a50e9aefdd"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="2756654c">
  		<description>Demon's Killer</description>
  		<year>19??</year>
@@ -2753,6 +3041,31 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- bad dump -->
  				<rom name="Dome, The (1989)(System Sacom)(ja)(Disk 2 of 2)[b].dsk" size="737280" crc="9d3980ff" sha1="5dd4ba2c4a057c97687deb0e9b77b0889d754f95"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="34bd0b54">
+ 		<description>DOSMaster</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- separate msxdos replacement -->
+ 				<rom name="DOSMaster 1.1.dsk" size="737280" crc="34bd0b54" sha1="62807228255f5053a0ed155c73456d813d2d1ca7"/>
+ 				<rom name="DOSMaster1.1e.dsk" size="737280" crc="c35b3478" sha1="252418b12a76df277fa8ca39eff47e7cab39226b"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="64a06e72">
+ 		<description>Dots Designer's Club</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DiskMgr1 -->
+ 				<rom name="Dots Designer Club.dsk" size="737280" crc="64a06e72" sha1="6073cc182a632b64f522d41e16b6d47fbdbe87c4"/>
  			</dataarea>
  		</part>
  	</software>
@@ -3048,6 +3361,13 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- hacked -->
  				<rom name="DynamicPublisher[File-Hunter.com].dsk" size="737280" crc="469654b0" sha1="7467465ca6e9319ae1c183c626d007718e0c5aee"/>
+ 				<rom name="Dynamic Publisher Sony HB-G900 &amp; Turbo-R.dsk" size="737280" crc="dbcebc97" sha1="859e427518bfffd29a511e26ee6b7d47456aadd2"/>
+ 				<rom name="Dynamic Publisher onder DOS2.0.dsk" size="737280" crc="46adfb2f" sha1="918c11df1553942e34664dbcae7ac59738e78fc5"/>
+				<!-- translated Portguguese -->
+ 				<rom name="dynpub.dsk" size="737280" crc="284d1aac" sha1="5318c5ce700d33f0e4536a92238ec7f48e17fe26"/>
+ 				<rom name="d-shapes.dsk" size="737280" crc="fbef1118" sha1="1ad72e9dd4fe03f3c8dacde885ce3894f06573d2"/>
+				<!-- -->
+ 				<rom name="Dynamic Publisher - Wat doe je ermee.dsk" size="737280" crc="6941bd59" sha1="2f02023505146624c51775f817fd87d0670ebaa9"/>
  			</dataarea>
  		</part>
  	</software>
@@ -3060,6 +3380,18 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- hacked -->
  				<rom name="E.A.S.E.[File-Hunter.com].dsk" size="737280" crc="ef88d5e9" sha1="c02656672b9baec64beb7c0e943202490016771f"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="0d79417e">
+ 		<description>Easy Graph</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- reboots system -->
+ 				<rom name="Easy Graph.dsk" size="737280" crc="0d79417e" sha1="88bb95fe9f11edbb1983fb6549af4ecdad7862be"/>
  			</dataarea>
  		</part>
  	</software>
@@ -3184,6 +3516,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="e646afd7">
+ 		<description>EVA</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+ 				<rom name="EVA.dsk" size="737280" crc="e646afd7" sha1="2af8f29a1bd01178939fec69eb81d6f8bf6b0c26"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="fcbf867c">
  		<description>Even</description>
  		<year>19??</year>
@@ -3195,6 +3539,30 @@ license:CC0-1.0
  				<rom name="Even (1994)(Frieve)(ja)[a].dsk" size="737280" crc="1e895d4c" sha1="da5e20387ee4322d55fa6a8378bbe25e946402a2"/>
 				<!-- DiskMgr1 -->
  				<rom name="Even (1993)(Freive)(ja)(MSX Fan Edition).dsk" size="737280" crc="c736ccd6" sha1="6abe02303bd83d439b2544485e7975300c92dae5"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="81477764">
+ 		<description>Everal Menu Maker</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- feels more like a private tool -->
+ 				<rom name="Everal Menu.dsk" size="737280" crc="81477764" sha1="fc0e4ca90f23d2d4435134adbd51425e687bf810"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="e4df2e93">
+ 		<description>ExecROM</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- separate tool -->
+ 				<rom name="ExecROM.dsk" size="737280" crc="e4df2e93" sha1="c0fe0715940bcad58e634c7d9f90c9a59c15fdd6"/>
  			</dataarea>
  		</part>
  	</software>
@@ -3236,6 +3604,18 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- keeps rebooting -->
  				<rom name="Fac Demo, The (1988)(Gizmo).dsk" size="737280" crc="4cddbc57" sha1="d5100d13927a5f01ea7fcb8875e228770e1eccc9"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="cc2a4805">
+ 		<description>FAC Soundtracker Pro</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- metadata -->
+ 				<rom name="._IM-FST.DSK" size="176" crc="cc2a4805" sha1="24ac9ee49a09aab95972bb1d0d2840ae7e9b2e04"/>
  			</dataarea>
  		</part>
  	</software>
@@ -3324,6 +3704,20 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="f43a6d31">
+ 		<description>Fast Copy</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+ 				<rom name="Fast Copy v2.3.DSK" size="737280" crc="f43a6d31" sha1="1f6540faa3abad40257aba3496da588f7a48fff9"/>
+				<!-- software does not start -->
+ 				<rom name="Fast Copy.DSK" size="737280" crc="bbad7b4e" sha1="dbe0bcc7299ceed483cb232f69516f6e870dfc44"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="f4ee78f4">
  		<description>Fastcopy v3.0</description>
  		<year>19??</year>
@@ -3334,6 +3728,18 @@ license:CC0-1.0
  				<rom name="Fastcopy v3.0 (1991)(XelaSoft).dsk" size="737280" crc="f4ee78f4" sha1="e0b9f9f55e2f3a7b87f494a09bd2964927478573"/>
 				<!-- hacked? should be 1dd -->
  				<rom name="Fastcopy v3.0 (1991)(XelaSoft)[a].dsk" size="737280" crc="6f644632" sha1="fbe70821c08bbad12e65581470a1ca62c3d63b04"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="6b8ae0bb">
+ 		<description>FASTCOPY</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- collection of copy tools; does not start automatically -->
+ 				<rom name="FASTCOPY_Tools.DSK" size="737280" crc="6b8ae0bb" sha1="71bedb298587a1a9eff4ff0e74f2dad10a6ebd49"/>
  			</dataarea>
  		</part>
  	</software>
@@ -3448,6 +3854,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="f8a23208">
+ 		<description>First Rate Music Hall</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- software does not start -->
+ 				<rom name="First Rate Music Hall 2021 Edition.dsk" size="737280" crc="f8a23208" sha1="8475c556cd3e09eb9900426a8a08b532317830eb"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="2407ba88">
  		<description>Flat Marsh</description>
  		<year>19??</year>
@@ -3488,6 +3906,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="559825e8">
+ 		<description>FM-FAC Sound Sampler</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- system boots when starting sampler -->
+				<rom name="FM-FAC Soundsampler (1989)(FAC).dsk" size="737280" crc="559825e8" sha1="dff6a2f5882db018bf6d250970fd94f834511988"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="a885d7e7">
  		<description>Fony's Demo Disk 2</description>
  		<year>19??</year>
@@ -3496,6 +3926,30 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- DiskMgr1 -->
 				<rom name="Fony's Demo Disk 2 (1992)(Fony)(pre-release).dsk" size="737280" crc="a885d7e7" sha1="098678d3a609568f726e3fddea1778a99ee07290"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="791760d5">
+ 		<description>Font Editor</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Font Editor.dsk" size="737280" crc="791760d5" sha1="a089733ef14d60e8a1aa99efff0559e0d25171b5"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="4a9e6f72">
+ 		<description>Formula Super Disk Backup Tool</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Formula - Super Disk Backup Tool (Shitaseki system development).dsk" size="737280" crc="4a9e6f72" sha1="89b3817f1eca8518646e7506796f2749d473a1b7"/>
  			</dataarea>
  		</part>
  	</software>
@@ -3540,6 +3994,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="dfd834bc">
+ 		<description>Freekick</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump -->
+				<rom name="Freekick - Filosoft nr. 022478 (many bad sectors).dsk" size="737280" crc="dfd834bc" sha1="c39f877bb7fdd416d5faa8757e44269318eed6d9"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="6e8e958b">
  		<description>Fruta Prohibida</description>
  		<year>19??</year>
@@ -3548,6 +4014,18 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- NO$MSX -->
 				<rom name="Fruta Prohibida (1988)(-)(fr)[a].dsk" size="737280" crc="6e8e958b" sha1="2f5a910793026a11b26bb01265b876c476d6db02"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="51cfca41">
+ 		<description>FudeBrowser</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- separate tool? needs network? -->
+				<rom name="FudeBrowser 1.8.dsk" size="737280" crc="51cfca41" sha1="0e1adae960f15cf27b882bfd0be91f7257828640"/>
  			</dataarea>
  		</part>
  	</software>
@@ -3617,6 +4095,18 @@ license:CC0-1.0
 				<!-- baddump -->
  				<rom name="Games Collection 2, The (1988)(Eurosoft)(NL)(Disk 1 of 7)[b].dsk" size="737280" crc="c241413d" sha1="f4d9b316e4b40d434b8da8ca9a12a4b486ac9277"/>
  				<rom name="Games Collection 2, The (1988)(Eurosoft)(NL)(Disk 3 of 7)[b].dsk" size="737280" crc="50825a82" sha1="d1907734cee82ef859ed9e1c3d8f224a95119349"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="1070e6f9">
+ 		<description>Gamma</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+ 				<rom name="Gamma (1989) (Pelaktop).dsk" size="737280" crc="1070e6f9" sha1="d827f8c6438926716082759b60f0de8051f3b5d1"/>
  			</dataarea>
  		</part>
  	</software>
@@ -3729,6 +4219,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="33f0dc5c">
+ 		<description>GEM</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- just the emulator -->
+ 				<rom name="GEM.dsk" size="737280" crc="33f0dc5c" sha1="bc49603b01ac6b2b09d56b99f9df006db28fabd7"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="37c09d06">
  		<description>Genchouhishi</description>
  		<year>19??</year>
@@ -3750,6 +4252,31 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- baddump -->
  				<rom name="Genghis Khan (1988)(Koei)(ja)(Disk 1 of 2)[b].dsk" size="737280" crc="c8aff3d8" sha1="3dfeb99691f51a1280bbcc770c3c41b8734f5165"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="2e03fb54">
+ 		<description>Gereedschapsist</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- collection of utilities -->
+ 				<rom name="Gereedschapskist 1.dsk" size="737280" crc="2e03fb54" sha1="947e75a8cb99473cdfc8a6ea5bfc95612185c845"/>
+ 				<rom name="Gereedschapskist 2.dsk" size="737280" crc="8c54c928" sha1="feea685822a9279720614061dda465b6ef6ecedc"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="2c3eec2d">
+ 		<description>GFX9000 Tool Disk</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- contains no tools -->
+ 				<rom name="GFX9000 Tool Disk (1996)(Fony).dsk" size="737280" crc="2c3eec2d" sha1="4c8ca5101426eb080ec41464928c6973f6415ace"/>
  			</dataarea>
  		</part>
  	</software>
@@ -3914,6 +4441,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="607a0bd9">
+ 		<description>Gradius 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+				<rom name="Nemesis 2 - Enhanced (1987)(Konami)[DOS2+512KB].dsk" size="737280" crc="607a0bd9" sha1="933ea119565682e1120151a5411446a151114498"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="88312573">
  		<description>Graficos</description>
  		<year>19??</year>
@@ -3937,6 +4476,18 @@ license:CC0-1.0
 				<!-- baddump -->
  				<rom name="Graph Saurus v1.0 (1989)(Bit2)[b].dsk" size="737280" crc="62f4c521" sha1="ac979c241885d55e163fc746cb6d9f399efc1b38"/>
  				<rom name="Graph Saurus v2.0 (1991)(Bit2)(Disk 1 of 2)[b].dsk" size="737280" crc="73d4ff8c" sha1="878324824ddec2bf771a8d425181a3f0b116dc6a"/>
+			</dataarea>
+		</part>
+	</software>
+
+ 	<software name="7f7ebcc0">
+		<description>Graphic Studio Pro</description>
+		<year>19??</year>
+		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<!-- cannot control pointer -->
+ 				<rom name="Graph Saurus v1.0 (1989)(Bit2)[b].dsk" size="737280" crc="7f7ebcc0" sha1="cf73bbf887063eb57b73749e2483e3a6fb44c64e"/>
 			</dataarea>
 		</part>
 	</software>
@@ -4179,6 +4730,30 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="673ef736">
+ 		<description>HD-Tools</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- collection of ulitilies -->
+ 				<rom name="hello.dsk" size="737280" crc="673ef736" sha1="cdb1c5c7f532b8e926afc144d5671468db4addca"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="b9b6204a">
+ 		<description>Hello</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+ 				<rom name="hello.dsk" size="737280" crc="b9b6204a" sha1="b6458d52581986fc48c0afc71839f02f73745887"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="herolanc">
  		<description>Heroes of the Lance (Japan, disk conversion)</description>
  		<year>19??</year>
@@ -4282,6 +4857,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="0d2237d1">
+ 		<description>Hulp Programma's</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- private compilation? -->
+ 				<rom name="Hulp_Programmas_MSX-2_-SamoSoft-.dsk" size="737280" crc="0d2237d1" sha1="e73076376ba23a856322169bce0ec3e9a3d9b8af"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="ec9559db">
  		<description>Hydefos</description>
  		<year>19??</year>
@@ -4336,6 +4923,18 @@ license:CC0-1.0
  				<rom name="hydlide iii - the space memories (1987)(t&amp;e soft)(jp).dsk" size="737280" crc="b868605d" sha1="35fbd740a6f3e33b180d2dd12d17c4d3066bc752"/>
  				<rom name="hydlide iii - the space memories (1987)(t&amp;e soft)(jp)[a].dsk" size="737280" crc="9d2dcbec" sha1="097d486b92a09c6a7eb7998f44ac581a48da1101"/>
  				<rom name="hydlide iii - the space memories (1987)(t&amp;e soft)(jp)[a2].dsk" size="737280" crc="fa174060" sha1="f0e2ae2a9f62d2da08cc41136d893f6db00a8f81"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="84e58d97">
+ 		<description>Hyperdir</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="1049616">
+				<!-- software does not start -->
+ 				<rom name="Hyperdir.DMK" size="1049616" crc="84e58d97" sha1="e95f084fc145b383a4d1006c37c50253f8c8862f"/>
  			</dataarea>
  		</part>
  	</software>
@@ -4398,6 +4997,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="52e7e922">
+ 		<description>Improve</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically/separate tool -->
+				<rom name="Improve - (MST).dsk" size="368640" crc="52e7e922" sha1="0d462290c6f8300f388f8a3bedb48fbaa3dd1669"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="11edb830">
  		<description>Indian Quest</description>
  		<year>19??</year>
@@ -4444,6 +5055,18 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- baddump -->
 				<rom name="Inindo Datou Nobunaga. Way of the Ninja (1991)(Koei)(ja)(Disk 1 of 3)[b].dsk" size="737280" crc="0b2ddfef" sha1="fd2224681a783b7672ff1ad1f7790f87503ea3e8"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="fc5bf3ee">
+ 		<description>Instrumental and Pedagogical Software KUVT</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Instrumental &amp; Pedagogical Software KUVT (1988)(SP Dialogue Cooperation(ru).dsk" size="737280" crc="fc5bf3ee" sha1="5ae43aafe3e30348fe8b623c81088d64307b227d"/>
  			</dataarea>
  		</part>
  	</software>
@@ -4628,6 +5251,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="89cf3a94">
+ 		<description>JoyTracker</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DIN sync not working? -->
+				<rom name="JoyTrk.dsk" size="737280" crc="89cf3a94" sha1="2219190f7283fee1aa3b9b1cf848d71e8c79131d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="c8638bc2">
  		<description>Jumper</description>
  		<year>19??</year>
@@ -4636,6 +5271,18 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- does not start automatically -->
 				<rom name="Jumper (1991)(Nagi-P Soft)(ja).dsk" size="737280" crc="c8638bc2" sha1="b1d257bc1b4bf6e68648006317e7527717b0d98e"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="0959ca88">
+ 		<description>Kaartenbak MSX2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cannot find references -->
+				<rom name="Kaartenbak MSX Software.dsk" size="737280" crc="0959ca88" sha1="a6fcaa3204a2fe7d057404a5cb4955f0a492f803"/>
  			</dataarea>
  		</part>
  	</software>
@@ -4726,6 +5373,32 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="5a8ffb24">
+ 		<description>Konami Synthesizer</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cas/crt2dsk conversion -->
+				<rom name="synthesizer tape to disk.dsk" size="737280" crc="5a8ffb24" sha1="0c102b0aed16007921e79c0258a03c125b2e1737"/>
+				<rom name="side a.cas" size="49344" crc="92b44e6a" sha1="6e1103d3c813a764237439ab38d7cb6151f5a7bf"/>
+				<rom name="side b.cas" size="39792" crc="4848e639" sha1="54367c52246747be4831296fca6108fbb0ea08f0"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="f5f04022">
+ 		<description>Kookboek uit Indonesia</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cannot find references -->
+				<rom name="Kookboek Indonesische Recepten deel 1 - Club van Zes.dsk" size="737280" crc="f5f04022" sha1="1ce89c448601e28b5307f42a9e55d239d178e841"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="96a82d93">
  		<description>Tanigawa Kouji no Shougi Shinan 2</description>
  		<year>19??</year>
@@ -4796,6 +5469,18 @@ license:CC0-1.0
 				<!-- alts? -->
 				<rom name="Kubikiri Yakata - Sachan Ghyan (1989)(Bit2)(ja)(Disk 3 of 5)[a2][mouse].dsk" size="737280" crc="e2f5096b" sha1="a7eb6969b86c2e42aa41461fd7b895f859896215"/>
 				<rom name="Kubikiri Yakata - Sachan Ghyan (1989)(Bit2)(ja)(Disk 4 of 5)[a2][mouse].dsk" size="737280" crc="55ad0148" sha1="8454fa3b2496b2bee4e29f4e492518694e3b9c64"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="365d2ef8">
+ 		<description>Kumer</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Kumer 2.0 (1989)(Mekhmat Of Moscow)(ru).dsk" size="737280" crc="365d2ef8" sha1="096334c40d99f5a4f4d0c879b7cecae7a9943982"/>
  			</dataarea>
  		</part>
  	</software>
@@ -5010,6 +5695,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="1dfa3e5e">
+ 		<description>List</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- separate tools -->
+				<rom name="List.dsk" size="368640" crc="1dfa3e5e" sha1="324eb11c03e2ba9c5621626662deb8488dfaf593"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="f0b94e96">
  		<description>Logi-Bal</description>
  		<year>19??</year>
@@ -5130,6 +5827,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="d321266a">
+ 		<description>M80</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- separate tool -->
+				<rom name="M80.dsk" size="737280" crc="d321266a" sha1="fa6390686adf38564fb0efd77ebcfa33bf0d9954"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="madrider">
  		<description>Mad Rider (Japan, disk conversion)</description>
  		<year>19??</year>
@@ -5237,6 +5946,18 @@ license:CC0-1.0
  				<rom name="Madoushi Lulba (1990)(Compile)(ja)[a].dsk" size="737280" crc="1f6df8a6" sha1="e3d0929169800e85fa639ebca7aad6c9d1bfb302"/>
 				<!-- translated -->
  				<rom name="Madoushi Lulba (1990)(Compile)(en).DSK" size="737280" crc="22042674" sha1="6253236d86a93456147ad0f76fa4ea56f3d0e8d8"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="00e96743">
+ 		<description>Madvertising</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- no references found -->
+ 				<rom name="Madvertising (1990)(Z800).dsk" size="737280" crc="00e96743" sha1="12924fb86fb2390173b471f0dd60c7bedd9d391a"/>
  			</dataarea>
  		</part>
  	</software>
@@ -5423,6 +6144,18 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- translated English -->
  				<rom name="Maze [T-En by BiFi v1.0.0].dsk" size="737280" crc="0be45c66" sha1="045d15b27086cf68079922d68bd6b329a069bc13"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="2b61f3ed">
+ 		<description>MegaReport</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- not released on disk -->
+ 				<rom name="MegaReport v1.3 2021u1-SS.dsk" size="737280" crc="2b61f3ed" sha1="a208866b7f9ee5695dfa3b314da6b56d33f2c0e1"/>
  			</dataarea>
  		</part>
  	</software>
@@ -5618,6 +6351,30 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="750dd356">
+ 		<description>MoonBlaster</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DiskMgr1 -->
+ 				<rom name="moonblaster-1.4.dsk" size="737280" crc="750dd356" sha1="b5f5e02ce8becf47f9c50d115d752fd7f221a970"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="fc421bb9">
+ 		<description>Moonblaster Muzak Player</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- not a regular release? -->
+ 				<rom name="Moonblaster_muzak_player.dsk" size="737280" crc="fc421bb9" sha1="ad8778adc69b22d16425abd42340f6051f63b5d0"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="335df137">
  		<description>Morboy</description>
  		<year>19??</year>
@@ -5657,6 +6414,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="ffd40cb6">
+ 		<description>MPW2 Preview</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not work, 5 1/4" -->
+ 				<rom name="MPW2PREV.DSK" size="737280" crc="ffd40cb6" sha1="d997c093718c0d221b445b978d025fdedfcd58cf"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="30481e21">
  		<description>MSX Freeware Collection 3</description>
  		<year>19??</year>
@@ -5682,6 +6451,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="032bf9ba">
+ 		<description>MSX Logo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+ 				<rom name="MSX Logo (LEF Creative Team)(1990)(Russian).dsk" size="737280" crc="032bf9ba" sha1="6b4e9ebbbb74c1c4fde382f69c6770c605a31814"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="498604dc">
  		<description>MSX Spring</description>
  		<year>19??</year>
@@ -5690,6 +6471,32 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- cracked -->
  				<rom name="MSX Spring (1989)(MSX Magazine)(ja)[cr Megazone].dsk" size="737280" crc="498604dc" sha1="ae0ded7cfceb205eff5072ca8391663e49bfec94"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="49650d83">
+ 		<description>MSX Viditel</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cannot find any references -->
+ 				<rom name="MSX Viditel V2.12 (1987)(Miniware Technology &amp; Philips).DSK" size="737280" crc="49650d83" sha1="e44ef2b3e54bff5b80c9c60d3d4244a3e469a059"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="28a97e0b">
+ 		<description>MSX-Datapack</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically, what to do with these? -->
+ 				<rom name="MSXC.DSK" size="737280" crc="28a97e0b" sha1="8428a374d5a9090ea4d0db1f918241adf52a4af3"/>
+ 				<rom name="DP3.DSK" size="737280" crc="92e571e3" sha1="d16189b7609ba07617b974c659bf482814677120"/>
+ 				<rom name="DP12.DSK" size="737280" crc="1930d9f3" sha1="f2450a75f00295abb8c15f2d02cf3734c05a05fe"/>
  			</dataarea>
  		</part>
  	</software>
@@ -5706,6 +6513,125 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="7415f3b6">
+ 		<description>MSX-Train</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically, no data? -->
+ 				<rom name="MSX-Train (1994)(Pablosoft).dsk" size="737280" crc="7415f3b6" sha1="73257f7ab3fd810ac95d5bb14b975d8b992f5203"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="d96c56ea">
+ 		<description>MSX2-Base</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically, has user data -->
+ 				<rom name="MSX2-Base 1.11 - Meusesoft.dsk" size="737280" crc="d96c56ea" sha1="74a922cfde6a7c022d2814d0e34340b73996ec4d"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="5bc1e96d">
+ 		<description>MSX2Daad</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="msx2daad_v1.2 TEST_EN.dsk" size="737280" crc="5bc1e96d" sha1="d4d0f88ba7103c61c3d0e71c446428dc927924f9"/>
+ 				<rom name="msx2daad_v1.2 TEST_ES.dsk" size="737280" crc="d6f3b033" sha1="98ab135fef6928dd26db768a8f802095bee645c7"/>
+ 				<rom name="msx2daad_v1.5 TEST_EN.dsk" size="737280" crc="b136e025" sha1="54aa38dd7c04e0f025645b5ffd6639fa60353d94"/>
+ 				<rom name="msx2daad_v1.5 TEST_ES.dsk" size="737280" crc="04ea7c1d" sha1="7f41e057403d33ea13e728aae3827de945550be0"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="9a5d479b">
+ 		<description>MSXCALC</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- separate program (tsr) -->
+ 				<rom name="MSXCALC 1.20 - Jan van der Meer.dsk" size="737280" crc="9a5d479b" sha1="4833842d768c669849765d2a2b08574eb9ac760e"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="66afc409">
+ 		<description>msxmenu</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="32112640">
+				<!-- harddisk image -->
+ 				<rom name="video1.dsk" size="32112640" crc="66afc409" sha1="23bb14399e16729fb4f6673f15891553d96f6e87"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="204a5e95">
+ 		<description>MSXVideo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+ 				<rom name="video1.dsk" size="737280" crc="204a5e95" sha1="ebfc8efb0e63a5c9acfa88f18a62202888f1abf1"/>
+ 				<rom name="video2.dsk" size="737280" crc="7cafa3fd" sha1="7a5a338a6b70b330af9c4163bfc11922368d08a9"/>
+ 				<rom name="video3.dsk" size="737280" crc="2a4cddac" sha1="f470c662207e98dd313f4f978573bd6f58c92029"/>
+ 				<rom name="video4.dsk" size="737280" crc="1a361332" sha1="fd0ba5ef83f5d883c1c4f264b1652c90c44979a5"/>
+ 				<rom name="video61.dsk" size="737280" crc="a108c2bc" sha1="09fcca082ead520b17d26c62f4ca27d04bc98dec"/>
+ 				<rom name="video62.dsk" size="737280" crc="195d1633" sha1="41689dcfd5cdf0e25cd1fd464d4ab427e3dd768e"/>
+ 				<rom name="video63.dsk" size="737280" crc="73252237" sha1="7164a489b1c2fa32b58fb393c5fc421f59a60fb9"/>
+ 				<rom name="video64.dsk" size="737280" crc="a16729c8" sha1="64028bc1f80d2a05b699a4168eb5c16d63e26171"/>
+ 				<rom name="video65.dsk" size="737280" crc="b0dccef2" sha1="496c77a7c761055e06f372409776bc17b0b91fca"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="83a838eb">
+ 		<description>MSXWord 3</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- baddump? hacked? 1 byte in bootsector -->
+ 				<rom name="MSXWORD3.dsk" size="737280" crc="83a838eb" sha1="20151cffc9cc6793e499986254dd710982c4c7c9"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="9068634c">
+ 		<description>MT-Base</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+ 				<rom name="MT-Base (1987)(Micro Technology)(en).dsk" size="737280" crc="9068634c" sha1="0e02f3c01f75ce5c13ad55e89246b3d1bbcc8d06"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="9d6cee45">
+ 		<description>Multi Menu</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked? no title screen -->
+ 				<rom name="Multimenu (Club van Zes).dsk" size="737280" crc="9d6cee45" sha1="f8e3d152cf980ad54983769e8e588bfe66f71bb1"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="ec0f5f68">
  		<description>Music Demo</description>
  		<year>19??</year>
@@ -5714,6 +6640,30 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- keeps rebooting -->
  				<rom name="Music Demo (19xx)(JLSA Soft)(nl).dsk" size="737280" crc="ec0f5f68" sha1="574c3b66ab900ce3e30c11913995782b3440ee29"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="82c033a5">
+ 		<description>Music Editor</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- software does not start automatically, separate tool? -->
+ 				<rom name="Music Editor (1987)(Pelaktop).dsk" size="737280" crc="82c033a5" sha1="644222d928197d8a70b04797521e2767dfb800cd"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="bb681f4b">
+ 		<description>Music Module 256KB Sound Sampler</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- not working/hangs, for modded hardware? -->
+ 				<rom name="Music Module 256KByte Sound Sampler (199x)(Joben Microware).DSK" size="737280" crc="bb681f4b" sha1="f6d0975cb94b42dc28c5f5f9e45abed5e534d6ec"/>
  			</dataarea>
  		</part>
  	</software>
@@ -5739,6 +6689,39 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<!-- does not start automatically -->
  				<rom name="Nagi-P Soft Games (1991)(Nagi-P Soft).dsk" size="737280" crc="a4e20a29" sha1="de7a3db7c3b25a94c6a6f57711bb7cfb0bf940d7"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="55926fe2">
+ 		<description>De Namaak Disk</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cannot find references -->
+ 				<rom name="De Namaak Disk 1A (1996) (Studio P.Tol)[DP Stempels].DSK" size="737280" crc="8c05eccc" sha1="e5d2130089f368edd974e90e9bc137728cfd575f"/>
+ 				<rom name="De Namaak Disk 1B (1996) (Studio P.Tol)[DP Stempels].DSK" size="737280" crc="8f1069fb" sha1="c4fc1290bd0a732d1c5f2ab20da460239c5c7509"/>
+ 				<rom name="De Namaak Disk 2 (1997) (Studio P.Tol)[DP Stempels].DSK" size="737280" crc="55926fe2" sha1="6f8d3ed63f3ad6b9a966202a13683ede999a6d04"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="117b3c8a">
+ 		<description>NandemoSCC</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- v2.3b -->
+ 				<rom name="NANDEMOSCC.dsk" size="737280" crc="117b3c8a" sha1="ea9663045a4d5ac87e18a9cd49c2d4771b2f715c"/>
+ 				<rom name="SCCBOOT.ROM" size="2866" crc="d665a1d2" sha1="9332ddc6054d0d84b9047805144ee89e0b5d8157"/>
+				<!-- v2.51 -->
+ 				<rom name="NANDEMOSCC.dsk" size="737280" crc="1b2dcb0f" sha1="c27fc8a201fced881f2ebf0c2968dc01cc7c6a7c"/>
+ 				<rom name="SCCBOOT.ROM" size="8192" crc="4a3750c7" sha1="d5a20eacb284210fb61c031edbc3210eb7902063"/>
+				<!-- v3.00 -->
+ 				<rom name="NANDEMOSCC.dsk" size="737280" crc="e00947ef" sha1="1e2b8fa5555b8ef7dc05a97e4d100f9fd81e7485"/>
+ 				<rom name="SCCBOOT.ROM" size="8192" crc="bc0e0501" sha1="d2cfe5f3500c5008fb240ed45990c5e60d62e725"/>
  			</dataarea>
  		</part>
  	</software>
@@ -5769,6 +6752,30 @@ license:CC0-1.0
  				<rom name="nekketsu judo (1989)(pony canyon)(jp)[a].dsk" size="368640" crc="e3083e74" sha1="2a3adea1e31c949b6fe6974173668e9cb38eaf04"/>
  				<rom name="nekketsu judo (1989)(pony canyon)(jp)[a2].dsk" size="737280" crc="c761b48c" sha1="10d32d99b06dbe5780011a6e1c0c846be307d889"/>
  				<rom name="nekketsu judo (1989)(pony canyon)(jp)[a3].dsk" size="737280" crc="8394609e" sha1="847409929b7a3377022bb74cf5a9475daeec6485"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="8b18671f">
+ 		<description>NestorBasic</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- no dsk release -->
+ 				<rom name="Nestor Basic.dsk" size="737280" crc="8b18671f" sha1="9e9b41f6f64936ef6d50ba485cb4f945f9cce18b"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="96774fd6">
+ 		<description>Network OS for KUWT MSX-2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- small collection of tools -->
+ 				<rom name="Network OS for KUWT MSX-2 (1988)(Dialogue Cooperation)(ru).dsk" size="737280" crc="96774fd6" sha1="9ebd7310cd8f5c58a6120941d73f92ab75076ba2"/>
  			</dataarea>
  		</part>
  	</software>
@@ -5860,6 +6867,8 @@ license:CC0-1.0
  				<rom name="Norton Utilities v3.20 (1989)(Peter Norton).dsk" size="737280" crc="b825b737" sha1="7fd4ed30779c64893399b249497378282b0e7504"/>
 				<!-- does not start automatically -->
  				<rom name="Norton Utilities v3.20 (1989)(Peter Norton)[a].dsk" size="737280" crc="8e2934c6" sha1="140e6fd0bcde4106fdbc12b8a2ec55f2339693b2"/>
+				<!-- hacked -->
+ 				<rom name="Norton Utilities.DSK" size="737280" crc="71886fa8" sha1="73c0548ba73cc2709fb5bea4600b0eb14308c231"/>
  			</dataarea>
  		</part>
  	</software>
@@ -6061,6 +7070,30 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="4e360b21">
+ 		<description>Panasonic FS-IFA1</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+ 				<rom name="FS-IFA03.DSK" size="737280" crc="4e360b21" sha1="08eb22156230864715344eeac2ac63702e7f6e88"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="8a8958ac">
+ 		<description>Panasonic FS-PC1 tools</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- just a collection of tools? -->
+ 				<rom name="Panasonic FS-PC1 tools.dsk" size="737280" crc="8a8958ac" sha1="cd0390b254e4cc28a1d4328c201fd22c04e19738"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="c9710edb">
  		<description>Parodius (crt2dsk conversion)</description>
  		<year>19??</year>
@@ -6171,6 +7204,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="13b0ff6d">
+ 		<description>Philips Home Office 2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DiskMgr1 -->
+ 				<rom name="Philips Home Office.dsk" size="737280" crc="13b0ff6d" sha1="f855b5cab7fbc73e7b0c5bcce9a3fc75e01d65e1"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="2b8d7534">
  		<description>Pias (cracked)</description>
  		<year>19??</year>
@@ -6179,6 +7224,18 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
  				<rom name="Pias - Torn Sexual Spring (1991)(Birdy software)(ja)(Disk 1 of 2)[Fixed &amp; Cracked).dsk" size="737280" crc="2b8d7534" sha1="160d83b9652ffff9b40f174c7a1965d9ce0faaca"/>
  				<rom name="Pias - Torn Sexual Spring (1991)(Birdy software)(ja)(Disk 2 of 2)[Fixed &amp; Cracked).dsk" size="737280" crc="627db361" sha1="997b63c03e3765217c2d6de2c512e36d9e32e883"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="dff9ea92">
+ 		<description>PictureKit Deluxe</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- 5 1/4" pirate -->
+ 				<rom name="Picture_Kit_Deluxe_-_New_Vision_Benelux.dsk" size="163840" crc="dff9ea92" sha1="a87b54c165657277c6a9c8c8af2befdc8a44fea0"/>
  			</dataarea>
  		</part>
  	</software>
@@ -6543,6 +7600,56 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="118af43a">
+		<description>Quigs</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hdd -->
+				<rom name="MSX-SYMBOS3-IDE-IMAGE.dsk" size="20971520" crc="118af43a" sha1="578238b786eedd201cfc23e2144dc4d646ec7a78"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e9223534">
+		<description>Quinielas</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cas2dsk conversion -->
+				<rom name="Quinielas.dsk" size="737280" crc="e9223534" sha1="9e810f7591caaf5f99894d8714da99e817b7760d"/>
+				<rom name="Quinielas Loto (Manhattan Transfer, 1991).dsk" size="737280" crc="965c5077" sha1="7a4c886ea6b3e3377cfec77d18f2961fc31fff9f"/>
+				<rom name="Quinielas Loto (Manhattan Transfer, 1991) [Fixed].dsk" size="737280" crc="049a150f" sha1="b7b04804a2a2630783c0a3ac30212244fbbd6445"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0504f544">
+		<description>Quinpl</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="Quinpl (1988)(Bit2)[b].dsk" size="737280" crc="0504f544" sha1="6bd1b8a6758a09501f7d68c652a93590f8b9b8a2"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2abd6b96">
+		<description>Quintus</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Quintus - (MST).dsk" size="737280" crc="2abd6b96" sha1="69ed63bde25a10ea130c90c1d2998773d1330cc8"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="537ddb2e">
 		<description>R-Type (crt2dsk conversion)</description>
  		<year>19??</year>
@@ -6697,6 +7804,25 @@ license:CC0-1.0
 				<rom name="Ray Gun - Image Loader v1.0 (1992)(Danilo Danisi)(Disk 1 of 3)(Start Disk).dsk" size="737280" crc="5c661c84" sha1="705bf0c76944111cb6e13f01955de2d014b82d06"/>
 				<rom name="Ray Gun - Image Loader v1.0 (1992)(Danilo Danisi)(Disk 2 of 3)(Images Disk).dsk" size="737280" crc="8019f8d0" sha1="caa2cd7bfbde7f002606e688d19634481ebdf130"/>
 				<rom name="Ray Gun - Image Loader v1.0 Demo (1992)(Danilo Danisi).dsk" size="737280" crc="a13171c2" sha1="4d102f8e814b5a601b518a7a5eef8722b745ceae"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="5faab8b1">
+		<description>Realfun3</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- betas -->
+				<rom name="RealFun3 - 29-05-2021.dsk" size="737280" crc="5faab8b1" sha1="0969e315b1a45a64a578922e3ac335399241daa2"/>
+				<rom name="realfun3.dsk" size="737280" crc="b7fff25d" sha1="b38240bac51839cbd453473a4b5c7ec4ad060286"/>
+				<rom name="realfun3_076.dsk" size="737280" crc="4b00c637" sha1="6136df999ebff54384c8de59bd29cfb47662ad79"/>
+				<rom name="realfun3_077.dsk" size="737280" crc="10ef0b7a" sha1="2933e499329fb85d4411b619426485a24618cec0"/>
+				<rom name="realfun3_078.dsk" size="737280" crc="b0e4e553" sha1="acbd59f7b69ba6bc028b5150ece5fffe0d3e1674"/>
+				<rom name="realfun3_079.dsk" size="737280" crc="f4f1d168" sha1="8dc38a8f72ea5ecdd27b1c82545919ac417ede7a"/>
+				<rom name="realfun3_081.dsk" size="737280" crc="de70eda0" sha1="fe6e139052cf08724e79135e07f5a8cf303c24f6"/>
+				<rom name="replayz80.dsk" size="737280" crc="f2da6c85" sha1="c18ad1e0871b0bd461f381989d42115cb5843438"/>
 			</dataarea>
 		</part>
 	</software>
@@ -6902,6 +8028,18 @@ license:CC0-1.0
  			<dataarea name="flop" size="737280">
 				<rom name="Robowres 2001 (1988)(Zemina).dsk" size="737280" crc="e35f014d" sha1="0e0205f1ebf96afde8c1a13d5cf894a416e08edf"/>
 				<rom name="Robowres 2001 (1988)(Zemina)[a].dsk" size="737280" crc="ba93457e" sha1="f87996c17a3846a07a35b1767644f954920096e0"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="1e02bdb8">
+		<description>Robotland</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start automatically -->
+				<rom name="Robotland (1989)(Institute Of Program Systems)(ru).dsk" size="737280" crc="1e02bdb8" sha1="626641842c1dcb771d305860b34a2acf123c130e"/>
 			</dataarea>
 		</part>
 	</software>
@@ -7414,6 +8552,20 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="68889cf4">
+		<description>SCC Blaffer</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- fixed -->
+				<rom name="SCC Blaffer NT (TeddyWarez) SCC-Fix.dsk" size="737280" crc="68889cf4" sha1="a43581d1105844736f1848b90b723ec52c93c737"/>
+				<!-- does not start automatically -->
+				<rom name="SCC Blaffer NT v1.3.dsk" size="737280" crc="918806f0" sha1="eac8ae4965d8e759160892553f4b74d2e7a6a980"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="dbbd9284">
 		<description>Siege (does not start automatically)</description>
  		<year>19??</year>
@@ -7575,6 +8727,31 @@ license:CC0-1.0
  		<part name="flop" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
 				<rom name="Solitaire Royale [T-En by Django].dsk" size="737280" crc="8c2ce7e6" sha1="e32c8d720a5634b6b7de05e516c5bc48eb47d8c5"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ac556174">
+		<description>Sony Graphics Editor</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start -->
+				<rom name="Sony Graphics Editor 1.0.DSK" size="737280" crc="ac556174" sha1="b6a9e733855af990541ad1d51bb6f5b639f2afe2"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="hbpf1c">
+		<description>Sony HBP-F1C</description>
+		<year>1989</year>
+		<publisher>Sony</publisher>
+		<info name="usage" value="Requires a Japanese system."/>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<!-- not much of a tool disk; is it the real thing? -->
+				<rom name="sony hbp-f1c.dsk" size="737280" crc="489d45cc" sha1="2840906d037a9514e1a53c48bc84a541ff969376"/>
 			</dataarea>
 		</part>
 	</software>
@@ -7771,6 +8948,18 @@ license:CC0-1.0
  		<part name="flop" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
 				<rom name="Street Snatch (1994)(Future Disk)[a].dsk" size="737280" crc="29eeeb1e" sha1="b9a41e21a75e85fe527bd0f9d90ae693ad510fc2"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0890527d">
+		<description>Studio FM</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cracked -->
+				<rom name="Studio FM (1991)(MSX Engine).dsk" size="737280" crc="0890527d" sha1="235f01004eaabf556a79a2ffec27514972c320ad"/>
 			</dataarea>
 		</part>
 	</software>
@@ -8102,6 +9291,44 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="21453ffa">
+		<description>Super-Index</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- unknown how, when, who -->
+				<rom name="Super-Index (1992)(MCWF)(C-Sort).DSK" size="737280" crc="21453ffa" sha1="61b13fd783de928d0a4a8367f339ab0f9ccf1879"/>
+				<rom name="Super-Index (1992)(MCWF)(Main Disk).DSK" size="737280" crc="2c193f44" sha1="a4bb61d4c777c2c8e3386f1920d035921f0d13a1"/>
+				<rom name="Super-Index (1992)(MCWF)(Sup-Sort).DSK" size="737280" crc="0d547519" sha1="f8c6862ae3091adbace4ef14bbcf76677388edfe"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3103a5ba">
+		<description>SuperCalc2</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- should have been on a 1DD -->
+				<rom name="SUPCALC.DSK" size="737280" crc="3103a5ba" sha1="7666cb80bf17cbe17b14073048e6f7a752d90e7c"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="36e73bee">
+		<description>Supercop</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="1029936">
+				<!-- prefer 82 track dmk -->
+				<rom name="Supercop - Erbosoft (1992)(Read-DMK).dmk" size="1029936" crc="36e73bee" sha1="94dd37da256d9751201a4a855c25c2b8582346cd"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="b3d52732">
 		<description>Superstars of Wrestling (has bugs when winning)</description>
  		<year>19??</year>
@@ -8131,6 +9358,57 @@ license:CC0-1.0
  		<part name="flop" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
 				<rom name="Synth Saurus v2.0 (1989)(Bit2)[b].dsk" size="737280" crc="940e1b91" sha1="a678774304da83a4a3bcda0b9bfbf1b55afe8c52"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3d713a7e">
+		<description>Synthese Vocale</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- stays quiet -->
+				<rom name="synthesevocale.dsk" size="737280" crc="3d713a7e" sha1="b2651601c2f9d088b3ad4da10c22b0abb9f4e40b"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e1145760">
+		<description>T/Maker IV</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;n&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- prefer dmk -->
+				<rom name="t-maker - sony (disk a).dsk" size="368640" crc="8ce9a279" sha1="4f9bba5b503693020272448c86671396f44734aa"/>
+				<rom name="t-maker - sony (disk b).dsk" size="368640" crc="a9b96389" sha1="572d4b6ab6f0183c5c8882d2b07cd3a9c2a0868d"/>
+				<!-- 2DD hack -->
+				<rom name="T Maker IV (1985)(T Maker Company).dsk" size="737280" crc="e1145760" sha1="27fc0aa445078a3d5f2df6dcf929599449c1a923"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="df82045a">
+		<description>TAPE2CAS</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;n&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- separate tools -->
+				<rom name="TAPE2CAS v1.72 (Martos) (DSK Version).dsk" size="737280" crc="df82045a" sha1="bfd04c97974b4af31bc80ec44cd9c14a5f0aa744" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dd0cab36">
+		<description>TED</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;n&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- not fully functional, should have been on a 1DD? v2.65 -->
+				<rom name="TED.DSK" size="737280" crc="dd0cab36" sha1="de55fc23c3c79a707ce32303660c48beff5a9d81" />
 			</dataarea>
 		</part>
 	</software>
@@ -8566,6 +9844,30 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="0f184e9e">
+		<description>Turbo 7MHz Benchmark Disk</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- not everything needed to run the tests is on disk -->
+				<rom name="Turbo 7Mhz Benchmark Disk (1991)(Digital KC &amp; MCWF).DSK" size="737280" crc="0f184e9e" sha1="6609dfda6d279ed3c46cf78e4c1ed5a992ad2d91" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="a64264c5">
+		<description>Turbo Pascal</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DiskMgr1 -->
+				<rom name="Turbo Pascal 3.01a.DSK" size="737280" crc="a64264c5" sha1="221a1c796edd726cbf44389402bd05589ded6de1" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="47a9dc64">
 		<description>Turikichi Sampei (cracked Dalak Soft)</description>
  		<year>19??</year>
@@ -8780,34 +10082,78 @@ license:CC0-1.0
 	</software>
 
  	<software name="usas">
- 		<description>Usas (Japan, disk conversion)</description>
+ 		<description>Usas</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
  				<rom name="treasure of usas, the (1987)(konami)(jp).dsk" size="737280" crc="1e597913" sha1="015a662b035933c141256c78fe276fc7d98cdd1d"/>
- 			</dataarea>
- 		</part>
- 	</software>
-
- 	<software name="usasa">
- 		<description>Usas (Japan, alt, disk conversion)</description>
- 		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
- 		<part name="flop1" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
  				<rom name="treasure of usas, the (1987)(konami)(jp)[a].dsk" size="737280" crc="5e16cc8d" sha1="c2a377b9a380214b9631630fea234102db354cae"/>
+ 				<rom name="treasure of usas, the (1987)(konami)(jp)[a2].dsk" size="737280" crc="1c4cdd32" sha1="9a107ad47963b9b5ad23e286d8b1e695ed98a34e"/>
  			</dataarea>
  		</part>
  	</software>
 
- 	<software name="usasb">
- 		<description>Usas (Japan, alt 2, disk conversion)</description>
+	<software name="cdc24ed2">
+		<description>UniPaint</description>
  		<year>19??</year>
- 		<publisher>&lt;cart2disk hack&gt;</publisher>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- DSKTOOL -->
+				<rom name="unipaint (1986)(matsushita electric industrial)(jp)[a][mouse].dsk" size="737280" crc="cdc24ed2" sha1="4bc3b6d3ca010091e2e33d9ef9507c3b68cef4e8"/>
+				<!-- formatted with msxdos2 -->
+				<rom name="Uni Paint (1986)(Matsushita Electric Industrial)(jp).dsk" size="737280" crc="9828c5e6" sha1="c3ab1e68d38dbda15bf162ee30a9f199a8224a6c"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8f23d840">
+		<description>Utility Disk</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- separate tools -->
+				<rom name="Utility Disk - DavidBoelee.dsk" size="737280" crc="8f23d840" sha1="9d10f943391b630e72fec160152e9c40c722751d" />
+				<!-- bad dump -->
+				<rom name="Utility Disk - Meusesoft Gerkasoft (incomplete 2 bad sectors).dsk" size="737280" crc="eeaa6bf4" sha1="a943ae1649572cc8c65586c4bb3018eaf7de854b" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="c287bfef">
+		<description>Utility Disk Mapper Utilities Disk / Quasar #27C (part of disk magazine)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<rom name="Utility Disk Memory Mapper Gouda (1994)(MSX-club Gouda).DSK" size="737280" crc="c287bfef" sha1="43372f8cbaae3b35f388ac1ccce14f39243ad10f" />
+			</dataarea>
+		</part>
+	</software>
+
+ 	<software name="72cc3a57">
+ 		<description>Utilitie Disk 3</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
- 				<rom name="treasure of usas, the (1987)(konami)(jp)[a2].dsk" size="737280" crc="1c4cdd32" sha1="9a107ad47963b9b5ad23e286d8b1e695ed98a34e"/>
+				<!-- several programs do not work -->
+ 				<rom name="Utillitie Disk 3 (1991)(NKK).DSK" size="737280" crc="72cc3a57" sha1="5ccae3327d7fd258a04f58e46281faf027158a96"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
+ 	<software name="2ea0c098">
+ 		<description>UTILS</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- fMSXDisk -->
+ 				<rom name="UTILS (RSC Software, 1991).dsk" size="737280" crc="2ea0c098" sha1="dfc897161946947180fa5d29caf314039a354cff"/>
  			</dataarea>
  		</part>
  	</software>
@@ -8907,39 +10253,57 @@ license:CC0-1.0
  		<part name="flop" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
 				<rom name="Vectron (1989)(Parallax)[a1].dsk" size="737280" crc="11d39eea" sha1="2079621d00f031fd3530c31a160a5e501d5ec77c" />
-			</dataarea>
-		</part>
-	</software>
-
-	<software name="e79a2c24">
-		<description>Vectron (extracted from compilation 2)</description>
- 		<year>19??</year>
- 		<publisher>&lt;unknown&gt;</publisher>
- 		<part name="flop" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
 				<rom name="Vectron (1989)(Parallax).dsk" size="737280" crc="e79a2c24" sha1="dcc2e551c0017e81e275c4d3d01e21d644dd9eb4" />
-			</dataarea>
-		</part>
-	</software>
-
-	<software name="7207ff0a">
-		<description>Vectron (extracted from compilation 3)</description>
- 		<year>19??</year>
- 		<publisher>&lt;unknown&gt;</publisher>
- 		<part name="flop" interface="floppy_3_5">
- 			<dataarea name="flop" size="737280">
 				<rom name="Vectron (1989)(Parallax)[a].dsk" size="737280" crc="7207ff0a" sha1="7456e64aeae5c7e5efe74665a9c79d5ede3fd17d" />
+				<rom name="Vectron (1989)(Parallax)[a2].dsk" size="737280" crc="d7104994" sha1="c74a87995aa7031a9e2c316c2370daa90913dfcd" />
 			</dataarea>
 		</part>
 	</software>
 
-	<software name="d7104994">
-		<description>Vectron (extracted from compilation 4)</description>
+	<software name="429c2ffe">
+		<description>Versor</description>
  		<year>19??</year>
  		<publisher>&lt;unknown&gt;</publisher>
  		<part name="flop" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
-				<rom name="Vectron (1989)(Parallax)[a2].dsk" size="737280" crc="d7104994" sha1="c74a87995aa7031a9e2c316c2370daa90913dfcd" />
+				<!-- separate tool? does not start -->
+				<rom name="versor.dsk" size="737280" crc="429c2ffe" sha1="cbe16cd211148769488fa2993b42f95e00e0af0e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6fa888cf">
+		<description>Verzameldisk II</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- cannot find any references -->
+				<rom name="Verzameldisk_II_-Software_Gids-.dsk" size="737280" crc="6fa888cf" sha1="c915c114a9ecfd28cb4ddcc9fa201d92cb5cde96" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="aad87e35">
+		<description>Video Graphics</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- does not start -->
+				<rom name="Video Graphics.DSK" size="737280" crc="aad87e35" sha1="13725423f8695cd1dfadef21e04cfcd97166679a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8ebe1818">
+		<description>VideoBench</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- has saved data -->
+				<rom name="Video_Bench_-_New_Vision_Benelux.dsk" size="737280" crc="8ebe1818" sha1="4906cadbb9406803fe22069156aa72556151c5a9" />
 			</dataarea>
 		</part>
 	</software>

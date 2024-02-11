@@ -3838,6 +3838,29 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="efde727b">
+		<description>MSX Power Cartridge</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<!-- does not start -->
+				<rom name="MSX Power Cartridge.rom" size="0x4000" crc="efde727b" sha1="2d54519627426c4bc6c68036eb41d0494c6e0037" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="d665a1d2">
+		<description>Nandemo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<rom name="SCCBOOT.ROM" size="2866" crc="d665a1d2" sha1="802e713f77f0cac238bdc90852236d288d022bff" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="e6ee2488">
 		<description>Nekketsu Judo (fixed)</description>
  		<year>19??</year>
@@ -4109,6 +4132,18 @@ license:CC0-1.0
 		<part name="cart" interface="msx_cart">
 			<dataarea name="rom" size="0x40000">
 				<rom name="Rastan Saga - TAITO (1988) [Ulver crack] [1912].rom" size="0x40000" crc="bed15a7a" sha1="c08a3c1478e51db62624814acbf36c198d6561e6" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="8d2e0ade">
+		<description>Realfun 3 Replayer</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x40000">
+				<!-- does not work -->
+				<rom name="rf3rep.rom" size="0x40000" crc="8d2e0ade" sha1="da73103a9648b5cea0beaac40ab73d20392d5130" />
 			</dataarea>
 		</part>
 	</software>

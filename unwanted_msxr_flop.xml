@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
+<!--
+license:CC0-1.0
+-->
+<softwarelist name="unwanted_msxr_flop" description="MSX Turbo-R disk images - hacks, cracks, conversions, etc">
+
+<!-- to sort/check -->
+
+<!-- ______________________________________________________________________ -->
+
+	<software name="6cb58d72">
+		<description>MSX View</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+				<rom name="MSX_View_1.0_English.dsk" size="737280" crc="6cb58d72" sha1="3d14b1ba38782fd395f824d838b3f4df04d42415" />
+				<!-- don't know -->
+				<rom name="MSX View (1991)(ASCII)(ja).dsk" size="737280" crc="9305eb4e" sha1="bc5333ee88cf26419c64074e45ab7b64c8866c22" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="2affda9f">
+		<description>Turbo Booster</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- translated -->
+				<rom name="Turbo Booster Execution Disk (1990)(Team Toy Boy(s))(en).dsk" size="737280" crc="2affda9f" sha1="55b3a6fff14d65fbb7602a73449f75a8849203f1" />
+				<!-- different volume id -->
+				<rom name="Turbo Booster Execution Disk (1990)(Team Toy Boy(s))(jp)[a].dsk" size="737280" crc="df530dc7" sha1="1f74c4015f4ece3cc0ec22bf1b719a59460ff9a6" />
+				<!-- does not start automatically -->
+				<rom name="Turbo Booster Install Program 1.20a (1990)(Team Toy Boy(s))(jp).dsk" size="737280" crc="176daec8" sha1="e4b72506c3dd8504cd9f9c0c98c794027170937c" />
+			</dataarea>
+		</part>
+	</software>
+
+</softwarelist>

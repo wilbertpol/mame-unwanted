@@ -5025,6 +5025,18 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="1f393b82">
+		<description>Driver test</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x10000">
+				<!-- what is this? does not start when mounted manually -->
+				<rom name="DRVTST.ROM" size="0x10000" crc="1f393b82" sha1="4a7e7afd894c05c09c8cd7ac4f18a0b5f0df76b8" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="32667d35">
 		<description>Droids the White Witch</description>
  		<year>19??</year>
@@ -5155,6 +5167,18 @@ license:CC0-1.0
 				<rom name="Dynamite Go! Go! - Demo (2021) (Rutubo Gameworks)(MSX 1 &amp; Scroll Fix by NYYRIKKI).ROM" size="0x8000" crc="75f41d87" sha1="911b7821c9f58a43660eb56298cf0659356ba992" />
 				<rom name="Dynamite Go! Go! - Demo (2021) (Rutubo Gameworks)(MSX 1 Fix by NYYRIKKI).ROM" size="0x8000" crc="eec66ce7" sha1="ebcf5458f73a1b8c3e233a330cb5c60824831c12" />
 				<rom name="Dynamite Go! Go! - Demo (2021) (Rutubo Gameworks)(Scroll Fix by NYYRIKKI).ROM" size="0x8000" crc="88bdd996" sha1="bdacff63bea81d1c1fdc163af85f9fb653855272" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="3f2050aa">
+		<description>Easi-speech</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<!-- overdump -->
+				<rom name="Easi Speech (1987)(R.Amy).rom" size="0x4000" crc="3f2050aa" sha1="6b36486e1e2da33010a34e04976ebd8581dadc4a" />
 			</dataarea>
 		</part>
 	</software>
@@ -7277,6 +7301,18 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="77e06ee1">
+		<description>IntelliMSX</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x4000">
+				<!-- does not work -->
+				<rom name="IntelliMSX.rom" size="0x4000" crc="77e06ee1" sha1="8481633d3da4d6535f9bed0b1fa361e159fe8ce7" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="efeac79c">
 		<description>International 7 Card Stud (extracted from Samantha Fox Strippoker)</description>
  		<year>19??</year>
@@ -7901,6 +7937,30 @@ license:CC0-1.0
 				<!-- dsk2crt conversion -->
 				<rom name="Konami Game Collection - Volume #4 - Konami (1988) [3423].rom" size="0x80000" crc="cf087eaa" sha1="ce227d7932847b7f0db39ca85ea3fa0e3c22a692" />
 				<rom name="Konami Game Collection - Volume #4 - Konami (1988) [3989].rom" size="172032" crc="802d7d8d" sha1="3dd7d3e6f266eb64fa70fc5f47e69dfe9e834fb7" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="0c02c4d4">
+		<description>Konami EC701</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x8000">
+				<!-- hacked -->
+				<rom name="ec701_program_bugfixed_by_BiFi.rom" size="0x8000" crc="0c02c4d4" sha1="bad9ae862957b6fe7752647e0799537448a8568e" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f80c6dd8">
+		<description>Konami Ultimate Collection Tools</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x2000">
+				<!-- base pirate cart -->
+				<rom name="RC000.rom" size="0x2000" crc="f80c6dd8" sha1="00cb18fd58bbbbd8f46f625225dc3236dc8967f6" />
 			</dataarea>
 		</part>
 	</software>

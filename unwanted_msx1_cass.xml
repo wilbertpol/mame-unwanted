@@ -1547,6 +1547,18 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="329cc1a2">
+		<description>Pioneer PX-V60 Demo</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="63998">
+				<!-- CLOAD, hangs half way -->
+				<rom name="MSX Palcom Demo Tape (1985)(Pioneer).CAS" size="63998" crc="329cc1a2" sha1="5aea5df8b215c9cd1dcd6577bcd4b243a471e0bc" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="b41bd930">
 		<description>Pippo La Scopa Ficcanaso (crt2cas conversion)</description>
  		<year>19??</year>
@@ -2000,6 +2012,22 @@ license:CC0-1.0
 		<part name="cass1" interface="msx_cass">
 			<dataarea name="cass" size="30965">
 				<rom name="The Queens Footsteps Part 3 (2020)(Davide Bucci)[BLOAD'CAS-',R].cas" size="30965" crc="ba583936" sha1="e4ea344743cd36c331f23c37d26d6858276374d2" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ee07f4df">
+		<description>Tiny Slot Checker</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="16857">
+				<rom name="TinySlotChecker_8KB.cas" size="4230" crc="ee07f4df" sha1="93750e04496da4bd648d482fe43ef31e9f3aedb6" />
+				<rom name="TinySlotChecker_32KB.cas" size="6304" crc="7d41f8d0" sha1="f692810f90f86d85e5c889988b9703733a78c330" />
+				<rom name="TinySlotChecker_8KB_1200.wav" size="961996" crc="6cd82914" sha1="23ceb0d279fca55676903ed5a8ddf2492e212308" />
+				<rom name="TinySlotChecker_8KB_2400.wav" size="590460" crc="251d3359" sha1="04bb77f514a0022e73e70815db3108950f0ee9d8" />
+				<rom name="TinySlotChecker_32KB_1200.wav" size="1327020" crc="093609f9" sha1="28fcb6a68ca845f6de837ab05a2be02a29249427" />
+				<rom name="TinySlotChecker_32KB_2400.wav" size="772972" crc="4ccd7786" sha1="f610af3d85b57a416131ab9338a9299c12013b9b" />
 			</dataarea>
 		</part>
 	</software>

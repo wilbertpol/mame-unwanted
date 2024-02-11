@@ -7,6 +7,41 @@ license:CC0-1.0
 
 	<!-- to sort, too new, separated tools, etc -->
 
+	<software name="4feffc83">
+		<description>WordStar (hacked, 5.25)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="368640">
+				<rom name="WordStar.dsk" size="368640" crc="4feffc83" sha1="dbc3f2f9ca36a158504c72a47b2bb2a83e52de2c" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="9f9cd398">
+		<description>XSC Compression Program (separate program)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="XSC Compression Program (1995)(XelaSoft)[needs MSX-DOS 2].dsk" size="737280" crc="9f9cd398" sha1="09970aa6ee691f3f0b33cdd54d9a4e341fa6fbca" />
+				<rom name="XSC Compression Program (1995)(XelaSoft)[a][needs MSX-DOS 2].dsk" size="737280" crc="12eee5d2" sha1="7c70cde2d0b0a5fe952b11bd878d46290dab9231" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="abdd8df3">
+		<description>ZX81 emulator</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<rom name="ZX 81 Emulator.dsk" size="737280" crc="abdd8df3" sha1="b1352635955fae50d196573f4e933a54f6ab5e0d" />
+				<rom name="ZX81 Emulator.dsk" size="737280" crc="e6dbe290" sha1="e89cf4c24d91d55367072570885a468eefa158ad" />
+			</dataarea>
+		</part>
+	</software>
+
 	<!-- Goes into lalaland at the title screen. Bad dump? -->
 	<software name="agendapr" supported="no">
 		<description>Agenda Perpetua (Spain)</description>
@@ -3356,6 +3391,7 @@ license:CC0-1.0
 		<part name="flop1" interface="floppy_3_5">
 			<dataarea name="flop" size="737280">
 				<rom name="Boulder Dash (1985)(Databyte).dsk" size="737280" crc="a3c81ef6" sha1="5842006a827a97377a49470679ab22af28d8b5b3" />
+				<rom name="boulderdash_editor_finnish.dsk" size="737280" crc="212e8e21" sha1="b6ba830b96e8ca23beb922223a82ede38a391715" />
 			</dataarea>
 		</part>
 	</software>
@@ -5824,6 +5860,23 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="6a69f984">
+		<description>Diskit</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+				<rom name="Diskit-c1.dsk" size="368640" crc="6a69f984" sha1="86b600a8418074dd79cba5a50a343f0f61131c00" />
+				<rom name="Diskit-c2.dsk" size="368640" crc="20011b6a" sha1="52b9f18a1d22a18232254d8c84bba84919c7770e" />
+				<rom name="Diskit-original.dsk" size="737280" crc="8f7fc3aa" sha1="b674045494039652ed1d969a5e285000b935350f" />
+				<!-- DiskMgr1 -->
+				<rom name="Diskit-DiskMgr-Complete.dsk" size="368640" crc="133ca058" sha1="db6a69efd2eff0bc6189b8c2efc2b6e45b45c6b3" />
+				<rom name="Diskit-DiskMgr-Incomplete.dsk" size="737280" crc="8483ddb5" sha1="3a51485b045ff3e283d94692a1d7d47f0577cc22" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="729c4199">
 		<description>Dizzy Dice (cas2dsk conversion)</description>
  		<year>19??</year>
@@ -6681,6 +6734,18 @@ license:CC0-1.0
 			</dataarea>
 		</part>
 	</software>
+
+ 	<software name="0392aee0">
+ 		<description>Every Copy</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="184320">
+				<!-- does not start automatically, 5 1/4" -->
+ 				<rom name="Every Copy.DSK" size="184320" crc="0392aee0" sha1="4f086601cb9b38193159ce591f55b9846862ac3b"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
 
 	<software name="b6d031a7">
 		<description>Ewoks and the Dandelion Warriors (crt2dsk conversion)</description>
@@ -11862,6 +11927,18 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="f2c4ea14">
+		<description>MCN Wegwijs</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<!-- cas2dsk conversion -->
+				<rom name="mcn_wegwijs.dsk" size="184320" crc="f2c4ea14" sha1="e7b7f1e1cd9d6a4386ab34e3b1ddc8fc00cd1008" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="6cb0191f">
 		<description>Mecano Oasis (cas2dsk conversion)</description>
  		<year>19??</year>
@@ -11880,6 +11957,31 @@ license:CC0-1.0
 		<part name="flop1" interface="floppy_3_5">
 			<dataarea name="flop" size="737280">
 				<rom name="Mecom (1988)(Iber Soft)(es).dsk" size="737280" crc="7f682ee5" sha1="21c3e27c4670b8546573f0be70bdeed1951306d3" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="6c0f9ca9">
+		<description>MED</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<!-- does not start, 5 1/4" -->
+				<rom name="MED.DSK" size="184320" crc="6c0f9ca9" sha1="f866b404ab79830bc40250f032780c18632d4074" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="78d888b1">
+		<description>Mega Assembler</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<!-- crt2dsk conversion -->
+				<rom name="Mega Assembler.dsk" size="737280" crc="78d888b1" sha1="cf829125839d39ee87211bf24396fa47f3a46dcd" />
+				<rom name="megaasm.dsk" size="737280" crc="92594616" sha1="0ff76923149e124aa9a25203ab3eee4bcfb3e447" />
 			</dataarea>
 		</part>
 	</software>
@@ -12764,6 +12866,18 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="dffb214a">
+		<description>MSX Audio Series Score Editor</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<!-- metadata -->
+				<rom name="._MSX Audio Series Score Editor (1987)(Musical Plan).dsk" size="1348" crc="dffb214a" sha1="4c8103eeeb274b2739b8cdb80002b05e4415541e" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="0e1097d7">
 		<description>MSX Baseball (crt2dsk conversion)</description>
  		<year>19??</year>
@@ -12782,6 +12896,18 @@ license:CC0-1.0
 		<part name="flop1" interface="floppy_3_5">
 			<dataarea name="flop" size="737280">
 				<rom name="MSX CD-ROM (19xx)(-).dsk" size="737280" crc="96a4b5eb" sha1="40c909f9885850d26475ef9c158dd3a4227bc067" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="879227b3">
+		<description>MSX Chart</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="368640">
+				<!-- does not start automatically, 5 1/4" -->
+				<rom name="MSX Chart.DSK" size="368640" crc="879227b3" sha1="58b0e229770854f922844dd72b36476a324fac66" />
 			</dataarea>
 		</part>
 	</software>
@@ -14326,6 +14452,18 @@ license:CC0-1.0
 		</part>
 	</software>
 
+ 	<software name="94fe22e9">
+ 		<description>MSX Scanner</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- separate tool, 5 1/4" -->
+ 				<rom name="scanner.dsk" size="737280" crc="94fe22e9" sha1="36c5354a6abd5558215dee6a8c29c58cba54f851"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
 	<software name="c99a3e83">
 		<description>MSX Top CAD (baddump?, manually created with DiskMgr1)</description>
  		<year>19??</year>
@@ -15332,6 +15470,18 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="ebea7699">
+		<description>The PCM Player</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<!-- bad dump -->
+				<rom name="PCM Player, The (19xx)(-)[b].dsk" size="737280" crc="ebea7699" sha1="65c9c181fe8c78c3dec77ad4166fd70b3f448268" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="767dc27b">
 		<description>Pedagogie 1-6 (manually created with DiskMgr1)</description>
  		<year>19??</year>
@@ -15548,6 +15698,20 @@ license:CC0-1.0
 		<part name="flop1" interface="floppy_3_5">
 			<dataarea name="flop" size="737280">
 				<rom name="Phantomas 2 (1987)(Dinamic Software)(es)[a].dsk" size="737280" crc="8bcce975" sha1="a426a48939e278c81e89d7045b74b1db69a3e775" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="phdrums">
+		<description>Philips Drum System (Europe)</description>
+		<year>1987</year>
+		<publisher>Philips</publisher>
+		<info name="usage" value="Requires MSX-Audio." />
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<!-- How to make it play sounds?? -->
+				<!-- According to generation-msx this was released on a single sided floppy -->
+				<rom name="philips drum system - philips.dsk" size="737280" crc="396551a9" sha1="a949834f938c9ffca20f8104b66803938c9ace0a" status="baddump" />
 			</dataarea>
 		</part>
 	</software>
@@ -15999,6 +16163,18 @@ license:CC0-1.0
 		<part name="flop1" interface="floppy_3_5">
 			<dataarea name="flop" size="737280">
 				<rom name="Power and Magic (1990)(Zigurat Software)(es)[h CEZ].dsk" size="737280" crc="874f03ea" sha1="74ef2007f510e4d02da64ac0e560049f9a4bc895" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="ebd0c155">
+		<description>Power Chupin</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<!-- Separate tool, rom copier. 5 1/4" -->
+				<rom name="CHUPIN.DSK" size="737280" crc="ebd0c155" sha1="4647d5031e432a731473ffce4d4c29374079ba84" />
 			</dataarea>
 		</part>
 	</software>
@@ -18969,6 +19145,18 @@ license:CC0-1.0
 		<part name="flop1" interface="floppy_3_5">
 			<dataarea name="flop" size="737280">
 				<rom name="Terrorpods (1989)(Dro Soft)[cr Damian Roman].dsk" size="737280" crc="c57e619a" sha1="daac30e610b8de00d95571bb31c098c7424b6d66" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="081069ae">
+		<description>Test de Listados</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;&gt;</publisher>
+		<part name="flop1" interface="floppy_3_5">
+			<dataarea name="flop" size="737280">
+				<!-- cas2dsk conversion -->
+				<rom name="Test de Listados.dsk" size="737280" crc="081069ae" sha1="1ba171da6ad7e9e2ba792c9d711790405989da5d" />
 			</dataarea>
 		</part>
 	</software>
