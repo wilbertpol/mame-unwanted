@@ -2296,4 +2296,132 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="b152d8d1">
+		<description>WAV files generated from cas</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="49551110">
+				<rom name="SupaRobo.wav" size="747590" crc="d187c83e" sha1="50b43cfa88e3da75ff1778cc75279d9902b5ae75" />
+				<rom name="Super Billiards (1984) (Hal) (J).wav" size="531082" crc="a7a12206" sha1="59d5a0efd34499a25e19bd70a7b6eba209d9fbd8" />
+				<rom name="Super Cobra (1983) (Konami) (J).wav" size="527674" crc="fabad845" sha1="901b65a54d49f15a48537e5af62befdcc6a92dba" />
+				<rom name="Super Drinker (1983) (Ample) (J).wav" size="784478" crc="638ce641" sha1="465641f1de3076e927568f7274635d735936dc39" />
+				<rom name="Super Golf (1984) (Sony) (J).wav" size="1206376" crc="bc08d189" sha1="2476f1409bedf91d916f67488ed2ea819aeee620" />
+				<rom name="Super Monitor 1.1 (1985) (Emiiru) (J).wav" size="531594" crc="29fb911b" sha1="b891586e6b1896d17cc65550629d348efa783fed" />
+				<rom name="Super Monitor 1.2 (1985) (Emiiru) (J).wav" size="531598" crc="7556028d" sha1="8825dbae8a18765b6179972b2580858af9649ba2" />
+				<rom name="Super Pachinko (1985) (Nippon Columbia) (J).wav" size="838914" crc="e28e4968" sha1="50ff515f256c2472e6bf9592a3969ff2b2d71c5f" />
+				<rom name="Super Snake (1983) (Hal) (J).wav" size="531450" crc="d760bee7" sha1="7df585d63f39b54c85a585e11651524fc1021541" />
+				<rom name="Super Soccer (1985) (Sony) (J).wav" size="1202920" crc="970a4568" sha1="aa6b894192d020de29e9ff4b2ce0f68ee32be5d2" />
+				<rom name="Super Synth (1984) (Victor) (J).wav" size="746174" crc="8807c4e8" sha1="b7ad285490bc14e7cc1cb4e61ae2bb26a0411b4e" />
+				<rom name="Super Tennis (1984) (Sony) (J).wav" size="742266" crc="9f489788" sha1="553e2bf4d2af433db49979591fe7e498db28ffa5" />
+				<rom name="SuperBB.wav" size="1172204" crc="2278f1b6" sha1="7ead169128a477bb147dd30d76bd0b0b0d1480c9" />
+				<rom name="Suruba.wav" size="698122" crc="c702ed63" sha1="3a5be29aebaca86889ac26ce6f4d1d99d50075a2" />
+
+				<rom name="Sweet Acorn (1984) (Taito) (J).wav" size="738910" crc="c66b825d" sha1="e4d1cd534f4f05242e12fe907a93baeaf2cb5993" />
+				<rom name="Swing (1985) (Pony Cannon) (J).wav" size="735998" crc="85ff94e2" sha1="9bf3465a26065d41537393218663b8019741a7c3" />
+				<rom name="Takahasi Meijin no Boukenjima (1986) (Hudson) (J).wav" size="1212176" crc="8f068953" sha1="adc15995f0318a762ff6c37506b774cbef3dcf6a" />
+				<rom name="Takeru Densetsu (1987) (Takeru) (J).wav" size="1154536" crc="a210c4c4" sha1="ef865f2496ceb0447db24937988a04ea2f21124a" />
+				<rom name="Tank Battalion (1984) (Namcot) (J).wav" size="521526" crc="99731076" sha1="bce759830c6d789f1c36d78e7064eb53ea8fde5f" />
+				<rom name="Tatica (1984) (Mass Tael) (J).wav" size="736714" crc="7e4af20a" sha1="01bd48bf618325854930eeab10359ec0b14996c4" />
+				<rom name="Tawarakun (1984) (Ascii) (J).wav" size="747934" crc="9659feb2" sha1="f29fd921756a6e1ad37eb8e9575e33b2b7a05257" />
+				<rom name="Tear of Nile (1986) (Victor) (J).wav" size="1160192" crc="d74bb14e" sha1="6fe49d35a0b6418567d98c693b2a9aedaf785e9d" />
+				<rom name="Telebunnie (1983) (Ascii) (J).wav" size="747966" crc="813abcac" sha1="95033b19008ffd0f94347c9df5ded4095cb46081" />
+				<rom name="Tensai Rabbian Daifunsen (1986) (Toshiba Emi) (J).wav" size="1173300" crc="4d32e108" sha1="7e3b926d67bff6371fa59a1f9b76f078ba8b71e7" />
+				<rom name="Tensidachino Gogo (1987) (Jast) (J).wav" size="1160084" crc="4b676ad7" sha1="b06ea5b80dc6071332737282c58317a50e0665be" />
+				<rom name="Tension.wav" size="1088152" crc="1fb1a599" sha1="ce6c8e47b919e165fe0ae688f23c3a47ed4fdca4" />
+				<rom name="TetraH.wav" size="732026" crc="93be66d1" sha1="5f21161e5058905bb594268fbccf5c1cfee40938" />
+				<rom name="Tetris.wav" size="1102808" crc="1b36ea8e" sha1="61942c69f9bdba83b7a01383450ad1341de7b2d4" />
+				<rom name="Tetsuman (1985) (Hal) (J) [a1].wav" size="749030" crc="6233ade2" sha1="073ace1f89328eb608950516758d6afb36d65c77" />
+				<rom name="Tetsuman (1985) (Hal) (J).wav" size="749710" crc="216780b4" sha1="b2aefcee1afe32ab21d30b6baf5c03963e10a0a7" />
+				<rom name="TField1.wav" size="745438" crc="ea727533" sha1="9b85cc8acff9a5035e437530d2dac25adff7abea" />
+				<rom name="TField2.wav" size="745866" crc="efe90be2" sha1="1b8fa212817864996558d64576695ae42f77c036" />
+				<rom name="TGogo.wav" size="1160084" crc="0b096b4f" sha1="79afda871aea63dcc6a3f8646a567c9c2f4cd6e4" />
+				<rom name="The Archers - Part 1 (1985)(Level 9 Computing).wav" size="20923676" crc="c28146c2" sha1="a29a0ef71d40043a56bd23eb5858218d3f1cece4" />
+				<rom name="The Archers - Part 2 (1985)(Level 9 Computing).wav" size="18766934" crc="b0fc6452" sha1="19506449b11b35b54d4ec72de02922dd9e228ada" />
+				<rom name="The Archers - Part 3 (1985)(Level 9 Computing).wav" size="18767132" crc="07381283" sha1="ef86527957ad242480f0f87cf91ede26f37d74f2" />
+				<rom name="The Archers - Part 4 (1985)(Level 9 Computing).wav" size="18766934" crc="a0a4e506" sha1="1a8df673b7eb2ad3301efdf780d31cb66d2a486a" />
+				<rom name="The Growing Pains Of Adrian Mole - Part 1 (1987) (Level 9 Computing).wav" size="19476476" crc="1ac236c8" sha1="f97de0f896e0bb6f6677a900f25f887e0847aab2" />
+				<rom name="The Growing Pains Of Adrian Mole - Part 2 (1987) (Level 9 Computing).wav" size="19476278" crc="d709f302" sha1="e51f8b4491393e6a22abba56864bea642ecc4d4e" />
+				<rom name="The Growing Pains Of Adrian Mole - Part 3 (1987) (Level 9 Computing).wav" size="19476278" crc="f063bd2c" sha1="8e4eae9f77a2ebc36560218d418d83a2d4fb6ca5" />
+				<rom name="The Growing Pains Of Adrian Mole - Part 4 (1987) (Level 9 Computing).wav" size="19476278" crc="759c0759" sha1="0b219dfc3e42f4a9aeb52e1d67a7c2ec2c3c4ca6" />
+				<rom name="The Price Of Magik (1986)(Level 9 Computing).wav" size="18766934" crc="a78254d4" sha1="c1201a1184bcefee8d7763929adef2ce5715a783" />
+				<rom name="The Secret Diary of Adrian Mole Aged 13¾ - Part I (1985)(Level 9 Computing).wav" size="14791724" crc="82920fb3" sha1="471bd25200c3d4d783b216dd4b0dcb6a647091a0" />
+				<rom name="The Secret Diary of Adrian Mole Aged 13¾ - Part II (1985)(Level 9 Computing).wav" size="14791724" crc="aa770aa0" sha1="181dc6203b1efb5f4bce5df763b0e2137aae5abe" />
+				<rom name="The Secret Diary of Adrian Mole Aged 13¾ - Part III (1985)(Level 9 Computing).wav" size="14791724" crc="2f6dc6c7" sha1="dbc3ba3299eb868ff93a56e1919650f57c55424d" />
+				<rom name="The Secret Diary of Adrian Mole Aged 13¾ - Part IV (1985)(Level 9 Computing).wav" size="14791724" crc="73b94d7d" sha1="96eaf523050027ed2a88ba1c71ad54aef7e16786" />
+				<rom name="The Worm In Paradise (1985)(Level 9 Computing).wav" size="14044634" crc="526c89f1" sha1="4483c27a045f7d2aede80223b984f813fa7459cc" />
+				<rom name="Thexder (1986) (Gamearts) (J).wav" size="1208700" crc="dc509503" sha1="277439ea0ac29c431e0d508692597780913b13c8" />
+				<rom name="Thseus (1984) (Ascii) (J).wav" size="709858" crc="8f484168" sha1="0399ae7dbf2f9e3699f7e5f93f9e9901373c8bd4" />
+				<rom name="Thunder Ball (1985) (Ascii) (J).wav" size="1214856" crc="bada9fed" sha1="a7ed0ca83b35068555d9262fc95c9079da3279f0" />
+				<rom name="Time and Magik I - Lords of Time v2 (1988)(Level 9 Computing).wav" size="49551110" crc="dc339f76" sha1="cf800449ae88c7272ef25f38244ac6fbe0489a53" />
+				<rom name="Time and Magik I - Lords of Time v2 (1988)(Level 9 Computing)[a].wav" size="49551110" crc="cdb2b9d8" sha1="2edab84979b5690ff3e63094002272c01a88fc77" />
+				<rom name="Time and Magik II - Red Moon v2 (1988)(Level 9 Computing).wav" size="49551110" crc="46350bbd" sha1="c76f50504a925dcc3ff92fc0f6b08b4c03141aff" />
+				<rom name="Time and Magik II - Red Moon v2 (1988)(Level 9 Computing)[a].wav" size="49551110" crc="6c61c922" sha1="5e72db58627de209d71dd875cc28d93c04ddc7ef" />
+				<rom name="Time and Magik III - The Price of Magik v2 (1988)(Level 9 Computing).wav" size="49551110" crc="43509926" sha1="f656188cd5ce865b48205dc77ba1890401444403" />
+				<rom name="Time and Magik III - The Price of Magik v2 (1988)(Level 9 Computing)[a].wav" size="49551110" crc="e64ae5fa" sha1="9533ecc93a64feb10615fdc747daf10dbae831fc" />
+				<rom name="Time Pilot (1983) (Konami) (J) [a1].wav" size="728666" crc="f69476cf" sha1="1e8d5763fa56e95bd45264b34db6fcf58211413d" />
+				<rom name="Time Pilot (1983) (Konami) (J).wav" size="729258" crc="35815ad3" sha1="f4b9f0ca04f53829ec283aad0717c696d54e1415" />
+				<rom name="Top Roller (1984) (Jaleco) (J).wav" size="738862" crc="a27b375b" sha1="74c134e876be7cad4a9bbe4a6e76c32821aba7ec" />
+				<rom name="Topple Zip (1986) (Bothtec) (J).wav" size="1192000" crc="d33f2c91" sha1="72463b92da28c6354383b18dbc6e7f025594bd57" />
+				<rom name="Tower of Druaga (1986) (Namcot) (J).wav" size="1188208" crc="8478fdfb" sha1="cefbf123e5d50e0073d0a426ce9e3c8317bb9352" />
+				<rom name="Traffic (1986) (Sony) (J).wav" size="1228628" crc="9d30f2e0" sha1="54d70b5be07c24564866395fb1d6ae6877bb23a8" />
+				<rom name="Trial Ski (1984) (Ascii) (J).wav" size="732550" crc="eb1582ca" sha1="54ed08be9be4052d2b2d0477bc8777a6d2eb8ef9" />
+				<rom name="TrialSki.wav" size="732550" crc="5e9c27ad" sha1="a9e891eeb6b9b084b622273c26a3efb05073bef3" />
+				<rom name="TrickBoy.wav" size="711086" crc="ef9c7ff4" sha1="8c4bce04c05acfff5252fcf6559ff9c0ae0abbfd" />
+				<rom name="Triton (1986) (Sein) (J).wav" size="1205104" crc="dba7e2dd" sha1="f845c8ceba7ef35027680a243e022190ea6644de" />
+				<rom name="Trump Aid (1986) (Toshiba Emi) (J).wav" size="1212480" crc="c2c49a9f" sha1="39d3131d3cf169d6341b209ce562e496b0b39561" />
+				<rom name="Turboat (1983) (Mass Tael) (J).wav" size="729802" crc="cd105b3e" sha1="81c8154451b1b6e618124ba4d758796bc6b4f02c" />
+				<rom name="Turmoil (1983) (Sirius) (J).wav" size="652318" crc="a9d576ff" sha1="f190ba53e18b7460a9945e65ec66d73a729908f7" />
+				<rom name="TwHamer.wav" size="1110688" crc="51290667" sha1="21f3c2d1c0c21a24a55ecea26ad8961bfded21f3" />
+				<rom name="Twinbee (1986) (Konami) (J).wav" size="1234396" crc="0c24388e" sha1="49f0f207531b69527f38836248cb2e8796ddf98e" />
+				<rom name="TZR Grand Prix Rider (1986) (Ascii) (J).wav" size="1166640" crc="045e7da4" sha1="ed723820c80b0dbd1169d2377c631ca34ed59728" />
+				<rom name="Ultraman (1984) (Bandai) (J).wav" size="734706" crc="ccb88b33" sha1="22dc993a2b11ddc76a99a1384b983b072e9d8e93" />
+				<rom name="Venus Fire (1987) (Victor) (J).wav" size="1189720" crc="a87ff55d" sha1="ce8444669189c8bb58e5da93b9b81119d71f89c8" />
+				<rom name="Video Hustler (1984) (Konami) (J).wav" size="532426" crc="5e5754e6" sha1="bc94234e0c26d36c408f83ff5652b915e539bb1b" />
+				<rom name="Volguard (1985) (dB-Soft) (J).wav" size="1182740" crc="a91a24b4" sha1="fb794aaee806a022360bb56ab96a53a9dbfb3116" />
+				<rom name="Warp Warp (1984) (Namcot) (J).wav" size="527390" crc="32885b7f" sha1="53019badb72d7da2ddc77d9b89353c152d79b42b" />
+				<rom name="Warrior (1983) (Ascii) (J).wav" size="736134" crc="8963ce54" sha1="5977de337c8172ff35fe188ff4e2913d75ed8218" />
+				<rom name="Warroid (1985) (Ascii) (J).wav" size="1195912" crc="aa1b580f" sha1="c6298ec41889a6221cf35cad0307e59a8f84023d" />
+				<rom name="WBells.wav" size="733370" crc="8942a82d" sha1="2a0a184bd3109f992784fa750ff77b1f4d71a3ca" />
+				<rom name="WBoy.wav" size="1212100" crc="688f2bdf" sha1="d3456b02fa72188a4edf1e377aa29f1b51ac4575" />
+				<rom name="WDriver.wav" size="680938" crc="2c938c5c" sha1="d1aaa8add05bd982fa6a5daa013dc83587c6a5db" />
+				<rom name="Wopen.wav" size="1194708" crc="e64f68db" sha1="c913379ab6bd4bba1deaa63d0ca667c6253a6f5f" />
+				<rom name="Wrangler.wav" size="757338" crc="28d5459f" sha1="6d61889b443883b340fc0b4d3d9f2a2eb9e85048" />
+				<rom name="Wreck.wav" size="1169084" crc="51dcafb2" sha1="6a155597f31d5d367155f3af109e96119d887e0e" />
+				<rom name="Xyxolog (1984) (Taito) (J).wav" size="723378" crc="d2ef11c5" sha1="683cfe150a3cfb29dd5a24cf3289410e0a5ef2af" />
+				<rom name="Yabyum.wav" size="496474" crc="a50fc3ff" sha1="8e9943a700e7858b786815f8a74589f7ed96e228" />
+				<rom name="Yakyukyo - Baseball Crazy (1984) (Hudson) (J).wav" size="1191100" crc="1fae5d40" sha1="ca187f7791053e8a5f6f4538346be5b7cac8e3de" />
+				<rom name="Yellow Submarine (1987) (Takeru) (J).wav" size="729886" crc="06d907e3" sha1="50c28b1284d95fcea3ca035f819f4a1eb37d0e3a" />
+				<rom name="Yie Ar Kung-Fu 1 (1985) (Konami) (J).wav" size="744522" crc="0ec000b8" sha1="63f38dfe763b932813b43cd5bed9107e66519b51" />
+				<rom name="Yie Ar Kung-Fu 2 (1985) (Konami) (J) [a1].wav" size="1200100" crc="e1f40219" sha1="a8dbd46453e5dce2f7e6e5e8fbd3747f1474f610" />
+				<rom name="Yie Ar Kung-Fu 2 (1985) (Konami) (J).wav" size="1200708" crc="bea0af47" sha1="64962f6596944888110595fcff9291e3a50922b7" />
+				<rom name="Yokai Tanken Chima Chima (1985) (Bothtec) (J).wav" size="1115488" crc="b03c3b76" sha1="2fa73f4687a79a75776b781a2588f348db535f44" />
+				<rom name="Yokai Yasiki (1986) (Casio) (J).wav" size="1193172" crc="2d75ec36" sha1="5b1ca4e2b3eccce788ed9d93ac3e8799afead4cb" />
+				<rom name="YSub.wav" size="729886" crc="4286837f" sha1="d5121ebd0fc6669cb4ea643b95a55e7649283bb9" />
+				<rom name="Zaider - Battle of Peguss (1986) (Cosmos) (J).wav" size="1173468" crc="c65c64ad" sha1="2be7df0af264cb59cd63454e32250baafdd0510a" />
+				<rom name="Zanac (1986) (Pony Cannon) (J).wav" size="1193676" crc="9f74a286" sha1="0f57a15887f46c58a0f1ca49d0ffa7f6fc9990fd" />
+				<rom name="Zanac2.wav" size="1181572" crc="618e35cc" sha1="8d3397bd1c4403f6b006fe42884a65a804c9f5ae" />
+				<rom name="Zaxxon (1985) (Pony Cannon) (J).wav" size="1223928" crc="5dfe1fe5" sha1="aaa7b1c9a6ea1e18945e964596de2bc99aa673cc" />
+				<rom name="Zenji (1984) (Pony Cannon) (J).wav" size="1244692" crc="d0cc01a2" sha1="09a4ac7d2ad07712b57e8bdaf42a384017d172eb" />
+				<rom name="Zexas Limited (1985) (dB-Soft) (J).wav" size="1115820" crc="6cd11673" sha1="52b0c7816c79d9f75ad30665807ee0eb32753321" />
+				<rom name="Zoom 909 (1985) (Pony Cannon) (J).wav" size="1181572" crc="b152d8d1" sha1="617a6fb417ea2118033674245b523e209cec6f9a" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="e618d193">
+		<description>WAV files that will not load (need filter?)</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cass1" interface="msx_cass">
+			<dataarea name="cass" size="72514304">
+				<rom name="Elite (1987)(Mr.Micro - Firebird)[BLOAD'CAS-',R].wav" size="72514304" crc="93ac211f" sha1="9299c7ca9ebacea747db6e5b11d68e8bc1d31a59" />
+				<rom name="Memory (1984)(CD Systems)(NL)[!][BLOAD'CAS-',R][v0.8.4b].wav" size="27545698" crc="0b60971e" sha1="010acda292e1cbf5d8c90fb01a262fb2971b2141" />
+				<rom name="Photographic Memory (1984)(CD Systems)[!][RUN'CAS-'][v0.8.4b].wav" size="28084578" crc="80f5387b" sha1="7b756fd8b0cda0f71fce2549a1c5dff8beada5fb" />
+				<rom name="Zakil Wood.wav" size="63969020" crc="8976ab8f" sha1="d8fef5ccdc65a24f7d765b37f8114bf550052557" />
+				<rom name="Zakilwood.wav" size="30993572" crc="e618d193" sha1="a8d4d3f373603172f1abb3042403e8d6a3970c82" />
+			</dataarea>
+		</part>
+	</software>
+
 </softwarelist>

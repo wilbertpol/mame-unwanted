@@ -5485,6 +5485,18 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="95fcab92">
+ 		<description>Kurutta Kajitsu</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="1049616">
+				<!-- does not start  -->
+				<rom name="Crazy Fruit (1992) (Fairytale)(ja) (Disk 1 of 4).dmk" size="1049616" crc="95fcab92" sha1="188e6d25a0befbbe0d3bdd9c4e80a41cfa42e7cc"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="f12670c0">
  		<description>L'Affaire</description>
  		<year>19??</year>
@@ -7070,6 +7082,22 @@ license:CC0-1.0
  		</part>
  	</software>
 
+ 	<software name="3ecc097d">
+ 		<description>Pana Amusement Collection</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- hacked -->
+ 				<rom name="Pana Amusement Collection 1 (1988)(Panasoft)(JP)[a].dsk" size="737280" crc="340292e7" sha1="f86f628e6cef41b777796c4797b9153b5c722710"/>
+ 				<rom name="Pana Amusement Collection 1 (1988)(Panasoft)(JP)[a2].dsk" size="737280" crc="441d35a8" sha1="fe949aa959949e478a22c93b67b2247a1cf3d7f9"/>
+ 				<rom name="Pana Amusement Collection 2 (1988)(Panasoft)(JP).dsk" size="737280" crc="83f786e1" sha1="94c2cde50db86b91ad7d73cf6354a240c97ab3ea"/>
+ 				<rom name="Pana Amusement Collection 2 (1988)(Panasoft)(JP)[a].dsk" size="737280" crc="3ecc097d" sha1="552da3bf49e85911acc8f7a5c744ca86105bd081"/>
+ 				<rom name="Pana Amusement Collection 2 (1988)(Panasoft)(JP)[a2].dsk" size="737280" crc="4bf555e3" sha1="5eeb6b2b85a19664ef9b21c130fe9b995c4b4784"/>
+ 			</dataarea>
+ 		</part>
+ 	</software>
+
  	<software name="4e360b21">
  		<description>Panasonic FS-IFA1</description>
  		<year>19??</year>
@@ -8360,6 +8388,19 @@ license:CC0-1.0
  		<part name="flop" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
 				<rom name="SD Gundam - Gachapon Senshi 2. Capsule Senki 2 (1990)(Banpresto)[cr The Boss].dsk" size="737280" crc="47d6950c" sha1="482dde64d32106697ceac5677a5f9a775ce784d1"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="f4c7f839">
+		<description>Sea Sardine</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop" interface="floppy_3_5">
+ 			<dataarea name="flop" size="737280">
+				<!-- Extracted from MSX Disk Communication -->
+				<rom name="Sea Sardine (1991)(MSX Magazine).dsk" size="737280" crc="f4c7f839" sha1="be457095238dbcac7b66103185c1a702b60e2255"/>
+				<rom name="Sea Sardine (1991)(MSX Magazine)[a].dsk" size="737280" crc="17f83eb5" sha1="b23a12945e1bcb461be086cf9d0468952d79c703"/>
 			</dataarea>
 		</part>
 	</software>
@@ -11030,6 +11071,29 @@ license:CC0-1.0
  		<part name="flop1" interface="floppy_3_5">
  			<dataarea name="flop" size="737280">
 				<rom name="Zowazo World. Zaworzo Robot Construction + The Flintstones (1989)(MSX Magazine - Grandslam Entertainments)(GB).dsk" size="737280" crc="a97924bd" sha1="c57b72ee076b07b4879d432d4123bf2fe13f8b1d" />
+			</dataarea>
+		</part>
+	</software>
+
+	<!-- Harddisk images -->
+
+	<software name="4fc51ab2">
+		<description>Hardisk images</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+ 		<part name="flop1" interface="floppy_3_5">
+ 			<dataarea name="flop" size="20971520">
+				<rom name="CLS - Up-Soft &amp; Darksotne (2005) HDD.dsk" size="16777216" crc="a08525a1" sha1="a25681ff41d20843b295f594a79038cf92a47a26" />
+				<rom name="Eggbert - Harddisk Version (1994)(Fony).dsk" size="16777216" crc="0396f5ba" sha1="e44afa18e87a2a321d80553e06e5882b98512434" />
+				<rom name="Fire Hawk Thexder - The Second Contact (1989)(GameArts)(HDD).dsk" size="134217728" crc="4366f21d" sha1="70205ded25d4254de127b6395e2f6d71fbf81ccf" />
+				<rom name="Mystery City MSX2 v1.1.4 - Rogerio (2021) (HDD Version).dsk" size="16777216" crc="f56d12ae" sha1="f6a0be6863d30c0b00f1d17ab0cc3992dde85d5e" />
+				<rom name="SD.dsk" size="49152000" crc="cac591f2" sha1="5e783b85c61bed189de4180ab1e541d17ba08eda" />
+				<rom name="Psycho World (En)(1988)Hertz).dsk" size="16777216" crc="fb66753a" sha1="1371ddf14facf1b529b99ad77dec55565173802b" />
+				<rom name="Pumpkin Adventure III - Hunt for the Unknown (1995) (Umax) (HD).dsk" size="16777216" crc="c36dc9a6" sha1="e3ac7947b7340fd9ebe331983ca241a4dbbd4ca8" />
+				<rom name="Singular Stone v1.03 - Tohji Murakata (2020)(HDD).dsk" size="16777216" crc="7b39a947" sha1="248b214a5cfedffe780769714140fa1baf09dad8" />
+				<rom name="SnatcherHDD.dsk" size="16777216" crc="4cb5f1ce" sha1="baa956480a5d243ca75381008dffc6d3f75acd49" />
+				<rom name="SSR-HDD[File-Hunter.com].dsk" size="16777216" crc="ceebb236" sha1="d9949f95c309cf9ac6cc37bfa0e2d99c40894e30" />
+				<rom name="Super Ory (Orazio Cacciolahas) (20200 (it) HDD.dsk" size="20971520" crc="4fc51ab2" sha1="66623e6920ded91c40a34b4f37071e3ff14b0258" />
 			</dataarea>
 		</part>
 	</software>

@@ -2342,6 +2342,18 @@ license:CC0-1.0
 		</part>
 	</software>
 
+	<software name="a0669806">
+		<description>Higemaru</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<!-- translated -->
+				<rom name="Higemaru - The Spirits Island [T-En by Django].rom" size="0x20000" crc="a0669806" sha1="157cc2e43236bd9374153164c1b54a2d51e67333" />
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="4312819a">
 		<description>Hole in One Special (fixed)</description>
  		<year>19??</year>
@@ -2877,6 +2889,18 @@ license:CC0-1.0
 		<part name="cart" interface="msx_cart">
 			<dataarea name="rom" size="0x40000">
 				<rom name="Labyrinth - Pack-In-Video (1987) [1340].rom" size="0x40000" crc="807e8f36" sha1="d57fc4121d716182a091bb53c666b46c10142668" />
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="31417ecb">
+		<description>Let's Take the A-Train</description>
+ 		<year>19??</year>
+ 		<publisher>&lt;unknown&gt;</publisher>
+		<part name="cart" interface="msx_cart">
+			<dataarea name="rom" size="0x20000">
+				<!-- translated -->
+				<rom name="Let's Take the A-Train [T-En by Django].rom" size="0x20000" crc="31417ecb" sha1="68e5af8344fc9db0190b1e0981ed44958a50e7ed" />
 			</dataarea>
 		</part>
 	</software>
