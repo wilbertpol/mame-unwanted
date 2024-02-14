@@ -2302,6 +2302,92 @@ license:CC0-1.0
  		<publisher>&lt;unknown&gt;</publisher>
 		<part name="cass1" interface="msx_cass">
 			<dataarea name="cass" size="49551110">
+				<rom name="Sasa (1983) (Mass Tael) (J).wav" size="730622" crc="1a742f8d" sha1="ebd045d147cdf81bd560b96aafc53dc896a18a98" />
+				<rom name="SaurusL.wav" size="664438" crc="246a38cd" sha1="78553ee27cd9f744fc4ebce022720ca443e88fcb" />
+				<rom name="SBoy2.wav" size="1144036" crc="32e64253" sha1="dd5d1ea69bd91a1b44a9e75685539052a5a9fbf7" />
+				<rom name="Scapeghost - Part 1 (1989)(Level 9 Computing).wav" size="49551110" crc="874f3eb0" sha1="351e61034628c097f0696fd85c0778564f9a7d62" />
+				<rom name="Scapeghost - Part 2 (1989)(Level 9 Computing).wav" size="49551110" crc="8938f524" sha1="8238e771721766555f7d6e53cb765efe54fe750e" />
+				<rom name="Scapeghost - Part 3 (1989)(Level 9 Computing).wav" size="49551110" crc="63dd07c0" sha1="a82a75ec11b99625c48025b5b243dfa78a1f694f" />
+				<rom name="Scarlet 7 (1986) (Toshiba Emi) (J).wav" size="1187112" crc="f7cb0ed4" sha1="5ded7af56a430fd7b620fe2a195cf5588dc5856e" />
+				<rom name="Scion (1985) (Sony) (J).wav" size="731222" crc="e175424a" sha1="57e70f89185394e4af63de49a6345005a6650429" />
+				<rom name="SColumns.wav" size="1107772" crc="0bc849ee" sha1="47370deb67add106f8471b29b2a1e417ab305bec" />
+				<rom name="Scope On (1983) (Ascii) (J).wav" size="728194" crc="71bb2524" sha1="25e7700e587b06b9cb1c6e8abeb652444ee228b0" />
+				<rom name="Scramble Eggs (1983) (Ample) (J).wav" size="529734" crc="f2d82882" sha1="c67a5366905f55d1b065c1a01dade1e3410fa153" />
+				<rom name="SCrossF.wav" size="789154" crc="f3d47949" sha1="c3d7dfce3cb85f57e99dde6b9058da33a6bc7ee1" />
+				<rom name="SeaHunt.wav" size="652698" crc="223ab659" sha1="66b8eb09d731f4783790d2034a351e38e341125e" />
+				<rom name="Seiken Acho (1985) (Ascii) (J).wav" size="1187892" crc="e015fd67" sha1="00c19c419dfc12c314e5036e931eeb817e6c5901" />
+				<rom name="Senjyo (1984) (Sony) (J).wav" size="770262" crc="ebced150" sha1="499de782b5a2fa84ac133930b298ef85336e7288" />
+				<rom name="Sewer Sam (1984) (Toshiba Emi) (J).wav" size="1119032" crc="3c574ad9" sha1="b28dad45f292ab6143cd1392bd63d0628de6fa66" />
+				<rom name="ShogiGam.wav" size="1280144" crc="1841b5ac" sha1="d6f80953a362d52589ad0965fc3b781bc6d108d9" />
+				<rom name="ShoMatch.wav" size="1177604" crc="293d04a1" sha1="38199f67d58bf3f2a12dab4c148fa5d8096d1cb2" />
+				<rom name="Shougi (1985) (Micro Cabin) (J).wav" size="722646" crc="f2345a09" sha1="b669d46bed746ba3f9d9441be7164aaf6feb80ea" />
+				<rom name="Shougi (1985) (Pony Cannon) (J).wav " size="1235948" crc="7e786b44" sha1="28c0cf47f58649775ae30289f0f371525fa0b195" />
+				<rom name="Shougi Meijin (1985) (Toshiba Emi) (J).wav" size="1139620" crc="954a7c65" sha1="fbefbf5cf20c173a48b3f3217ba2e4e42d8f2728" />
+				<rom name="Shougi Sinan 1 (1986) (Pony Cannon) (J).wav" size="1227664" crc="fe9a13a1" sha1="a3395dcaf4525eadc726e561a211cdf9ab29ea91" />
+				<rom name="Shout Match (1987) (Victor) (J).wav" size="1177604" crc="5424d738" sha1="1df76ae24e4de940280d8f6271804fef06e9ccbd" />
+				<rom name="Silicon Dreams I - Snowball v2 (1986)(Level 9 Computing).wav" size="19098710" crc="8569e979" sha1="9404ec8626182acef2cfd329c371cf45db1f614e" />
+				<rom name="Silicon Dreams II - Return to Eden v2 (1986)(Level 9 Computing).wav" size="19098710" crc="522d5539" sha1="8022c52c08cb9b52ce85789f03bf84df2c40afc7" />
+				<rom name="Silicon Dreams III - The Worm in Paradise v2 (1986)(Level 9 Computing).wav" size="19098710" crc="68efb0d3" sha1="077f9d1d3fdbf02e972c9fdda7c0df492691cf8f" />
+				<rom name="Simple ASM 1.0 (1984) (Coral) (J).wav" size="758854" crc="ef38fa35" sha1="7a2c69414fbd6d473dcc600ef0a6d0f1b01ea3b7" />
+				<rom name="Sinbad (1986) (Casio) (J).wav" size="745758" crc="3dea3cd9" sha1="47de167eace2fb14092cdd6595f9c07a70ebfc16" />
+				<rom name="SiriusSq.wav" size="685170" crc="f1909fe3" sha1="8ee74de71c3375ff8dbc4428578dab6f69698917" />
+				<rom name="SiriusTu.wav" size="652258" crc="f1a7c3ff" sha1="4196cc138da1da19db5fb0a6fc9e65fca1340ad3" />
+				<rom name="Ski Command (1984) (Casio) (J).wav" size="748526" crc="85c8ec32" sha1="8e19d21432b34797f131ea0bda216561ff9cd8d1" />
+				<rom name="Skooter (1987) (Pony Cannon) (J).wav" size="1186532" crc="ab29b333" sha1="21518f72ee11ba46e8a0a4319af5fa17880cef7b" />
+				<rom name="Sky Galdo (1986) (Magical Zoo) (J).wav" size="1188832" crc="cfdefc8a" sha1="a21fb1c87bb90bfb5d5a1e95de470774f64632a4" />
+				<rom name="Sky Jaguar (1984) (Konami) (J).wav" size="730554" crc="812898f1" sha1="ce0b8922cb50f31023dc5c4bd1c9acfda2d37723" />
+				<rom name="Slapsho.wav" size="714998" crc="2eda1b9f" sha1="b14bfdfa3fe4961277c52b032b2f7c3de92c12bc" />
+				<rom name="SMazeAtk.wav" size="742550" crc="eacdd541" sha1="54bff630eca395be7eb14969e92e2f20864c0299" />
+				<rom name="Snake-It (1986) (Hal) (J).wav" size="1084640" crc="c6b165bb" sha1="c7029646d398b2bcbce99074b94e9f4c12412151" />
+				<rom name="Snowball (1986)(Level 9 Computing).wav" size="8129042" crc="3a1f6a7c" sha1="da3504b8cd64a6aeb61c3aecabad7498b273654c" />
+				<rom name="playball_0.wav" size="52744" crc="69d153c2" sha1="b7a90f2103fb1c4668912f8cf49f44a0699a92b4" />
+				<rom name="playball_1.wav" size="39984" crc="4c47ebe0" sha1="7ef94034e5aa06978bc3bbe3894053cf94a54f85" />
+				<rom name="playball_10.wav" size="22094" crc="49a1620f" sha1="eec1c64a93a8441d5d47568eb771a7181a0a3dc7" />
+				<rom name="playball_11.wav" size="126958" crc="60fbd0fe" sha1="952109bc2101865fa82a55497a954c1f18b06e1d" />
+				<rom name="playball_12.wav" size="65146" crc="529eebec" sha1="f0986604e61b454aa5dd271252637408d480d8ab" />
+				<rom name="playball_13.wav" size="93874" crc="c7d969b7" sha1="407a08cd214e7732b166ad351931aee2160e0218" />
+				<rom name="playball_14.wav" size="66390" crc="a2b24fde" sha1="b9b24ac929c8043ab6023a5b79f698026b34d3b4" />
+				<rom name="playball_2.wav" size="84224" crc="1b634f37" sha1="c81595bc6cf0934cad7e2c4677f309366b18ac9e" />
+				<rom name="playball_3.wav" size="73602" crc="e7eaebf8" sha1="6bb62c2a3f3c98a99659405a35a0a227e7e08445" />
+				<rom name="playball_4.wav" size="42322" crc="0a355b93" sha1="cc7e113e4a8bf5c3ddb889c7acc54d68cd068af7" />
+				<rom name="playball_5.wav" size="52744" crc="69d153c2" sha1="b7a90f2103fb1c4668912f8cf49f44a0699a92b4" />
+				<rom name="playball_6.wav" size="46250" crc="5c0b1213" sha1="f1f91eb1d2711a2f01ff16774ff5dd4061dfacb4" />
+				<rom name="playball_7.wav" size="61960" crc="a2810582" sha1="838d089589c82fadf07db31b4ffec613578e4560" />
+				<rom name="playball_8.wav" size="45690" crc="a79f3265" sha1="3350c08a4b2f4635d0e80ade57553f3e8d5c5bb3" />
+				<rom name="playball_9.wav" size="58080" crc="bb91083c" sha1="0114a66b8e84825193a0989e6c09e381534d82cc" />
+				<rom name="SOthelo.wav" size="771890" crc="44c4c0c1" sha1="03eb29a9df3f1d70bc857739f8625389b3ee549e" />
+				<rom name="Soukoban (1984) (Ascii) (J).wav" size="736966" crc="22c45d6e" sha1="14fe474d4d92bebc2be05745c8be35bec3d159e3" />
+				<rom name="SpacBust.wav" size="1110268" crc="4d327ea4" sha1="bb6785bdcb866bb87d91af8ff2ac60622d1245a1" />
+				<rom name="Space Camp (1986) (Pack In Video) (J).wav" size="1214804" crc="d2627043" sha1="866ff8110b93aca576c959c0228f477ff6d4c356" />
+				<rom name="Space Harrier II (1990)(Grandslam - Unique)(GB)(Side A)[!][BLOAD'CAS-',R][v0.8.3b].WAV" size="17014820" crc="9f67cb4e" sha1="c3e37df4a6e50795ef675dd3d7930df7ed1cf208" />
+				<rom name="Space Harrier II (1990)(Grandslam - Unique)(GB)(Side B)[!][BLOAD'CAS-',R][v0.8.3b].WAV" size="30125466" crc="e9577b96" sha1="4aadb275a74168756c91e0f3cf2db483a0d4dd32" />
+				<rom name="Space Invader (1984) (Taito) (J).wav" size="787922" crc="47924ae8" sha1="979c2c26d30102a28809c045b4fab4d3cb4afde1" />
+				<rom name="Space Maze Attack (1983) (Hal) (J).wav" size="527918" crc="08f08ca1" sha1="572c950f0435603aad86e7cd17e4aadde2609894" />
+				<rom name="Space Trouble (1984) (Hal) (J).wav" size="524230" crc="ba9ea632" sha1="7bfa096aaaf44d5c2203a4714fd5fd849e29aacf" />
+				<rom name="Sparkie (1983) (Sony) (J).wav" size="1184180" crc="c35b7990" sha1="37b7aa26d94818de5571fb22cc28796b20b3f936" />
+				<rom name="SpcWalk.wav" size="632050" crc="c2fa0aa6" sha1="11087b81209e21da04dc22e140d8b2b99d90c69d" />
+				<rom name="Spelunk.wav" size="1192960" crc="b97b26ad" sha1="5b56c588f52a1e873f86415df3066c00ff1ea5cb" />
+				<rom name="Spelunker (1986) (Irem) (J).wav" size="1192960" crc="b97b26ad" sha1="5b56c588f52a1e873f86415df3066c00ff1ea5cb" />
+				<rom name="Spider.wav" size="637242" crc="2ed77378" sha1="a8c0e29f73c54a01ecfbd0ff87ae5fa526e51c3a" />
+				<rom name="SprSheet.wav" size="749866" crc="3575c386" sha1="5abfe8025d58c3a51c57f0468be1e5d08a8a378b" />
+				<rom name="Square Dancer (1984) (Toshiba Emi) (J).wav" size="702402" crc="0b4d621d" sha1="1a0c999660ff2d886555e4b564b8b40b9f354461" />
+				<rom name="Squish'em (1983) (Sirius) (J).wav" size="685258" crc="397aa614" sha1="40a45076cd8f7e29797a83adf82c84f6b3053fa8" />
+				<rom name="SSnake.wav" size="749442" crc="4eba804a" sha1="cb364cae165da4cbb24553af6688c381a50ee7b9" />
+				<rom name="Star Blazer (1985) (Sony) (J).wav" size="711774" crc="1b48a57d" sha1="945f1ddbbb8f21d75597bad4629de89212f5dcaf" />
+				<rom name="Star Command (1983) (Ascii) (J).wav" size="744438" crc="03e16409" sha1="2c2b4435755b76b755c820748e9ff19c206cbb85" />
+				<rom name="Star Force (1985) (Hudson) (J).wav" size="1185680" crc="0e46836d" sha1="644281a830ef027a81c639685b122a94a6f7da34" />
+				<rom name="Star Soldier (1986) (Hudson) (J).wav" size="1206668" crc="f4b7278e" sha1="b116abd41a443c422aa96e376cc0d1161eb52d54" />
+				<rom name="Star Trap (1987) (Jast) (J).wav" size="1139520" crc="52664ab6" sha1="b2e4b9d15a4c344dffca712d377397f24a9eb2b3" />
+				<rom name="Starship Simulator (1984) (Nexa) (J).wav" size="735242" crc="a742516a" sha1="7514eab0c670cd6bfd4a0ddd2399080c2c338cbc" />
+				<rom name="Step Up (1983) (Hal) (J) [a1].wav" size="526762" crc="ca9567bd" sha1="7869b2440ad73d22474b60073748448f355ecbf9" />
+				<rom name="Step Up (1983) (Hal) (J).wav" size="526798" crc="781d6299" sha1="4d97eef22ba4967b02e2e85e010566bfa58b7e2e" />
+				<rom name="Stepper (1985) (Ascii) (J).wav" size="704186" crc="8cd77cb8" sha1="2a213bf825afd07a73daf3b7fe4df3bf6adeb4ac" />
+				<rom name="StepUp.wav" size="526798" crc="c2ff5083" sha1="afe37da9c9f02febd5b7e6d6c85eebc5ffc6c156" />
+				<rom name="Stone of Wisdom, The (1986) (Casio) (J).wav" size="1199056" crc="94402f03" sha1="69f33c95719c2384971da0c3382775b0c7ee1973" />
+				<rom name="Strange Loop (1987) (Jaleco) (J).wav" size="1205916" crc="b3d35210" sha1="341b1014d87fe719ded559e29805ecf6ad03f8d2" />
+				<rom name="STripper.wav" size="1119260" crc="00df756c" sha1="db8f6b73fdbed593dad515348f99248e629cbf8a" />
+				<rom name="STrouble.wav" size="524230" crc="abb65d02" sha1="70f246ead75d2dc44cbd4c13554b98af16f1480c" />
+				<rom name="StShipS.wav" size="735254" crc="ca4a6cc7" sha1="a207b8a59694ef824ce63a3f016f6e27ff75b77d" />
 				<rom name="SupaRobo.wav" size="747590" crc="d187c83e" sha1="50b43cfa88e3da75ff1778cc75279d9902b5ae75" />
 				<rom name="Super Billiards (1984) (Hal) (J).wav" size="531082" crc="a7a12206" sha1="59d5a0efd34499a25e19bd70a7b6eba209d9fbd8" />
 				<rom name="Super Cobra (1983) (Konami) (J).wav" size="527674" crc="fabad845" sha1="901b65a54d49f15a48537e5af62befdcc6a92dba" />
@@ -2316,7 +2402,6 @@ license:CC0-1.0
 				<rom name="Super Tennis (1984) (Sony) (J).wav" size="742266" crc="9f489788" sha1="553e2bf4d2af433db49979591fe7e498db28ffa5" />
 				<rom name="SuperBB.wav" size="1172204" crc="2278f1b6" sha1="7ead169128a477bb147dd30d76bd0b0b0d1480c9" />
 				<rom name="Suruba.wav" size="698122" crc="c702ed63" sha1="3a5be29aebaca86889ac26ce6f4d1d99d50075a2" />
-
 				<rom name="Sweet Acorn (1984) (Taito) (J).wav" size="738910" crc="c66b825d" sha1="e4d1cd534f4f05242e12fe907a93baeaf2cb5993" />
 				<rom name="Swing (1985) (Pony Cannon) (J).wav" size="735998" crc="85ff94e2" sha1="9bf3465a26065d41537393218663b8019741a7c3" />
 				<rom name="Takahasi Meijin no Boukenjima (1986) (Hudson) (J).wav" size="1212176" crc="8f068953" sha1="adc15995f0318a762ff6c37506b774cbef3dcf6a" />
